@@ -160,19 +160,25 @@ class Policy(Base):
     approved_at = Column(DateTime)
 ```
 
-### Component 2: LangGraph Workflow
+### Component 2: LangGraph Workflow with Dedicated Node Classes
 
 ```python
 class PolicyGenerationWorkflow:
-    """Orchestrates 7-section policy generation."""
+    """Orchestrates 7-section policy generation using dedicated node classes."""
     
     def _build_workflow(self) -> StateGraph:
         workflow = StateGraph(PolicyGenerationState)
         
-        # Create nodes for each section
+        # Create all 7 section node instances (proper LangGraph pattern)
+        section_nodes = create_section_nodes(self.rag_system, self.prompts_dir)
+        
+        # Add nodes to workflow (node instances are callable via __call__)
         for section_name in POLICY_SECTIONS:
-            node = create_section_node(section_name, self.rag_system)
-            workflow.add_node(section_name, node)
+            workflow.add_node(section_name, section_nodes[section_name])
+        
+        # Add initialization and finalization nodes
+        workflow.add_node("initialize", self._initialize_state)
+        workflow.add_node("finalize", self._finalize_policy)
         
         # Sequential flow: Initialize → Section 1 → ... → Section 7 → Finalize
         workflow.set_entry_point("initialize")
@@ -187,46 +193,123 @@ class PolicyGenerationWorkflow:
         return workflow.compile()
 ```
 
-### Component 3: Section Generator
+**Key Architecture Decision:** Instead of using a generic factory function, we implement proper LangGraph patterns with **7 dedicated node classes**. This provides:
+- Clear separation of concerns
+- Easy customization per section
+- Better testability
+- Explicit dependencies between sections
 
-Each section follows this pattern:
+### Component 3: Dedicated Node Classes
+
+Each section is now a dedicated class following proper LangGraph patterns:
 
 ```python
-def create_section_node(section_name: str, rag_system: RAGSystem):
-    """Creates a node that generates one policy section."""
+class BaseSectionNode(ABC):
+    """Abstract base class for policy section generation nodes."""
     
-    def generate_section(state: PolicyGenerationState):
-        logger.info(f"Generating section: {section_name}")
+    def __init__(self, rag_system: RAGSystem, prompts_dir: Path):
+        self.rag_system = rag_system
+        self.prompts_dir = prompts_dir
+    
+    @abstractmethod
+    def get_section_name(self) -> str:
+        """Return the section name this node handles."""
+        pass
+    
+    @abstractmethod
+    def get_template_variables(self, state: PolicyGenerationState) -> Dict:
+        """Get section-specific template variables."""
+        pass
+    
+    def build_context_query(self, jurisdiction: str, transaction_types: List[str]) -> str:
+        """Build RAG query for this section. Override for custom queries."""
+        pass
+    
+    def __call__(self, state: PolicyGenerationState) -> PolicyGenerationState:
+        """Execute node - makes the class callable for LangGraph."""
+        section_name = self.get_section_name()
         
-        # 1. Load prompt template
-        template = load_template(section_name)
+        try:
+            # 1. Load prompt template
+            template = self.load_template()
+            
+            # 2. Get section-specific variables (includes RAG context)
+            template_vars = self.get_template_variables(state)
+            
+            # 3. Fill template
+            filled_template = template.format(**template_vars)
+            
+            # 4. Generate with LLM
+            content = self.rag_system.generate_with_context(filled_template)
+            
+            # 5. Update state
+            state['sections'][section_name] = {
+                'content': content,
+                'status': 'generated',
+                'citations': self.extract_citations(content, state)
+            }
+            state['completed_sections'].append(section_name)
+            
+        except Exception as e:
+            state['failed_sections'].append(section_name)
+            state['errors'].append(f"{section_name}: {str(e)}")
         
-        # 2. Retrieve relevant regulatory context
-        context_query = f"{section_name} for {state['company'].industry}"
-        context = rag_system.retrieve_context(context_query)
-        
-        # 3. Fill template with company/transaction data
-        prompt = template.format(
-            company=state['company'],
-            transactions=state['transactions'],
-            context=context
+        return state
+```
+
+**Example: Functional Analysis Node**
+
+```python
+class FunctionalAnalysisNode(BaseSectionNode):
+    """Dedicated node for generating Functional Analysis section."""
+    
+    def get_section_name(self) -> str:
+        return "functional_analysis"
+    
+    def build_context_query(self, jurisdiction: str, transaction_types: List[str]) -> str:
+        # Custom RAG query for this section
+        return f"functional analysis FAR framework for {', '.join(transaction_types)} in {jurisdiction}"
+    
+    def get_template_variables(self, state: PolicyGenerationState) -> Dict:
+        # Section-specific template variables
+        transaction_types = list(set([txn.transaction_type for txn in state['transactions']]))
+        regulatory_context = self.retrieve_context(
+            state['company'].jurisdiction, 
+            transaction_types
         )
         
-        # 4. Generate with LLM
-        content = rag_system.generate_with_context(prompt, context_query)
-        
-        # 5. Store in state
-        state['sections'][section_name] = {
-            'content': content,
-            'status': 'generated',
-            'citations': extract_citations(context)
+        return {
+            'regulatory_context': regulatory_context,
+            'company_name': state['company'].name,
+            'jurisdiction': state['company'].jurisdiction,
+            'transactions_detail': self.format_transactions(state['transactions']),
+            'fiscal_year': state['fiscal_year']
         }
-        state['completed_sections'].append(section_name)
+```
+
+**All 7 Node Classes:**
+
+1. **ExecutiveSummaryNode** - High-level policy overview
+2. **RelatedPartiesNode** - Party identification and relationships
+3. **FunctionalAnalysisNode** - FAR (Functions, Assets, Risks) analysis
+4. **ComparabilityAnalysisNode** - Uses functional analysis from previous section
+5. **TPMethodNode** - Method selection with justification
+6. **BenchmarkingNode** - Arm's length range determination
+7. **DocumentationRequirementsNode** - Compliance checklist
+
+**Inter-Section Dependencies:**
+
+```python
+class ComparabilityAnalysisNode(BaseSectionNode):
+    def get_template_variables(self, state: PolicyGenerationState) -> Dict:
+        # Access previous section's output
+        functional_analysis = state['sections'].get('functional_analysis', {}).get('content', '')
         
-        logger.info(f"✓ Completed: {section_name}")
-        return state
-    
-    return generate_section
+        return {
+            ...
+            'functional_analysis_summary': functional_analysis,
+            'selected_method': 'TNMM'
+        }
 ```
 
 ### Component 4: Flask REST API
