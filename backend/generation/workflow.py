@@ -4,7 +4,7 @@ from typing import List
 from langgraph.graph import StateGraph, END
 from generation.state import PolicyGenerationState, POLICY_SECTIONS, CompanyData, TransactionData
 from generation.rag_integration import RAGSystem, create_rag_system
-from generation.nodes.section_generator import create_section_node
+from generation.nodes.section_generator import create_section_nodes
 from utils.logger import get_logger
 
 logger = get_logger(__name__)
@@ -24,10 +24,12 @@ class PolicyGenerationWorkflow:
         # Create state graph
         workflow = StateGraph(PolicyGenerationState)
         
-        # Create nodes for each section
+        # Create all 7 section node instances
+        section_nodes = create_section_nodes(self.rag_system, self.prompts_dir)
+        
+        # Add nodes to workflow (node instances are callable)
         for section_name in POLICY_SECTIONS:
-            node = create_section_node(section_name, self.rag_system, self.prompts_dir)
-            workflow.add_node(section_name, node)
+            workflow.add_node(section_name, section_nodes[section_name])
         
         # Add initialization node
         workflow.add_node("initialize", self._initialize_state)
