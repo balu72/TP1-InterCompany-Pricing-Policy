@@ -16,7 +16,7 @@ class PolicyGenerationWorkflow:
         """Initialize workflow with config."""
         self.config = config
         self.rag_system = create_rag_system(config)
-        self.templates_dir = Path(__file__).parent / 'templates'
+        self.prompts_dir = Path(__file__).parent / 'prompts'
         self.workflow = self._build_workflow()
     
     def _build_workflow(self) -> StateGraph:
@@ -26,7 +26,7 @@ class PolicyGenerationWorkflow:
         
         # Create nodes for each section
         for section_name in POLICY_SECTIONS:
-            node = create_section_node(section_name, self.rag_system, self.templates_dir)
+            node = create_section_node(section_name, self.rag_system, self.prompts_dir)
             workflow.add_node(section_name, node)
         
         # Add initialization node

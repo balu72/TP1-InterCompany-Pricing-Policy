@@ -8,14 +8,14 @@ from generation.rag_integration import RAGSystem
 class SectionGenerator:
     """Base class for generating policy sections."""
     
-    def __init__(self, rag_system: RAGSystem, templates_dir: Path):
+    def __init__(self, rag_system: RAGSystem, prompts_dir: Path):
         """Initialize section generator."""
         self.rag_system = rag_system
-        self.templates_dir = templates_dir
+        self.prompts_dir = prompts_dir
     
     def load_template(self, section_name: str) -> str:
-        """Load template for a section."""
-        template_file = self.templates_dir / f"{section_name}.txt"
+        """Load prompt template for a section."""
+        template_file = self.prompts_dir / f"{section_name}_prompt.txt"
         with open(template_file, 'r') as f:
             return f.read()
     
@@ -114,9 +114,9 @@ Transaction {i}:
         
         return generated_content
 
-def create_section_node(section_name: str, rag_system: RAGSystem, templates_dir: Path):
+def create_section_node(section_name: str, rag_system: RAGSystem, prompts_dir: Path):
     """Factory function to create a section generation node."""
-    generator = SectionGenerator(rag_system, templates_dir)
+    generator = SectionGenerator(rag_system, prompts_dir)
     
     def node_function(state: PolicyGenerationState) -> PolicyGenerationState:
         """Node function for LangGraph."""
