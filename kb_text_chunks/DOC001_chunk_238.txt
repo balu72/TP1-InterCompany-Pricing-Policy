@@ -1,0 +1,89 @@
+concluded  that  an  unrelated 
+party would not be willing to provide such a loan to Company B due to its 
+inability to repay the advance. Accordingly, the accurately delineated amount 
+of  Company  C’s  loan  to  Company  B  for  transfer  pricing  purposes  would 
+be a function of the maximum amount that an unrelated lender would have 
+been willing to advance to Company B, and the maximum amount that an 
+unrelated  borrower  in  comparable  circumstances  would  have  been  willing 
+to  borrow  from  Company  C,  including  the  possibilities  of  not  lending  or 
+borrowing  any  amount  (see  comments  upon  “The  lender’s  and  borrower’s 
+perspectives” in Section C.1.1.1 of this chapter). Consequently, the remainder 
+of Company C’s advance to Company B would not be delineated as a loan for 
+the purposes of determining the amount of interest which Company B would 
+have paid at arm’s length.
+
+B.2. Identifying the commercial or financial relations
+
+10.14. 
+In determining the arm’s length conditions of financial transactions, 
+the same principles apply as described in Chapters I-III of these Guidelines 
+for any other controlled transaction.
+
+10.15.  As with any controlled transaction, the accurate delineation of financial 
+transactions  requires  an  analysis  of  the  factors  affecting  the  performance  of 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+406 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+businesses in the industry sector in which the MNE group operates. Because 
+differences exist among industry sectors, factors such as the particular point of 
+an economic, business or product cycle, the effect of government regulations, or 
+the availability of financial resources in a given industry are relevant features 
+that  have  to  be  considered  to  accurately  delineate  the  controlled  transaction. 
+This  examination  will  take  account  of  the  fact  that  MNE  groups  operating 
+in different sectors may require, for example, different amounts and types of 
+financing  due  to  different  capital  intensity  levels  between  industries,  or  may 
+require different levels of short-term cash balances due to different commercial 
+needs  between  industries.  Where  the  relevant  MNEs  are  regulated,  such  as 
+financial  services  entities  subject  to  regulations  consistent  with  recognised 
+industry standards (e.g. Basel requirements), due regard should be had to the 
+constraints those regulations impose upon them.3
+
+10.16.  As described in Chapter I, the process of accurate delineation of the 
+actual transaction also requires an understanding of how the particular MNE 
+group responds to those identified factors. In this regard, the MNE group’s 
+policies may inform the accurate delineation of the actual transaction through 
+the consideration of, for instance, how the MNE group prioritises the funding 
+needs  among  different  projects;  the  strategic  significance  of  a  particular 
+MNE within the MNE group; whether the MNE group is targeting a specific 
+credit rating or debt-equity ratio; or whether the MNE group is adopting a 
+different funding strategy than the one observed in its industry sector (see 
+Section B.3.5).
+
+10.17. 
+In  accordance  with  the  guidance  established  in  Chapter  I,  the 
+accurate delineation of the actual transaction should begin with a thorough 
+identification of the economically relevant characteristics of the trans action 
+–  consisting  of  the  commercial  or  financial  relations  between  the  parties 
+and  the  conditions  and  economically  relevant  circumstances  attaching  to 
+those relations –, including: an examination of the contractual terms of the 
+transaction,  the  functions  performed,  assets  used,  and  risks  assumed,  the 
+characteristics  of  the  financial  instruments,  the  economic  circumstances 
+of the parties and of the market, and the business strategies pursued by the 
+parties.
+
+10.18. 
+In  common  with  the  analysis  of  any  other  transaction  between 
+associated enterprises, in applying the arm’s length principle to a financial 
+transaction it is necessary to consider the conditions that independent parties 
+would have agreed to in comparable circumstances.
+
+10.19. 
+Independent  enterprises,  when  considering  whether  to  enter  into  a 
+particular financial transaction, will consider all other options realistically 
+available  to  them,  and  will  only  enter  into  the  transaction  if  they  see  no 
+
+3. 
+
+See footnote in Section D.1.2.1 of Chapter I of these Guidelines.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 407
+
+alternative  that  offers  a  clearly  more  attractive  opportunity  to  meet  their 
+commercial objectives (see paragraph 1.38 of Chapter I). In considering the 
+options  realistically  available,  the  perspective  of  each  of  the  parties  to  the 
+transaction  must  be  considered.  For  instance,  in  the  case  of  an  entity  that 
+advances funds, other i

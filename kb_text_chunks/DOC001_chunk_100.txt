@@ -1,0 +1,88 @@
+tion for taxpayers.
+
+4.5. 
+This section describes three aspects of transfer pricing compliance 
+that should receive special consideration to help tax jurisdictions administer 
+their  transfer  pricing  rules  in  a  manner  that  is  fair  to  taxpayers  and  other 
+jurisdictions. While other tax law compliance practices are in common use in 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 175
+
+OECD member countries – for example, the use of litigation and evidentiary 
+sanctions where information may be sought by a tax administration but is not 
+provided – these three aspects will often impact on how tax administrations 
+in other jurisdictions approach the mutual agreement procedure process and 
+determine  their  administrative  response  to  ensuring  compliance  with  their 
+own transfer pricing rules. The three aspects are: examination practices, the 
+burden of proof, and penalty systems. The evaluation of these three aspects 
+will  necessarily  differ  depending  on  the  characteristics  of  the  tax  system 
+involved, and so it is not possible to describe a uniform set of principles or 
+issues that will be relevant in all cases. Instead, this section seeks to provide 
+general  guidance  on  the  types  of  problems  that  may  arise  and  reasonable 
+approaches for achieving a balance of the interests of the taxpayers and tax 
+administrations involved in a transfer pricing inquiry.
+
+B.1.  Examination practices
+
+4.6. 
+Examination practices vary widely among OECD member countries. 
+Differences in procedures may be prompted by such factors as the system and 
+the structure of the tax administration, the geographic size and population of 
+the jurisdiction, the level of domestic and international trade, and cultural and 
+historical influences.
+
+4.7. 
+Transfer pricing cases can present special challenges to the normal audit 
+or examination practices, both for the tax administration and for the taxpayer. 
+Transfer pricing cases are fact-intensive and may involve difficult evaluations 
+of  comparability,  markets,  and  financial  or  other  industry  information. 
+Consequently, a number of tax administrations have examiners who specialise 
+in  transfer  pricing,  and  transfer  pricing  examinations  themselves  may  take 
+longer than other examinations and follow separate procedures.
+
+4.8. 
+Because transfer pricing is not an exact science, it will not always 
+be  possible  to  determine  the  single  correct  arm’s  length  price;  rather,  as 
+Chapter III recognises, the correct price may have to be estimated within a 
+range of acceptable figures. Also, the choice of methodology for establishing 
+arm’s  length  transfer  pricing  will  not  often  be  unambiguously  clear. 
+Taxpayers may experience particular difficulties when the tax administration 
+proposes to use a methodology, for example a transactional profit method, 
+that is not the same as that used by the taxpayer.
+
+4.9. 
+In a difficult transfer pricing case, because of the complexity of the 
+facts to be evaluated, even the best-intentioned taxpayer can make an honest 
+mistake.  Moreover,  even  the  best-intentioned  tax  examiner  may  draw  the 
+wrong conclusion from the facts. Tax administrations are encouraged to take 
+this observation into account in conducting their transfer pricing examinations. 
+This  involves  two  implications.  First,  tax  examiners  are  encouraged  to  be 
+flexible  in  their  approach  and  not  demand  from  taxpayers  in  their  transfer 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+176 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+pricing  a  precision  that  is  unrealistic  under  all  the  facts  and  circumstances. 
+Second,  tax  examiners  are  encouraged  to  take  into  account  the  taxpayer’s 
+commercial judgment about the application of the arm’s length principle, so 
+that  the  transfer  pricing  analysis  is  tied  to  business  realities.  Therefore,  tax 
+examiners should undertake to begin their analyses of transfer pricing from the 
+perspective of the method that the taxpayer has chosen in setting its prices. The 
+guidance provided in Chapter II, Part I dealing with the selection of the most 
+appropriate transfer pricing method also may assist in this regard.
+
+4.10.  A  tax  administration  should  keep  in  mind  in  allocating  its  audit 
+resources the taxpayer’s process of setting prices, for example whether the 
+MNE group operates on a profit centre basis. See paragraph 1.5.
+
+B.2.  Burden of proof
+
+4.11.  Like examination practices, the burden of proof rules for tax cases 
+also  differ  among  OECD  member  countries.  In  most  jurisdictions,  the  tax 
+administration  bears  the  burden  of  proof  both  in  its  own  internal  dealings 
+with  the  taxpayer  (e.g.  assessment  and  appeals)  and  in  litigation.  In  some 
+of these jurisdictions, the burden of proof can be reversed, allowing the tax 
+administration  to  estimate  taxable  income,  if  t

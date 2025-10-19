@@ -1,0 +1,82 @@
+ection D.2.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 67
+
+be  entitled  to  unanticipated  profits  or  losses  with  respect  to  the  asset.  That 
+company or companies would be required to compensate Company A for the 
+return to which it is entitled as described in paragraph 1.103.
+
+D.1.2.2. Risk-free and risk-adjusted rates of return
+
+1.107.  This section of Chapter I provides guidance on how to determine a 
+risk-free rate of return and a risk-adjusted rate of return in those situations 
+where an associated enterprise is entitled to any of those returns under the 
+guidance in this chapter and Chapter VI of these Guidelines.
+
+D.1.2.2.1. Determining a risk-free rate of return
+
+1.108.  Where, in accordance with the guidance in this chapter, the accurate 
+delineation of the actual transaction shows that a funder lacks the capability, 
+or  does  not  perform  the  decision-making  functions,  to  control  the  risk 
+associated with investing in a financial asset, it will be entitled to no more 
+than a risk-free return as an appropriate measure of the profits it is entitled 
+to retain (see paragraph 1.103 and its footnote). In this context, the funder’s 
+costs  related  to  the  borrowing  associated  to  the  funding  should  be  taken 
+into account in determining the risk-free rate of return, and subject to other 
+constraints,  the  funded  party  would  still  be  entitled  to  a  deduction  up  to 
+an arm’s length amount in respect of the funding. The difference between 
+those  amounts  would  be  allocable  to  the  party  exercising  control  over  the 
+investment risk in accordance with the guidance in this chapter.
+
+1.109.  A  risk-free  rate  of  return  is  the  hypothetical  return  which  would  be 
+expected on an investment with no risk of loss. Ultimately, there is no investment 
+with zero risk, and the reliability of available proxies for approximating a risk-free 
+rate of return will depend on prevailing facts and circumstances.
+
+1.110.  An approach which is widely used in practice is to treat the interest rate 
+on certain government issued securities as a reference rate for a risk-free return, 
+as  these  securities  are  generally  considered  by  market  practitioners  not  to 
+carry significant default risk. The intention of the guidance in this section is to 
+outline an approach for reference purposes without suggesting that a particular 
+government security should always be used to determine a risk-free rate.
+
+1.111.  To eliminate currency risk, the reference security for determining the 
+risk-free rate would need to be a security issued in the same currency as the 
+investor’s cash flows, i.e. the functional currency of the investor rather than its 
+jurisdiction of domicile. When there are multiple jurisdictions issuing bonds in 
+the same currency, the reference point for the risk-free rate of return should be 
+the government security with the lowest rate of return as any difference in rate 
+must be due to differences in risk between the issuers (see paragraph 10.33).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+68 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+1.112.  Another  relevant  aspect  in  determining  the  risk-free  rate  of  return 
+will  be  the  temporal  proximity  of  the  reference  security  to  the  tested 
+transaction.  The  security  should  ideally  be  issued  at  the  time,  or  have  a 
+similar remaining maturity, as the controlled transaction was entered into to 
+eliminate the effect of differences which may be present between securities 
+issued at different times (see paragraph 10.32).
+
+1.113.  Another  key  consideration  would  be  the  maturity  of  the  financial 
+instrument. The duration of the reference security should match the duration 
+of the investment since the duration of an investment will usually affect its 
+price. The duration of the controlled investment should be determined as part 
+of the process of accurate delineation of the actual transaction. For example, a 
+financial instrument which is short-term under the written contractual terms 
+between the parties but which is consistently replaced with a new instrument 
+may,  depending  upon  the  exact  facts  and  circumstances,  be  accurately 
+delineated as a long-term investment.
+
+1.114.  Due to difficulties in practice, practical solutions might be considered 
+for estimating the risk-free rate of return. For instance, assume a situation where 
+Company A, a member of an MNE group, is not entitled to any more than a 
+risk-free  return  under  the  guidance  in  this  chapter  in  relation  to  an  advance 
+of funds with a term of one year to an associated enterprise, Company B. In 
+approximating  that  return,  the  starting  point  would  be  to  identify  a  security 
+issued  at  the  time  of  the  provision  of  the  funding  in  the  same  currency  as 
+Company  A’s  functional  currency.  Assume  that  the  tax  administration  of 
+Country X, wh

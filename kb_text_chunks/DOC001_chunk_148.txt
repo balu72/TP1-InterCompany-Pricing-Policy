@@ -1,0 +1,97 @@
+limination  of  costly 
+duplication  of  effort,  integrated  systems,  purchasing  or  borrowing  power, 
+etc. Such features may have an effect on the determination of arm’s length 
+conditions  for  controlled  transactions  and  should  be  addressed  for  transfer 
+pricing purposes as comparability factors. As they are not owned or controlled 
+by an enterprise, they are not intangibles within the meaning of Section A.1. 
+See Section D.8 of Chapter I for a discussion of the transfer pricing treatment 
+of group synergies.
+
+A.4.8. Market specific characteristics
+
+6.31. 
+Specific characteristics of a given market may affect the arm’s length 
+conditions  of  transactions  in  that  market.  For  example,  the  high  purchasing 
+power  of  households  in  a  particular  market  may  affect  the  prices  paid  for 
+certain  luxury  consumer  goods.  Similarly,  low  prevailing  labour  costs, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 255
+
+proximity to markets, favourable weather conditions and the like may affect the 
+prices paid for specific goods and services in a particular market. Such market 
+specific characteristics are not capable, however, of being owned or controlled, 
+and  are  therefore  not  intangibles  within  the  meaning  of  Section  A.1,  and 
+should be taken into account in a transfer pricing analysis through the required 
+comparability analysis. See Section D.6 of Chapter I for guidance regarding the 
+transfer pricing treatment of market specific characteristics.
+
+B.  Ownership of intangibles and transactions involving the development, 
+enhancement, maintenance, protection and exploitation of intangibles
+
+6.32. 
+In  transfer  pricing  cases  involving  intangibles,  the  determination 
+of the entity or entities within an MNE group which are ultimately entitled 
+to  share  in  the  returns  derived  by  the  group  from  exploiting  intangibles  is 
+crucial.3  A  related  issue  is  which  entity  or  entities  within  the  group  should 
+ultimately  bear  the  costs,  investments  and  other  burdens  associated  with 
+the  development,  enhancement,  maintenance,  protection  and  exploitation 
+of  intangibles.  Although  the  legal  owner  of  an  intangible  may  receive  the 
+proceeds  from  exploitation  of  the  intangible,  other  members  of  the  legal 
+owner’s MNE group may have performed functions, used assets,4 or assumed 
+risks that are expected to contribute to the value of the intangible. Members of 
+the MNE group performing such functions, using such assets, and assuming 
+such risks must be compensated for their contributions under the arm’s length 
+principle. This Section B confirms that the ultimate allocation of the returns 
+derived  by  the  MNE  group  from  the  exploitation  of  intangibles,  and  the 
+ultimate  allocation  of  costs  and  other  burdens  related  to  intangibles  among 
+members of the MNE group, is accomplished by compensating members of 
+the MNE group for functions performed, assets used, and risks assumed in 
+the development, enhancement, maintenance, protection and exploitation of 
+intangibles according to the principles described in Chapters I-III.
+
+6.33.  Applying the provisions of Chapters I-III to address these questions 
+can be highly challenging for a number of reasons. Depending on the facts 
+of any given case involving intangibles the following factors, among others, 
+can create challenges:
+
+3. 
+
+4. 
+
+As  used  herein,  exploitation  of  an  intangible  includes  both  the  transfer  of  the 
+intangible or rights in the intangible and the use of the intangible in commercial 
+operations.
+As used in this Section B, the use of assets includes the contribution of funding 
+and/or  capital  to  the  development,  enhancement,  maintenance,  protection  or 
+exploitation of intangibles. See paragraph 6.59.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+256 – CHAPTER VI: INTANGIBLES
+
+i)  A lack of comparability between the intangible related transactions 
+undertaken  between  associated  enterprises  and  those  transactions 
+that can be identified between independent enterprises;
+
+ii)  A lack of comparability between the intangibles in question;
+
+iii)  The  ownership  and/or  use  of  different  intangibles  by  different 
+
+associated enterprises within the MNE group;
+
+iv)  The difficulty of isolating the impact of any particular intangible on 
+
+the MNE group’s income;
+
+v)  The fact that various members of an MNE group may perform activities 
+relating  to  the  development,  enhancement,  maintenance,  protection 
+and  exploitation  of  an  intangible,  often  in  a  way  and  with  a  level  of 
+integration that is not observed between independent enterprises;
+
+vi)  The fact that contributions of various members of the MNE group to 
+intangible value may take place in years different than the years in 
+which any associated returns are realised; and
+
+vii) The  fact  that  taxpayer  structures  may  be  based  on  co

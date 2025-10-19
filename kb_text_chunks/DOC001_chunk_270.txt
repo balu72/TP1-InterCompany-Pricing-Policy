@@ -1,0 +1,175 @@
+stributor
+
+The example below is for illustration only. It is not intended to provide any 
+guidance on the selection of the transfer pricing method or of comparables, 
+on the efficiency of distributors or on arm’s length rates of return, but only to 
+illustrate the effects of differences between the extent and complexity of the 
+marketing function of a distributor and of comparables.
+
+Sales of product
+(For illustration purposes, assume both 
+sell the same volume of the same product 
+on the same market at the same price)
+
+Purchase price from manufacturer 
+taking account of the significance of the 
+marketing function in accordance to the 
+functional analysis
+
+Gross margin
+
+Marketing expenses
+
+Other expenses (overheads)
+
+Net profit margin
+
+Case 1
+The distributor performs 
+a limited marketing 
+function
+
+Case 2
+The distributor performs 
+a more significant 
+marketing function
+
+1 000
+
+1 000
+
+600
+
+480 *
+
+400 (40%)
+
+50
+
+300
+
+50 (5%)
+
+520 (52%)
+
+150
+
+300
+
+70 (7%)
+
+* Assume that in this case the difference of 120 in transaction price corresponds to the 
+difference  in  the  extent  and  complexity  of  the  marketing  function  performed  by  the 
+distributor (additional expense of 100 plus remuneration of the function of the distributor)
+
+2. 
+In  Illustration  1,  if  a  taxpayer  is  operating  with  an  associated 
+manufacturer as in case 2 while the third party “comparables” are operating 
+as in case 1, and assuming that the difference in the extent and complexity of 
+the marketing function is not identified because of for instance insufficiently 
+detailed information on the third party “comparables”, then the risk of error 
+when applying a gross margin method could amount to 120 (12% × 1 000), 
+while it would amount to 20 (2% × 1 000) if a net margin method was applied. 
+This illustrates the fact that, depending on the circumstances of the case and in 
+particular of the effect of the functional differences on the cost structure and 
+on the revenue of the “comparables”, net profit margins can be less sensitive 
+than gross margins to differences in the extent and complexity of functions.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER II: SENSITIVITy OF GROSS AND NET PROFIT INDICATORS – 463
+
+Illustration 2: Effect of a difference in the level of risk assumed by a 
+distributor
+
+The example below is for illustration only. It is not intended to provide any 
+guidance on the selection of the transfer pricing method or of comparables, 
+on the efficiency of distributors or on arm’s length rates of return, but only 
+to illustrate the effects of differences between the level of risk assumed by a 
+distributor and by comparables.
+
+Case 1
+The distributor does 
+not assume the risk of 
+obsolescence of products 
+because it benefits from a 
+“buy-back” clause whereby all 
+unsold inventory is purchased 
+back by the manufacturer.
+
+Case 2
+The distributor assumes 
+the risk of obsolescence 
+of products. It does not 
+benefit from a “buy-
+back” clause in its 
+contractual relationship 
+with the manufacturer.
+
+Sales of product
+(For illustration purposes, assume both 
+sell the same volume of the same product 
+on the same market at the same price)
+
+Purchase price from manufacturer taking 
+account of the obsolescence risk in 
+accordance with the functional analysis
+
+Gross margin
+
+Loss on obsolete inventory
+
+Other expenses (overheads)
+
+Net profit margin
+
+1 000
+
+700
+
+300 (30%)
+
+0
+
+250
+
+50 (5%)
+
+1 000
+
+640 *
+
+360 (36%)
+
+50
+
+250
+
+60 (6%)
+
+* Assume that in this case the difference of 60 in transaction price corresponds to the 
+difference in the allocation of the obsolescence risk between the manufacturer and the 
+distributor (additional loss estimated 50 plus remuneration of the risk of the distributor), 
+i.e. it is the price for the contractual “buy-back” clause.
+
+3. 
+In  Illustration  2,  if  a  controlled  transaction  is  performed  as  in  case  1 
+while the third party “comparables” are operating as in case 2, and assuming 
+that  the  difference  in  the  level  of  risks  is  not  identified  due  to  insufficiently 
+detailed  information  on  the  third  party  “comparables”,  then  the  risk  of  error 
+when applying a gross margin method could amount to 60 (6% × 1 000) instead 
+of 10 (1% × 1 000) if a net margin method is applied. This illustrates the fact that, 
+depending on the circumstances of the case and in particular of the effect of the 
+differences in the level of risks on the cost structure and on the revenue of the 
+“comparables”,  net  profit  margins  can  be  less  sensitive  than  gross  margins  to 
+differences in the level of risks (assuming the contractual allocation of risks is 
+arm’s length).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+464 – ANNEX I TO CHAPTER II: SENSITIVITy OF GROSS AND NET PROFIT INDICATORS
+
+4. 
+Consequently, enterprises performing different functions may have a 
+wide range of gross profit margins while still earning broadly similar levels 
+of net profits. For instance, business

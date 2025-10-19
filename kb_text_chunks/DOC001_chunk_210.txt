@@ -1,0 +1,88 @@
+vices), including the 
+downsizing or closing of operations. The arm’s length principle and guidance 
+in this chapter apply in the same way to all types of transactions comprising a 
+business restructuring, irrespective of whether they lead to a more centralised 
+or less centralised business model.
+
+9.4. 
+Some of the reasons reported by business for restructuring include 
+the  wish  to  maximise  synergies  and  economies  of  scale,  to  streamline  the 
+management  of  business  lines  and  to  improve  the  efficiency  of  the  supply 
+chain, taking advantage of the development of web-based technologies that 
+has facilitated the emergence of global organisations. Furthermore, business 
+restructurings may be needed to preserve profitability or limit losses, e.g. in 
+the event of an over-capacity situation or in a downturn economy.
+
+A.2. Issues that are within the scope of this chapter
+
+9.5. 
+This  chapter  contains  a  discussion  of  the  transfer  pricing  aspects 
+of  business  restructurings,  i.e.  of  the  application  of  Article  9  (Associated 
+Enterprises) of the OECD Model Tax Convention and of these Guidelines to 
+business restructurings.
+
+9.6. 
+Business restructurings are typically accompanied by a reallocation 
+of profit potential among the members of the MNE group, either immediately 
+after the restructuring or over a few years. One major objective of this chapter 
+in relation to Article 9 is to discuss the extent to which such a reallocation 
+of  profit  potential  is  consistent  with  the  arm’s  length  principle  and  more 
+generally how the arm’s length principle applies to business restructurings. 
+The  implementation  of  integrated  business  models  and  the  development 
+of  global  organisations  may  complicate  the  application  of  the  arm’s  length 
+principle,  which  determines  the  profit  of  members  of  an  MNE  group  by 
+reference to the conditions which would have been made between independent 
+enterprises in comparable transactions and comparable circumstances. This 
+complexity in applying the arm’s length principle in practice is acknowledged 
+in  these  Guidelines  (see  paragraphs  1.10-1.11).  Notwithstanding  this  issue, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 359
+
+these Guidelines reflect the OECD Member countries’ strong support for the 
+arm’s length principle and for efforts to describe its application and refine its 
+operation in practice (see paragraphs 1.14-1.15). When discussing the issues 
+that arise in the context of business restructurings, the OECD has kept this 
+complexity in mind in an attempt to develop approaches that are realistic and 
+reasonably pragmatic.
+
+9.7. 
+This chapter only covers transactions between associated enterprises 
+in the context of Article 9 of the OECD Model Tax Convention and does not 
+address  the  attribution  of  profits  within  a  single  enterprise  on  the  basis  of 
+Article 7 of the OECD Model Tax Convention, as this is the subject of the 
+Report on the Attribution of Profits to Permanent Establishments.1
+
+9.8. 
+Domestic  anti-abuse  rules  and  CFC  legislation  are  not  within  the 
+scope of this chapter. The domestic tax treatment of an arm’s length payment, 
+including  rules  regarding  the  deductibility  of  such  a  payment  and  how 
+domestic capital gains tax provisions may apply to an arm’s length capital 
+payment, are also not within the scope of this chapter. Moreover, while they 
+raise  important  issues  in  the  context  of  business  restructurings,  VAT  and 
+indirect taxes are not covered in this chapter.
+
+B.  Applying Article 9 of the OECD Model Tax Convention and these 
+Guidelines to business restructurings: theoretical framework
+
+This chapter starts from the premise that the arm’s length principle 
+9.9. 
+and these Guidelines do not and should not apply differently to restructurings 
+or post-restructuring transactions than to transactions that were structured as 
+such from the beginning. The relevant question under Article 9 of the OECD 
+Model Tax Convention and the arm’s length principle  is whether  there  are 
+conditions made or imposed in a business restructuring that differ from the 
+conditions that would be made between independent enterprises. This is the 
+theoretical  framework  in  which  all  the  guidance  in  this  chapter  should  be 
+read. The guidance in this chapter is composed of two parts: the first part 
+provides  guidance  on  the  determination  of  the  arm’s  length  compensation 
+for  the  restructuring  itself;  the  second  part  addresses  the  remuneration  of 
+post-restructuring controlled transactions. Both parts should be read together, 
+and  applied  in  accordance  with  the  guidance  provided  in  the  rest  of  these 
+Guidelines, and in particular in Chapter I.
+
+1. 
+
+See Report on the Attribution of Profits to Permanent Establishments, approved 
+by the Committee on Fiscal Affairs on 22-23 June 2010 and by the Co

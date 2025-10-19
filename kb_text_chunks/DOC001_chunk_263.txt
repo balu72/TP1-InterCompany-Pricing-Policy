@@ -1,0 +1,89 @@
+t  the  risk  has  not  been  assumed  by  the  captive  insurance  or  that  another 
+MNE is exercising these control functions. In this latter case, the return derived 
+from the investment of the premiums would be allocated to the member(s) of 
+the MNE group that are assuming the risk associated with the underwriting in 
+accordance with the guidance in Chapter I.
+
+7. 
+
+Report on the Attribution of Profits to Permanent Establishments, approved by the 
+Committee on Fiscal Affairs on 22 June 2010 and by the Council for publication 
+on 22 July 2010.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 447
+
+E.2.3. Outsourcing the underwriting function
+
+10.213.  In  many  cases,  outsourcing  certain  aspects  of  the  underwriting 
+function  would  be  inconsistent  with  the  minimum  regulatory  standards 
+required to operate an insurance business. However, in those situations where 
+the  captive  insurance  is  permitted  to  outsource  some  of  the  activities  that 
+constitute the underwriting function (for instance, a captive insurance may 
+be  allowed  to  outsource  the  acceptance  of  insurance  risk  to  an  associated 
+enterprise that acts as a broker and receives an arm’s length remuneration), 
+special consideration of the retention by the captive insurance of the control 
+functions would be required in order to conclude whether the risk is allocated 
+to the captive insurance. A captive insurance that outsources all aspects of the 
+underwriting process without performing control functions would not assume 
+the insurance risk under Chapter I analysis.
+
+E.2.4. Reinsurance captives – Fronting
+
+10.214.  A  reinsurance  captive  is  a  particular  type  of  captive  insurance 
+which  does  not  issue  policies  directly  but  operates  as  a  reinsurance  under 
+an  arrangement  known  as  “fronting”.  Captive  insurance  may  not  be  able 
+to  underwrite  insurance  policies  in  the  same  way  as  traditional  insurance 
+companies. For instance, certain insurance risks must be placed with regulated 
+insurers  as  a  legal  requirement.  This  may  lead  to  the  use  of  a  fronting 
+arrangement  in  which  the  first  contract  of  insurance  is  between  the  insured 
+member of an MNE group and an unrelated insurer (the fronter); the fronter 
+then  reinsures  with  the  captive  insurance  most  or  all  of  the  risk  of  the  first 
+contract.  The  fronter  may  remain  responsible  for  claims  handling  and  other 
+administrative functions or these functions may be handled by a member of the 
+same MNE group as the captive. The fronter retains a commission to cover its 
+costs and to compensate for any portion of the insured risk which it retains. The 
+majority of the fronter’s premium passes to the captive insurance as part of the 
+reinsurance contract.
+
+10.215.  In accurately delineating fronting arrangements, the same principles 
+stated  for  captive  insurance  apply.  It  is  important  to  note,  however,  that 
+fronting arrangements represent particularly complex controlled transactions 
+to price as they involve the participation of a third party that is indifferent to 
+the levels of the price of the insurance and reinsurance transactions. The key 
+issues which are likely to arise in fronting cases are whether the transactions 
+involved amount to genuine insurance or reinsurance and, if there is genuine 
+insurance,  whether  the  premiums  payable  (ultimately  to  the  reinsurance 
+captive) are on arm’s length terms.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+448 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+E.3.  Determining the arm’s length price of captive insurance and 
+
+reinsurance
+
+10.216.  The  following  paragraphs  outline  different  approaches  to  pricing 
+intra-group transactions involving captive insurance and reinsurance. Each 
+case  must  be  considered  on  its  own  facts  and  circumstances  and  in  each 
+case accurate delineation of the actual transactions in accordance with the 
+prin ciples  of  Chapter  I  will  be  needed  before  any  attempt  to  decide  on  an 
+approach to pricing a transaction. As in any other transfer pricing situation, 
+the  most  appropriate  method  should  be  selected  under  the  guidance  of 
+Chapter II.
+
+E.3.1. Pricing of premiums
+
+10.217.  Comparable  uncontrolled  prices  may  be  available  from  comparable 
+arrangements between unrelated parties. These may be internal comparables if 
+the captive insurance has suitably similar business with unrelated customers, 
+or there may be external comparables.
+
+10.218.  The  application  of  the  CUP  method  to  a  transaction  involving  a 
+captive  insurance  may  encounter  practical  difficulties  to  determine  the 
+need  for  and  quantification  of  comparability  adjustments.  In  particular, 
+account should be taken of potential differences between the controlled and 
+uncontrolled transactions that may affect the reliability of the comparables. 
+Those di

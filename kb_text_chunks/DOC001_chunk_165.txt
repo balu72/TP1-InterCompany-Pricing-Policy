@@ -1,0 +1,79 @@
+delines related to the content and 
+process of a comparability analysis to a transaction involving intangibles, a 
+transfer pricing analysis must consider the options realistically available to 
+each of the parties to the transaction.
+
+6.112.  In  considering  the  options  realistically  available  to  the  parties,  the 
+perspectives of each of the parties to the transaction must be considered. A 
+comparability analysis focusing only on one side of a transaction generally 
+does  not  provide  a  sufficient  basis  for  evaluating  a  transaction  involving 
+intangibles  (including  in  those  situations  for  which  a  one-sided  transfer 
+pricing method is ultimately determined).
+
+6.113.  While it is important to consider the perspectives of both parties to 
+the transaction in conducting a comparability analysis, the specific business 
+circumstances of one of the parties should not be used to dictate an outcome 
+contrary to the realistically available options of the other party. For example, 
+a transferor would not be expected to accept a price for the transfer of either 
+all  or  part  of  its  rights  in  an  intangible  that  is  less  advantageous  to  the 
+transferor than its other realistically available options (including making no 
+transfer at all), merely because a particular associated enterprise transferee 
+lacks  the  resources  to  effectively  exploit  the  transferred  rights  in  the 
+intangible. Similarly, a transferee should not be expected to accept a price for 
+a transfer of rights in one or more intangibles that would make it impossible 
+for the transferee to anticipate earning a profit using the acquired rights in 
+the intangible in its business. Such an outcome would be less favourable to 
+the  transferee  than  its  realistically  available  option  of  not  engaging  in  the 
+transfer at all.
+
+6.114. 
+It  will  often  be  the  case  that  a  price  for  a  transaction  involving 
+intangibles can be identified that is consistent with the realistically available 
+options of each of the parties. The existence of such prices is consistent with 
+the  assumption  that  MNE  groups  seek  to  optimise  resource  allocations.  If 
+situations  arise  in  which  the  minimum  price  acceptable  to  the  transferor, 
+based  on  its  realistically  available  options,  exceeds  the  maximum  price 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+282 – CHAPTER VI: INTANGIBLES
+
+acceptable  to  the  transferee,  based  on  its  realistically  available  options, 
+it  may  be  necessary  to  consider  whether  the  actual  transaction  should  be 
+disregarded  under  the  criterion  for  non-recognition  set  out  in  Section  D.2 
+of Chapter I, or whether the conditions of the transaction should otherwise 
+be adjusted. Similarly, if situations arise in which there are assertions that 
+either the current use of an intangible, or a proposed realistically available 
+option (i.e. an alternative use of the intangible), does not optimise resource 
+allocations,  it  may  be  necessary  to  consider  whether  such  assertions  are 
+consistent with the true facts and circumstances of the case. This discussion 
+highlights the importance of taking all relevant facts and circumstances into 
+account in accurately delineating the actual transaction involving intangibles.
+
+D.2.  Supplemental guidance regarding transfers of intangibles or 
+
+rights in intangibles
+
+6.115.  This  section  provides  supplemental  guidance  regarding  specific 
+issues arising in connection with the transfer between associated enterprises 
+of intangibles or rights in intangibles. Such transactions may include sales 
+of  intangibles  as  well  as  transactions  that  are  economically  equivalent  to 
+sales. Such transactions could also include a licence of rights in one or more 
+intangibles or a similar transaction. This section is not intended to provide 
+comprehensive  guidance  with  regard  to  the  transfer  pricing  treatment  of 
+such  intangibles  transfers.  Rather,  it  supplements  the  otherwise  applicable 
+provisions of Chapters I-III, and the guidance in Sections A, B, C, and D.1 of 
+this chapter, in the context of transfers of intangibles or rights in intangibles, 
+by  providing  guidance  with  regard  to  certain  specific  topics  commonly 
+arising in connection with such transfers.
+
+D.2.1. Comparability of intangibles or rights in intangibles
+
+6.116. 
+In applying the provisions of Chapters I-III to transactions involving 
+the transfer of intangibles or rights in intangibles, it should be borne in mind 
+that  intangibles  often  have  unique  characteristics,  and  as  a  result  have  the 
+potential for generating returns and creating future benefits that could differ 
+widely.  In  conducting  a  comparability  analysis  with  regard  to  a  transfer 
+of  intangibles,  it  is  therefore  essential  to  consider  the  unique  features  of 
+the  intangibles.  This  is  particularly  important  where  the  CUP  meth

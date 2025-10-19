@@ -1,0 +1,99 @@
+ at  illustrating  the  practical 
+application of a transfer pricing adjustment arising from the application of 
+the HTVI guidance. The assumptions made about arm’s length arrangements 
+
+1. 
+
+Please note that the fact that these examples are focused on the pharmaceutical 
+sector should not be interpreted as limiting the application of the HTVI approach 
+set  out  in  Section  D.4  of  Chapter  VI  of  the  Guidelines  or  this  guidance  to 
+this  particular  industry.  The  HTVI  approach  contained  in  Section  D.4  of  the 
+Guidelines and this guidance are applicable to transactions involving intangibles 
+qualifying as HTVI under paragraph 6.189, irrespective of the industry or sector 
+in which they take place.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+638 – ANNEX II TO CHAPTER VI: HARD-TO-VALUE INTANGIBLES
+
+and transfer pricing adjustments determined in the examples are intended for 
+illustrative purposes only and should not be taken as prescribing adjustments 
+and arm’s length arrangements in actual cases or particular industries. The 
+HTVI guidance must be applied in each case according to the specific facts 
+and circumstances of the case.
+
+19. 
+
+These examples make the following assumptions:
+
+•  The  transaction  involves  the  transfer  of  an  intangible  (or  rights 
+therein) meeting the criteria for HTVI in paragraph 6.189, that is (i) no 
+reliable  comparables  exist;  and  (ii)  at  the  time  the  transaction  was 
+entered into, the projections of future cash flows or income expected 
+to be derived from the transferred intangible, or the assumptions used 
+in valuing the intangible, are highly uncertain, making it difficult to 
+predict the level of ultimate success of the intangible at the time of the 
+transfer.
+
+•  The exemptions to the application of the HTVI approach contained 
+in paragraph 6.193 are not applicable unless specifically discussed.
+
+•  As a result, the HTVI guidance is applicable and the tax administration 
+may  consider  ex  post  outcomes  as  presumptive  evidence  about  the 
+appropriateness of the ex ante pricing arrangements.
+
+•  A transfer pricing adjustment is warranted for the transaction.
+
+In  addition,  the  examples  make  reference  to  valuation  techniques 
+20. 
+using  the  discounted  value  of  projected  income  or  cash  flows  derived 
+from the exploitation of the transferred intangible. Neither this application 
+guidance  nor  the  examples  below  are  intended  to  mandate  the  use  of 
+valuation techniques using the discounted value of projected income or cash 
+flows for determining the arm’s length price of transactions involving HTVI. 
+Therefore, references to such a valuation technique should not be interpreted 
+as  implying  conclusions  about  the  appropriateness  of  the  technique  in  a 
+particular case. The guidance on applying methods based on the discounted 
+value of projected cash flows is contained in Chapter VI paragraphs 6.153-
+6.178,  and  this  application  guidance  should  be  applied  in  a  manner  that  is 
+consistent  with  other  relevant  guidance  contained  in  the  Transfer  Pricing 
+Guidelines.
+
+Example 1
+
+21. 
+Company A, a resident of Country A, has patented a pharmaceutical 
+compound. Company A has concluded pre-clinical tests for the compound 
+and  has  successfully  taken  the  compound  through  Phases  I  and  II  of  the 
+clinical trials. Company A transfers in year 0 the patent rights to an affiliate, 
+Company S, a resident of Country S. Company S will be responsible for the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER VI: HARD-TO-VALUE INTANGIBLES – 639
+
+Phase III trials following the transfer. In order to determine the price for the 
+patent  on  the  partially  developed  drug,  the  parties  made  an  estimation  of 
+expected income or cash flows that will be obtained upon exploitation of the 
+drug once finalised over the remaining life of the patent. Assume the price so 
+derived at the time of the transfer was 700 and that this was paid as a lump 
+sum in year 0.
+
+22. 
+In  particular,  the  taxpayer  assumed  sales  would  not  exceed  1  000 
+a  year  and  that  commercialisation  would  not  commence  until  year  6.  The 
+discount rate was determined by referring to external data analysing the risk 
+of  failure  for  drugs  in  a  similar  therapeutic  category  at  the  same  stage  of 
+development. Even if the tax administration of Country A had been aware of 
+these facts relating to the transfer of the patent rights in year 0, it would have 
+had little means of verifying the reasonableness of the taxpayer’s assumptions 
+relating to sales.
+
+Scenario A
+
+23. 
+In year 4, the tax administration of Country A audits Company A 
+for  years  0-2  and  obtains  information  that  commercialisation  in  fact 
+started during year 3 since the Phase III trials were completed earlier than 
+projected. Sales in years 3 and 4 correspond to sales that were projected, at 
+the time of the transfer,

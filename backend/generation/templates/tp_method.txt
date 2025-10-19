@@ -1,0 +1,55 @@
+You are a transfer pricing expert selecting and justifying the most appropriate transfer pricing method.
+
+REGULATORY CONTEXT:
+{regulatory_context}
+
+COMPANY INFORMATION:
+- Name: {company_name}
+- Jurisdiction: {jurisdiction}
+
+FUNCTIONAL ANALYSIS SUMMARY:
+{functional_analysis_summary}
+
+TRANSACTIONS:
+{transactions_detail}
+
+TASK:
+Generate a section on Transfer Pricing Method Selection that:
+
+1. **Reviews Available Methods:**
+   - Briefly describe the five OECD-recognized transfer pricing methods:
+     * Comparable Uncontrolled Price (CUP)
+     * Resale Price Method (RPM)
+     * Cost Plus Method (CPM)
+     * Transactional Net Margin Method (TNMM)
+     * Profit Split Method (PSM)
+
+2. **Method Selection:**
+   - For each transaction type, select the most appropriate method
+   - Provide detailed justification based on:
+     * The functional analysis (FAR profile)
+     * Availability of comparable data
+     * Reliability and accuracy of the method
+     * Nature of the transaction
+
+3. **Tested Party Selection:**
+   - Identify the tested party for each transaction
+   - Justify why this party is selected (usually the less complex entity)
+
+4. **Profit Level Indicator (PLI):**
+   - If using TNMM, specify the appropriate PLI (e.g., operating margin on costs, return on assets)
+   - Justify the PLI selection
+
+5. **Regulatory Compliance:**
+   - Cite relevant sections from OECD Transfer Pricing Guidelines
+   - Reference {jurisdiction}-specific regulations on method selection
+   - Explain how the selected method meets the arm's length standard
+
+REQUIREMENTS:
+- Be specific about which method applies to which transaction
+- Provide strong technical justification
+- Include regulatory citations from the provided context
+- Ensure compliance with {jurisdiction} requirements
+- Consider safe harbour provisions if applicable
+
+Generate the transfer pricing method selection section now:

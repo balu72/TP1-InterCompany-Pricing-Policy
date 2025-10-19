@@ -1,0 +1,85 @@
+ransfer  pricing  cases  that  now  take  up  a  great  deal  of  time  and 
+effort when processed on a case by case basis. Competent authorities are of 
+course free to modify, add or delete any provision of the sample agreement 
+when concluding their own bilateral agreements.
+
+Reasons for concluding a bilateral safe harbour MOU
+
+As described in  Chapter IV, Section E.4 of these Guidelines, one of the 
+potential  problems  arising  from  the  use  of  unilateral  transfer  pricing  safe 
+harbours is that they may increase the risk of double taxation and double non-
+taxation. This can occur if the jurisdiction granting the unilateral safe harbour 
+shades  the  safe  harbour  towards  the  high  end  of  an  acceptable  arm’s  length 
+profit range, while a treaty partner on the other end of the transaction disagrees 
+with the assertion that the defined safe harbour profit level reflects arm’s length 
+dealing. Some critics contend that there is a tendency for safe harbour profit 
+ranges  to  increase  over  time,  exacerbating  this  potential  problem.  It  is  also 
+sometimes suggested that unilateral safe harbours can tend to force taxpayers 
+into reporting higher than arm’s length levels of income, and to incur some 
+resulting double taxation, as the price to be paid for administrative convenience 
+and simplicity. Finally, unilateral safe harbours can, at times, provide a windfall 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+494 – ANNEX I TO CHAPTER IV: SAMPLE MEMORANDA OF UNDERSTANDING FOR SAFE HARBOURS
+
+to taxpayers whose specific facts might suggest that income above the safe 
+harbour level would be more consistent with arm’s length dealing.
+
+These double tax and windfall issues would likely be quite pronounced 
+in  connection  with  safe  harbours  directed  at  some  of  the  most  common 
+types of transfer pricing transactions. Transactions such as sales of goods 
+to  a  local  distribution  affiliate  for  resale  on  a  limited  risk  basis  in  the 
+local market, contract manufacturing arrangements, and contract research 
+arrangements could clearly raise these issues. It is perhaps for this reason 
+that few jurisdictions, if any, have developed functioning safe harbours for 
+dealing with these common types of transfer pricing issues.
+
+Distribution margins and manufacturing mark-ups can sometimes be 
+quite consistent across geographies and across many industries. Therefore 
+guidance on normal settlement ranges for these types of cases could have 
+the effect of reducing the number of transfer pricing audits and reducing 
+competent  authority  dockets  and  other  transfer  pricing  controversy  by 
+a  substantial  margin  if  reasonable  ranges  of  results  could  be  agreed 
+bilaterally and published.
+
+These types of cases could potentially be addressed through bilateral 
+MOUs adopted and publicised by competent authorities. Some jurisdictions 
+have adopted such arrangements on a bilateral basis. The general view of 
+such  jurisdictions  is  that  treaty  provisions  based  on  Article  25(3)  of  the 
+OECD  Model  Tax  Convention  provide  sufficient  authority  to  support  a 
+bilateral competent authority agreement on a safe harbour rule that would 
+apply  to  numerous  similarly  situated  taxpayers.  Article  25(3)  provides: 
+“The  competent  authorities  of  the  Contracting  States  shall  endeavour  to 
+resolve  by  mutual  agreement  any  difficulties  or  doubts  arising  as  to  the 
+interpretation  or  application  of  the  Convention.  They  may  also  consult 
+together  for  the  elimination  of  double  taxation  in  cases  not  provided 
+for  in  the  Convention.”  A  competent  authority  agreement  on  a  bilateral 
+transfer  pricing  safe  harbour  should  properly  be  characterised  as  a 
+“mutual agreement” that “resolves difficulties or doubts arising as to the 
+interpretation or application” of Article 9 of the Treaty.
+
+Although nothing would prevent the jurisdictions’ competent authorities 
+from adopting safe harbour provisions under Article 25(3) on a multilateral 
+basis if the conditions and circumstances so allow, the particular types of 
+transactions described above are such that jurisdictions will often adopt a 
+bilateral approach.
+
+If such MOUs existed, qualifying taxpayers would be able to manage 
+their financial results to fall within the agreed safe harbour range, secure in 
+the understanding that those results would be accepted in both jurisdictions 
+agreeing  to  the  MOU  concerned.  A  commonly  cited  precedent  for  this 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER IV: SAMPLE MEMORANDA OF UNDERSTANDING FOR SAFE HARBOURS – 495
+
+type of approach is the agreement between the United States and Mexico 
+regarding safe harbour profit ranges for maquiladora operations.
+
+A bilateral approach to the development of safe harbours would have a 
+
+number of advantages over unilateral transfer pricing safe harbours:
+
+•  A bilateral approach exe

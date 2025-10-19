@@ -1,0 +1,90 @@
+ quality engineering services to independent 
+clients.  It  charges  a  fee  to  its  independent  clients  based  on  a  fixed  hourly 
+rate that compares with the hourly rate charged by competitors for similar 
+services in the same market. Suppose that the wages for qualified engineers 
+in Country X are high. The enterprise subsequently subcontracts a large part 
+of  its  engineering  work  to  a  new  subsidiary  in  Country  y.  The  subsidiary 
+in  Country  y  hires  equally  qualified  engineers  to  those  in  Country  X  for 
+substantially lower wages, thus deriving significant location savings for the 
+group  formed  by  the  enterprise  and  its  subsidiary  Clients  continue  to  deal 
+directly with the enterprise in Country X and are not necessarily aware of 
+the sub-contracting arrangement. For some period of time, the well-known 
+enterprise in Country X can continue to charge its services at the original 
+hourly rate despite the significantly reduced engineer costs. After a certain 
+period of time, however, it is forced due to competitive pressures to decrease 
+its hourly rate (at an amount that would not allow the company in Country X 
+to  cover  the  wages  for  qualified  engineers  in  Country  X,  but  that  would 
+still  yield  a  benefit  if  those  services  are  provided  by  qualified  engineers 
+in  Country  y).  Part  of  the  location  savings  are  passed  on  to  its  clients. 
+In  this  case  also,  the  question  arises  of  which  party(ies)  within  the  MNE 
+group should, at arm’s length, be attributed the part of the location savings 
+not passed on to the clients: the subsidiary in Country y, the enterprise in 
+Country X, or both (and if so in what proportions).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+402 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+9.131. 
+In  determining  which  party(ies)  should  be  attributed  the  location 
+savings at arm’s length, it will be important to consider the functions, risks 
+and  assets  of  the  parties,  as  well  as  the  options  realistically  available  to 
+each of them. In this example, assume that there is a high demand for the 
+type of engineering services that the company in Country X sells. Assume 
+also  that  the  subsidiary  in  Country  y  is  the  only  company  operating  in  a 
+lower-cost  location  that  is  able  to  provide  such  services  with  the  required 
+quality standard, and Company y is able to withstand competitive pricing 
+pressures because the technical know-how it has established acts as a barrier 
+to  competition.  Furthermore,  the  company  in  Country  X  does  not  have 
+the  option  of  engaging  qualified  engineers  in  Country  X  to  provide  these 
+services, as the cost of their wages would be too high compared to the hourly 
+rate charged to clients. Considering this, the enterprise in Country X does 
+not have many other options available to it than to use this service provider. 
+The remuneration payable by Company X to Company y should take into 
+account the location savings created by Company y, in addition to the value 
+of  its  services  including  any  intangibles  used  in  providing  those  services. 
+In some instances, the nature of the contributions made by the enterprise in 
+Country X and its subsidiary in Country y may meet the criteria for the use 
+of a transactional profit split method.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 403
+
+Chapter X 
+
+Transfer pricing aspects of financial transactions
+
+A. Introduction
+
+10.1.  The purpose of this chapter is to provide guidance for determining 
+whether the conditions of certain financial transactions between associated 
+enterprises are consistent with the arm’s length principle.
+
+10.2.  Section  B  describes  the  application  of  the  principles  of  Section  D.1 
+of  Chapter  I  to  financial  transactions.  Section  C  provides  guidance  on 
+determining  the  arm’s  length  conditions  for  treasury  activities  including 
+intra-group  loans,  cash  pooling  and  hedging.  Section  D  examines  financial 
+guarantees, and Section E outlines the analysis of captive insurance companies.
+
+10.3.  The  conditions  of  financial  transactions  between  independent 
+enterprises will be the result of various commercial considerations. In contrast, 
+an MNE group has the discretion to decide upon those conditions within the 
+MNE group. Thus, in an intra-group situation, other considerations such as tax 
+consequences may also be present.
+
+B. Interaction with the guidance in Section D.1 of Chapter I
+
+B.1.  Determination of whether a purported loan should be regarded 
+
+as a loan1
+
+10.4. 
+It may be the case that the balance of debt and equity funding of a 
+borrowing entity that is part of an MNE group differs from that which would 
+exist  if  it  were  an  independent  entity  operating  under  the  same  or  similar 
+
+1. 
+
+The guidance contained in this subsection is consistent with the Commentary on 
+Articl

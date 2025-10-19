@@ -1,0 +1,74 @@
+ to  add  a  risk  premium  to  the  risk-free  return,  based  on  the 
+information  available  in  the  market  on  financial  instruments  issued  under 
+similar conditions and circumstances.
+
+1.125.  For  instance,  consider  the  same  fact  pattern  as  described  in 
+paragraph  1.114  but,  in  this  particular  scenario,  assume  that  Company  A 
+is  found  to  be  entitled  to  a  risk-adjusted  rate  of  return  under  this  chapter. 
+To  determine  that  return,  the  tax  administration  of  Country  X  considers 
+adding a risk premium to the risk-free rate of return, i.e. the security issued 
+by  the  government  in  Country  Z  with  a  term  of  one  year.  To  estimate  the 
+risk-adjusted return, Country X’s tax administration considers that corporate 
+bonds  issued  by  independent  parties  resident  in  Country  X  operating  in 
+the  same  industry  as  Company  B  yield  a  return  comparable  to  the  one 
+that an independent party would have expected had it invested its funds in 
+Company B under comparable circumstances.
+
+1.126.  Under  an  approach  based  on  the  cost  of  funds,  the  controlled 
+transaction would be priced by adding a profit margin to the costs incurred 
+by  the  lender  to  raise  the  funds  advanced  to  the  borrower.  That  mark-up 
+should  be  proportionate  to  the  risk  assumed  by  the  lender  and  calculated 
+according to the guidance provided in paragraphs 10.97-10.100.
+
+D.1.3. Characteristics of property or services
+
+1.127.  Differences  in  the  specific  characteristics  of  property  or  services 
+often  account,  at  least  in  part,  for  differences  in  their  value  in  the  open 
+market. Therefore, comparisons of these features may be useful in delineating 
+the  transaction  and  in  determining  the  comparability  of  controlled  and 
+uncontrolled  transactions.  Characteristics  that  may  be  important  to 
+consider include the following: in the case of transfers of tangible property, 
+the  physical  features  of  the  property,  its  quality  and  reliability,  and  the 
+availability and volume of supply; in the case of the provision of services, the 
+nature and extent of the services; and in the case of intangible property, the 
+form of transaction (e.g. licensing or sale), the type of property (e.g. patent, 
+trademark,  or  know-how),  the  duration  and  degree  of  protection,  and  the 
+anticipated  benefits  from  the  use  of  the  property.  For  further  discussion 
+of  some  of  the  specific  features  of  intangibles  that  may  prove  important 
+in  a  comparability  analysis  involving  transfers  of  intangibles  or  rights  in 
+intangibles, see Section D.2.1 of Chapter VI.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 71
+
+1.128.  Depending  on  the  transfer  pricing  method,  this  factor  must  be 
+given  more  or  less  weight.  Among  the  methods  described  at  Chapter  II  of 
+these Guidelines, the requirement for comparability of property or services 
+is  the  strictest  for  the  comparable  uncontrolled  price  method.  Under  the 
+comparable  uncontrolled  price  method,  any  material  difference  in  the 
+characteristics  of  property  or  services  can  have  an  effect  on  the  price  and 
+would require an appropriate adjustment to be considered (see in particular 
+paragraph 2.16). Under the resale price method and cost plus method, some 
+differences  in  the  characteristics  of  property  or  services  are  less  likely  to 
+have  a  material  effect  on  the  gross  profit  margin  or  mark-up  on  costs  (see 
+in  particular  paragraphs  2.29  and  2.47).  Differences  in  the  characteristics 
+of property or services are also less sensitive in the case of the transactional 
+profit  methods  than  in  the  case  of  traditional  transaction  methods  (see  in 
+particular  paragraph  2.75).  This  however  does  not  mean  that  the  question 
+of  comparability  in  characteristics  of  property  or  services  can  be  ignored 
+when applying transactional profit methods, because it may be that product 
+differences entail or reflect different functions performed, assets used and/or 
+risks assumed by the tested party. See paragraphs 3.18-3.19 for a discussion 
+of the notion of tested party.
+
+In  practice,  it  has  been  observed  that  comparability  analyses  for 
+1.129. 
+methods based on gross or net profit indicators often put more emphasis on 
+functional similarities than on product similarities. Depending on the facts 
+and circumstances of the case, it may be acceptable to broaden the scope of 
+the  comparability  analysis  to  include  uncontrolled  transactions  involving 
+products  that  are  different,  but  where  similar  functions  are  undertaken. 
+However, the acceptance of such an approach depends on the effects that the 
+product differences have on the reliability of the comparison and on whether 
+or  not  more  reliable  data  are  available. 

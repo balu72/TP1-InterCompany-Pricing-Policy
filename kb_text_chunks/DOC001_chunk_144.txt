@@ -1,0 +1,76 @@
+ a particular case, exploitation of intangibles 
+can account for either a large or small part of the MNE’s value creation. It 
+should be emphasised that not all intangibles deserve compensation separate 
+from the required payment for goods or services in all circumstances, and 
+not  all  intangibles  give  rise  to  premium  returns  in  all  circumstances.  For 
+example,  consider  a  situation  in  which  an  enterprise  performs  a  service 
+using  non-unique  know-how,  where  other  comparable  service  providers 
+have comparable know-how. In that case, even though know-how constitutes 
+an  intangible,  it  may  be  determined  under  the  facts  and  circumstances 
+that  the  know-how  does  not  justify  allocating  a  premium  return  to  the 
+enterprise, over and above normal returns earned by comparable independent 
+providers  of  similar  services  that  use  comparable  non-unique  know-how. 
+See Section D.1.3 of Chapter I. See also paragraph  6.17 for a definition of 
+“unique” intangibles.
+
+6.11.  Care should be taken in determining whether or when an intangible 
+exists and whether an intangible has been used or transferred. For example, not 
+all research and development expenditures produce or enhance an intangible, 
+and not all marketing activities result in the creation or enhancement of an 
+intangible.
+
+6.12. 
+In a transfer pricing analysis of a matter involving intangibles, it is 
+important to identify the relevant intangibles with specificity. The functional 
+analysis should identify the relevant intangibles at issue, the manner in which 
+they contribute to the creation of value in the transactions under review, the 
+important functions performed and specific risks assumed in connection with 
+the development, enhancement, maintenance, protection and exploitation of 
+the intangibles and the manner in which they interact with other intangibles, 
+with tangible assets and with business operations to create value. While it 
+may be appropriate to aggregate intangibles for the purpose of determining 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 249
+
+arm’s length conditions for the use or transfer of the intangibles in certain 
+cases, it is not sufficient to suggest that vaguely specified or undifferentiated 
+intangibles  have  an  effect  on  arm’s  length  prices  or  other  conditions.  A 
+thorough  functional  analysis,  including  an  analysis  of  the  importance  of 
+identified relevant intangibles in the MNE’s global business, should support 
+the determination of arm’s length conditions.
+
+A.2. Relevance of this chapter for other tax purposes
+
+6.13.  The guidance contained in this chapter is intended to address transfer 
+pricing  matters  exclusively.  It  is  not  intended  to  have  relevance  for  other 
+tax  purposes.  For  example,  the  Commentary  on  Article  12  of  the  OECD 
+Model  Tax  Convention  contains  a  detailed  discussion  of  the  definition  of 
+royalties under that Article (paragraphs 8 to 19). The Article 12 definition of 
+“royalties” is not intended to provide any guidance on whether, and if so at 
+what price, the use or transfer of intangibles would be remunerated between 
+independent parties. It is therefore not relevant for transfer pricing purposes. 
+Moreover,  the  manner  in  which  a  transaction  is  characterised  for  transfer 
+pricing  purposes  has  no  relevance  to  the  question  of  whether  a  particular 
+payment constitutes a royalty or may be subjected to withholding tax under 
+Article 12. The concept of intangibles for transfer pricing purposes and the 
+definition  of  royalties  for  purposes  of  Article  12  of  the  OECD  Model  Tax 
+Convention are two different notions that do not need to be aligned. It may 
+occur that a payment made between associated enterprises may be regarded 
+as not constituting a royalty for purposes of Article 12, and nevertheless be 
+treated for transfer pricing purposes as a payment to which the principles of 
+this chapter may apply. Examples could include certain payments related to 
+goodwill or ongoing concern value. It may also occur that a payment properly 
+treated as a royalty under Article 12 of a relevant Treaty may not be made 
+in remuneration for intangibles for purposes of this chapter. Examples could 
+include certain payments for technical services. Similarly, the guidance in 
+this chapter is not intended to have relevance for customs purposes.
+
+6.14.  The  guidance  in  this  chapter  is  also  not  relevant  to  recognition  of 
+income, capitalisation of intangible development costs, amortisation, or similar 
+matters. Thus, for example, a jurisdiction may choose not to impose tax on 
+the transfer of particular types of intangibles under specified circumstances. 
+Similarly,  a  jurisdiction  may  not  permit  amortisation  of  the  cost  of  certain 
+acquired  items  that  would  be  considered  intangibles  under  the  definitions 
+in this chapter and whose transfer may be

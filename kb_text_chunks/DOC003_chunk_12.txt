@@ -1,0 +1,82 @@
+ore,  countries 
+participating  in  the  OECD/G20  Base  Erosion  and  Profit  Shifting  (BEPS)  Project  have 
+developed  the  following  guidance  on  implementation  of  transfer  pricing  documentation 
+and Country-by-Country Reporting.
+
+E.1. Master file and Local file
+
+49. 
+It  is  recommended  that  the  master  file  and  local  file  elements  of  the  transfer 
+pricing  documentation  standard  be  implemented  through  local  country  legislation  or 
+administrative procedures and that the master file and local file be filed directly with the 
+tax  administrations  in  each  relevant  jurisdiction  as  required  by  those  administrations. 
+Countries participating in the OECD/G20 BEPS Project agree that with regard to the local 
+file  and  the  master  file  confidentiality  and  consistent  use  of  the  standards  contained  in 
+Annex I and Annex II of Chapter v of these Guidelines should be taken into account when 
+introducing these elements in local country legislation or administrative procedures.
+
+E.2. Country-by-Country Report
+
+E.2.1. Timing: When should the Country-by-Country Reporting requirement start?
+
+50. 
+It is recommended that the first Country-by-Country Reports be required to be filed 
+for MNE fiscal years beginning on or after 1 January 2016. however, it is acknowledged 
+that  some  jurisdictions  may  need  time  to  follow  their  particular  domestic  legislative 
+process in order to make necessary adjustments to the law. In order to assist countries in 
+preparing timely legislation, model legislation requiring ultimate parent entities of MNE 
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ ChAPTER v OF ThE TRANSFER PRICING GUIDELINES ON DOCUMENTATION – 21
+
+groups to file the Country-by-Country Report in their jurisdiction of residence has been 
+developed  (see  Annex  Iv  to  Chapter  v  of  these  Guidelines).  Jurisdictions  will  be  able 
+to adapt this model legislation to their own legal systems. Given the recommendation in 
+paragraph 31 that MNEs be allowed one year from the close of the fiscal year to which 
+the  Country-by-Country  Report  relates  to  prepare  and  file  the  Country-by-Country 
+Report,  this  recommendation  means  that  the  first  Country-by-Country  Reports  would 
+be filed by 31 December 2017. For MNEs with a fiscal year ending on a date other than 
+31  December, the first Country-by-Country Reports would be required to be filed later 
+in 2018, twelve months after the close of the relevant MNE fiscal year, and would report 
+on the MNE group’s first fiscal year beginning after 1 January 2016. It follows from this 
+recommendation that the countries participating in the OECD/G20 BEPS Project agree that 
+they will not require filing of a Country-by-Country Report based on the new template for 
+MNE fiscal years beginning prior to 1 January 2016. The MNE fiscal year relates to the 
+consolidated reporting period for financial statement purposes and not to taxable years or 
+to the financial reporting periods of individual subsidiaries.
+
+E.2.2. Which MNE groups should be required to file the Country-by-Country 
+Report?
+
+It is recommended that all MNE groups be required to file the Country-by-Country 
+
+51. 
+Report each year except as follows.
+
+52.  There would be an exemption from the general filing requirement for MNE groups 
+with annual consolidated group revenue in the immediately preceding fiscal year of less 
+than  EUR  750  million  or  a  near  equivalent  amount  in  domestic  currency  as  of  January 
+2015. Thus, for example, if an MNE that keeps its financial accounts on a calendar year 
+basis  has  EUR  625  million  in  consolidated  group  revenue  for  its  2015  calendar  year,  it 
+would not be required to file the Country-by-Country Report in any country with respect 
+to its fiscal year ending 31 December 2016.
+
+53. 
+It  is  believed  that  the  exemption  described  in  paragraph  52,  which  provides  a 
+threshold of EUR 750 million, will exclude approximately 85 to 90 percent of MNE groups 
+from  the  requirement  to  file  the  Country-by-Country  Report,  but  that  the  Country-by-
+Country Report will nevertheless be filed by MNE groups controlling approximately 90 
+percent of corporate revenues. The prescribed exemption threshold therefore represents an 
+appropriate balancing of reporting burden and benefit to tax administrations.
+
+It  is  the  intention  of  the  countries  participating  in  the  OECD/G20  BEPS  Project 
+54. 
+to  reconsider  the  appropriateness  of  the  applicable  revenue  threshold  described  in  the 
+preceding paragraph in connection with their 2020 review of implementation of the new 
+standard, including whether additional or different data should be reported.
+
+55. 
+It  is  considered  that  no  exemptions  from  filing  the  Country-by-Country  Report 
+should  be  adopted  apart  from  the  exemptions  outlined  in  this  section.  In  particular,  no 
+special industry exem

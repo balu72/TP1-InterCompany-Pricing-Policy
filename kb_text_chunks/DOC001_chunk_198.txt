@@ -1,0 +1,82 @@
+
+
+8.3. 
+A  CCA  is  a  contractual  arrangement  among  business  enterprises 
+to  share  the  contributions  and  risks  involved  in  the  joint  development, 
+production or the obtaining of intangibles, tangible assets or services with the 
+understanding that such intangibles, tangible assets or services are expected 
+to create benefits for the individual businesses of each of the participants. A 
+CCA is a contractual arrangement rather than necessarily a distinct juridical 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+338 – CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS
+
+entity  or  fixed  place  of  business  of  all  the  participants.  A  CCA  does  not 
+require the participants to combine their operations in order, for example, to 
+exploit any resulting intangibles jointly or to share the revenues or profits. 
+Rather,  CCA  participants  may  exploit  their  interest  in  the  outcomes  of  a 
+CCA through their individual businesses. The transfer pricing issues focus 
+on  the  commercial  or  financial  relations  between  the  participants  and  the 
+contributions made by the participants that create the opportunities to achieve 
+those outcomes.
+8.4. 
+As indicated in Section D.1 of Chapter I, the delineation of the actual 
+transaction undertaken forms the first phase in any transfer pricing analysis. 
+The  contractual  agreement  provides  the  starting  point  for  delineating  the 
+actual transaction. In this respect, no difference exists for a transfer pricing 
+analysis  between  a  CCA  and  any  other  kind  of  contractual  arrangement 
+where  the  division  of  responsibilities,  risks,  and  anticipated  outcomes  as 
+determined  by  the  functional  analysis  of  the  transaction  is  the  same.  The 
+guidance  on  identifying  the  other  economically  relevant  characteristics  is 
+equally applicable to CCAs as to any other type of contractual arrangement, 
+including  an  assessment  as  to  whether  the  parties  contractually  assuming 
+risks are actually assuming these risks based on the framework for analysing 
+risk  set  out  in  paragraph  1.60  of  these  Guidelines.  As  a  consequence, 
+parties  performing  activities  under  arrangements  with  similar  economic 
+characteristics should receive similar expected returns, irrespective of whether 
+the contractual arrangement in a particular case is termed a CCA. However, 
+there are specific characteristics of CCAs that warrant special consideration.
+8.5. 
+A key feature of a CCA is the sharing of contributions. In accordance 
+with  the  arm’s  length  principle,  at  the  time  of  entering  into  a  CCA,  each 
+participant’s proportionate share of the overall contributions to a CCA must 
+be consistent with its proportionate share of the overall expected benefits to 
+be received under the arrangement. Further, in the case of CCAs involving 
+the  development,  production  or  obtaining  of  intangibles  or  tangible  assets, 
+an ownership interest in any intangibles or tangible assets resulting from the 
+activity of the CCA, or rights to use or exploit those intangibles or tangible 
+assets, is contractually provided for each participant. For CCAs for services, 
+each participant is contractually entitled to receive services resulting from 
+the activity of the CCA. In either case, participants may exploit the interest, 
+rights or entitlement without paying additional consideration (other than the 
+contributions  and  balancing  payments  described  in  Sections  C.4  and  C.5, 
+respectively) to any party for such interest, rights or entitlement.
+
+8.6. 
+Some  benefits  of  the  CCA  activity  can  be  determined  in  advance, 
+whereas  others  will  be  uncertain.  Some  types  of  CCA  activities  will 
+produce current benefits, while others have a longer time frame or may not 
+be  successful.  Nevertheless,  in  a  CCA  there  is  always  an  expected  benefit 
+that  each  participant  seeks  from  its  contribution,  including  the  attendant 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS – 339
+
+rights to have the CCA properly administered. Each participant’s interest in 
+the results of the CCA activity should be established from the outset, even 
+where the interest is inter-linked with that of other participants, e.g. because 
+legal  ownership  of  developed  intangibles  or  tangible  assets  may  be  vested 
+in only one of them but all of them have certain rights to use or exploit the 
+intangibles  or  tangible  assets  as  provided  in  the  contractual  arrangements 
+(for example, perpetual, royalty-free licences for the territory in which the 
+individual participant operates).
+
+8.7. 
+In some cases CCAs can provide helpful simplification of multiple 
+transactions (bearing in mind that the tax consequences of transactions are 
+determined in accordance with applicable local laws). In a situation where 
+associated enterprises both perform activities for other group members and 
+simu

@@ -1,0 +1,83 @@
+terprise sells unbranded Colombian coffee beans 
+of a similar type, quality, and quantity as those sold between two associated 
+enterprises, assuming that the controlled and uncontrolled transactions occur 
+at about the same time, at the same stage in the production/distribution chain, 
+and  under  similar  conditions.  If  the  only  available  uncontrolled  transaction 
+involved unbranded Brazilian coffee beans, it would be appropriate to inquire 
+whether the difference in the coffee beans has a material effect on the price. 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 101
+
+For example, it could be asked whether the source of coffee beans commands a 
+premium or requires a discount generally in the open market. Such information 
+may be obtainable from commodity markets or may be deduced from dealer 
+prices. If this difference does have a material effect on price, some adjustments 
+would be appropriate. If a reasonably accurate adjustment cannot be made, the 
+reliability of the CUP method would be reduced, and it might be necessary to 
+select another less direct method instead.
+
+2.25.  One illustrative case where adjustments may be required is where the 
+circumstances surrounding controlled and uncontrolled sales are identical, except 
+for the fact that the controlled sales price is a delivered price and the uncontrolled 
+sales  are  made  f.o.b.  factory.  The  differences  in  terms  of  transportation  and 
+insurance generally have a definite and reasonably ascertainable effect on price. 
+Therefore, to determine the uncontrolled sales price, adjustment should be made 
+to the price for the difference in delivery terms.
+
+2.26.  As another example, assume a taxpayer sells 1 000 tons of a product 
+for  USD  80  per  ton  to  an  associated  enterprise  in  its  MNE  group,  and  at 
+the  same  time  sells  500  tons  of  the  same  product  for  USD  100  per  ton  to 
+an independent enterprise. This case requires an evaluation of whether the 
+different volumes should result in an adjustment of the transfer price. The 
+relevant  market  should  be  researched  by  analysing  transactions  in  similar 
+products to determine typical volume discounts.
+
+C. Resale price method
+
+C.1.  In general
+
+2.27.  The resale price method begins with the price at which a product that 
+has been purchased from an associated enterprise is resold to an independent 
+enterprise.  This  price  (the  resale  price)  is  then  reduced  by  an  appropriate 
+gross  margin  on  this  price  (the  “resale  price  margin”)  representing  the 
+amount  out  of  which  the  reseller  would  seek  to  cover  its  selling  and  other 
+operating expenses and, in the light of the functions performed (taking into 
+account  assets  used  and  risks  assumed),  make  an  appropriate  profit.  What 
+is left after subtracting the gross margin can be regarded, after adjustment 
+for  other  costs  associated  with  the  purchase  of  the  product  (e.g.  customs 
+duties), as an arm’s length price for the original transfer of property between 
+the associated enterprises. This method is probably most useful where it is 
+applied to marketing operations.
+
+2.28.  The resale price margin of the reseller in the controlled transaction 
+may  be  determined  by  reference  to  the  resale  price  margin  that  the  same 
+reseller  earns  on  items  purchased  and  sold  in  comparable  uncontrolled 
+transactions  (“internal  comparable”).  Also,  the  resale  price  margin  earned 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+102 – CHAPTER II: TRANSFER PRICING METHODS
+
+by an independent enterprise in comparable uncontrolled transactions may 
+serve as a guide (“external comparable”). Where the reseller is carrying on 
+a  general  brokerage  business,  the  resale  price  margin  may  be  related  to  a 
+brokerage fee, which is usually calculated as a percentage of the sales price 
+of the product sold. The determination of the resale price margin in such a 
+case should take into account whether the broker is acting as an agent or a 
+principal.
+
+2.29.  Following the principles in Chapter I, an uncontrolled transaction is 
+comparable to a controlled transaction (i.e. it is a comparable uncontrolled 
+transaction) for purposes of the resale price method if one of two conditions 
+is  met:  a)  none  of  the  differences  (if  any)  between  the  transactions  being 
+compared or between the enterprises undertaking those transactions could 
+materially affect the resale price margin in the open market; or, b) reasonably 
+accurate adjustments can be made to eliminate the material effects of such 
+differences. In making comparisons for purposes of the resale price method, 
+fewer  adjustments  are  normally  needed  to  account  for  product  differences 
+than  under  the  CUP  method,  because  minor  product  differences  are  less 
+likely to have as material an effect on profit margins as they do on price.
+
+In  a  market  econo

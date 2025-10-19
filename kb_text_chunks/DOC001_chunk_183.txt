@@ -1,0 +1,93 @@
+parability adjustments. Only when the intangibles 
+used by the tested party are unique and valuable intangibles will the need 
+arise to make comparability adjustments or to adopt a transfer pricing method 
+less dependent on comparable uncontrolled transactions. Where intangibles 
+used  by  the  tested  party  are  not  unique  and  valuable  intangibles,  prices 
+paid  or  received,  or  margins  or  returns  earned  by  parties  to  comparable 
+uncontrolled transactions may provide a reliable basis for determining arm’s 
+length conditions.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+310 – CHAPTER VI: INTANGIBLES
+
+6.207.  Where  the  need  to  make  comparability  adjustments  arises  because 
+of  differences  in  the  intangibles  used  by  the  tested  party  in  a  controlled 
+transaction  and  the  intangibles  used  by  a  party  to  a  potentially  comparable 
+uncontrolled  transaction,  difficult  factual  questions  can  arise  in  quantifying 
+reliable comparability adjustments. These issues require thorough consideration 
+of the relevant facts and circumstances and of the available data regarding the 
+impact of the intangibles on prices and profits. Where the impact on price of 
+a difference in the nature of the intangibles used is clearly material, but not 
+subject to accurate estimation, it may be necessary to utilise a different transfer 
+pricing method that is less dependent on identification of reliable comparables.
+
+6.208.  It  should  also  be  recognised  that  comparability  adjustments  for 
+factors other than differences in the nature of the intangibles used may be 
+required  in  matters  involving  the  use  of  intangibles  in  connection  with  a 
+controlled sale of goods or services. In particular, comparability adjustments 
+may  be  required  for  matters  such  as  differences  in  markets,  locational 
+advantages,  business  strategies,  assembled  workforce,  corporate  synergies 
+and other similar factors. While such factors may not be intangibles as that 
+term is described in Section A.1 of this chapter, they can nevertheless have 
+important  effects  on  arm’s  length  prices  in  matters  involving  the  use  of 
+intangibles.
+
+D.5.2.2. Situations where reliable comparables do not exist
+
+6.209.  In  some  circumstances  where  reliable  uncontrolled  transactions 
+cannot  be  identified,  transactional  profit  split  methods  may  be  utilised  to 
+determine an arm’s length allocation of profits for the sale of goods or the 
+provision  of  services  involving  the  use  of  intangibles.  One  circumstance 
+in which the use of transactional profit split methods may be appropriate is 
+where both parties to the transaction make unique and valuable contributions 
+to the transaction.
+
+6.210.  Section C in Part III of Chapter II contains guidance to be considered 
+in applying transactional profit split methods. That guidance is fully applicable 
+to matters involving the use of intangibles in connection with the sale of goods 
+or the provision of services in controlled transactions.
+
+6.211. 
+In  applying  a  profit  split  method  in  a  case  involving  the  use  of 
+intangibles,  care  should  be  taken  to  identify  the  intangibles  in  question,  to 
+evaluate the manner in which those intangibles contribute to the creation of value, 
+and to evaluate other income producing functions performed, risks assumed and 
+assets used. Vague assertions of the existence and use of unspecified intangibles 
+will not support a reliable application of a profit split method.
+
+6.212.  In appropriate circumstances, transfer pricing methods or valuation 
+techniques  not  dependent  on  the  identification  of  reliable  comparable 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 311
+
+uncontrolled  transactions  may  also  be  utilised  to  determine  arm’s  length 
+conditions for the sale of goods or the provision of services where intangibles 
+are used in connection with the transaction. The alternative selected should 
+reflect the nature of the goods or services provided and the contribution of 
+intangibles and other relevant factors to the creation of value.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VII: INTRA-GROUP SERVICES – 313
+
+Chapter VII 
+
+Special considerations for intra-group services
+
+A. Introduction
+
+This chapter discusses issues that arise in determining for transfer 
+7.1. 
+pricing  purposes  whether  services  have  been  provided  by  one  member  of 
+an  MNE  group  to  other  members  of  that  group  and,  if  so,  in  establishing 
+arm’s  length  pricing  for  those  intra-group  services.  The  chapter  does  not 
+address  except  incidentally  whether  services  have  been  provided  in  a  cost 
+contribution arrangement, nor, in such a case, the appropriate arm’s length 
+pricing. Cost contribution arrangements are the subject of Chapter VIII.
+
+7.2. 
+Nearly every MNE group must arrange for a wide scope of services 
+to  be  availab

@@ -1,0 +1,127 @@
+when leaving their workspace at the end of the day? Are these procedures publicly 
+available? If yes, please provide the reference. If not, please provide a summary.
+Does your tax administration have a data classification policy? If so, please describe how your 
+document storage procedures differ for data at all classification levels. Are these procedures 
+publicly available? If yes, please provide the reference. If not, please provide a summary.
+
+2.3 Planning
+
+Primary Check-list Areas
+
+•  Planning documentation to develop, update, and implement 
+
+security information systems
+
+What procedures does your tax administration maintain to develop, document, update, and 
+implement security for information systems used to receive, process, archive and retrieve 
+confidential information? Are these procedures publicly available? If yes, please provide the 
+reference. If not, please provide a summary.
+What procedures does your tax administration maintain regarding periodic Information 
+Security Plan updates to address changes to the information systems environment, and how 
+are problems and risks identified during the implementation of Information Security Plans 
+resolved? Are these procedures publicly available? If yes, please provide the reference. If 
+not, please provide a summary.
+
+2.4 Configuration Management
+
+Primary Check-list Areas
+
+•  Configuration management and security controls
+
+What policies does your tax administration maintain to regulate system configuration and 
+updates? Are the policies publicly available? If yes, please provide the reference. If not, 
+please provide a summary.
+
+2.5 Access Control
+
+Primary Check-list Areas
+
+•  Access Control Policies and procedures: authorised personnel 
+
+and international exchange of information
+
+What policies does your tax administration maintain to limit system access to authorised 
+users and safeguard data during transmission when received and stored? Please describe 
+how your tax administration’s access authorisation and data transmission policies 
+extend to data received from an exchange of information partner under a treaty or TIEA or 
+other exchange agreement. Are the policies publicly available? If yes, please provide the 
+reference. If not, please provide a summary.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+582 – ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE
+
+2.6 Identification and Authentication
+
+Primary Check-list Areas
+
+•  Authenticating the identifying users and devices that require access 
+
+to information systems
+
+What policies and procedures does your tax administration maintain for each information 
+system connected to confidential data? Are the policies and procedures publicly available? 
+If so, please provide a reference. If not, please provide a summary.
+What policies and procedures govern the authentication of authorised tax administration 
+users by systems connected to confidential data? Are the policies and procedures publicly 
+available? If so, please provide a reference. If not, please provide a summary.
+
+2.7 Audit and Accountability
+
+Primary Check-list Areas
+
+•  Traceable electronic actions within systems
+•  System audit procedures: monitoring, analysing, investigating, and 
+
+reporting of unlawful/unauthorised use
+
+What policies and procedures does your tax administration maintain to ensure system 
+audits take place that will detect unauthorised access? Are the policies publicly available? If 
+so, please provide a reference. If not, please provide a summary.
+
+2.8 Maintenance
+
+Primary Check-list Areas
+
+•  Periodic and timely maintenance of systems
+•  Controls over: tools, procedures, and mechanisms for system 
+
+maintenance and personnel use
+
+What policies govern effective periodic system maintenance by your tax administration? Are 
+these policies publicly available? If so, please provide a reference. If not, please provide a 
+summary.
+What procedures govern the resolution of system flaws identified by your tax 
+administration? Are these procedures publicly available? If so, please provide a reference. If 
+not, please provide a summary.
+
+2.9 System and Communications Protection
+
+Primary Check-list Areas
+
+•  Procedures to monitor, control, and protect communications to and 
+
+from information systems
+
+What policies and procedures does your tax administration maintain for the electronic 
+transmission and receipt of confidential data. Please describe the security and encryption 
+requirements addressed in these policies. Are these policies publicly available? If so, please 
+provide a reference. If not, please provide a summary.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE – 583
+
+2.10 System and Information Integrity
+
+Primary Check-list Areas
+
+•  Procedures to identify, report, and correct information system flaws 
+
+in a timely manner
+
+•  Protection against malicious code and monitoring system security 
+
+alerts
+
+What procedures does your 

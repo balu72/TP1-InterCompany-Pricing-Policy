@@ -1,0 +1,83 @@
+ICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 35
+
+would  most  likely  be  based  on  some  combination  of  costs,  assets,  payroll, 
+and sales.
+
+1.18.  Global  formulary  apportionment  should  not  be  confused  with  the 
+transactional  profit  methods  discussed  in  Part  III  of  Chapter  II.  Global 
+formulary apportionment would use a formula that is predetermined for all 
+taxpayers to allocate profits whereas transactional profit methods compare, 
+on  a  case-by-case  basis,  the  profits  of  one  or  more  associated  enterprises 
+with  the  profit  experience  that  comparable  independent  enterprises  would 
+have  sought  to  achieve  in  comparable  circumstances.  Global  formulary 
+apportionment  also  should  not  be  confused  with  the  selected  application 
+of a formula developed by both tax administrations in co-operation with a 
+specific taxpayer or MNE group after careful analysis of the particular facts 
+and circumstances, such as might be used in a mutual agreement procedure, 
+advance pricing agreement, or other bilateral or multilateral determination. 
+Such a formula is derived from the particular facts and circumstances of the 
+taxpayer and thus avoids the globally pre-determined and mechanistic nature 
+of global formulary apportionment.
+
+C.2.  Comparison with the arm’s length principle
+
+1.19.  Global formulary apportionment has been promoted as an alternative 
+to the arm’s length principle by advocates who claim that it would provide 
+greater  administrative  convenience  and  certainty  for  taxpayers.  These 
+advocates also take the position that global formulary apportionment is more 
+in keeping with economic reality. They argue that an MNE group must be 
+considered  on  a  group-wide  or  consolidated  basis  to  reflect  the  business 
+realities of the relationships among the associated enterprises in the group. 
+They assert that the separate accounting method is inappropriate for highly 
+integrated groups because it is difficult to determine what contribution each 
+associated enterprise makes to the overall profit of the MNE group.
+
+1.20.  Apart from these arguments, advocates contend that global formulary 
+apportionment  reduces  compliance  costs  for  taxpayers  since  in  principle 
+only one set of accounts would be prepared for the group for domestic tax 
+purposes.
+
+1.21.  OECD member countries do not accept these propositions and do not 
+consider global formulary apportionment a realistic alternative to the arm’s 
+length principle, for the reasons discussed below.
+
+1.22.  The most significant concern with global formulary apportionment is 
+the difficulty of implementing the system in a manner that both protects against 
+double  taxation  and  ensures  single  taxation.  To  achieve  this  would  require 
+substantial  international  co-ordination  and  consensus  on  the  predetermined 
+formulae  to  be  used  and  on  the  composition  of  the  group  in  question.  For 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+36 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+example, to avoid double taxation there would have to be common agreement 
+to  adopt  the  approach  in  the  first  instance,  followed  by  agreement  on  the 
+measurement of the global tax base of an MNE group, on the use of a common 
+accounting system, on the factors that should be used to apportion the tax base 
+among different jurisdictions (including non-member countries), and on how 
+to measure and weight those factors. Reaching such agreement would be time-
+consuming and extremely difficult. It is far from clear that jurisdictions would 
+be willing to agree to a universal formula.
+
+1.23.  Even if some jurisdictions were willing to accept global formulary 
+apportionment, there would be disagreements because each jurisdiction may 
+want to emphasise or include different factors in the formula based on the 
+activities  or  factors  that  predominate  in  its  jurisdiction.  Each  jurisdiction 
+would  have  a  strong  incentive  to  devise  formulae  or  formula  weights 
+that  would  maximise  that  jurisdiction’s  own  revenue.  In  addition,  tax 
+administrations would have to consider jointly how to address the potential 
+for artificially shifting the production factors used in the formula (e.g. sales, 
+capital) to low tax jurisdiction. There could be tax avoidance to the extent 
+that  the  components  of  the  relevant  formula  can  be  manipulated,  e.g.  by 
+entering into unnecessary financial transactions, by the deliberate location of 
+mobile assets, by requiring that particular companies within an MNE group 
+maintain inventory levels in excess of what normally would be encountered 
+in an uncontrolled company of that type, and so on.
+
+1.24.  The transition to a global formulary apportionment system therefore 
+would present enormous political and administrative complexity and require 
+a level of international co-operation that is unrealistic to expect in the field 
+of i

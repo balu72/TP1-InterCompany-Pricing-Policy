@@ -1,0 +1,82 @@
+  taking  in  accepting  the 
+contingent liability and to reflect any value it is providing to the borrower 
+in  respect  of  the  guarantee.  However,  it  must  be  borne  in  mind  that  an 
+independent  guarantor’s  charges  will  in  part  reflect  costs  incurred  in  the 
+process of raising capital and in satisfying regulatory requirements. Those 
+are costs which associated enterprises might not incur.
+
+D.2.2. Yield approach
+10.174.  This  approach  quantifies  the  benefit  that  the  guaranteed  party 
+receives  from  the  guarantee  in  terms  of  lower  interest  rates.  The  method 
+calculates the spread between the interest rate that would have been payable 
+by the borrower without the guarantee and the interest rate payable with the 
+guarantee. The first step is to determine the interest rate that would have been 
+payable by the borrower on its own merits, taking into account the impact of 
+implicit support as a result of its group membership. See Section C.1.2.
+
+10.175.  The  next  step  would  be  to  determine,  by  a  similar  process  (unless 
+directly  observable  in  the  case  of  a  loan  from  a  third  party),  the  interest 
+rate  payable  with  the  benefit  of  the  explicit  guarantee.  The  interest  spread 
+can  be  used  in  quantifying  the  benefit  gained  by  the  borrower  as  a  result 
+of  the  guarantee.  In  determining  the  extent  of  the  benefit  provided  by  the 
+guarantee, it is important to distinguish the impact of an explicit guarantee 
+from the effects of any implicit support as a result of group membership. See 
+Example 2 in paragraph 1.187. The benefit to be priced is not the difference 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 439
+
+between the cost to the unguaranteed borrower on a stand-alone basis and 
+the cost with the explicit guarantee but the difference between the cost to the 
+borrower after taking into account the benefit of any implicit support and the 
+cost with the benefit of the explicit guarantee.
+
+10.176.  The  benefit  of  implicit  support  will  be  the  difference  between  the 
+borrowing terms attainable by the borrowing entity based on its credit rating 
+as  a  member  of  the  MNE  group  and  those  attainable  on  the  basis  of  the 
+stand-alone credit rating it would have had if it were an entirely unaffiliated 
+enterprise.  If  the  borrower  has  its  own  independent  credit  rating  from  an 
+unrelated credit rating agency, this will usually reflect its membership of the 
+MNE group and so ordinarily no adjustment would be needed to this credit 
+rating to reflect implicit support.
+
+10.177.  The result of this analysis sets a maximum fee for the guarantee (the 
+maximum amount that the recipient of the guarantee will be willing to pay), 
+namely, the difference between the interest rate with the guarantee and the 
+interest  rate  without  the  guarantee  but  with  the  benefit  of  implicit  support 
+(and taking into account any costs). The borrower would have no incentive 
+to enter into the guarantee arrangement if, in total, it pays the same to the 
+bank in interest and to the guarantor in fees as it would have paid to the bank 
+in interest without the guarantee. Therefore this maximum fee does not of 
+itself necessarily reflect the outcome of a bargain made at arm’s length but 
+represents the maximum that the borrower would be prepared to pay.
+
+D.2.3. Cost approach
+
+10.178.  This  method  aims  to  quantify  the  additional  risk  borne  by  the 
+guarantor  by  estimating  the  value  of  the  expected  loss  that  the  guarantor 
+incurs  by  providing  the  guarantee  (loss  given  default).  Alternatively  the 
+expected  cost  could  be  determined  by  reference  to  the  capital  required  to 
+support the risks assumed by the guarantor.
+
+10.179.  There are a number of possible models for estimating the expected 
+loss  and  capital  requirement.  Popular  pricing  models  for  this  approach 
+work  on  the  premise  that  financial  guarantees  are  equivalent  to  another 
+financial  instrument  and  pricing  the  alternative,  for  example,  treating  the 
+guarantee  as  a  put  option  and  using  option  pricing  models,  credit  default 
+swap  pricing  models,  etc.  For  instance,  publicly  available  data  of  credit 
+default swaps spreads may be used to approximate the default risk associated 
+to the borrowing and, therefore, the guarantee fee. When using this type of 
+data, the identification of the default event (e.g. bankruptcy) is central to the 
+comparability analysis between the controlled transaction and the potentially 
+comparable credit default swap (See Section C.1.2, on the reliability of credit 
+default swap data).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+440 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+10.180.  Pricing under each model will be sensitive to the assumptions made 
+in the modelling process. Whatever valuation model is used, the evaluation of 
+co

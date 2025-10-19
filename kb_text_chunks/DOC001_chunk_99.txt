@@ -1,0 +1,75 @@
+  them 
+when  they  do  arise  between  taxpayers  and  their  tax  administrations,  and 
+between different tax administrations. Such disputes may arise even though 
+the guidance in these Guidelines is followed in a conscientious effort to apply 
+the arm’s length principle. It is possible that taxpayers and tax administrations 
+may  reach  differing  determinations  of  the  arm’s  length  conditions  for  the 
+controlled  transactions  under  examination  given  the  complexity  of  some 
+transfer pricing issues and the difficulties in interpreting and evaluating the 
+circumstances of individual cases.
+
+4.2.  Where  two  or  more  tax  administrations  take  different  positions  in 
+determining  arm’s  length  conditions,  double  taxation  may  occur.  Double 
+taxation means the inclusion of the same income in the tax base by more than 
+one tax administration, when either the income is in the hands of different 
+taxpayers  (economic  double  taxation,  for  associated  enterprises)  or  the 
+income is in the hands of the same juridical entity (juridical double taxation, 
+for  permanent  establishments).  Double  taxation  is  undesirable  and  should 
+be  eliminated  whenever  possible,  because  it  constitutes  a  potential  barrier 
+to the development of international trade and investment flows. The double 
+inclusion of income in the tax base of more than one jurisdiction does not 
+always mean that the income will actually be taxed twice.
+
+4.3. 
+This chapter discusses several administrative approaches to resolving 
+disputes  caused  by  transfer  pricing  adjustments  and  for  avoiding  double 
+taxation.  Section  B  discusses  transfer  pricing  compliance  practices  by  tax 
+administrations,  in  particular  examination  practices,  the  burden  of  proof, 
+and  penalties.  Section  C  discusses  corresponding  adjustments  (Paragraph  2 
+of Article 9 of the OECD Model Tax Convention) and the mutual agreement 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+174 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+procedure  (Article  25).  Section  D  describes  the  use  of  simultaneous 
+tax  examinations  by  two  (or  more)  tax  administrations  to  expedite  the 
+identification,  processing,  and  resolution  of  transfer  pricing  issues  (and 
+other  international  tax  issues).  Sections  E  and  F  describe  some  possibilities 
+for  minimising  transfer  pricing  disputes  between  taxpayers  and  their  tax 
+administrations. Section E addresses the possibility of developing safe harbours 
+for certain taxpayers, and Section F deals with advance pricing arrangements, 
+which  address  the  possibility  of  determining  in  advance  a  transfer  pricing 
+methodology  or  conditions  for  the  taxpayer  to  apply  to  specified  controlled 
+transactions. Section G considers briefly the use of arbitration procedures to 
+resolve transfer pricing disputes between jurisdictions.
+
+B. Transfer pricing compliance practices
+
+Tax  compliance  practices  are  developed  and  implemented  in  each 
+4.4. 
+jurisdiction  according  to  its  own  domestic  legislation  and  administrative 
+procedures. Many domestic tax compliance practices have three main elements: 
+a)  to  reduce  opportunities  for  non-compliance  (e.g.  through  withholding 
+taxes  and  information  reporting);  b)  to  provide  positive  assistance  for 
+compliance (e.g. through education and published guidance); and, c) to provide 
+disincentives for non-compliance. As a matter of domestic sovereignty and to 
+accommodate the particularities of widely varying tax systems, tax compliance 
+practices remain within the province of each jurisdiction. Nevertheless a fair 
+application  of  the  arm’s  length  principle  requires  clear  procedural  rules  to 
+ensure adequate protection of the taxpayer and to make sure that tax revenue 
+is  not  shifted  to  jurisdictions  with  overly  harsh  procedural  rules.  However, 
+when a taxpayer under examination in one jurisdiction is a member of an MNE 
+group, it is possible that the domestic tax compliance practices in a jurisdiction 
+examining a taxpayer will have consequences in other tax jurisdictions. This 
+may  be  particularly  the  case  when  cross-border  transfer  pricing  issues  are 
+involved,  because  the  transfer  pricing  has  implications  for  the  tax  collected 
+in the tax jurisdictions of the associated enterprises involved in the controlled 
+transaction.  If  the  same  transfer  pricing  is  not  accepted  in  the  other  tax 
+jurisdictions, the MNE group may be subject to double taxation as explained 
+in paragraph 4.2. Thus, tax administrations should be conscious of the arm’s 
+length  principle  when  applying  their  domestic  compliance  practices  and  the 
+potential  implications  of  their  transfer  pricing  compliance  rules  for  other 
+tax jurisdictions, and seek to facilitate both the equitable allocation of taxes 
+between jurisdictions and the prevention of double taxa

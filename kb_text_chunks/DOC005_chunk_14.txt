@@ -1,0 +1,214 @@
+                     
+                                    View All 
+                             
+                         
+                     
+                 
+
+                
+
+                 
+                     
+                         
+                         
+                            Tax Information
+                         
+                         
+                            Click to view Tax Information
+                         
+                     
+
+                     
+                         
+                             
+
+                                 
+                                     
+                                    Booklets 
+                             
+
+                             
+                                 
+                                     
+                                    Pamphlets 
+
+                             
+                         
+                     
+                 
+
+                 
+                     
+                         
+                         
+                            Tax Exempted Institutions
+                         
+                         
+                            Click to view the institutions registered under section 80G, 12 A and more
+                         
+                     
+
+                 
+                
+
+                 
+                     
+                         
+                         
+                            Tax Offices
+                         
+                         
+                            Click to view Tax Office in India
+                         
+                     
+
+                 
+
+                
+
+
+                 
+                     
+                         
+                         
+                            Tax Helpline
+                         
+                         
+                            Click to view Tax Helpline
+                         
+                     
+                 
+
+
+                
+
+                
+             
+         
+         
+         
+     
+ 
+
+			 
+		 
+	 
+ 
+				 
+             
+			 
+				 
+					 
+	 
+		 
+			 
+				
+
+ 
+ 
+
+     
+         
+             
+             Transfer Pricing              
+         
+
+         
+             
+                 
+                 
+                     
+                         
+                     
+                                 
+             
+         
+     
+
+     
+     
+         
+         
+
+             Pages  
+             
+                 
+                                             
+                         1.  Introduction 2.  Applicability of Transfer Pricing provisions 3.  Computation of income from international transaction or SDT having regard to arms length price 4.  Definition of Associated Enterprises 5.  Definition of International Transaction 6.  Definition of Specified Domestic Transaction (SDT) 7.  Computation of Arms Length Price 8.  Computation of ALP by TPO 9.  Power of Board to Make Safe Harbour Rules 10.  Secondary adjustments in certain cases 11.  Obligation of assessees to maintain Transfer Pricing Documentation 12.  Report from an accountant to be obtained by person who enters into IT or SDT 13.  Thin Capitalisation Adjustments 14. Advance Pricing Agreement Scheme 
+                        
+                     
+                 
+             
+
+             
+             
+            
+         
+
+         
+             
+             
+                 
+             
+             
+            
+             
+                 
+                     
+                         
+                     
+                 
+             
+             
+             
+             
+         
+     
+ 
+
+ 
+    function resulationWiseHome() {
+        if ($(this).width() > 768) {
+
+        }
+        else {
+            $(".DIT_Page_Tab_Left_Menu").on('click', 'a', function () {
+                $(".innerpagesmobilemenu").hide();
+            });
+        }
+    }
+
+    $(document).ready(function () {
+        resulationWiseHome();
+    });
+
+    $(window).resize(function () {
+        resulationWiseHome();
+    });
+ 
+ 
+ 
+    $(document).ready(function () {
+        var menuftxt = $(".DIT_Page_Tab_Left_Menu ul li:first-child a").text();
+        $("#mobile-sub-menu1").text(menuftxt);
+
+        var menuftxtb = $(".DIT_Page_Tab_Left_Menu_Expand .excollapse-info-row:first-child h4.DIT_Menu_head1").text();
+        $("#mobile-sub-menu2").text(menuftxtb);        
+
+        $(".DIT_Page_Tab_Left_Menu").on('click', 'a', function () {
+            $("#mobile-sub-menu1").text($(this).text());
+           
+        });
+
+        $(".DIT_Page_Tab_Left_Menu_Expand").on('click', 'h4.DIT_Menu_head1', function () {
+            $("#mobile-sub-menu2").text($(this).text());
+        });
+
+        $(".DIT_Page_Tab_Left_Menu_Expand .excollapse-info ul li").on('click', 'a', function () {
+            $("#mobile-sub-menu2inner").text($(this).text());
+        });
+    });
+
+
+    function collapserow(ex, icon) {
+        $('#' + ex).slid

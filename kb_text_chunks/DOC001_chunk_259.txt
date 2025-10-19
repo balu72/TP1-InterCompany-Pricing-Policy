@@ -1,0 +1,91 @@
+st method sets a minimum fee for the guarantee (the minimum amount that 
+the provider of the guarantee will be willing to accept) and does not of itself 
+necessarily reflect the outcome of a bargain made at arm’s length. The arm’s 
+length  amount  should  be  derived  from  a  consideration  of  the  perspectives 
+(taking  into  account  options  realistically  available)  of  the  borrower  and 
+guarantor.
+
+D.2.4. Valuation of expected loss approach
+
+10.181.  The valuation of expected loss method would estimate the value of 
+a guarantee on the basis of calculating the probability of default and making 
+adjustments to account for the expected recovery rate in the event of default. 
+This would then be applied to the nominal amount guaranteed to arrive at a 
+cost of providing the guarantee. The guarantee could then be priced based 
+on an expected return on this amount of capital based on commercial pricing 
+models such as the Capital Asset Pricing Model (CAPM).
+
+D.2.5. Capital support method
+
+10.182.  The  capital  support  method  may  be  suitable  where  the  difference 
+between  the  guarantor’s  and  borrower’s  risk  profiles  could  be  addressed 
+by  introducing  more  capital  to  the  borrower’s  balance  sheet.  It  would  be 
+first  necessary  to  determine  the  credit  rating  for  the  borrower  without  the 
+guarantee  (but  with  implicit  support)  and  then  to  identify  the  amount  of 
+additional  notional  capital  required  to  bring  the  borrower  up  to  the  credit 
+rating  of  the  guarantor.  The  guarantee  could  then  be  priced  based  on  an 
+expected return on this amount of capital to the extent that the expected return 
+so used appropriately reflects only the results or consequences of the provision 
+of the guarantee rather than the overall activities of the guarantor-enterprise.
+
+D.3. Examples
+
+10.183.  The following examples build on the principles discussed in Section D.8 
+of Chapter I, in particular in paragraph 1.187.
+
+D.3.1. Example 1
+
+10.184.  Company M, the parent entity of an MNE group, maintains an AAA 
+credit rating based on the strength of the MNE group’s consolidated balance 
+sheet. Company D, a member of the same MNE group, has a credit rating of 
+only BBB on a stand-alone basis, and needs to borrow EUR 10 million from 
+an independent lender.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 441
+
+10.185.  Assume that the accurate delineation of the actual transaction shows 
+that  the  effect  of  passive  association  raises  Company  D’s  credit  standing 
+from BBB to A, and that the provision of the explicit guarantee additionally 
+enhances  the  credit  standing  of  Company  D  to  AAA.  Assume  further  that 
+independent lenders charge an interest rate of 8% to entities with a credit rating 
+of A, and of 6% to entities with a credit rating of AAA. Assume further that 
+Company M charges Company D a fee of 3% for the provision of the guarantee 
+so the guarantee fee more than completely offsets the benefit of Company D’s 
+enhanced credit standing derived from the provision of such guarantee.
+
+10.186.  In that situation, the analysis under Chapter I may indicate that an 
+independent enterprise borrowing under the same conditions as Company D 
+would not be expected to pay a guarantee fee of 3% to Company M for the 
+provision  of  the  explicit  guarantee  since  Company  D  is  better  off  in  the 
+absence of the guarantee.
+
+D.3.2. Example 2
+
+10.187.  Consider the same fact pattern as described in Example 1, but in this 
+case assume that under the guidance in Section D.2, comparable uncontrolled 
+transactions  can  be  identified  showing  that  the  arm’s  length  price  of  a 
+comparable guarantee would be in the range of 1% to 1.5%.
+
+10.188.  The accurate delineation of the actual transaction indicates that the 
+enhancement of Company D’s credit standing from A to AAA is attributable 
+to  a  deliberate  concerted  group  action,  i.e.  the  guarantee  provided  by 
+Company M. Company D would be expected to be willing to pay an arm’s 
+length guarantee fee to Company M for the provision of the explicit guarantee 
+since Company D is better off than in the absence of the guarantee.
+
+E. Captive insurance
+
+E.1. Definition and rationale for a captive insurance and reinsurance
+
+10.189.  There  are  many  ways  that  MNE  groups  may  manage  risks  within 
+the  group.  For  example,  they  may  choose  to  set  aside  funds  in  reserves, 
+pre-fund  potential  future  losses,  self-insure,  acquire  insurance  from  third 
+parties or simply elect to retain the specific risk. In some other cases an MNE 
+group may choose to consolidate certain risks through a so-called “captive” 
+insurance.
+
+10.190.  In this guidance, the term captive insurance is intended to refer to an 
+insurance undertaking or entity substantially all of whose insurance business 
+is  to  provide  insurance  policies  for  risks  of  entities  of  the  MNE  grou

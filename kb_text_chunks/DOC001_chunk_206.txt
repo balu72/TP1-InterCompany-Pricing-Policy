@@ -1,0 +1,84 @@
+enefits of 
+a CCA consist of a right in an intangible that is hard to value at the start of 
+the development project or if pre-existing intangibles that are hard to value 
+are part of the contributions to the CCA project, the guidance in Sections D.3 
+and D.4 of Chapter VI on hard-to-value intangibles is applicable to value the 
+contributions of each of the participants to the CCA.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+350 – CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS
+
+C.5. Balancing payments
+
+8.34.  A CCA will be considered consistent with the arm’s length principle 
+where  the  value  of  each  participant’s  proportionate  share  of  the  overall 
+contributions  to  the  arrangement  (taking  into  account  any  balancing 
+payments  already  made)  is  consistent  with  the  participant’s  share  of  the 
+overall expected benefits to be received under the arrangement. Where the 
+value of a participant’s share of overall contributions under a CCA at the time 
+the contributions are made is not consistent with that participant’s share of 
+expected benefits under the CCA, the contributions made by at least one of 
+the participants will be inadequate, and the contributions made by at least one 
+other participant will be excessive. In such a case, the arm’s length principle 
+would generally require that an adjustment be made. This will generally take 
+the form of an adjustment to the contribution through making or imputing a 
+(further) balancing payment. Such balancing payments increase the value of 
+the contributions of the payor and decrease that of the payee.
+
+8.35.  Balancing payments may be made by participants to “top up” the value 
+of  the  contributions  when  their  proportionate  contributions  are  lower  than 
+their proportionate expected benefits. Such adjustments may be anticipated by 
+the participants upon entering into the CCA, or may be the result of periodic 
+re-evaluation of their share of the expected benefits and/or the value of their 
+contributions (see paragraph 8.22).
+
+8.36.  Balancing  payments  may  also  be  required  by  tax  administrations 
+where  the  value  of  a  participant’s  proportionate  contributions  of  property 
+or  services  at  the  time  the  contribution  was  made  has  been  incorrectly 
+determined, or where the participants’ proportionate expected benefits have 
+been incorrectly assessed, e.g. where the allocation key when fixed or adjusted 
+for  changed  circumstances  was  not  adequately  reflective  of  proportionate 
+expected  benefits.  Normally  the  adjustment  would  be  made  by  a  balancing 
+payment from one or more participants to another being made or imputed for 
+the period in question.
+
+In  the  case  of  development  CCAs,  variations  between  a  participant’s 
+8.37. 
+proportionate  share  of  the  overall  contributions  and  that  participant’s 
+proportionate share of the overall expected benefits may occur in a particular 
+year. If that CCA is otherwise acceptable and carried out faithfully, having regard 
+to  the  recommendations  of  Section  E,  tax  administrations  should  generally 
+refrain from making an adjustment based on the results of a single fiscal year. 
+Consideration should be given to whether each participant’s proportionate share 
+of the overall contributions is consistent with the participant’s proportionate share 
+of  the  overall  expected  benefits  from  the  arrangement  over  a  period  of  years 
+(see paragraphs 3.75-3.79). Separate balancing payments might be made for pre-
+existing contributions and for current contributions, respectively. Alternatively, 
+it might be more reliable or administrable to make an overall balancing payment 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS – 351
+
+relating to pre-existing contributions and current contributions collectively. See 
+Example 4 in the Annex to this chapter.
+
+8.38. 
+In the example in paragraph 8.33, the participants, Companies A and 
+B, expect to benefit from the CCA in the ratio 75:25. In the first year the value 
+of their pre-existing contributions is 10 million for Company A and 6 million 
+for Company B. As a result, a net balancing payment is required to be made 
+to Company B by Company A of 2 million (i.e. 4.5 million from Company A 
+to Company B less 2.5 million from Company B to Company A) in order to 
+increase Company A’s contribution to 12 million (75% of the total contributions) 
+and reducing Company B’s contribution to 4 million (25% of the total).
+
+C.6. Accurately delineating the actual transaction
+
+8.39.  As indicated in paragraph 8.9, the economically relevant characteristics 
+of the arrangement identified under the guidance in Section D of Chapter I 
+may indicate that the actual transaction differs from the terms of the CCA 
+purportedly  agreed  by  the  participants.  For  example,  one  or  more  of  the 
+claimed participants may not have any reasonable expectation of benefit from 
+the CCA ac

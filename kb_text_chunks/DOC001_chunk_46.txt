@@ -1,0 +1,81 @@
+hasing  power  and  product  preferences  of 
+households in that market, whether the market is expanding or contracting, 
+the degree of competition in the market and other similar factors affect prices 
+and margins that can be realised in the market. Similarly, the comparability 
+and  functional  analysis  conducted  in  connection  with  a  particular  matter 
+may  suggest  that  the  relative  availability  of  local  country  infrastructure, 
+the relative availability of a pool of trained or educated workers, proximity 
+to  profitable  markets,  and  similar  features  in  a  geographic  market  where 
+business  operations  occur  create  market  advantages  or  disadvantages  that 
+should be taken into account. Appropriate comparability adjustments should 
+be  made  to  account  for  such  factors  where  reliable  adjustments  that  will 
+improve comparability can be identified.
+
+1.165. 
+In assessing whether comparability adjustments for such local market 
+features  are  required,  the  most  reliable  approach  will  be  to  refer  to  data 
+regarding  comparable  uncontrolled  transactions  in  that  geographic  market 
+between  independent  enterprises  performing  similar  functions,  assuming 
+similar risks, and using similar assets. Such transactions are carried out under 
+the same market conditions as the controlled transaction, and, accordingly, 
+where comparable transactions in the local market can be identified, specific 
+adjustments for features of the local market should not be required.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 83
+
+1.166. 
+In  situations  where  reasonably  reliable  local  market  comparables 
+cannot  be  identified,  the  determination  of  appropriate  comparability 
+adjustments for features of the local market should consider all of the relevant 
+facts and circumstances. As with location savings, in each case where reliable 
+local  market  comparables  cannot  be  identified,  it  is  necessary  to  consider 
+(i) whether a market advantage or disadvantage exists, (ii) the amount of any 
+increase or decrease in revenues, costs or profits, vis-à-vis those of identified 
+comparables  from  other  markets,  that  are  attributable  to  the  local  market 
+advantage or disadvantage, (iii) the degree to which benefits or burdens of 
+local market features are passed on to independent customers or suppliers, 
+and (iv) where benefits or burdens attributable to local market features exist 
+and are not fully passed on to independent customers or suppliers, the manner 
+in  which  independent  enterprises  operating  under  similar  circumstances 
+would allocate such net benefits or burdens between them.
+
+1.167.  The need for comparability adjustments related to features of the local 
+market in cases where reasonably reliable local market comparables cannot 
+be identified may arise in several different contexts. In some circumstances, 
+market advantages or disadvantages may affect arm’s length prices of goods 
+transferred or services provided between associated enterprises.
+
+1.168. 
+In  other  circumstances,  a  business  restructuring  or  the  transfer  of 
+intangibles between associated enterprises may make it possible for one party 
+to the transaction to gain the benefit of local market advantages or require 
+that party to assume the burden of local market disadvantages in a manner 
+that would not have been possible in the absence of the business restructuring 
+or transfer of the intangibles. In such circumstances, the anticipated existence 
+of  local  market  advantages  and  disadvantages  may  affect  the  arm’s  length 
+price paid in connection with the business restructuring or intangible transfer.
+
+1.169. 
+In conducting a transfer pricing analysis it is important to distinguish 
+between  features  of  the  local  market,  which  are  not  intangibles,  and  any 
+contractual rights, government licences, or know-how necessary to exploit 
+that  market,  which  may  be  intangibles.  Depending  on  the  circumstances, 
+these types of intangibles may have substantial value that  should be taken 
+into  account  in  a  transfer  pricing  analysis  in  the  manner  described  in 
+Chapter  VI,  including  the  guidance  on  rewarding  entities  for  functions, 
+assets  and  risks  associated  with  the  development  of  intangibles  contained 
+in Section B of Chapter VI. In some circumstances, contractual rights and 
+government licences may limit access of competitors to a particular market 
+and may therefore affect the manner in which the economic consequences of 
+local market features are shared between parties to a particular transaction. 
+In other circumstances, contractual rights or government licences to access 
+a market may be available to many or all potential market entrants with little 
+restriction.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+84 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+1.170.  For example, a country may r

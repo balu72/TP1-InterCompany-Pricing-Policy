@@ -1,0 +1,89 @@
+utsourcing cases, it may happen that a party voluntarily decides 
+to undergo a restructuring and to bear the associated restructuring costs in 
+exchange  for  anticipated  savings.  For  instance,  assume  a  taxpayer  that  is 
+manufacturing  and  selling  products  in  a  high-cost  jurisdiction  decides  to 
+outsource  the  manufacturing  activity  to  an  associated  enterprise  situated 
+in  a  low-cost  jurisdiction.  Further  to  the  restructuring,  the  taxpayer  will 
+purchase from its associated enterprise the products manufactured and will 
+continue to sell them to third party customers. The restructuring may entail 
+restructuring costs for the taxpayer while at the same time making it possible 
+for it to benefit from cost savings on future procurements compared to its 
+own  manufacturing  costs.  Independent  parties  implementing  this  type  of 
+outsourcing arrangement may not necessarily require explicit compensation 
+from  the  transferee,  for  example,  where  the  anticipated  benefits  for  the 
+transferor are greater than its restructuring costs.4
+
+F.  Indemnification of the restructured entity for the termination or 
+
+substantial renegotiation of existing arrangements
+
+9.75. 
+Section F addresses the question of whether the restructured entity, 
+at arm’s length, should receive compensation, in the form of indemnification, 
+upon the termination or substantial renegotiation of its existing arrangements, 
+which may or may not involve a transfer of something of value (addressed in 
+the previous section). For the purpose of this chapter, indemnification means 
+any  type  of  compensation  that  may  be  paid  for  detriments  suffered  by  the 
+
+4. 
+
+A further issue discussed in Section D.6 of  Chapter I and Section E of Part II 
+of  this  Chapter  is  whether  and  if  so  how  location  savings  should  be  allocated 
+between the parties at arm’s length.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+384 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+restructured entity, whether in the form of an up-front payment, of a sharing 
+in  restructuring  costs,  of  lower  (or  higher)  purchase  (or  sale)  prices  in  the 
+context of the post-restructuring operations, or of any other form.
+
+9.76.  Terminations  or  renegotiations  of  arrangements  generally  involve 
+changes in the risk and functional profiles of the parties, with consequences 
+for the allocation of profit potential between them. In addition, the termination 
+or  renegotiation  of  contractual  relationships  in  the  context  of  a  business 
+restructuring  might  cause  the  restructured  entity  to  suffer  detriments  such 
+as  restructuring  costs  (e.g.  write-off  of  assets,  termination  of  employment 
+contracts), re-conversion costs (e.g. in order to adapt its existing operation to 
+other customer needs), and/or a loss of profit potential. In these situations, the 
+question arises of whether, at arm’s length, indemnification should be paid to 
+the restructured entity, and if so how to determine such an indemnification.
+
+9.77.  When  the  termination  or  renegotiation  of  existing  arrangements 
+involves the transfer of something of value (e.g. the termination of a distribution 
+contract is sometimes accompanied by a transfer of intangibles), the guidance 
+in  Section  E  applies  to  the  transfer  of  something  of  value,  and  this  section 
+considers whether further compensation may be warranted for any detriments 
+suffered.
+
+9.78.  There  should  be  no  presumption  that  all  contract  terminations  or 
+substantial renegotiations should give a right to indemnification at arm’s length, 
+as this will depend on the facts and circumstances of each case. The analysis 
+of whether an indemnification would be warranted at arm’s length should be 
+made on the basis of the accurate delineation of the arrangements before and 
+after the restructuring (based on the guidance in Section D.1 of Chapter I and 
+Section B.1 of this Part) and the options realistically available to the parties.
+
+9.79.  Once the restructuring arrangements have been accurately delineated 
+and the options realistically available to the parties have been assessed, the 
+following aspects should be considered:
+
+•  Whether commercial law supports rights to indemnification for the 
+restructured entity under the facts of the case as accurately delineated 
+(see Section F.1 below);
+
+•  Whether  the  existence  or  absence  of  an  indemnification  clause  or 
+similar  provisions  (as  well  as  the  terms  of  such  a  clause  where  it 
+exists) under the terms of the arrangement, as accurately delineated, 
+is arm’s length (see Section F.2 below).
+
+•  Which  party  should  ultimately  bear  the  costs  related  to  the 
+indemnification  of  the  party  that  suffers  from  the  termination  or 
+re-negotiation of the agreement (see Section F.3 below).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 385
+
+F.1.  Whether commercia

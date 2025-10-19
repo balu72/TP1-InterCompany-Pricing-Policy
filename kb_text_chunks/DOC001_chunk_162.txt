@@ -1,0 +1,83 @@
+les.  The  active  pharmaceutical  ingredient 
+may  be  protected  by  one  or  more  patents.  The  product  will  also  have  been 
+through  a  testing  process  and  a  government  regulatory  authority  may  have 
+issued an approval to market the product in a given geographic market and 
+for specific approved indications based on that testing. The product may be 
+marketed under a particular trademark. In combination these intangibles may 
+be extremely valuable. In isolation, one or more of them may have much less 
+value. For example, the trademark without the patent and regulatory marketing 
+approval may have limited value since the product could not be sold without 
+the marketing approval and generic competitors could not be excluded from 
+the market without the patent. Similarly, the value of the patent may be much 
+greater once regulatory marketing approval has been obtained than would be 
+the case in the absence of the marketing approval. The interactions between 
+each  of  these  classes  of  intangibles,  as  well  as  which  parties  performed 
+functions,  bore  the  risks  and  incurred  the  costs  associated  with  securing 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 277
+
+the intangibles, are therefore very important in performing a transfer pricing 
+analysis with regard to a transfer of the intangibles. It is important to consider 
+the relative contribution to value creation where different associated enterprises 
+hold rights in the intangibles used.
+
+6.95.  A second and related issue involves the importance of ensuring that 
+all intangibles transferred in a particular transaction have been identified. It 
+may be the case, for example, that intangibles are so intertwined that it is not 
+possible, as a substantive matter, to transfer one without transferring the other. 
+Indeed, it will often be the case that a transfer of one intangible will necessarily 
+imply the transfer of other intangibles. In such cases it is important to identify 
+all of the intangibles made available to the transferee as a consequence of an 
+intangibles transfer, applying the principles of Section D.1 of Chapter I. For 
+example, the transfer of rights to use a trademark under a licence agreement 
+will  usually  also  imply  the  licensing  of  the  reputational  value,  sometimes 
+referred to as goodwill, associated with that trademark, where it is the licensor 
+who has built up such goodwill. Any licence fee required should consider both 
+the trademark and the associated reputational value. Example 20 in Annex I to 
+Chapter VI illustrates the principles of this paragraph.
+
+It is important to identify situations where taxpayers or tax administrations 
+6.96. 
+may  seek  to  artificially  separate  intangibles  that,  as  a  matter  of  substance, 
+independent parties would not separate in comparable circumstances. For example, 
+attempts to artificially separate trademarks or trade names from the goodwill or 
+reputational value that is factually associated with the trademark or trade name 
+should be identified and critically analysed. Example 21 in Annex I to Chapter VI 
+illustrates the principles of this paragraph.
+
+6.97. 
+It  should  be  recognised  that  the  process  of  identifying  all  of  the 
+intangibles transferred in a particular transaction is an exercise of identifying, 
+by reference to written agreements and the actual conduct of the parties, the 
+actual  transactions  that  have  been  undertaken,  applying  the  principles  of 
+Section D.1 of Chapter I.
+
+C.1.3.  Transfers of intangibles or rights in intangibles in combination 
+
+with other business transactions
+
+6.98. 
+In some situations intangibles or rights in intangibles may be transferred 
+in combination with tangible business assets, or in combination with services. 
+It is important in such a situation to determine whether intangibles have in fact 
+been  transferred  in  connection  with  the  transaction.  It  is  also  important  that 
+all of the intangibles transferred in connection with a particular transaction be 
+identified and taken into account in the transfer pricing analysis. Examples 23 to 
+25 in Annex I to Chapter VI illustrate the principles of this paragraph.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+278 – CHAPTER VI: INTANGIBLES
+
+6.99. 
+In some situations it may be both possible and appropriate to separate 
+transactions  in  tangible  goods  or  services  from  transfers  of  intangibles  or 
+rights in intangibles for purposes of conducting a transfer pricing analysis. 
+In these situations, the price of a package contract should be disaggregated 
+in  order  to  confirm  that  each  element  of  the  transaction  is  consistent  with 
+the  arm’s  length  principle.  In  other  situations  transactions  may  be  so 
+closely related that it will be difficult to segregate tangible goods or service 
+transactions from transfers of intangibles or rights in intangibles. Reliability 
+of available comparables w

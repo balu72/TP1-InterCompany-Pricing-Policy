@@ -1,0 +1,88 @@
+uncil for 
+publication on 22 July 2010.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 361
+
+Part I: Arm’s length compensation for the 
+restructuring itself
+
+A. Introduction
+
+9.10.  A business restructuring may involve cross-border transfers of something 
+of value, e.g. of valuable intangibles, although this is not always the case. It may 
+also or alternatively involve the termination or substantial renegotiation of existing 
+arrangements,  e.g.  manufacturing  arrangements,  distribution  arrangements, 
+licences, service agreements, etc. The first step in analysing the transfer pricing 
+aspects of a business restructuring is to accurately delineate the transactions that 
+comprise the business restructuring by identifying the commercial or financial 
+relations and the conditions attached to those relations that lead to a transfer of 
+value among the members of the MNE group. This is discussed in Section B. 
+Section  C  discusses  the  recognition  of  accurately  delineated  transactions  that 
+comprise  the  business  restructuring.  The  relationship  between  a  business 
+restructuring and the reallocation of profit potential is addressed in Section D. The 
+transfer pricing consequences of the transfer of something of value are discussed 
+in Section E of this part and the transfer pricing consequences of the termination 
+or substantial renegotiation of existing arrangements are discussed in Section F.
+
+For transfer pricing purposes, the aim of the analysis is to determine 
+9.11. 
+whether,  under  Article  9  of  the  OECD  Model  Tax  Convention,  conditions 
+have  been  made  or  imposed  in  transactions  comprising  a  business 
+restructuring that differ from those that would be made or imposed between 
+independent enterprises; and, if so, to determine the profits which would, but 
+for those condi tions, have accrued to one of the enterprises, but, by reason of 
+those conditions, have not so ac crued, and include them in the prof its of that 
+enterprise and tax them accordingly.
+
+9.12.  The arm’s length principle requires an evaluation of the conditions 
+made or imposed between associated enterprises, at the level of each of them. 
+The fact that a business restructuring may be motivated by sound commercial 
+reasons at the level of the MNE group, e.g. in order to try to derive synergies 
+at a group level, does not answer the question whether it is arm’s length from 
+the perspectives of each of the restructured entities.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+362 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+B. Understanding the restructuring itself
+
+The application of the arm’s length principle to a business restructuring 
+9.13. 
+must  start,  as  for  any  controlled  transaction,  with  the  identification  of  the 
+commercial or financial relations between the associated enterprises involved 
+in  the  business  restructuring  and  the  conditions  and  economically  relevant 
+circumstances attaching to those relations so that the controlled transactions 
+comprising the business restructuring are accurately delineated. In this regard, 
+the general guidance in Section D.1 of Chapter I is applicable. This guidance 
+requires the examination of the economically relevant characteristics of the 
+commercial or financial relations between the associated enterprises, and in 
+particular the contractual terms of the business restructuring (Section D.1.1); 
+the  functions  performed  by  each  party  to  the  restructuring,  before  and 
+after  the  restructuring,  taking  into  account  assets  used  and  risks  assumed 
+(Section  D.1.2);  the  economic  circumstances  of  the  parties  (Section  D.1.4) 
+and  business  strategies  (Section  D.1.5).  In  addition,  the  analysis  should 
+be  informed  by  a  review  of  the  business  reasons  for  and  the  expected 
+benefits  from  the  restructuring,  including  the  role  of  synergies,  and  the 
+options  realistically  available  to  the  parties.  As  stated  in  paragraph  1.33, 
+these conditions and economically relevant circumstances of the accurately 
+delineated transactions that comprise the business restructuring will then be 
+compared  with  the  conditions  and  economically  relevant  circumstances  of 
+comparable transactions between independent enterprises.
+
+9.14.  Aspects of identifying the commercial or financial relations between 
+the parties which are particularly relevant to determining the arm’s length 
+conditions of business restructurings, are analysed in the following sections:
+
+•  The accurate delineation of the transactions comprising the business 
+restructuring and the functions, assets and risks before and after the 
+restructuring (see Section B.1);
+
+•  The  business  reasons  for  and  the  expected  benefits  from  the 
+restructuring, including the role of synergies (see Section B.2);
+
+•  The other options realistically available to the parties (see Section B.3).
+
+B.1.  Accurate delineatio

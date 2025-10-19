@@ -1,0 +1,79 @@
+le arm’s length arrangements.
+
+1.54.  The functional analysis should consider the type of assets used, such 
+as plant and equipment, the use of valuable intangibles, financial assets, etc., 
+and  the  nature  of  the  assets  used,  such  as  the  age,  market  value,  location, 
+property right protections available, etc.
+
+1.55.  The functional analysis may show that the MNE group has fragmented 
+highly  integrated  functions  across  several  group  companies.  There  may 
+be  considerable  interdependencies  between  the  fragmented  activities.  For 
+example, the separation into different legal entities of logistics, warehousing, 
+marketing,  and  sales  functions  may  require  considerable  co-ordination  in 
+order that the separate activities interact effectively. Sales activities are likely 
+to  be  highly  dependent  on  marketing,  and  fulfilment  of  sales,  including  the 
+anticipated  impact  of  marketing  activities,  would  require  alignment  with 
+stocking processes and logistics capability. That required co-ordination may 
+be  performed  by  some  or  all  of  the  associated  enterprises  performing  the 
+fragmented  activities,  performed  through  a  separate  co-ordination  function, 
+or performed through a combination of both. Risk may be mitigated through 
+contributions  from  all  the  parties,  or  risk  mitigation  activities  may  be 
+undertaken mainly by the co-ordination function. Therefore, when conducting 
+a  functional  analysis  to  identify  the  commercial  or  financial  relations  in 
+fragmented activities, it will be important to determine whether those activities 
+are highly interdependent, and, if so, the nature of the interdependencies and 
+how the commercial activity to which the associated enterprises contribute is 
+co-ordinated.
+
+D.1.2.1. Analysis of risks in commercial or financial relations1
+
+1.56.  A  functional  analysis  is  incomplete  unless  the  material  risks 
+assumed by each party have been identified and considered since the actual 
+assumption  of  risks  would  influence  the  prices  and  other  conditions  of 
+
+1. 
+
+The  guidance  in  this  chapter,  and  in  this  section  on  risk  in  particular,  is  not 
+specific to any particular industry sector. While the basic concept that a party 
+bearing risks must have the ability to effectively deal with those risks applies 
+to insurance, banking, and other financial services businesses, these regulated 
+sectors  are  required  to  follow  rules  prescribing  arrangements  for  risks,  and 
+how risks are recognised, measured, and disclosed. The regulatory approach to 
+risk allocation for regulated entities should be taken into account and reference 
+made  as  appropriate  to  the  transfer  pricing  guidance  specific  to  financial 
+services  businesses  in  the  Report  on  the  Attribution  of  Profits  to  Permanent 
+Establishments (OECD, 2010).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+48 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+transactions between the associated enterprises. Usually, in the open market, 
+the assumption of increased risk would also be compensated by an increase 
+in the expected return, although the actual return may or may not increase 
+depending on the degree to which the risks are actually realised. The level and 
+assumption  of  risk,  therefore,  are  economically  relevant  characteristics  that 
+can be significant in determining the outcome of a transfer pricing analysis.
+
+1.57.  Risk  is  inherent  in  business  activities.  Enterprises  undertake 
+commercial activities because they seek opportunities to make profits, but 
+those opportunities carry uncertainty that the required resources to pursue 
+the  opportunities  either  will  be  greater  than  expected  or  will  not  generate 
+the  expected  returns.  Identifying  risks  goes  hand  in  hand  with  identifying 
+functions  and  assets  and  is  integral  to  the  process  of  identifying  the 
+commercial or financial relations between the associated enterprises and of 
+accurately delineating the transaction or transactions.
+
+1.58.  The assumption of risks associated with a commercial opportunity 
+affects  the  profit  potential  of  that  opportunity  in  the  open  market,  and 
+the  allocation  of  risks  assumed  between  the  parties  to  the  arrangement 
+affects how profits or losses resulting from the transaction are allocated at 
+arm’s  length  through  the  pricing  of  the  transaction.  Therefore,  in  making 
+comparisons between controlled and uncontrolled transactions and between 
+controlled  and  uncontrolled  parties  it  is  necessary  to  analyse  what  risks 
+have  been  assumed,  what  functions  are  performed  that  relate  to  or  affect 
+the  assumption  or  impact  of  these  risks  and  which  party  or  parties  to  the 
+transaction assume these risks.
+
+1.59.  This  section  provides  guidance  on  the  nature  and  sources  of  risk 
+relevant to a transfer pricing analysis in order 

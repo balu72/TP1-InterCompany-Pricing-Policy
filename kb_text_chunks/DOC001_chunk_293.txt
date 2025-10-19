@@ -1,0 +1,84 @@
+ransactions 
+take  place.  The  term  APA  refers  to  a  procedural  arrangement  between  a 
+taxpayer or taxpayers and a tax administration intended to resolve potential 
+transfer pricing disputes in advance. The APA differs from the classic ruling 
+procedure, in that it requires the detailed review and to the extent appropriate, 
+verification  of  the  factual  assumptions  on  which  the  determination  of 
+legal  consequences  is  based,  before  any  such  determination  can  be  made. 
+Further, the APA provides for a continual monitoring of whether the factual 
+assumptions remain valid throughout the course of the APA period.
+
+An  APA  is  defined  in  the  first  sentence  of  paragraph  4.134  of  the 
+4. 
+Guidelines  as  “an  arrangement  that  determines,  in  advance  of  controlled 
+transactions,  an  appropriate  set  of  criteria  (e.g.  method,  comparables  and 
+appropriate  adjustments  thereto,  critical  assumptions  as  to  future  events) 
+for  the  determination  of  the  transfer  pricing  for  those  transactions  over  a 
+fixed period of time.” It is also stated in paragraph 4.142 that “The concept 
+of APAs also may be useful in resolving issues raised under Article 7 of the 
+OECD  Model  Tax  Convention  relating  to  allocation  problems,  permanent 
+establishments, and branch operations.”
+
+5. 
+In  the  Guidelines  (see  paragraph  4.140)  the  arrangements  solely 
+between a taxpayer or taxpayers and a tax administration are referred to as 
+“unilateral APAs”. The Guidelines encourage bilateral APAs and recommend 
+in  paragraph  4.173  that  “Wherever  possible,  an  APA  should  be  concluded 
+on  a  bilateral  or  multilateral  basis  between  competent  authorities  through 
+the mutual agreement procedure of the relevant treaty.” A bilateral APA is 
+based on a single mutual agreement between the competent authorities of two 
+tax administrations under the relevant treaty. A multilateral APA is a term 
+used  to  describe  a  situation  where  there  is  more  than  one  bilateral  mutual 
+agreement.
+
+6. 
+Although,  commonly  an  APA  will  cover  cross-border  transactions 
+involving more than one taxpayer and legal enterprise, i.e. between members 
+of a MNE group, it is also possible for an APA to apply to only one taxpayer 
+and legal enterprise. For example, consider an enterprise in Country A that 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER IV: ADVANCE PRICING ARRANGEMENTS – 517
+
+trades through branches in Countries B, C and D. In order to have certainty 
+that  double  taxation  will  not  occur,  Countries  A,  B,  C  and  D  will  need  to 
+share  a  common  understanding  of  the  measure  of  profits  to  be  attributed 
+to  each  jurisdiction  in  respect  of  that  trading  activity  under  Article  7  of 
+the OECD Model Tax Convention. This certainty could be achieved by the 
+negotiation of a series of separate, but mutually consistent, bilateral mutual 
+agreements, i.e. between A and B, A and C and A and D. The existence of 
+multiple bilateral mutual agreements raises a number of special issues and 
+these are discussed further in Section B, paragraphs 21-27 of this annex.
+
+7. 
+It is important to distinguish the different types of APAs and so the 
+bilateral or multilateral APAs, which are the main subject of this annex, are 
+hereafter referred to as “MAP APAs”. The APAs that do not involve a mutual 
+agreement negotiation are referred to as “unilateral APAs”. The generic term 
+“APA” is used where the feature to be discussed applies to both types of APA. 
+It should be noted that, in the vast majority of cases a bilateral APA will be 
+concluded under the mutual agreement procedure of a double tax convention. 
+However,  in  some  cases  where  a  bilateral  APA  has  been  sought  and  the 
+treaty is not appropriate, or where a treaty is not applicable, the competent 
+authorities of some jurisdictions may nevertheless conclude an arrangement 
+using  the  executive  power  conferred  on  the  heads  of  tax  authorities.  The 
+term  MAP  APA  should  be  interpreted,  with  the  necessary  adaptations,  as 
+including such exceptional agreements.
+
+The  focus  of  this  annex  is  on  providing  guidance  to  enable  tax 
+8. 
+authorities  to  resolve  disputes  through  the  mutual  agreement  procedure, 
+thereby  helping  to  eliminate  the  risk  of  potential  double  taxation  and 
+providing the taxpayer with reasonable certainty of tax treatment. However, it 
+should be noted that there are other mechanisms for achieving the same goals 
+which are not discussed in this annex.
+
+A.3. Objectives of the APA process
+
+It  has  been  the  experience  of  a  number  of  jurisdictions  that  the 
+9. 
+resolution  of  transfer  pricing  disputes  by  traditional  audit  or  examination 
+techniques has often proved very difficult and also costly for taxpayers and 
+tax authorities both in terms of time and resources. Such techniques inevitably 
+examine  transfe

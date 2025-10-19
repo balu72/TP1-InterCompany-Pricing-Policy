@@ -1,0 +1,311 @@
+nces in levels of working capital. 
+The following example adjusts the comparable’s result to reflect 
+the tested party’s levels of working capital. Alternative calculations 
+are to adjust the tested party’s results to reflect the comparables 
+levels of working capital or to adjust both the tested party and the 
+comparable’s results to reflect “zero” working capital.
+
+A practical example of calculating working capital adjustments:
+
+The following calculation is hypothetical. It is only to demonstrate 
+
+7. 
+how a working capital adjustment can be calculated.
+
+TestCo
+Sales
+Earnings Before Interest & Tax (EBIT)
+EBIT/Sales (%)
+
+Year 1
+
+Year 3
+Year 2
+$179.5 mln $182.5 mln $187 mln
+$2.43 mln
+$1.83 mln
+$1.5 mln
+1.3%
+1%
+0.8%
+
+Year 4
+$195 mln
+$2.54 mln
+1.3%
+
+Year 5
+$198 mln
+$1.78 mln
+0.9%
+
+Working Capital (at end of year) *
+Trade Receivables (R)
+Inventories (I)
+Trade Payables (P)
+Receivables (R) + Inventory (I) 
+– Payables (P)
+(R + I – P) / Sales
+
+CompCo
+Sales
+Earnings Before Interest & Tax (EBIT)
+EBIT/Sales (%)
+
+Working Capital (at end of year) *
+Trade Receivables (R)
+Inventory (I)
+Trade Payables (P)
+Receivables (R) + Inventory (I) 
+– Payables (P)
+(R + I – P) / Sales
+
+* See comment in paragraph 8.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+$30 mln
+$36 mln
+$20 mln
+$46 mln
+
+$32 mln
+$36 mln
+$21 mln
+$47 mln
+
+$33 mln
+$38 mln
+$26 mln
+$45 mln
+
+$35 mln
+$40 mln
+$23 mln
+$52 mln
+
+$37 mln
+$45 mln
+$24 mln
+$58 mln
+
+25.6%
+
+25.8%
+
+24.1%
+
+26.7%
+
+29.3%
+
+Year 2
+
+Year 1
+
+Year 3
+$120.4 mln $121.2 mln $121.8 mln $126.3 mln $130.2 mln
+$6.44 mln
+$3.15 mln
+$1.59 mln
+4.95%
+2.59%
+1.32%
+
+$3.59 mln
+2.96%
+
+$4.18 mln
+3.31%
+
+Year 4
+
+Year 5
+
+$17 mln
+$18 mln
+$11 mln
+$24 mln
+
+$18 mln
+$20 mln
+$13 mln
+$25 mln
+
+$20 mln
+$26 mln
+$11 mln
+$35 mln
+
+$22 mln
+$24 mln
+$15 mln
+$31 mln
+
+$23 mln
+$25 mln
+$16 mln
+$32 mln
+
+19.9%
+
+20.6%
+
+28.7%
+
+24.5%
+
+24.6%
+
+492 – ANNEX TO CHAPTER III: EXAMPLE ON WORKING CAPITAL ADJUSTMENT
+
+Working Capital Adjustment
+
+Year 1
+
+Year 2
+
+Year 3
+
+Year 4
+
+Year 5
+
+Testco’s (R + I – P) / Sales
+
+Compco’s (R + I – P) / Sales
+
+Difference (D)
+
+Interest Rate (I)
+
+Adjustment (D × I)
+
+Compco’s Ebit/Sales (%)
+
+Working Capital Adjusted 
+Ebit / Sales For Compco
+
+8. 
+
+Some observations:
+
+25.6%
+
+19.9%
+
+5.7%
+
+4.8%
+
+0.27%
+
+1.32%
+
+1.59%
+
+25.8%
+
+20.6%
+
+5.1%
+
+5.4%
+
+24.1%
+
+28.7%
+
+-4.7%
+
+5.0%
+
+0.28%
+
+-0.23%
+
+2.96%
+
+3.24%
+
+2.59%
+
+2.35%
+
+26.7%
+
+24.5%
+
+2.1%
+
+5.5%
+
+0.12%
+
+3.31%
+
+3.43%
+
+29.3%
+
+24.6%
+
+4.7%
+
+4.5%
+
+0.21%
+
+4.95%
+
+5.16%
+
+•  An issue in making working capital adjustments is what point in time 
+are the Receivables, Inventory and Payables compared between the 
+tested party and the comparables. The above example compares their 
+levels on the last day of the financial year. This may not, however, 
+be appropriate if this timing does not give a representative level of 
+working capital over the year. In such cases, averages might be used 
+if they better reflect the level of working capital over the year.
+
+•  A  major  issue  in  making  working  capital  adjustments  involves  the 
+selection of the appropriate interest rate (or rates) to use. The rate (or 
+rates) should generally be determined by reference to the rate(s) of 
+interest applicable to a commercial enterprise operating in the same 
+market as the tested party. In most cases a commercial loan rate will 
+be  appropriate.  In  cases  where  the  tested  party’s  working  capital 
+balance  is  negative  (that  is  Payables  >  Receivables  +  Inventory),  a 
+different rate may be appropriate. The rate used in the above example 
+reflects the rate at which TestCo is able to borrow funds in its local 
+market.  This  example  also  assumes  that  the  same  interest  rate  is 
+appropriate for payables, receivables and inventory, but that may or 
+may not be the case in practice. Where different rates of interest are 
+found to be appropriately applicable to individual classes of assets or 
+liabilities,  the  calculation  may  be  considerably  more  complex  than 
+shown above.
+
+•  The  purpose  of  working  capital  adjustments  is  to  improve  the 
+reliability of the comparables. There is a question whether working 
+capital  adjustments  should  be  made  when  the  results  of  some 
+comparables can be reliably adjusted while the results of some others 
+cannot.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER IV: SAMPLE MEMORANDA OF UNDERSTANDING FOR SAFE HARBOURS – 493
+
+Annex I to Chapter IV 
+
+Sample Memoranda of Understanding 
+for Competent Authorities to establish 
+bilateral safe harbours
+
+Introduction
+
+This  Annex  contains  sample  Memoranda  of  Understanding  (MOUs) 
+for use by Competent Authorities in negotiating bilateral safe harbours for 
+common categories of transfer pricing cases involving low risk distribution 
+functions,  low  risk  manufacturing  functions,  and  low  risk  research  and 
+development  functions.  It  is  intended  to  provide  jurisdictions  with  a  tool 
+to  adapt  and  use  in  addressing,  through  bilateral  safe  harbours,  important 
+classes  of  t

@@ -1,0 +1,34 @@
+You are a transfer pricing expert creating an executive summary for a transfer pricing policy document.
+
+REGULATORY CONTEXT:
+{regulatory_context}
+
+COMPANY INFORMATION:
+- Name: {company_name}
+- Jurisdiction: {jurisdiction}
+- Tax ID: {tax_id}
+- Entity Type: {entity_type}
+- Industry: {industry}
+- Fiscal Year: {fiscal_year}
+
+RELATED PARTY TRANSACTIONS:
+{transaction_summary}
+
+TASK:
+Generate a comprehensive executive summary (2-3 paragraphs) that:
+
+1. Introduces {company_name} and its business activities in the {industry} sector
+2. States that the company has entered into related party transactions with entities in {related_jurisdictions}
+3. Confirms that the company follows the arm's length principle as per {jurisdiction} transfer pricing regulations
+4. Summarizes the transfer pricing methodology applied to ensure compliance
+5. References relevant regulatory requirements from {jurisdiction} (cite specific regulations from the context)
+6. Mentions the fiscal year covered: {fiscal_year}
+
+REQUIREMENTS:
+- Write in professional, formal language suitable for tax authority review
+- Include specific regulatory citations from the provided context
+- Keep the summary concise but comprehensive
+- Ensure compliance with {jurisdiction} documentation requirements
+- Use clear, unambiguous language
+
+Generate the executive summary now:

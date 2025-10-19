@@ -1,0 +1,94 @@
+of these transactions should recognise that 
+Company  S  received  two  benefits  from  Zhu  which  require  compensation. 
+First, it received services from the Zhu employees that were made available 
+to  work  on  the  Bank  B  engagement.  Second,  it  received  rights  in  Zhu’s 
+proprietary software which was utilised as the foundation for the software 
+system delivered to Bank B. The compensation to be paid by Company S to 
+Zhu should include compensation for both the services and the rights in the 
+software.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES – 627
+
+Example 25
+
+Prathamika is the parent company of an MNE group. Prathamika has 
+89. 
+been engaged in several large litigation matters and its internal legal department 
+has become adept at managing large scale litigation on behalf of Prathamika. In 
+the course of working on such litigation, Prathamika has developed proprietary 
+document management software tools unique to its industry.
+
+90. 
+Company  S  is  an  associated  enterprise  of  Prathamika.  Company  S 
+becomes  involved  in  a  complex  litigation  similar  to  those  with  which  the 
+legal  department  of  Prathamika  has  experience.  Prathamika  agrees  to 
+make  two  individuals  from  its  legal  team  available  to  Company  S  to  work 
+on  the  Company  S  litigation.  The  individuals  from  Prathamika  assume 
+responsibility for managing documents related to the litigation. In undertaking 
+this  responsibility  they  make  use  of  the  document  management  software 
+of  Prathamika.  They  do  not,  however,  provide  Company  S  the  right  to  use 
+the document management software in other litigation matters or to make it 
+available to Company S customers.
+
+91. 
+Under  these  circumstances,  it  would  not  be  appropriate  to  treat 
+Prathamika as having transferred rights in intangibles to Company S as part 
+of the service arrangement. However, the fact that the Prathamika employees 
+had  experience  and  available  software  tools  that  allowed  them  to  more 
+effectively and efficiently perform their services should be considered in a 
+comparability analysis related to the amount of any service fee to be charged 
+for the services of the Prathamika employees.
+
+Example 26
+
+92. 
+Osnovni  is  the  parent  company  of  an  MNE  Group  engaged  in  the 
+development  and  sale  of  software  products.  Osnovni  acquires  100%  of  the 
+equity  interests  in  Company  S,  a  publicly  traded  company  organised  in  the 
+same country as Osnovni, for a price equal to 160. At the time of the acquisition, 
+Company S shares had an aggregate trading value of 100. Competitive bidders 
+for  the  Company  S  business  offered  amounts  ranging  from  120  to  130  for 
+Company S.
+
+Company S had only a nominal amount of fixed assets at the time of 
+93. 
+the acquisition. Its value consisted primarily of rights in developed and partially 
+developed intangibles related to software products and its skilled workforce. 
+The purchase price allocation performed for accounting purposes by Osnovni 
+allocated 10 to tangible assets, 60 to intangibles, and 90 to goodwill. Osnovni 
+justified the 160 purchase price in presentations to its Board of Directors by 
+reference to the complementary nature of the existing products of the Osnovni 
+group and the products and potential products of Company S.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+628 – ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES
+
+94. 
+Company T is a wholly owned subsidiary of Osnovni. Osnovni has 
+traditionally licensed exclusive rights in all of its intangibles related to the 
+European and Asian markets to Company T. For purposes of this example it 
+is assumed that all arrangements related to the historic licences of European 
+and Asian rights to Company T prior to the acquisition of Company S are 
+arm’s length.
+
+95. 
+Immediately  following  the  acquisition  of  Company  S,  Osnovni 
+liquidates  Company  S,  and  thereafter  grants  an  exclusive  and  perpetual 
+licence to Company T for intangible rights related to the Company S products 
+in European and Asian markets.
+
+96. 
+In determining an arm’s length price for the Company S intangibles 
+licensed  to  Company  T  under  the  foregoing  arrangements,  the  premium 
+over  the  original  trading  value  of  the  Company  S  shares  included  in  the 
+acquisition price should be considered. To the extent that premium reflects the 
+complementary nature of Osnovni group products with the acquired products 
+in  the  European  and  Asian  markets  licensed  to  Company  T,  Company  T 
+should pay an amount for the transferred Company S intangibles and rights in 
+intangibles that reflects an appropriate share of the purchase price premium. 
+To the extent the purchase price premium is attributable exclusively to product 
+complementarities  outside  of  Company  T’s  markets,  the  purchase  price 
+premium  should  not  be  taken  into 

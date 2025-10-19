@@ -1,0 +1,73 @@
+fferences may refer, for instance, to situations where the functional 
+analysis  indicates  that  a  captive  insurance  performs  less  functions  than  a 
+commercial insurer (e.g. a captive insurance that only insures internal risks 
+within  the  MNE  group  may  not  need  to  perform  distribution  and  sales 
+functions).  Similarly,  differences  between  the  captive  insurance  and  the 
+potential comparables in business volume or in the level of capital between 
+the  captive  insurance  and  unrelated  parties  may  require  comparability 
+adjustments (see paragraph 10.221).
+
+10.219.  Alternatively,  actuarial  analysis  may  be  an  appropriate  method  to 
+independently  determine  the  premium  likely  to  be  required  at  arm’s  length 
+for insurance of a particular risk. In setting prices for an insurance premium, 
+an insurer will seek to cover its expected losses on claims, its costs associated 
+with writing and administering policies and dealing with claims, plus a profit 
+to provide a return on capital, taking into account any investment income it 
+expects to receive on the excess of premiums received less claims and expenses 
+paid. The practical application of actuarial analysis may be a complex exercise. 
+In  evaluating  the  reliability  of  actuarial  analysis  to  determine  the  arm’s 
+length price of premiums it is important to note that actuarial analyses do not 
+represent actual transactions between independent parties and that, therefore, 
+comparability adjustments would be likely required.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 449
+
+E.3.2. Combined ratio and return on capital
+
+10.220.  The  remuneration  of  the  captive  insurance  can  be  arrived  at  by 
+considering the arm’s length profitability of the captive insurance by reference 
+to  a  two  staged  approach  which  takes  into  account  both  profitability  of 
+claims and return on capital. The first step would be to identify the captive 
+insurance’s combined ratio. This can be determined by expressing claims and 
+expenses payable as a percentage of premiums receivable. The benchmarked 
+combined  ratio  achieved  by  unrelated  insurance  companies  indemnifying 
+similar insurance risks can be identified. The benchmarked combined ratio 
+can then be applied to the tested party’s claims and expenses paid to arrive 
+at an arm’s length measure of annual premiums and thus underwriting profit 
+(premiums receivable less claims and expenses). The second step is to assess 
+the  investment  return  achieved  by  the  captive  insurance  against  an  arm’s 
+length return. This step requires two further considerations: (a) the amount 
+of  capital  held  by  the  captive  insurance,  and  (b)  to  the  extent  to  which  the 
+captive  insurance  invests  in  controlled  investments  (e.g.  intra-group  bonds, 
+loans, etc.), the rate of investment return achieved by the captive insurance 
+on  those  investments.  The  sum  of  underwriting  profit  from  step  one  and 
+investment income from step two gives total operating profit (see Section B.5 
+of Chapter III on multiple year data).
+
+10.221.  It is important to recognise that the capital adequacy requirements of 
+a captive insurance are likely to be significantly lower than an insurer writing 
+policies for unrelated parties. This factor should be considered and, if necessary, 
+adjusted for in order to determine the appropriate level of capital to use when 
+calculating  the  investment  return.  Differences  in  capital  adequacy  between 
+captive insurance and arm’s length insurers typically arise because of regulatory 
+and  commercial  factors.  Insurance  regulators  frequently  set  lower  regulatory 
+capital  requirements  for  captive  insurances.  A  primary  commercial  driver 
+for arm’s length insurers is capital efficiency. In order to attract investors and 
+customers, arm’s length insurers will target a strong credit rating by holding 
+a level of operating capital which is in excess of the regulatory minimum. At 
+the same time, arm’s length insurers will attempt to maximise their return on 
+capital results. They will try to hold the optimum amount of capital to meet these 
+opposing drivers. Captive insurances have no commercial imperative to seek a 
+credit rating nor to optimise their return on capital in order to attract investors. 
+Reasonable adjustments may need to be made to ensure that the comparable 
+investment return is restricted to the capital that the captive insurance needs 
+under relevant regulatory requirements (plus a reasonable operating buffer to 
+minimise the possibility of inadvertently breaching the regulatory requirement) 
+to accept the insurance risk rather than the level of capital that might be needed 
+by an independent insurer. Adjustments may be needed to account for differing 
+capital  adequacy  requirements  between  different  regulators  and  different 
+categories of insurance business.
+
+OECD TRANS

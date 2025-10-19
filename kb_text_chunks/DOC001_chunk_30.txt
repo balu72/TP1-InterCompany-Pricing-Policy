@@ -1,0 +1,83 @@
+assumption of risk, since there is no longer 
+any risk. Similarly, ex post reallocations of risk by a tax administration when 
+risk outcomes are certain may, unless based on the guidance elsewhere in these 
+Guidelines and in particular Section D.1.2.1, be inappropriate.
+
+1.79. 
+It  is  economically  neutral  to  take  on  (or  lay  off)  risk  in  return  for 
+higher  (or  lower)  anticipated  nominal  income  as  long  as  the  net  present 
+value  of  both  options  are  equal.  Between  unrelated  parties,  for  example, 
+the sale of a risky income-producing asset may reflect in part a preference 
+of the seller to accept a lower but more certain amount of nominal income 
+and to forego the possibility of higher anticipated nominal income it might 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+58 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+earn if it instead retained and exploited the asset. In a without-recourse debt 
+factoring  arrangement  between  independent  enterprises,  for  example,  the 
+seller discounts the face value of its receivables in return for a fixed payment, 
+and so accepts a lower return but has reduced its volatility and laid off risk. 
+The factor will often be a specialised organisation which has the capability to 
+decide to take on risk and to decide on how to respond to the risk, including 
+by diversifying the risk and having the functional capabilities to mitigate the 
+risk and generate a return from the opportunity. Neither party will expect to 
+be worse off as a result of entering into the arrangement, essentially because 
+they  have  different  risk  preferences  resulting  from  their  capabilities  in 
+relation to the specific risk. The factor is more capable of managing the risk 
+than the seller and terms acceptable to both parties can be agreed.
+
+1.80.  However,  it  does  not  follow  that  every  contractual  exchange  of 
+potentially higher but riskier income for lower but less risky income between 
+associated enterprises is automatically arm’s length. The rest of the steps set 
+out in this section describe the information required to determine how the 
+associated enterprises operate in relation to the assumption and management 
+of risk leading to the accurate delineation of the actual transaction in relation 
+to risk.
+
+1.81.  The assumption of risk has a significant effect on determining arm’s 
+length pricing between associated enterprises, and it should not be concluded 
+that  the  pricing  arrangements  adopted  in  the  contractual  arrangements 
+alone  determine  which  party  assumes  risk.  Therefore,  one  may  not  infer 
+from  the  fact  that  the  price  paid  between  associated  enterprises  for  goods 
+or services is set at a particular level, or by reference to a particular margin, 
+that risks are borne by those associated enterprises in a particular manner. 
+For example, a manufacturer may claim to be protected from the risk of price 
+fluctuation  of  raw  material  as  a  consequence  of  its  being  remunerated  by 
+another group company on a basis that takes account of its actual costs. The 
+implication of the claim is that the other group company bears the risk. The 
+form of remuneration cannot dictate inappropriate risk allocations. It is the 
+determination of how the parties actually manage and control risks, as set out 
+in the remaining steps of the process of analysing risk, which will determine 
+the assumption of risks by the parties, and consequently dictate the selection 
+of the most appropriate transfer pricing method.
+
+D.1.2.1.3. Step 3: Functional analysis in relation to risk
+
+1.82. 
+In  this  step  the  functions  in  relation  to  risk  of  the  associated 
+enterprises  that  are  parties  to  the  transaction  are  analysed.  The  analysis 
+provides information about how the associated enterprises operate in relation 
+to the assumption and management of the specific, economically significant 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 59
+
+risks, and in particular about which enterprise or enterprises perform control 
+functions  and  risk  mitigation  functions,  which  enterprise  or  enterprises 
+encounter  upside  or  downside  consequences  of  risk  outcomes,  and  which 
+enterprise or enterprises have the financial capacity to assume the risk. This 
+step is illustrated by the following examples and conclusions are drawn from 
+these examples in subsequent paragraphs of Section D.1.2.
+
+Example 1
+
+1.83.  Company A seeks to pursue a development opportunity and hires a 
+specialist company, Company B, to perform part of the research on its behalf. 
+Under step 1 development risk has been identified as economically significant 
+in  this  transaction,  and  under  step  2  it  has  been  established  that  under  the 
+contract Company A assumes development risk. The functional analysis under 
+step 3 shows that Company A controls its development risk through exercising 
+its capability and authority i

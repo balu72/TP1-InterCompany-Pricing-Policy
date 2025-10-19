@@ -1,0 +1,82 @@
+4.127.  Transfer  pricing  compliance  and  administration  is  often  complex, 
+time consuming and costly. Properly designed safe harbour provisions, applied 
+in appropriate circumstances, can help to relieve some of these burdens and 
+provide taxpayers with greater certainty.
+
+4.128.  Safe harbour provisions may raise issues such as potentially having 
+perverse effects on the pricing decisions of enterprises engaged in controlled 
+transactions  and  a  negative  impact  on  the  tax  revenues  of  the  jurisdiction 
+implementing the safe harbour as well as on the jurisdictions whose associated 
+enterprises  engage  in  controlled  transactions  with  taxpayers  electing  a  safe 
+harbour. Further, unilateral safe harbours may lead to the potential for double 
+taxation or double non-taxation.
+
+4.129.  However,  in  cases  involving  smaller  taxpayers  or  less  complex 
+transactions, the benefits of safe harbours may outweigh the problems raised 
+by such provisions. Making such safe harbours elective to taxpayers can further 
+limit the divergence from arm’s length pricing. Where jurisdictions adopt safe 
+harbours, willingness to modify safe-harbour outcomes in mutual agreement 
+proceedings to limit the potential risk of double taxation is advisable.
+
+4.130.  Where safe harbours can be negotiated on a bilateral or multilateral 
+basis,  they  may  provide  significant  relief  from  compliance  burdens  and 
+administrative  complexity  without  creating  problems  of  double  taxation 
+or  double  non-taxation.  Therefore,  the  use  of  bilateral  or  multilateral  safe 
+harbours under the right circumstances should be encouraged.
+
+4.131. 
+It should be clearly recognised that a safe harbour, whether adopted 
+on a unilateral or bilateral basis, is in no way binding on or precedential for 
+jurisdictions which have not themselves adopted the safe harbour.
+
+4.132.  For  more  complex  and  higher  risk  transfer  pricing  matters,  it  is 
+unlikely that safe harbours will provide a workable alternative to a rigorous, 
+case by case application of the arm’s length principle under the provisions of 
+these Guidelines.
+
+4.133.  Tax  administrations  in  each  jurisdiction  should  carefully  weigh  the 
+benefits of and concerns regarding safe harbours, making use of such provisions 
+where they deem it appropriate.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+F. Advance pricing arrangements6
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 213
+
+F.1.  Definition and concept of advance pricing arrangements
+
+4.134.  An  advance  pricing  arrangement  (APA)  is  an  arrangement  that 
+determines,  in  advance  of  controlled  transactions,  an  appropriate  set  of 
+criteria  (e.g.  method,  comparables  and  appropriate  adjustments  thereto, 
+critical assumptions as to future events) for the determination of the transfer 
+pricing for those transactions over a fixed period of time. An APA is formally 
+initiated by a taxpayer and requires negotiations between the taxpayer, one 
+or more associated enterprises, and one or more tax administrations. APAs 
+are  intended  to  supplement  the  traditional  administrative,  judicial,  and 
+treaty mechanisms for resolving transfer pricing issues. They may be most 
+useful  when  traditional  mechanisms  fail  or  are  difficult  to  apply.  Detailed 
+guidelines  for  conducting  advance  pricing  arrangements  under  the  mutual 
+agreement procedure (MAP APAs) were adopted in October 1999 and are 
+found as an Annex to this chapter. The work pursuant to Action 14 of the 
+BEPS Action Plan to ensure the timely, effective and efficient resolution of 
+treaty-related  disputes  recommended,  as  non-binding  best  practice  4,  that 
+jurisdictions  should  implement  bilateral  APA  programmes  as  soon  as  they 
+have the capacity to do so, recognising that APAs provide a greater level of 
+certainty in both treaty partner jurisdictions, lessen the likelihood of double 
+taxation and may proactively prevent transfer pricing disputes. In this regard, 
+it  should  be  noted  that  the  country  mutual  agreement  procedure  profiles 
+prepared pursuant to element 2.2 of the Action 14 minimum standard include 
+information on the bilateral APA programmes.
+
+4.135.  One key issue in the concept of APAs is how specific they can be in 
+prescribing a taxpayer’s transfer pricing over a period of years, for example 
+whether only the transfer pricing methodology or more particular results can 
+be fixed in a particular case. In general, great care must be taken if the APA 
+goes  beyond  the  methodology,  the  way  it  will  be  applied,  and  the  critical 
+assumptions,  because  more  specific  conclusions  rely  on  predictions  about 
+future events.
+
+4.136.  The  reliability  of  any  prediction  used  in  an  APA  depends  both 
+on  the  nature  of  the  prediction  and  the  critical  assumptions  on  which  the 
+prediction  is  based.  For  example,  it  would  not  be  reasonable  to  assert  that

@@ -1,0 +1,138 @@
+ neither are low-value services).
+
+Cost to Company A of providing services (30 units × 100 per unit)
+
+3 000
+
+(60% of total costs)
+
+Cost to Company B of providing services (20 units × 100 per unit)
+
+2 000
+
+(40% of total costs)
+
+Total cost to group
+
+5 000
+
+Value of contribution made by Company A (30 units × 120 per unit)
+
+3 600
+
+(60% of total contributions)
+
+Value of contribution made by Company B (20 units × 120 per unit)
+
+2 400
+
+(40% of total contributions)
+
+Total value of contributions made under the CCA
+
+6 000
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX TO CHAPTER VIII: EXAMPLES ON COST CONTRIBUTION ARRANGEMENTS – 649
+
+Company A and Company B each consume 15 units of Service 1 and 10 units of Service 2:
+
+Benefit to Company A:
+
+Service 1: 15 units × 120 per unit
+
+Service 2: 10 units × 120 per unit
+
+Total
+
+Benefit to Company B
+
+Service 1: 15 units × 120 per unit
+
+Service 2: 10 units × 120 per unit
+
+Total
+
+1 800
+
+1 200
+
+3 000
+
+(50% of total value of 6 000)
+
+1 800
+
+1 200
+
+3 000
+
+(50% of total value of 6 000)
+
+16. 
+Under  the  CCA,  the  value  of  Company  A  and  Company  B’s 
+contributions should each correspond to their respective proportionate shares 
+of  expected  benefits  i.e.  50%.  Since  the  total  value  of  contributions  under 
+the  CCA  is  6  000,  this  means  each  party  must  contribute  3  000.  The  value 
+of  Company  A’s  in-kind  contribution  is  3  600.  The  value  of  Company  B’s 
+in-kind  contribution  is  2  400.  Accordingly,  Company  B  should  make  a 
+balancing payment to Company A of 600. This has the effect of “topping up” 
+Company B’s contribution to 3 000; and offsets Company A’s contribution to 
+the same amount. Example 3 illustrates that, in general, assessing contributions 
+at cost will not result in an arm’s length outcome even in those situations in 
+which the arm’s length mark-up on the cost of contributions is identical.
+
+Example 4
+
+Company  A  and  Company  B  are  members  of  an  MNE  group  and 
+17. 
+decide  to  undertake  the  development  of  an  intangible  through  a  CCA.  The 
+intangible is anticipated to be highly profitable based on Company B’s existing 
+intangibles,  its  track  record  and  its  experienced  research  and  development 
+staff.  Company  A  performs,  through  its  own  personnel,  all  the  functions 
+expected  of  a  participant  in  a  development  CCA  obtaining  an  independent 
+right  to  exploit  the  resulting  intangible,  including  functions  required  to 
+exercise control over the risks it contractually assumes in accordance with the 
+principles outlined in paragraphs 8.14 to 8.18. The particular intangible in this 
+example is expected to take five years to develop before possible commercial 
+exploitation and if successful, is anticipated to have value for ten years after 
+initial exploitation.
+
+18. 
+Under the CCA, Company A will contribute to funding associated 
+with the development of the intangible (its share of the development costs are 
+anticipated to be USD 100 million per year for five years). Company B will 
+contribute  the  development  rights  associated  with  its  existing  intangibles, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+650 – ANNEX TO CHAPTER VIII: EXAMPLES ON COST CONTRIBUTION ARRANGEMENTS
+
+to  which  Company  A  is  granted  rights  under  the  CCA  irrespective  of  the 
+outcome of the CCA’s objectives, and will perform all activities related to the 
+development, maintenance, and exploitation of the intangible. The value of 
+Company B’s contributions (encompassing the performance of activities as 
+well as the use of the pre-existing intangibles) would need to be determined 
+in accordance with the guidance in Chapter VI and would likely be based 
+on the anticipated value of the intangible expected to be produced under the 
+CCA, less the value of the funding contribution by Company A.
+
+19. 
+Once  developed,  the  intangible  is  anticipated  to  result  in  global 
+profits of USD 550 million per year (years 6 to 15). The CCA provides that 
+Company  B  will  have  exclusive  rights  to  exploit  the  resulting  intangible 
+in  Country  B  (anticipated  to  result  in  profits  of  USD  220  million  per  year 
+in  years  6  to  15)  and  Company  A  will  have  exclusive  rights  to  exploit 
+the  intangible  in  the  rest  of  the  world  (anticipated  to  result  in  profits  of 
+USD 330 million per year).
+
+20. 
+Taking  into  account  the  realistic  alternatives  of  Company  A  and 
+Company  B  it  is  determined  that  the  value  of  Company  A’s  contribution 
+is  equivalent  to  a  risk-adjusted  return  on  its  R&D  funding  commitment. 
+Assume that this is determined to be USD 110 million per year (for years 6 
+to 15).1 However, under the CCA Company A is anticipated to reap benefits 
+amounting  to  USD  330  million  of  profits  per  year  in  years  6  to  15  (rather 
+than  USD  110  million).  This  additional  anticipated  value  in  the  rights 
+Company A obtains (tha

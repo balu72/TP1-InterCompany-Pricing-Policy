@@ -1,0 +1,77 @@
+d a separate contract research agreement with Company S. 
+Pursuant to these agreements, Company T contractually agrees to bear the 
+financial risk associated with possible failure of future R&D projects, agrees 
+to assume the cost of all future R&D activity, and agrees to pay Shuyona and 
+Company S a service fee based on the cost of the R&D activities undertaken 
+plus a mark-up equivalent to the profit mark-up over cost earned by certain 
+identified independent companies engaged in providing research services.
+
+57. 
+Company  T  has  no  technical  personnel  capable  of  conducting  or 
+supervising the research activities. Shuyona continues to develop and design 
+the  R&D  programme  related  to  further  development  of  the  transferred 
+intangibles, to establish its own R&D budgets, to determine its own levels of 
+R&D staffing, and to make decisions regarding whether to pursue or terminate 
+particular R&D projects. Moreover, Shuyona continues to supervise and control 
+the R&D activities in Company S in the manner described in Example 14.
+
+58. 
+The transfer pricing analysis begins by identifying the commercial or 
+financial relations between the parties and the conditions and economically 
+relevant circumstances attaching to those relations in order that the controlled 
+transaction  is  accurately  delineated  under  the  principles  of  Chapter  I, 
+Section D.1. Key assumptions in this example are that Company T functions 
+as a manufacturer and performs no activities in relation to the acquisition, 
+development or exploitation of the intangibles and does not control risks in 
+relation to the acquisition of the intangibles or to their further development. 
+Instead, all development activities and risk management functions relating 
+to the intangibles are performed by Shuyona and Company S, with Shuyona 
+controlling  the  risk.  A  thorough  examination  of  the  transaction  indicates 
+that  it  should  accurately  be  delineated  as  the  provision  of  financing  by 
+Company T equating to the costs of the acquired intangibles and the ongoing 
+development. A key assumption in this example is that, although Company T 
+contractually  assumes  the  financial  risk  and  has  the  financial  capacity  to 
+assume that risk, it does not exercise control over that risk in accordance with 
+the principles outlined in paragraphs 6.63 and 6.64. As a result, in addition 
+to its manufacturing reward, Company T is entitled to no more than a risk-
+free return for its funding activities. (For further guidance see Section D.1 of 
+Chapter I, and in particular paragraph 1.103.)
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES – 619
+
+Example 17
+
+Company A is a fully integrated pharmaceutical company engaged in 
+59. 
+the discovery, development, production and sale of pharmaceutical preparations. 
+Company A conducts its operations in Country X. In conducting its research 
+activities,  Company  A  regularly  retains  independent  Contract  Research 
+Organisations (CROs) to perform various R&D activities, including designing 
+and  conducting  clinical  trials  with  regard  to  products  under  development  by 
+Company  A.  However,  such  CROs  do  not  engage  in  the  blue  sky  research 
+required  to  identify  new  pharmaceutical  compounds.  Where  Company  A 
+does retain a CRO to engage in clinical research activities, research personnel 
+at  Company  A  actively  participate  in  designing  the  CRO’s  research  studies, 
+provide  to  the  CRO  results  and  information  derived  from  earlier  research, 
+establish budgets and timelines for CRO projects, and conduct ongoing quality 
+control with respect to the CRO’s activities. In such arrangements, CROs are 
+paid a negotiated fee for services and do not have an ongoing interest in the 
+profits derived from sales of products developed through their research.
+
+60. 
+Company  A  transfers  patents  and  related  intangibles  related  to 
+Product  M,  an  early  stage  pharmaceutical  preparation  believed  to  have 
+potential as a treatment for Alzheimer’s disease to Company S, a subsidiary 
+of  Company  A  operating  in  Country  y  (the  transaction  relates  strictly  to 
+the existing intangibles and does not include compensation for future R&D 
+services of Company A). It is assumed for purposes of this example that the 
+payment of Company S for the transfer of intangibles related to Product M 
+is  based  on  a  valuation  of  anticipated  future  cash  flows.  Company  S  has 
+no  technical  personnel  capable  of  designing,  conducting  or  supervising 
+required  ongoing  research  activities  related  to  Product  M.  Company  S 
+therefore  contracts  with  Company  A  to  carry  on  the  research  programme 
+related to Product M in the same manner as before the transfer of intangibles 
+to  Company  S.  Company  S  agrees  to  fund  all  of  the  ongoing  Product  M 
+research, assume the financial risk of potential failur

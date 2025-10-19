@@ -1,0 +1,94 @@
+ services  company  is  consistently  compensated  for  its 
+aggregate  activities  by  other  group  members,  including  the  Country  B  and 
+Country C manufacturing affiliates, on a cost plus basis, which, for purposes 
+of this example, is assumed to be arm’s length compensation for the level and 
+nature of services it provides.
+
+1.191.  The independent supplier sells widgets for USD 10 apiece and follows 
+a policy of providing a 5% price discount for bulk purchases of widgets in 
+excess  of  7  500  units.  A  purchasing  employee  in  the  Country  D  shared 
+services centre approaches the independent supplier and confirms that if the 
+Country B and Country C manufacturing affiliates simultaneously purchase 
+5 000 widgets each, a total group purchase of 10 000 widgets, the purchase 
+discount  will  be  available  with  respect  to  all  of  the  group  purchases.  The 
+independent supplier confirms that it will sell an aggregate of 10 000 widgets 
+to  the  MNE  group  at  a  total  price  of  USD  95  000,  a  discount  of  5%  from 
+the price at which either of the two manufacturing affiliates could purchase 
+independently from the supplier.
+
+1.192.  The purchasing employee at the shared services centre then places orders 
+for  the  required  widgets  and  requests  that  the  supplier  invoice  the  Country  B 
+manufacturing affiliate for 5 000 widgets at a total price of USD 50 000 and 
+invoice the Country C manufacturing affiliate for 5 000 widgets at a total price 
+of USD 45 000. The supplier complies with this request as it will result in the 
+supplier being paid the agreed price of USD 95 000 for the total of the 10 000 
+widgets supplied.
+
+1.193.  Under  these  circumstances,  Country  B  would  be  entitled  to  make 
+a  transfer  pricing  adjustment  reducing  the  expenses  of  the  Country  B 
+manufacturing  affiliate  by  USD  2  500.  The  transfer  pricing  adjustment 
+is  appropriate  because  the  pricing  arrangements  misallocate  the  benefit 
+of  the  group  synergy  associated  with  volume  purchasing  of  the  widgets. 
+The  adjustment  is  appropriate  notwithstanding  the  fact  that  the  Country  B 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 91
+
+manufacturing affiliate acting alone could not purchase widgets for a price 
+less than the USD 50 000 it paid. The deliberate concerted group action in 
+arranging the purchase discount provides a basis for the allocation of part of 
+the  discount  to  the  Country  B  manufacturing  affiliate  notwithstanding  the 
+fact that there is no explicit transaction between the Country B and Country C 
+manufacturing affiliates.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 93
+
+Chapter II 
+
+Transfer pricing methods
+
+Part I: Selection of the transfer pricing method
+
+A.  Selection of the most appropriate transfer pricing method to the 
+
+circumstances of the case
+
+2.1. 
+Parts  II  and  III  of  this  chapter  respectively  describe  “traditional 
+transaction  methods”  and  “transactional  profit  methods”  that  can  be  used 
+to establish whether the conditions imposed in the commercial or financial 
+relations between associated enterprises are consistent with the arm’s length 
+principle. Traditional transaction methods are the comparable uncontrolled 
+price  method  or  CUP  method,  the  resale  price  method,  and  the  cost  plus 
+method.  Transactional  profit  methods  are  the  transactional  net  margin 
+method and the transactional profit split method.
+
+2.2. 
+The selection of a transfer pricing method always aims at finding the 
+most appropriate method for a particular case. For this purpose, the selection 
+process should take account of the respective strengths and weaknesses of the 
+OECD  recognised  methods;  the  appropriateness  of  the  method  considered 
+in view of the nature of the controlled transaction, determined in particular 
+through  a  functional  analysis;  the  availability  of  reliable  information  (in 
+particular on uncontrolled comparables) needed to apply the selected method 
+and/or  other  methods;  and  the  degree  of  comparability  between  controlled 
+and  uncontrolled  transactions,  including  the  reliability  of  comparability 
+adjustments  that  may  be  needed  to  eliminate  material  differences  between 
+them. No one method is suitable in every possible situation, nor is it necessary 
+to prove that a particular method is not suitable under the circumstances.
+
+Traditional  transaction  methods  are  regarded  as  the  most  direct 
+2.3. 
+means  of  establishing  whether  conditions  in  the  commercial  and  financial 
+relations  between  associated  enterprises  are  arm’s  length.  This  is  because 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+94 – CHAPTER II: TRANSFER PRICING METHODS
+
+any  difference  in  the  price  of  a  controlled  transaction  from  the  price  in 
+a  comparable  uncontrolled  trans

@@ -1,0 +1,111 @@
+onstructive equity contributions, or constructive loans.
+
+Shareholder activity
+
+An activity which is performed by a member of an MNE group (usually 
+the  parent  company  or  a  regional  holding  company)  solely  because  of  its 
+ownership interest in one or more other group members, i.e. in its capacity 
+as shareholder.
+
+Simultaneous tax examinations
+
+A simultaneous tax examination, as defined in Part A of the OECD Model 
+Agreement  for  the  Undertaking  of  Simultaneous  Tax  Examinations,  means 
+an “arrangement between two or more parties to examine simultaneously and 
+independently, each on its own territory, the tax affairs of (a) taxpayer(s) in 
+which they have a common or related interest with a view to exchanging any 
+relevant information which they so obtain”.
+
+Trade intangible
+
+An intangible other than a marketing intangible.
+
+Traditional transaction methods
+
+The comparable uncontrolled price method, the resale price method, and 
+
+the cost plus method.
+
+Transactional net margin method
+
+A transactional profit method that examines the net profit margin relative 
+to an appropriate base (e.g. costs, sales, assets) that a taxpayer realises from a 
+controlled transaction (or transactions that it is appropriate to aggregate under 
+the principles of Chapter III).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+GLOSSARy – 27
+
+Transactional profit method
+
+A  transfer  pricing  method  that  examines  the  profits  that  arise  from 
+particular controlled transactions of one or more of the associated enterprises 
+participating in those transactions.
+
+Uncontrolled transactions
+
+Transactions between enterprises that are independent enterprises with 
+
+respect to each other.
+
+Unique and valuable contributions
+
+Contributions  (for  instance  functions  performed,  or  assets  used  or 
+contributed)  will  be  “unique  and  valuable”  in  cases  where  (i)  they  are  not 
+comparable  to  contributions  made  by  uncontrolled  parties  in  comparable 
+circumstances,  and  (ii)  they  represent  a  key  source  of  actual  or  potential 
+economic benefits in the business operations.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 29
+
+Chapter I 
+
+The arm’s length principle
+
+A. Introduction
+
+1.1. 
+This Chapter provides a background discussion of the arm’s length 
+principle,  which  is  the  international  transfer  pricing  standard  that  OECD 
+member  countries  have  agreed  should  be  used  for  tax  purposes  by  MNE 
+groups  and  tax  administrations.  The  Chapter  discusses  the  arm’s  length 
+principle,  reaffirms  its  status  as  the  international  standard,  and  sets  forth 
+guidelines for its application.
+
+1.2.  When  independent  enterprises  transact  with  each  other,  the 
+conditions  of  their  commercial  and  financial  relations  (e.g.  the  price  of 
+goods  transferred  or  services  provided  and  the  conditions  of  the  transfer 
+or provision) ordinarily are determined by market forces. When associated 
+enterprises transact with each other, their commercial and financial relations 
+may  not  be  directly  affected  by  external  market  forces  in  the  same  way, 
+although associated enterprises often seek to replicate the dynamics of market 
+forces  in  their  transactions  with  each  other,  as  discussed  in  paragraph  1.5 
+below. Tax administrations should not automatically assume that associated 
+enterprises have sought to manipulate their profits. There may be a genuine 
+difficulty in accurately determining a market price in the absence of market 
+forces or when adopting a particular commercial strategy. It is important to 
+bear in mind that the need to make adjustments to approximate arm’s length 
+conditions arises irrespective of any contractual obligation undertaken by the 
+parties to pay a particular price or of any intention of the parties to minimise 
+tax. Thus, a tax adjustment under the arm’s length principle would not affect 
+the  underlying  contractual  obligations  for  non-tax  purposes  between  the 
+associated enterprises, and may be appropriate even where there is no intent 
+to minimise or avoid tax. The consideration of transfer pricing should not be 
+confused with the consideration of problems of tax fraud or tax avoidance, 
+even though transfer pricing policies may be used for such purposes.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+30 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+1.3.  When transfer pricing does not reflect market forces and the arm’s 
+length principle, the tax liabilities of the associated enterprises and the tax 
+revenues  of  the  host  jurisdictions  could  be  distorted.  Therefore,  OECD 
+member countries have agreed that for tax purposes the profits of associated 
+enterprises may be adjusted as necessary to correct any such distortions and 
+thereby  ensure  that  the  arm’s  length  principle  is  satisfied.  OECD  member 
+countries consider that an appropriate adjustment is achieved b

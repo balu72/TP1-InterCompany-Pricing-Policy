@@ -1,0 +1,88 @@
+costs 
+incurred by the lender in raising the funds to lend. To this would be added the 
+expenses of arranging the loan and the relevant costs incurred in servicing 
+the  loan,  a  risk  premium  to  reflect  the  various  economic  factors  inherent 
+in the proposed loan, plus a profit margin, which will generally include the 
+lender’s incremental cost of the equity required to support the loan.
+
+10.98.  One consideration to be kept in mind with the cost of funds approach 
+is that it should be applied by considering the lender’s cost of funds relative 
+to other lenders operating in the market. The cost of funds can vary between 
+different prospective lenders, so the lender cannot simply charge based on its 
+cost of funds, particularly if there is a potential competitor who can obtain 
+funds more cheaply. A lender in a competitive market may seek to price at the 
+lowest possible rate in order to win business. In the commercial environment, 
+this will mean that lenders drive operating costs as low as possible and seek 
+to minimise the cost of obtaining funds to lend.
+
+10.99.  The application of the cost of funds approach requires consideration 
+of the options realistically available to the borrower. On prevailing facts and 
+circumstances, a borrowing MNE would not enter into a transaction priced 
+under the cost of funds approach if it could obtain the funding under better 
+conditions by entering into an alternative transaction.
+
+10.100.  In  some  intra-group  transactions,  the  cost  of  funds  approach  may 
+be  used  to  price  loans  where  capital  is  borrowed  from  an  unrelated  party 
+which  passes  from  the  original  borrower  through  one  or  more  associated 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+424 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+intermediary  enterprises,  as  a  series  of  loans,  until  it  reaches  the  ultimate 
+borrower.  In  such  cases,  where  only  agency  or  intermediary  functions  are 
+being performed, as noted in paragraph 7.34, “it may not be appropriate to 
+determine the arm’s length pricing as a mark-up on the costs of the services 
+but rather on the costs of the agency function itself.”
+
+C.1.2.4. Credit default swaps
+
+10.101.  Credit default swaps reflect the credit risk linked to an underlying 
+financial  asset.  In  the  absence  of  information  regarding  the  underlying 
+asset  that  could  be  used  as  a  comparable  transaction,  taxpayers  and  tax 
+administrations may use the spreads of credit default swaps to calculate the 
+risk premium associated to intra-group loans.
+
+10.102.  As financial instruments traded in the market, credit default swaps 
+may  be  subject  to  a  high  degree  of  volatility.  This  volatility  may  affect 
+the  reliability  of  credit  default  swaps  as  proxies  to  measure  the  credit  risk 
+associated  to  a  particular  investment  in  isolation,  since  the  credit  default 
+spreads  may  reflect  not  only  the  risk  of  default  but  also  other  non-related 
+factors  such  as  the  liquidity  of  the  credit  default  swaps  contracts  or  the 
+volume of contracts negotiated. Those circumstances could lead to situations 
+where, for instance, the same instrument may have different credit default 
+swaps spreads.
+
+10.103.  Accordingly, the use of credit default swaps to approximate the risk 
+premium associated to intra-group loans will require careful consideration of 
+the above-mentioned circumstances to arrive at an arm’s length interest rate.
+
+C.1.2.5. Economic modelling
+
+10.104.  Certain industries rely on economic models to price intra-group loans 
+by constructing an interest rate as a proxy to an arm’s length interest rate.
+
+10.105.  In  their  most  common  variation,  economic  models  calculate  an 
+interest rate through a combination of a risk-free interest rate and a number 
+of premiums associated with different aspects of the loan – e.g. default risk, 
+liquidity risk, expected inflation or maturity. In some instances, economic 
+models would also include elements to compensate the lender’s operational 
+expenses.
+
+10.106.  The  reliability  of  economic  models’  outcomes  depends  upon  the 
+parameters factored into the specific model and the underlying assumptions 
+adopted.  In  evaluating  the  reliability  of  economic  models  as  an  approach 
+to  pricing  intra-group  loans  it  is  important  to  note  that  economic  models’ 
+outcomes do not represent actual transactions between independent parties and 
+that, therefore, comparability adjustments would be likely required. However, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 425
+
+in  situations  where  reliable  comparable  uncontrolled  transactions  cannot  be 
+identified, economic models may represent tools that can be usefully applied 
+in identifying an arm’s length price for intra-group loans, subject to the same 
+constraints regarding market conditions discussed in paragraph 10.98.
+
+C.1.2.6. Bank op

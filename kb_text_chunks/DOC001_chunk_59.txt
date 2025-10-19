@@ -1,0 +1,84 @@
+re  found  in  transactions  between  independent  enterprises 
+and may influence the margin. Thus, this type of exclusive right should be 
+taken into account in any comparison. The value to be attributed to such an 
+exclusive right will depend to some extent upon its geographical scope and 
+the existence and relative competitiveness of possible substitute goods. The 
+arrangement may be valuable to both the supplier and the reseller in an arm’s 
+length transaction. For instance, it may stimulate the reseller to greater efforts 
+to  sell  the  supplier’s  particular  line  of  goods.  On  the  other  hand,  such  an 
+arrangement may provide the reseller with a kind of monopoly with the result 
+that  the  reseller  possibly  can  realise  a  substantial  turn  over  without  great 
+effort. Accordingly, the effect of this factor upon the appropriate resale price 
+margin must be examined with care in each case. See also paragraphs 6.118 
+and 6.120.
+
+2.41.  Where the accounting practices differ from the controlled transaction 
+to the uncontrolled transaction, appropriate adjustments should be made to 
+the data used in calculating the resale price margin in order to ensure that the 
+same types of costs are used in each case to arrive at the gross margin. For 
+example, costs of R&D may be reflected in operating expenses or in costs 
+of  sales.  The  respective  gross  margins  would  not  be  comparable  without 
+appropriate adjustments.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+106 – CHAPTER II: TRANSFER PRICING METHODS
+
+C.2.  Examples of the application of the resale price method
+
+2.42.  Assume that there are two distributors selling the same product in the 
+same market under the same brand name. Distributor A offers a warranty; 
+Distributor B offers none. Distributor A is not including the warranty as part 
+of a pricing strategy and so sells its product at a higher price resulting in a 
+higher gross profit margin (if the costs of servicing the warranty are not taken 
+into account) than that of Distributor B, which sells at a lower price. The two 
+margins are not comparable until a reasonably accurate adjustment is made 
+to account for that difference.
+
+2.43.  Assume  that  a  warranty  is  offered  with  respect  to  all  products  so 
+that the downstream price is uniform. Distributor C performs the warranty 
+function but is, in fact, compensated by the supplier through a lower price. 
+Distributor  D  does  not  perform  the  warranty  function  which  is  performed 
+by the supplier (products are sent back to the factory). However, Distributor 
+D’s  supplier  charges  D  a  higher  price  than  is  charged  to  Distributor  C.  If 
+Distributor C accounts for the cost of performing the warranty function as 
+a cost of goods sold, then the adjustment in the gross profit margins for the 
+differences is automatic. However, if the warranty expenses are accounted 
+for  as  operating  expenses,  there  is  a  distortion  in  the  margins  which  must 
+be corrected. The reasoning in this case would be that, if D performed the 
+warranty itself, its supplier would reduce the transfer price, and therefore, D’s 
+gross profit margin would be greater.
+
+2.44.  A company sells a product through independent distributors in five 
+jurisdictions in which it has no subsidiaries. The distributors simply market 
+the  product  and  do  not  perform  any  additional  work.  In  one  country,  the 
+company has set up a subsidiary. Because this particular market is of strategic 
+importance, the company requires its subsidiary to sell only its product and 
+to perform technical applications for the customers. Even if all other facts 
+and circumstances are similar, if the margins are derived from independent 
+enterprises  that  do  not  have  exclusive  sales  arrangements  or  perform 
+technical applications like those undertaken by the subsidiary, it is necessary 
+to consider whether any adjustments must be made to achieve comparability.
+
+D. Cost plus method
+
+D.1.  In general
+
+2.45.  The cost plus method begins with the costs incurred by the supplier 
+of property (or services) in a controlled transaction for property transferred 
+or  services  provided  to  an  associated  purchaser.  An  appropriate  cost  plus 
+mark-up is then added to this cost, to make an appropriate profit in light of 
+the functions performed and the market conditions. What is arrived at after 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 107
+
+adding the cost plus mark up to the above costs may be regarded as an arm’s 
+length price of the original controlled transaction. This method probably is 
+most useful where semi finished goods are sold between associated parties, 
+where  associated  parties  have  concluded  joint  facility  agreements  or  long-
+term buy-and-supply arrangements, or where the controlled transaction is the 
+provision of services.
+
+2.46.  The cost plus mark-up of the supplier in the controlled transa

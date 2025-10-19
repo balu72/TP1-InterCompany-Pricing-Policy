@@ -1,0 +1,88 @@
+by an independent lender in a comparable transaction; and (ii) no payment or 
+comparability adjustment is required for the group synergy benefit that gives 
+rise to the ability of S to borrow from independent enterprises at an interest rate 
+lower than it could were it not a member of the group because the synergistic 
+benefit of being able to borrow arises from S’s group membership alone and not 
+from any deliberate concerted action of members of the MNE group.
+
+Example 24
+
+1.187.  The  facts  relating  to  S’s  credit  standing  and  borrowing  power  are 
+identical to those in the preceding example. S borrows EUR 50 million from 
+Bank A. The functional analysis suggests that Bank A would lend to S at an 
+interest rate applicable to A rated borrowers without any formal guarantee. 
+
+4. 
+
+Example  2  should  not  be  viewed  as  providing  comprehensive  transfer  pricing 
+guidance  on  guarantee  fees  in  respect  of  financial  transactions.  For  further 
+guidance on the transfer pricing aspects of financial transactions, see Chapter X 
+of these Guidelines.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 89
+
+However, P agrees to guarantee the loan from Bank A in order to induce Bank 
+A to lend at the interest rate that would be available to AAA rated borrowers. 
+Under these circumstances, S should be required to pay a guarantee fee to P 
+for providing the express guarantee. In calculating an arm’s length guarantee 
+fee, the fee should reflect the benefit of raising S’s credit standing from A to 
+AAA, not the benefit of raising S’s credit standing from Baa to AAA. The 
+enhancement of S’s credit standing from Baa to A is attributable to the group 
+synergy derived purely from passive association in the group which need not 
+be compensated under the provisions of this section. The enhancement of S’s 
+credit standing from A to AAA is attributable to a deliberate concerted action, 
+namely the provision of the guarantee by P, and should therefore give rise to 
+compensation.
+
+Example 3
+
+1.188.  Assume that Company A is assigned the role of central purchasing 
+manager  on  behalf  of  the  entire  group.  It  purchases  from  independent 
+suppliers and resells to associated enterprises. Company A, based solely on the 
+negotiating leverage provided by the purchasing power of the entire group is 
+able to negotiate with a supplier to reduce the price of widgets from USD 200 
+to USD 110. Under these circumstances, the arm’s length price for the resale 
+of widgets by Company A to other members of the group would not be at or 
+near USD 200. Instead, the arm’s length price would remunerate Company A 
+for its services of co-ordinating purchasing activity. If the comparability and 
+functional  analysis  suggests  in  this  case  that  in  comparable  uncontrolled 
+transactions  involving  a  comparable  volume  of  purchases,  comparable 
+co-ordination services resulted in a service fee based on Company A’s costs 
+incurred plus a mark-up equating to a total service fee of USD 6 per widget, 
+then the intercompany price for the resale of the widgets by Company A would 
+be approximately USD 116. Under these circumstances, each member of the 
+group  would  derive  benefits  attributable  to  the  group  purchasing  power  of 
+approximately USD 84 per widget. In addition, Company A would earn USD 6 
+per widget purchased by members of the group for its service functions.
+
+Example 4
+
+1.189.  Assume  facts  similar  to  those  in  Example  3,  except  that  instead  of 
+actually  purchasing  and  reselling  the  widgets,  Company  A  negotiates  the 
+discount on behalf of the group and group members subsequently purchase the 
+widgets directly from the independent supplier. Under these circumstances, 
+assume that the comparability analysis suggests that Company A would be 
+entitled to a service fee of USD 5 per widget for the co-ordinating services 
+that  it  performed  on  behalf  of  other  group  members.  (The  lower  assumed 
+service fee in Example 4 as compared to Example 3 may reflect a lower level 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+90 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+of risk in the service provider following from the fact that it does not take title 
+to  the  widgets  or  hold  any  inventory.)  Group  members  purchasing  widgets 
+would retain the benefit of the group purchasing discount attributable to their 
+individual purchases after payment of the service fee.
+
+Example 5
+
+1.190.  Assume a multinational group based in Country A, has manufacturing 
+subsidiaries in Country B and Country C. Country B has a tax rate of 30% and 
+Country C has a tax rate of 10%. The group also maintains a shared services 
+centre in Country D. Assume that the manufacturing subsidiaries in Country B 
+and Country C each have need of 5 000 widgets produced by an independent 
+supplier  as  an  input  to  their  manufacturing  processes.  Assume  further  that 
+the  Country  D  shared 

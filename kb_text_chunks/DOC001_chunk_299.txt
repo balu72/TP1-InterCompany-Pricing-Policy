@@ -1,0 +1,109 @@
+ to  evaluate  some  issues  in 
+isolation,  for  example  where  the  transactions  covered  by  the  proposal  are 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+526 – ANNEX II TO CHAPTER IV: ADVANCE PRICING ARRANGEMENTS
+
+highly interrelated with transactions not covered by the proposal, or where 
+there is a need to analyse transfer pricing issues in a wider context because 
+intentional set offs are involved (see paragraphs 3.13-3.17 of the Guidelines).
+
+37. 
+A  MAP  APA  may  also  cover  issues  other  than  the  transfer  pricing 
+methodology, provided that these other issues are sufficiently clearly connected 
+to the underlying transfer pricing issues so as to make it worthwhile attempting 
+to  resolve  them  in  advance  and  provided  that  the  other  issues  come  within 
+the terms of the mutual agreement article in the relevant treaty. That will be 
+something to be decided between the affected parties for each individual case.
+
+C.3.3. Content of a MAP APA proposal
+
+38. 
+The content of the proposal and the extent of the necessary supporting 
+information and documentation will depend on the facts and circumstances 
+of  each  case  and  the  requirements  of  the  individual  participating  tax 
+administrations.  It  is  therefore  not  considered  practicable  to  list  or  define 
+exactly what should be provided. The guiding principle, however, should be 
+to provide the information and documentation necessary to explain the facts 
+relevant to the proposed methodology and to demonstrate its application in 
+accordance with the appropriate Article of the relevant treaty. The proposal 
+should  therefore  be  consistent  with  any  general  guidance  given  by  the 
+Commentary  of  the  OECD  Model  Tax  Convention  on  the  corresponding 
+Articles,  together  with  the  guidance  on  the  application  of  the  arm’s  length 
+principle  of  Article  9  given  by  the  Guidelines  in  cases  involving  transfer 
+pricing between associated enterprises.
+
+39. 
+In  terms  of  the  supporting  information  and  documentation  to  be 
+included, the guidance in Chapter IV (paragraphs 4.165-4.168) and Chapter V 
+of the Guidelines on documentation requirements should be borne in mind. 
+However, because of the prospective nature of the agreement sought, different 
+types  of  information  may  need  to  be  supplied  than  in  mutual  agreement 
+cases, which only relate to transactions already undertaken. As a guide, the 
+following information may be of general relevance for MAP APAs, although 
+it should be stressed that the list below is not intended to be exhaustive or 
+prescriptive in nature:
+
+a)  The  transactions,  products,  businesses  or  arrangements  that 
+will  be  covered  by  the  proposal;  (including,  if  applicable,  a 
+brief  explanation  of  why  not  all  of  the  transactions,  products, 
+businesses  or  arrangements  of  the  taxpayer(s)  involved  in  the 
+request have been included);
+
+b)  The enterprises and permanent establishments involved in these 
+
+transactions or arrangements;
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER IV: ADVANCE PRICING ARRANGEMENTS – 527
+
+c)  The other jurisdiction or jurisdictions which have been requested 
+
+to participate;
+
+d)  Information  regarding  the  world-wide  organisational  structure, 
+history, financial statement data, products, functions and assets 
+(tangible and intangible) of any associated enterprises involved;
+
+e)  A description of the proposed transfer pricing methodology and 
+details of information and analyses supporting that methodology, 
+e.g. identification of comparable prices or margins and expected 
+range of results etc.;
+
+f)  The assumptions underpinning the proposal and a discussion of 
+the effect of changes in those assumptions or other events, such 
+as unexpected results, which might affect the continuing validity 
+of the proposal;
+
+g)  The accounting periods or tax years to be covered;
+
+h)  General  description  of  market  conditions  (e.g.  industry  trends 
+
+and the competitive environment);
+
+i)  A discussion of any pertinent ancillary tax issues raised by the 
+
+proposed methodology;
+
+j)  A  discussion  of,  and  demonstration  of  compliance  with,  any 
+pertinent domestic law, tax treaty provisions and OECD guidelines 
+that relate to the proposal; and
+
+k)  Any other information which may have a bearing on the current 
+or  proposed  transfer  pricing  methodology  and  the  underlying 
+data for any party to the request.
+
+The rest of this section discusses some of the most important items from 
+
+the above list in more detail.
+
+C.3.4. Comparable pricing information
+
+40. 
+The taxpayer should include a discussion of the availability and use of 
+comparable pricing information. This would include a description of how the 
+search for comparables was carried out (including search criteria employed), 
+what  data  relating  to  uncontrolled  transactions  was  obtained  and  how  such 
+data was accepted or rejected

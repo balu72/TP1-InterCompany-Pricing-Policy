@@ -1,0 +1,84 @@
+t only to the risk profile of the borrowing MNE. 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 417
+
+On prevailing facts and circumstances, and provided there is comparability 
+between the third party debt issuance and the controlled transaction, when 
+both an issuer and issue ratings are available, the issue rating of the particular 
+debt  issuance  would  be  more  appropriate  to  use  to  price  the  controlled 
+financial transaction.
+
+C.1.1.2.3. Credit rating determinations
+
+10.71.  Particular considerations should be borne in mind when determining 
+a credit rating for a specific MNE within an MNE group for the purpose of 
+assessing  controlled  transactions.  Where  an  MNE  has  a  publicly  available 
+credit  rating  published  by  an  independent  credit  rating  agency,  that  rating 
+may  be  informative  for  an  arm’s  length  analysis  of  the  MNE’s  controlled 
+financing  transactions.  However,  in  most  cases,  publicly  available  credit 
+ratings are only available for the MNE group. An approach often used for 
+a  specific  MNE  is  to  apply  quantitative  and  qualitative  analyses  of  the 
+individual characteristics of the MNE using publicly available financial tools 
+or independent credit rating agencies’ methodologies to seek to replicate the 
+process used to determine the credit rating of the MNE group. This approach 
+also involves taking into account improvements in creditworthiness that the 
+specific MNE would be assumed to receive as a result of being part of the 
+MNE group.
+
+C.1.1.2.4. The use of publicly available financial tools or methodologies 
+to approximate credit ratings
+
+10.72.  Publicly  available  financial  tools  are  designed  to  calculate  credit 
+ratings.  Broadly,  these  tools  depend  on  approaches  such  as  calculating  the 
+probability of default and of the likely loss should default occur to arrive at 
+an implied rating for the borrowing. This can then be compared to a market 
+database in a search for comparables to arrive at a price or price range for the 
+borrowing. In considering whether the application of these tools results in a 
+reliable assessment of the credit rating of controlled transactions, potential 
+issues that need to be borne in mind include that the results are not based on 
+a direct comparison with transactions between independent parties but are 
+subject to the accuracy of the input parameters, a tendency to rely more on 
+quantitative inputs at the expense of qualitative factors, and a lack of clarity 
+in the processes (i.e. the workings of the underlying algorithms and processes 
+may not be transparent).
+
+10.73.  The  credit  rating  methodology  used  in  publicly  available  financial 
+tools  may  differ  significantly  in  certain  respects  from  the  credit  rating 
+methodologies  applied  by  independent  credit  rating  agencies  to  determine 
+official  credit  ratings  and  the  impact  of  any  such  differences  should  be 
+carefully considered. For instance, publicly available tools generally use only 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+418 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+a  limited  sample  of  quantitative  data  to  determine  a  credit  rating.  Official 
+credit  ratings  published  by  independent  credit  rating  agencies  are  derived 
+as a result of far more rigorous analysis that includes quantitative analysis 
+of  historic  and  forecast  entity  performance  as  well  as  detailed  qualitative 
+analysis of, for instance, management’s ability to manage the entity, industry 
+specific features and the entity’s market share in its industry.
+10.74.  For these reasons, the reliability of credit rating results derived from 
+the use of publicly available financial tools may be improved to the extent the 
+analysis can reproducibly demonstrate consistency of ratings using such tools 
+with those provided by independent credit rating agencies.
+In  conducting  a  credit  rating  analysis,  it  is  important  to  note  that 
+10.75. 
+the  financial  metrics  may  be  influenced  by  current  and  past  controlled 
+transactions  (such  as  sales,  or  interest  expenses).  If  it  appears  that  such 
+controlled transactions are not in accordance with the arm’s length principle, 
+the credit rating derived in light of such intra-group transactions may not be 
+reliable. (See also guidance in Section B). These considerations apply both to 
+controlled transactions that may affect the current earnings of the MNE and 
+to previous funding and other intra-group transactions that may have had an 
+impact on the measures of income and capital of the MNE that are the subject 
+of quantitative analysis.
+
+C.1.1.3. Effect of group membership
+
+10.76.  The  effect  of  group  membership  is  relevant  for  informing  the 
+conditions under which an MNE would have borrowed from an independent 
+lender at arm’s length in two ways in particular. Firstly, the external funding 
+policies  and  pra

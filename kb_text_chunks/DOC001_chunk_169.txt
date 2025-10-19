@@ -1,0 +1,79 @@
+ of transfer 
+pricing methods under the Guidelines.
+
+6.132.  In  applying  the  principles  of  paragraphs  2.1  to  2.12  to  matters 
+involving the transfer of intangibles or rights in intangibles, it is important 
+to recognise that transactions structured in different ways may have similar 
+economic  consequences.  For  example,  the  performance  of  a  service  using 
+intangibles may have very similar economic consequences to a transaction 
+involving  the  transfer  of  an  intangible  (or  the  transfer  of  rights  in  the 
+intangible), as either may convey the value of the intangible to the transferee. 
+Accordingly,  in  selecting  the  most  appropriate  transfer  pricing  method  in 
+connection with a transaction involving the transfer of intangibles or rights 
+in intangibles, it is important to consider the economic consequences of the 
+transaction, rather than proceeding on the basis of an arbitrary label.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+288 – CHAPTER VI: INTANGIBLES
+
+6.133.  This chapter makes it clear that in matters involving the transfer of 
+intangibles or rights in intangibles it is important not to simply assume that 
+all residual profit, after a limited return to those providing functions, should 
+necessarily be allocated to the owner of intangibles. The selection of the most 
+appropriate transfer pricing method should be based on a functional analysis 
+that provides a clear understanding of the MNE’s global business processes 
+and  how  the  transferred  intangibles  interact  with  other  functions,  assets 
+and risks that comprise the global business. The functional analysis should 
+identify all factors that contribute to value creation, which may include risks 
+borne, specific market characteristics, location, business strategies, and MNE 
+group synergies among others. The transfer pricing method selected, and any 
+adjustments incorporated in that method based on the comparability analysis, 
+should take into account all of the relevant factors materially contributing to 
+the creation of value, not only intangibles and routine functions.
+6.134.  The principles set out in paragraphs 2.12, 3.58 and 3.59 regarding the 
+use of more than one transfer pricing method apply to matters involving the 
+transfer of intangibles or rights in intangibles.
+6.135.  Paragraphs  3.9  to  3.12  and  paragraph  3.37  provide  guidance 
+regarding  the  aggregation  of  separate  transactions  for  purposes  of  transfer 
+pricing analysis. Those principles apply fully to cases involving the transfer 
+of intangibles or rights in intangibles and are supplemented by the guidance 
+in Section C of this chapter. Indeed, it is often the case that intangibles may 
+be transferred in combination with other intangibles, or in combination with 
+transactions involving the sale of goods or the performance of services. In 
+such situations it may well be that the most reliable transfer pricing analysis 
+will consider the interrelated transactions in the aggregate as necessary to 
+improve the reliability of the analysis.
+
+D.2.6.  Supplemental guidance on transfer pricing methods in matters 
+
+involving the transfer of intangibles or rights in intangibles
+6.136.  Depending  on  the  specific  facts,  any  of  the  five  OECD  transfer 
+pricing methods described in Chapter II might constitute the most appropriate 
+transfer  pricing  method  to  the  circumstances  of  the  case  where  the  trans-
+action involves a controlled transfer of one or more intangibles. The use of 
+other alternatives may also be appropriate.
+6.137.  Where  the  comparability  analysis  identifies  reliable  information 
+related to comparable uncontrolled transactions, the determination of arm’s 
+length  prices  for  a  transfer  of  intangibles  or  rights  in  intangibles  can  be 
+determined on the basis of such comparables after making any comparability 
+adjustments that may be appropriate and reliable.
+6.138.  However, it will often be the case in matters involving transfers of 
+intangibles or rights in intangibles that the comparability analysis (including 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 289
+
+the  functional  analysis)  reveals  that  there  are  no  reliable  comparable 
+uncontrolled  transactions  that  can  be  used  to  determine  the  arm’s  length 
+price  and  other  conditions.  This  can  occur  if  the  intangibles  in  question 
+have  unique  characteristics,  or  if  they  are  of  such  critical  importance  that 
+such  intangibles  are  transferred  only  among  associated  enterprises.  It  may 
+also  result  from  a  lack  of  available  data  regarding  potentially  comparable 
+transactions  or  from  other  causes.  Notwithstanding  the  lack  of  reliable 
+comparables, it is usually possible to determine the arm’s length price and 
+other conditions for the controlled transaction.
+
+6.139.  Where  information  regarding  reliable  comparable  uncontrolled 
+transactions cann

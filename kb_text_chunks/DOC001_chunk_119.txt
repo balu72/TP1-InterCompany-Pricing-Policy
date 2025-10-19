@@ -1,0 +1,78 @@
+S
+
+that the benefits of safe harbours outweigh the related concerns when such 
+rules are carefully targeted and prescribed and when efforts are made to avoid 
+the problems that could arise from poorly considered safe harbour regimes.
+
+4.98.  The  appropriateness  of  safe  harbours  can  be  expected  to  be  most 
+apparent  when  they  are  directed  at  taxpayers  and/or  transactions  which 
+involve low transfer pricing risks and when they are adopted on a bilateral 
+or  multilateral  basis.  It  should  be  recognised  that  a  safe  harbour  provision 
+does not bind or limit in any way any tax administration other than the tax 
+administration that has expressly adopted the safe harbour.
+
+4.99.  Although safe harbours primarily benefit taxpayers, by providing for 
+a more optimal use of resources, they can benefit tax administrations as well. 
+Tax administrations can shift audit and examination resources from smaller 
+taxpayers  and  less  complex  transactions  (which  may  typically  be  resolved 
+in practice on a consistent basis as to both transfer pricing methodology and 
+actual results) to more complex, higher-risk cases. At the same time, taxpayers 
+can price eligible transactions and file their tax returns with more certainty and 
+with lower compliance burdens. However, the design of safe harbours requires 
+careful  attention  to  concerns  about  the  degree  of  approximation  to  arm’s 
+length prices that would be permitted in determining transfer prices under safe 
+harbour  rules  for  eligible  taxpayers,  the  potential  for  creating  inappropriate 
+tax planning opportunities including double non-taxation of income, equitable 
+treatment of similarly situated taxpayers, and the potential for double taxation 
+resulting from the possible incompatibility of the safe harbours with the arm’s 
+length principle or with the practices of other jurisdictions.
+
+4.100.  The  following  discussion  considers  the  benefits  of,  and  concerns 
+regarding,  safe  harbour  provisions  and  provides  guidance  regarding  the 
+circumstances in which safe harbours may be applied in a transfer pricing 
+system based on the arm’s length principle.
+
+E.2.  Definition and concept of safe harbours
+
+4.101.  Some  of  the  difficulties  that  arise  in  applying  the  arm’s  length 
+principle  may  be  avoided  by  providing  circumstances  in  which  eligible 
+taxpayers  may  elect  to  follow  a  simple  set  of  prescribed  transfer  pricing 
+rules in connection with clearly and carefully defined transactions, or may 
+be  exempted  from  the  application  of  the  general  transfer  pricing  rules.  In 
+the former case, prices established under such rules would be automatically 
+accepted by the tax administrations that have expressly adopted such rules. 
+These elective provisions are often referred to as “safe harbours”.
+
+4.102.  A safe harbour in a transfer pricing regime is a provision that applies 
+to a defined category of taxpayers or transactions and that relieves eligible 
+taxpayers  from  certain  obligations  otherwise  imposed  by  a  jurisdiction’s 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 205
+
+general transfer pricing rules. A safe harbour substitutes simpler obligations 
+for those under the general transfer pricing regime. Such a provision could, 
+for example, allow taxpayers to establish transfer prices in a specific way, 
+e.g. by applying a simplified transfer pricing approach provided by the tax 
+administration. Alternatively, a safe harbour could exempt a defined category 
+of taxpayers or transactions from the application of all or part of the general 
+transfer  pricing  rules.  Often,  eligible  taxpayers  complying  with  the  safe 
+harbour provision will be relieved from burdensome compliance obligations, 
+including some or all associated transfer pricing documentation requirements.
+
+4.103.  For purposes of the discussion in this Section, safe harbours do not 
+include administrative simplification measures which do not directly involve 
+determination  of  arm’s  length  prices,  e.g.  simplified,  or  exemption  from, 
+documentation  requirements  (in  the  absence  of  a  pricing  determination), 
+and  procedures  whereby  a  tax  administration  and  a  taxpayer  agree  on 
+transfer  pricing  in  advance  of  the  controlled  transactions  (advance  pricing 
+arrangements),  which  are  discussed  in  Section  F  of  this  chapter.  The 
+discussion in this section also does not extend to tax provisions designed to 
+prevent “excessive” debt in a foreign subsidiary (“thin capitalisation” rules).
+
+4.104.  Although they would not fully meet the foregoing description of a safe 
+harbour, it may be the case that some jurisdictions adopt other administrative 
+simplification measures that use presumptions to realise some of the benefits 
+discussed  in  this  Section.  For  example,  a  rebuttable  presumption  might  be 
+established under which a mandatory p

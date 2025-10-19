@@ -1,0 +1,86 @@
+.
+
+10.90.  The  widespread  existence  of  markets  for  borrowing  and  lending 
+money  and  the  frequency  of  such  transactions  between  independent 
+borrowers  and  lenders,  coupled  with  the  widespread  availability  of 
+information  and  analysis  of  loan  markets  may  make  it  easier  to  apply 
+the  CUP  method  to  financial  transactions  than  may  be  the  case  for  other 
+types  of  transactions.  Information  available  often  includes  details  on  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+422 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+characteristics of the loan and the credit rating of the borrower or the rating 
+of the specific issuance. Characteristics which will usually increase the risk 
+for the lender, such as long maturity dates, absence of security, subordination, 
+or application of the loan to a risky project, will tend to increase the interest 
+rate. Characteristics which limit the lender’s risk, such as strong collateral, a 
+high quality guarantee, or restrictions on future behaviour of the borrower, 
+will tend to result in a lower interest rate.
+
+10.91.  The arm’s length interest rate for a tested loan can be benchmarked 
+against  publicly  available  data  for  other  borrowers  with  the  same  credit 
+rating  for  loans  with  sufficiently  similar  terms  and  conditions  and  other 
+comparability  factors.  With  the  extent  of  competition  often  present  within 
+lending markets, it might be expected that, given the characteristics of the 
+loan (amount, maturity, currency, etc.) and the credit rating of the borrower 
+or the rating of the specific issuance (see Section  C.1.1.2.), there would be 
+a  single  rate  at  which  the  borrower  could  obtain  funds  and  a  single  rate 
+at  which  a  lender  could  invest  funds  to  obtain  an  appropriate  reward.  In 
+practice, however, there is unlikely to be a single “market rate” but a range 
+of rates although competition between lenders and the availability of pricing 
+information will tend to narrow the range.
+
+10.92.  In the search for comparability data, a comparable is not necessarily 
+restricted  to  a  stand-alone  entity.  In  examining  commercial  loans,  where 
+the  potentially  comparable  borrower  is  a  member  of  an  MNE  group  and 
+has borrowed from an independent lender, provided all other economically 
+relevant conditions are sufficiently similar, a loan to a member of a different 
+MNE group or between members of different MNE groups could be a valid 
+comparable.
+
+10.93.  Arm’s length interest rates can also be based on the return of realistic 
+alternative transactions with comparable economic characteristics. Depending 
+on the facts and circumstances, realistic alternatives to intra-group loans could 
+be, for instance, bond issuances, loans which are uncontrolled transactions, 
+deposits,  convertible  debentures,  commercial  papers,  etc.  In  the  evaluation 
+of those alternatives as potential comparables it is important to bear in mind 
+that,  based  on  facts  and  circumstances,  comparability  adjustments  may  be 
+required to eliminate the material effects of differences between the controlled 
+intra-group loan and the selected alternative in terms of, for instance, liquidity, 
+maturity, existence of collateral or currency.
+
+10.94.  When considering issues of comparability, the possibility of internal 
+CUPs should not be overlooked.
+
+10.95.  Whereas it is unlikely that an MNE group’s average interest rate paid 
+on its external debt meets the comparability requirements to be considered 
+as an internal CUP, it may be possible to identify potential comparable loans 
+within  the  borrower’s  or  its  MNE  group’s  financing  with  an  independent 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 423
+
+lender as the counterparty. As with external CUPs, it may be necessary to 
+make appropriate adjustments to improve comparability. See Example 1 at 
+1.164-1.166.
+
+C.1.2.2. Loan fees and charges
+
+10.96.  In  considering  arm’s  length  pricing  of  loans,  the  issue  of  fees  and 
+charges  in  relation  to  the  loan  may  arise.  Independent  commercial  lenders 
+will sometimes charge fees as part of the terms and conditions of the loan, 
+for example arrangement fees or commitment fees in relation to an undrawn 
+facility. If such charges are seen in a loan between associated enterprises, they 
+should be evaluated in the same way as any other intra-group transaction. In 
+doing so, it must be borne in mind that independent lenders’ charges will in 
+part reflect costs incurred in the process of raising capital and in satisfying 
+regulatory requirements, which associated enterprises might not incur.
+
+C.1.2.3. Cost of funds
+
+10.97.  In the absence of comparable uncontrolled transactions, the cost of 
+funds  approach  could  be  used  as  an  alternative  to  price  intra-group  loans 
+in some  circumstances. The cost of funds  will  reflect  the borrowing 

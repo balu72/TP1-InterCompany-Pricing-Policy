@@ -1,0 +1,76 @@
+rcial 
+or financial relations between the parties. The controlled transactions may 
+have  been  formalised  in  written  contracts  which  may  reflect  the  intention 
+of the parties at the time the contract was concluded in relation to aspects 
+of  the  transaction  covered  by  the  contract,  including  in  typical  cases  the 
+division of responsibilities, obligations and rights, assumption of identified 
+risks,  and  pricing  arrangements.  Where  a  transaction  has  been  formalised 
+by the associated enterprises through written contractual agreements, those 
+agreements provide the starting point for delineating the transaction between 
+them  and  how  the  responsibilities,  risks,  and  anticipated  outcomes  arising 
+from their interaction were intended to be divided at the time of entering into 
+the contract. The terms of a transaction may also be found in communications 
+between the parties other than a written contract.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 43
+
+1.43.  However,  the  written  contracts  alone  are  unlikely  to  provide  all  the 
+information  necessary  to  perform  a  transfer  pricing  analysis,  or  to  provide 
+information  regarding  the  relevant  contractual  terms  in  sufficient  detail. 
+Further information will be required by taking into consideration evidence of 
+the  commercial  or  financial  relations  provided  by  the  economically  relevant 
+characteristics in the other four categories (see paragraph 1.36): the functions 
+performed  by  each  of  the  parties  to  the  transaction,  taking  into  account 
+assets  used  and  risks  assumed,  together  with  the  characteristics  of  property 
+transferred  or  services  provided,  the  economic  circumstances  of  the  parties 
+and  of  the  market  in  which  the  parties  operate,  and  the  business  strategies 
+pursued by the parties. Taken together, the analysis of economically relevant 
+characteristics in all five categories provides evidence of the actual conduct 
+of the associated enterprises. The evidence may clarify aspects of the written 
+contractual  arrangements  by  providing  useful  and  consistent  information.  If 
+the  contract  neither  explicitly  nor  implicitly  (taking  into  account  applicable 
+principles of contract interpretation) addresses characteristics of the transaction 
+that are economically relevant, then any information provided by the contract 
+should  be  supplemented  for  purposes  of  the  transfer  pricing  analysis  by  the 
+evidence provided by identifying those characteristics.
+
+1.44.  The  following  example  illustrates  the  concept  of  clarifying  and 
+supplementing  the  written  contractual  terms  based  on  the  identification 
+of  the  actual  commercial  or  financial  relations.  Company  P  is  the  parent 
+company of an MNE group situated in Country P. Company S, situated in 
+Country S, is a wholly-owned subsidiary of Company P and acts as an agent 
+for  Company  P’s  branded  products  in  the  Country  S  market.  The  agency 
+contract between Company P and Company S is silent about any marketing 
+and  advertising  activities  in  Country  S  that  the  parties  should  perform. 
+Analysis  of  other  economically  relevant  characteristics  and  in  particular 
+the functions performed, determines that Company S launched an intensive 
+media  campaign  in  Country  S  in  order  to  develop  brand  awareness.  This 
+campaign  represents  a  significant  investment  for  Company  S.  Based  on 
+evidence provided by the conduct of the parties, it could be concluded that the 
+written contract may not reflect the full extent of the commercial or financial 
+relations between the parties. Accordingly, the analysis should not be limited 
+by the terms recorded in the written contract, but further evidence should be 
+sought as to the conduct of the parties, including as to the basis upon which 
+Company S undertook the media campaign.
+
+1.45. 
+If the characteristics of the transaction that are economically relevant 
+are inconsistent with the written contract between the associated enterprises, 
+the actual transaction should generally be delineated for purposes of the transfer 
+pricing  analysis  in  accordance  with  the  characteristics  of  the  transaction 
+reflected in the conduct of the parties.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+44 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+1.46. 
+In  transactions  between  independent  enterprises,  the  divergence  of 
+interests between the parties ensures (i) that contractual terms are concluded 
+that reflect the interests of both of the parties, (ii) that the parties will ordinarily 
+seek to hold each other to the terms of the contract, and (iii) that contractual 
+terms will be ignored or modified after the fact generally only if it is in the 
+interests  of  both  parties.  The  same  divergence  of  interests  may  not  exist  in 
+the case of associated enterp

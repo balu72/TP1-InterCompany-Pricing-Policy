@@ -1,0 +1,144 @@
+ctional 
+alysis
+
+ndustry
+In
+nalysis
+An
+
+I
+nter-
+company
+c
+ransaction
+t
+
+Company/
+Group
+Analysis
+
+Executive
+Summary
+
+1.4.1  Executive  Summary
+
+1.4.1.1  The objective of transfer pricing analysis is to support the arm’s 
+length  nature  of  international  transactions  and  specified  domestic 
+transactions entered into by the taxpayer. Therefore, the essence of 
+the transfer pricing documentation and all major observations and 
+findings  has  to  be  summarily  discussed  at  the  start  of  the  report.
+
+1.4.1.2  The executive summary should clearly enumerate the gist of 
+the  detailed  analysis  and  information  captured  in  transfer  pricing 
+Documentation  Report,  such  as:
+
+l  The  business  overview  of  the  group  and  the  taxpayer;
+
+l  Relationship  between  the  taxpayer  and  its  associated 
+
+enterprise;
+
+l  Characterization  of  the  entities  based  on  functional  and 
+
+risk  analysis;
+
+l  List  of  international  transactions  or  specified  domestic 
+transactions along with the value of the transactions and 
+methodology  used  to  benchmark  the  transactions;  and
+
+l  Summary  of  economic  analysis  undertaken.
+
+I-106
+
+Transfer Pricing – A Compendium 
+ 
+ 
+ 
+ 
+ 
+Transfer Pricing Documentation and its Critical Importance in Practice
+
+1.4.1.3  Also,  it  is  important  to  mention  the  fact  that  the  results 
+obtained  in  the  transfer  pricing  Documentation,  are  pertinent  to 
+that  financial  year  and  the  results  may  need  to  be  updated  based 
+on  latest  financials  result,  change  in  functional  and  risk  profile  or 
+the level of tangible/intangible asset owned (i.e. the need to review 
+and update the transfer pricing policy/arrangement to reflect change 
+in  market  conditions).
+
+1.4.2  Company/Group  Overview
+
+1.4.2.1  GROUP  STRUCTURE AND  OWNERSHIP  LINKAGES:  The  taxpayer 
+should  appropriately  document  its  shareholding  structure  as  well 
+as  the  overall  group  structure,  to  the  extent  relevant  to  the  Indian 
+taxpayer and its international transactions. The ownership linkages 
+among  the  group  entities  should  also  be  mentioned,  as  the  same 
+would  enable  one  to  easily  identify  the  entities  within  the  group 
+which would qualify as “associated enterprise” (“AEs”) as specified 
+in section 92A(2), under which the two become associated enterprises. 
+Further, in view of specific requirements of Rule 10D of the Rules, 
+it  is  imperative  to  mention  the  name,  address,  legal  status,  and 
+country  of  tax  residence  country  of  tax  residence  of  each  of  the 
+AEs.
+
+1.4.2.2  DIAGRAMMATIC REPRESENTATION: The aforesaid information, 
+if  presented  in  the  form  of  a  chart  or  a  table  would  provide  a 
+better  optical  view  of  the  group  structure  and  would  be  easy  to 
+comprehend. An illustrative presentation of the group structure of 
+an  MNC  group  is  presented  below:
+
+ABC  Inc, 
+USA
+
+ABC  Pte, 
+Singapore
+
+ABC  India
+
+ABC 
+Malaysia
+
+ABC  UK
+
+ABC 
+Germany
+
+1.4.2.3  BUSINESS OVERVIEW OF THE GROUP: The Documentation should 
+contain  an  overview  of  the  business  of  the  MNE  group  of  which 
+the  taxpayer  is  a  member.  This  section  should  also  include  the 
+
+I-107
+
+overview  of  the    business    operations    of  the  taxpayer,  especially, 
+its activities in relation to which international transactions have been 
+entered into with its AEs, a brief background (date of incorporation, 
+employee base, global presence etc.), short description of the business 
+segments, financial performance of the entity, activities performed/
+services  offered  under  each  segment  and  the  product  profile.  The 
+information  in  this  regard  could  be  obtained  from  and  linked  to 
+the  information  contained  in  the  Director’s  Report,  company’s/
+group  website  and  other  publicly  available  authentic  data.  This 
+information  would  give  an  overall  understanding  of  the  business 
+operations  of  the  Indian  entity  within  the  overall  group  structure. 
+This  would  also  form  a  base  for  carrying  out  an  analysis  of  the 
+functions  performed,  assets  employed,  and  risks  assumed  (“FAR 
+analysis”)  and  also  the  economic  analysis.
+
+1.4.2.4  BUSINESS OVERVIEW OF THE TRANSACTING AES: Lastly, a brief 
+business description of each of the AEs with whom the taxpayer has 
+international transactions including section reference as per which 
+it  becomes  an  AE,  should  also  be  included  in  the  Documentation. 
+This enables an easy understanding of the business activities of the 
+AEs and gives an overview of the relevance of the activity of each 
+of  the  entities  within  the  group.
+
+1.4.2.5  SUMMARY:  In  summary,  the  group  overview  section  could 
+contain  information  such  as:
+
+l  the lines of business in which the MNE group is engaged;
+
+l  key  products  dealt-in  by  the  group  and  its  market 
+
+leadership;
+
+l  global positioning in terms of presence in various countr

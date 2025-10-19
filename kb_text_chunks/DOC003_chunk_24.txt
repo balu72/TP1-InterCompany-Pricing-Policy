@@ -1,0 +1,94 @@
+iable  information  to  perform  an  efficient  and  robust  transfer  pricing  risk  assessment 
+analysis;
+
+whereas,  Chapter  III  of  the  Convention  authorises  the  exchange  of  information  for 
+tax  purposes,  including  the  exchange  of  information  on  an  automatic  basis,  and  allows 
+the competent authorities of the Jurisdictions to agree on the scope and modalities of such 
+automatic exchanges;
+
+whereas, Article 6 of the Convention provides that two or more Parties can mutually 
+agree  to  exchange  information  automatically,  albeit  that  the  actual  exchange  of  the 
+information will take place on a bilateral basis between the Competent Authorities;
+
+whereas, the Jurisdictions will have, or are expected to have, in place by the time the 
+first exchange of CbC Reports takes place, (i) appropriate safeguards to ensure that the 
+information received pursuant to this Agreement remains confidential and is used for the 
+purposes of assessing high-level transfer pricing risks and other base erosion and profit 
+shifting related risks, as well as for economic and statistical analysis, where appropriate, 
+in  accordance  with  Section  5  of  this  Agreement,  (ii)  the  infrastructure  for  an  effective 
+exchange relationship (including established processes for ensuring timely, accurate, and 
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+46 – ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE
+
+confidential information exchanges, effective and reliable communications, and capabilities 
+to  promptly  resolve  questions  and  concerns  about  exchanges  or  requests  for  exchanges 
+and to administer the provisions of Section 4 of this Agreement) and (iii) the necessary 
+legislation to require Reporting Entities to file the CbC Report;
+
+whereas, the Jurisdictions are committed to discuss with the aim of resolving cases of 
+undesirable economic outcomes, including for individual businesses, in accordance with 
+paragraph 2 of Article 24 of the Convention, as well as paragraph 1 of Section 6 of this 
+Agreement;
+
+whereas,  mutual  agreement  procedures,  for  instance  on  the  basis  of  a  double  tax 
+convention  concluded  between  the  jurisdictions  of  the  Competent  Authorities,  remain 
+applicable  in  cases  where  the  CbC  Report  has  been  exchanged  on  the  basis  of  this 
+Agreement;
+
+whereas,  the  Competent  Authorities  of  the  jurisdictions  intend  to  conclude  this 
+Agreement,  without  prejudice  to  national  legislative  procedures  (if  any),  and  subject  to 
+the  confidentiality  and  other  protections  provided  for  in  the  Convention,  including  the 
+provisions limiting the use of the information exchanged thereunder;
+
+Now, therefore, the Competent Authorities have agreed as follows:
+
+SECTION 1
+Definitions
+
+For  the  purposes  of  this  Agreement,  the  following  terms  have  the  following 
+
+1. 
+meanings:
+
+a) 
+
+the  term  “Jurisdiction”  means  a  country  or  a  territory  in  respect  of  which  the 
+Convention  is  in  force  and  is  in  effect,  either  through  ratification,  acceptance 
+or  approval  in  accordance  with  Article  28,  or  through  territorial  extension  in 
+accordance with Article 29, and which is a signatory to this Agreement;
+
+b)  the  term  “Competent  Authority”  means,  for  each  respective  Jurisdiction,  the 
+
+persons and authorities listed in Annex B of the Convention;
+
+c)  The term “Group” means a collection of enterprises related through ownership or 
+control such that it is either required to prepare consolidated financial statements 
+for financial reporting purposes under applicable accounting principles or would 
+be so required if equity interests in any of the enterprises were traded on a public 
+securities exchange;
+
+d)  the  term  “Multinational  Enterprise  (MNE)  Group”  means  any  Group  that 
+(i)  includes  two  or  more  enterprises  the  tax  residence  for  which  is  in  different 
+jurisdictions,  or  includes  an  enterprise  that  is  resident  for  tax  purposes  in  one 
+jurisdiction and is subject to tax with respect to the business carried out through a 
+permanent establishment in another jurisdiction, and (ii) is not an Excluded MNE 
+Group;
+
+e) 
+
+the term “Excluded MNE Group” means a Group that is not required to file a 
+CbC Report on the basis that the annual consolidated group revenue of the Group 
+during the fiscal year immediately preceding the reporting fiscal year, as reflected 
+in its consolidated financial statements for such preceding fiscal year, is below the 
+threshold defined in domestic law by the Jurisdiction and being consistent with the 
+2015 Report, as may be amended following the 2020 review contemplated therein;
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE – 47
+
+f) 
+
+the term “Constituent Entity” means (i) any separat

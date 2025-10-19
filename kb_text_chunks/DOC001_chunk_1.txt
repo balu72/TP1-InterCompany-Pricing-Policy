@@ -1,0 +1,306 @@
+J
+
+a
+
+n
+
+u
+
+a
+
+r
+
+y
+
+2
+
+0
+
+2
+
+2
+
+O
+
+E
+
+C
+
+D
+
+T
+
+r
+
+a
+
+n
+
+s
+
+f
+
+e
+
+r
+
+P
+
+r
+
+i
+
+c
+
+i
+
+n
+
+g
+
+G
+
+u
+
+i
+
+d
+
+e
+
+l
+
+i
+
+n
+
+e
+
+s
+
+f
+
+o
+
+r
+
+M
+
+u
+
+l
+
+t
+
+i
+
+n
+
+a
+
+t
+
+i
+
+o
+
+n
+
+a
+
+l
+
+E
+
+n
+
+t
+
+e
+
+r
+
+p
+
+r
+
+i
+
+s
+
+e
+
+s
+
+a
+
+n
+
+d
+
+T
+
+a
+
+x
+
+A
+
+d
+
+m
+
+i
+
+n
+
+i
+
+s
+
+t
+
+r
+
+a
+
+t
+
+i
+
+o
+
+n
+
+s
+
+OECD Transfer 
+Pricing Guidelines 
+for Multinational 
+Enterprises and Tax 
+Administrations
+
+January 2022
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OECD Transfer 
+Pricing Guidelines 
+for Multinational 
+Enterprises and Tax 
+Administrations
+2022
+
+This document, as well as any data and map included herein, are without prejudice to the
+status of or sovereignty over any territory, to the delimitation of international frontiers and
+boundaries and to the name of any territory, city or area.
+
+Please cite this publication as:
+OECD (2022), OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax
+Administrations 2022, OECD Publishing, Paris, https://doi.org/10.1787/0e655865-en.
+
+ISBN 978-92-64-52691-4 (print)
+ISBN 978-92-64-92191-7 (pdf)
+
+OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations
+ISSN 2076-9709 (print)
+ISSN 2076-9717 (online)
+
+Corrigenda to publications may be found on line at: www.oecd.org/about/publishing/corrigenda.htm.
+
+© OECD 2022
+
+The use of this work, whether digital or print, is governed by the Terms and Conditions to be found at
+http://www.oecd.org/termsandconditions.
+
+FOREWORD – 3
+
+Foreword
+
+These  Guidelines  are  a  revision  of  the  OECD  Report Transfer  Pricing 
+and Multinational Enterprises (1979). They were approved in their original 
+version  by  the  Committee  on  Fiscal  Affairs  on  27  June  1995  and  by  the 
+OECD Council for publication on 13 July 1995.
+
+Since their original version, these Guidelines have been supplemented:
+
+•  By  the  report  on  intangible  property  and  services,  adopted  by  the 
+Committee on Fiscal Affairs on 23 January 1996 [DAFFE/CFA(96)2] 
+and noted by the Council on 11 April 1996 [C(96)46], incorporated in 
+Chapters VI and VII;
+
+•  By  the  report  on  cost  contribution  arrangements,  adopted  by  the 
+Committee on Fiscal Affairs on 25 June 1997 [DAFFE/CFA(97)27] 
+and noted by the Council on 24 July 1997 [C(97)144], incorporated 
+in Chapter VIII;
+
+•  By  the  report  on  the  guidelines  for  monitoring  procedures  on  the 
+OECD  Transfer  Pricing  Guidelines  and  the  involvement  of  the 
+business  community  [DAFFE/CFA/WD(97)11/REV1],  adopted  by 
+the Committee on Fiscal Affairs on 24 June 1997 and noted by the 
+Council on 23 October 1997 [C(97)196], incorporated in the annexes;
+
+•  By  the  report  on  the  guidelines  for  conducting  advance  pricing 
+arrangements  under  the  mutual  agreement  procedure,  adopted 
+by  the  Committee  on  Fiscal  Affairs  on  30  June  1999  [DAFFE/
+CFA(99)31] and noted by the Council on 28 October 1999 [C(99)138], 
+incorporated in the annexes;
+
+•  By 
+
+the 
+
+the  report  on 
+
+transfer  pricing  aspects  of  business 
+restructurings,  adopted  by  the  Committee  on  Fiscal  Affairs  on 
+22 June 2010 [CTPA/CFA(2010)46] and approved by the Council on 
+22 July 2010 [Annex I to C(2010)99], incorporated in Chapter IX;
+
+•  By  the  report  on  the  guidance  for  tax  administrations  on  the 
+application  of  the  approach  to  hard-to-value  intangibles,  adopted 
+by  the  Committee  on  Fiscal  Affairs  on  4  June  2018  [CTPA/CFA/
+NOE2(2018)25], incorporated in the annexes; and,
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+4 – FOREWORD
+
+•  By the report on the transfer pricing aspects of financial transactions, 
+adopted  by  the  Committee  on  Fiscal  Affairs  on  20  January  2020 
+[CTPA/CFA/NOE2(2019)75],  incorporated  in  Section  D.1.2.2  of 
+Chapter I and in Chapter X.
+
+In addition, these Guidelines have been modified:
+
+•  By  an  update  of  Chapter  IV,  adopted  by  the  Committee  on  Fiscal 
+Affairs on 6 June 2008 [CTPA/CFA(2008)30/REV1] and an update of 
+the Foreword and of the Preface, adopted by the Committee on Fiscal 
+Affairs on 22 June 2009 [CTPA/CFA(2009)51/REV1], approved by 
+the Council on 16 July 2009 [C(2009)88];
+
+•  By a revision of Chapters I-III, adopted by the Committee on Fiscal 
+Affairs on 22 June 2010 [CTPA/CFA(2010)55] and approved by the 
+Council on 22 July 2010 [Annex I to C(2010)99]; and
+
+•  By  an  update  of  the  Foreword,  of  the  Preface,  of  the  Glossary,  of 
+Chapters IV-VIII and of the annexes, adopted by the Committee on 
+Fiscal Affairs on 22 June 2010 [CTPA/CFA(2010)47] and approved by 
+the Council on 22 July 2010 [Annex I to C(2010)99].
+
+•  By a revision of Section E on safe harbours in Chapter IV, and the 
+addition  of  another  Annex  to  this  Chapter  including  three  sample 
+Memoranda  of  Understanding  to  establish  bilateral  safe  harbours, 
+adopted  by  the  Committee  on  Fiscal  Affairs  on  26  April  2013 
+[CTPA/CFA(2013)23] and approved by the Council on 16 May 2013 
+[C(2013)69].
+
+•  By a revision of Chapters I, II, V-VIII by the Report on BEPS Actions

@@ -1,0 +1,89 @@
+lete understanding of the facts and circumstances 
+surrounding  the  controlled  transaction,  it  generally  might  be  useful  to 
+examine  data  from  both  the  year  under  examination  and  prior  years.  The 
+analysis of such information might disclose facts that may have influenced (or 
+should have influenced) the determination of the transfer price. For example, 
+the use of data from past years will show whether a taxpayer’s reported loss 
+on a transaction is part of a history of losses on similar transactions, the result 
+of particular economic conditions in a prior year that increased costs in the 
+subsequent year, or a reflection of the fact that a product is at the end of its 
+life cycle. Such an analysis may be particularly useful where a transactional 
+profit method is applied. See paragraph 1.151 on the usefulness of multiple 
+year data in examining loss situations. Multiple year data can also improve 
+the understanding of long term arrangements.
+
+3.77.  Multiple year data will also be useful in providing information about 
+the relevant business and product life cycles of the comparables. Differences 
+in  business  or  product  life  cycles  may  have  a  material  effect  on  transfer 
+pricing  conditions  that  needs  to  be  assessed  in  determining  comparability. 
+The  data  from  earlier  years  may  show  whether  the  independent  enterprise 
+engaged in a comparable transaction was affected by comparable economic 
+conditions  in  a  comparable  manner,  or  whether  different  conditions  in  an 
+earlier year materially affected its price or profit so that it should not be used 
+as a comparable.
+
+3.78.  Multiple  year  data  can  also  improve  the  process  of  selecting  third 
+party comparables e.g. by identifying results that may indicate a significant 
+variance from the underlying comparability characteristics of the controlled 
+transaction  being  reviewed,  in  some  cases  leading  to  the  rejection  of  the 
+comparable, or to detect anomalies in third party information.
+
+3.79.  The use of multiple year data does not necessarily imply the use of 
+multiple year averages. Multiple year data and averages can however be used 
+in some circumstances to improve reliability of the range. See paragraphs 3.57-
+3.62 for a discussion of statistical tools.
+
+C. Compliance issues
+
+3.80.  One  question  that  arises  when  putting  the  need  for  comparability 
+analyses  into  perspective  is  the  extent  of  the  burden  and  costs  that  should 
+be borne by a taxpayer to identify possible comparables and obtain detailed 
+information thereon. It is recognised that the cost of information can be a real 
+concern, especially for small to medium sized operations, but also for those 
+MNEs that deal with a very large number of controlled transactions in many 
+jurisdictions. Paragraph 4.28 and Chapter V contain explicit recognition of the 
+need for a reasonable application of the requirement to document comparability.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER III: COMPARABILITy ANALySIS – 171
+
+3.81.  When undertaking a comparability analysis, there is no requirement 
+for  an  exhaustive  search  of  all  possible  relevant  sources  of  information. 
+Taxpayers  and  tax  administrations  should  exercise  judgment  to  determine 
+whether particular comparables are reliable.
+
+3.82. 
+It  is  a  good  practice  for  taxpayers  to  set  up  a  process  to  establish, 
+monitor and review their transfer prices, taking into account the size of the 
+transactions,  their  complexity,  level  of  risk  involved,  and  whether  they  are 
+performed  in  a  stable  or  changing  environment.  Such  a  practical  approach 
+would conform to a pragmatic risk assessment strategy or prudent business 
+management principle. In practice, this means that it may be reasonable for a 
+taxpayer to devote relatively less effort to finding information on comparables 
+supporting less significant or less material controlled transactions. For simple 
+transactions that are carried out in a stable environment and the characteristics 
+of  which  remain  the  same  or  similar,  a  detailed  comparability  (including 
+functional) analysis may not be needed every year.
+
+3.83. 
+Small to medium sized enterprises are entering into the area of transfer 
+pricing  and  the  number  of  cross-border  transactions  is  ever  increasing. 
+Although the arm’s length principle applies equally to small and medium sized 
+enterprises and transactions, pragmatic solutions may be appropriate in order 
+to make it possible to find a reasonable response to each transfer pricing case.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 173
+
+Chapter IV 
+
+Administrative approaches to avoiding and resolving 
+transfer pricing disputes
+
+A. Introduction
+
+4.1. 
+This chapter examines various administrative procedures that could 
+be  applied  to  minimise  transfer  pricing  disputes  and  to  help  resolve

@@ -1,0 +1,170 @@
+efficient  mutual 
+agreement procedure.
+
+38. 
+In  the  context  of  the  HTVI  approach  it  is  especially  relevant  that 
+under Article 25 the mutual agreement procedure “can be set in motion by 
+the taxpayer without waiting until the taxation considered by him to be not 
+in accordance with the Convention has been charged against or notified to 
+him. To be able to set the procedure in motion, he must, and it is sufficient 
+if he does, establish that the actions of one or both of the Contracting States 
+will  result  in  such  taxation,  and  that  this  taxation  appears  as  a  risk  which 
+is not merely possible but probable” (see paragraph 14 of the Commentary 
+to  Article  25  of  the  Model  Tax  Convention).  This  possibility  under  the 
+applicable tax treaty may alleviate some of the concerns arising in relation to 
+timing issues and reduce the instances of unresolved double taxation.
+
+39. 
+Finally,  one  of  the  best  practices  recommended  in  the  BEPS  Report 
+on Action 14 and that is relevant for HTVI transactions is that, subject to the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER VI: HARD-TO-VALUE INTANGIBLES – 643
+
+requirements of paragraph 1 of Article 25, jurisdictions implement appropriate 
+procedures  to  permit,  in  certain  cases  and  after  an  initial  tax  assessment, 
+taxpayer requests for the multiyear resolution through the MAP of recurring 
+issues with respect to filed tax years, where the relevant facts and circumstances 
+are the same and subject to the verification of such facts and circumstances on 
+audit.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX TO CHAPTER VIII: EXAMPLES ON COST CONTRIBUTION ARRANGEMENTS – 645
+
+Annex to Chapter VIII 
+
+Examples to illustrate the guidance on 
+cost contribution arrangements
+
+Example 1
+
+1. 
+Example 1 illustrates the general principle that contributions should 
+be assessed at value (i.e. based on arm’s length prices) in order to produce 
+results that are consistent with the arm’s length principle.
+
+2. 
+Company  A  and  Company  B  are  members  of  an  MNE  group  and 
+decide to enter into a CCA. Company A performs Service 1 and Company B 
+performs  Service  2.  Company  A  and  Company  B  each  “consume”  both 
+services (that is, Company A receives a benefit from Service 2 performed by 
+Company B, and Company B receives a benefit from Service 1 performed 
+by Company A).
+
+3. 
+
+Assume that the costs and value of the services are as follows:
+
+Costs of providing Service 1 (cost incurred by Company A)
+
+Value of Service 1 (i.e. the arm’s length price that Company A would charge Company B 
+for the provision of Service 1)
+
+Costs of providing Service 2 (cost incurred by Company B)
+
+Value of Service 2 (i.e. the arm’s length price that Company B would charge Company A 
+for the provision of Service 2)
+
+100 per unit
+
+120 per unit
+
+100 per unit
+
+105 per unit
+
+4. 
+In year 1 and in subsequent years, Company A provides 30 units of 
+Service 1 to the group and Company B provides 20 units of Service 2 to the 
+group. Under the CCA, the calculation of costs and benefits are as follows:
+
+Cost to Company A of providing services (30 units × 100 per unit)
+
+3 000
+
+(60% of total costs)
+
+Cost to Company B of providing services (20 units × 100 per unit)
+
+2 000
+
+(40% of total costs)
+
+Total cost to group
+
+5 000
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+646 – ANNEX TO CHAPTER VIII: EXAMPLES ON COST CONTRIBUTION ARRANGEMENTS
+
+Value of contribution made by Company A (30 units × 120 per unit)
+
+3 600
+
+Value of contribution made by Company B (20 units × 105 per unit)
+
+2 100
+
+Total value of contributions made under the CCA
+
+5 700
+
+(63% of total 
+contributions)
+
+(37% of total 
+contributions)
+
+Company A and Company B each consume 15 units of Service 1 and 10 units of Service 2:
+
+Benefit to Company A:
+
+Service 1: 15 units × 120 per unit
+
+Service 2: 10 units × 105 per unit
+
+Total
+
+Benefit to Company B
+
+Service 1: 15 units × 120 per unit
+
+Service 2: 10 units × 105 per unit
+
+Total
+
+1 800
+
+1 050
+
+2 850
+
+(50% of total value of 5 700)
+
+1 800
+
+1 050
+
+2 850
+
+(50% of total value of 5 700)
+
+5. 
+Under  the  CCA,  the  value  of  Company  A  and  Company  B’s 
+contributions should each correspond to their respective proportionate shares 
+of expected benefits, i.e. 50%. Since the total value of contributions under 
+the CCA is 5 700, this means each party must contribute 2 850. The value 
+of Company A’s in-kind contribution is 3 600 and the value of Company B’s 
+in-kind  contribution  is  2  100.  Accordingly,  Company  B  should  make  a 
+balancing payment to Company A of 750. This has the effect of “topping up” 
+Company B’s contribution to 2 850; and offsets Company A’s contribution to 
+the same amount.
+
+6. 
+If  contributions  were  measured  at  cost  instead  of  at  value,  since 
+Companies  A  and  B  each  receive  50%  of  the  total  benefits,  they  would 
+have  been  required  contribute  50%  of  the  total  costs,  or  2  500  each, 

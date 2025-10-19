@@ -1,0 +1,83 @@
+the intangibles themselves are comparable.
+
+•  Risks related to the future development of the intangibles. This includes 
+an evaluation of whether the intangibles relate to commercially viable 
+products,  whether  the  intangibles  may  support  commercially  viable 
+products in the future, the expected cost of required future development 
+and  testing,  the  likelihood  that  such  development  and  testing  will 
+prove  successful  and  similar  considerations.  The  consideration  of 
+development  risk  is  particularly  important  in  situations  involving 
+transfers of partially developed intangibles.
+
+•  Risks related to product obsolescence and depreciation in the value 
+of the intangibles. This includes an evaluation of the likelihood that 
+competitors  will  introduce  products  or  services  in  the  future  that 
+would  materially  erode  the  market  for  products  dependent  on  the 
+intangibles being analysed.
+
+•  Risks related to infringement of the intangible rights. This includes 
+an evaluation of the likelihood that others might successfully claim 
+that products based on the intangibles infringe their own intangible 
+rights and an evaluation of the likely costs of defending against such 
+claims. It also includes an evaluation of the likelihood that the holder 
+of intangible rights could successfully prevent others from infringing 
+the  intangibles,  the  risk  that  counterfeit  products  could  erode  the 
+profitability of relevant markets, and the likelihood that substantial 
+damages could be collected in the event of infringement.
+
+•  Product  liability  and  similar  risks  related  to  the  future  use  of  the 
+
+intangibles.
+
+D.2.3.  Comparability adjustments with regard to transfers of intangibles 
+
+or rights in intangibles
+
+6.129.  The  principles  of  paragraphs  3.47  to  3.54  relating  to  comparability 
+adjustments  apply  with  respect  to  transactions  involving  the  transfer  of 
+intangibles  or  rights  in  intangibles.  It  is  important  to  note  that  differences 
+between  intangibles  can  have  significant  economic  consequences  that  may 
+be difficult to adjust for in a reliable manner. Particularly in situations where 
+amounts attributable to comparability adjustments represent a large percentage 
+of  the  compensation  for  the  intangible,  there  may  be  reason  to  believe, 
+depending on the specific facts, that the computation of the adjustment is not 
+reliable  and  that  the  intangibles  being  compared  are  in  fact  not  sufficiently 
+comparable to support a valid transfer pricing analysis. If reliable comparability 
+adjustments are not possible, it may be necessary to select a transfer pricing 
+method that is less dependent on the identification of comparable intangibles 
+or comparable transactions.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 287
+
+D.2.4. Use of comparables drawn from databases
+
+6.130.  Comparability, and the possibility of making comparability adjustments, 
+is  especially  important  in  considering  potentially  comparable  intangibles 
+and  related  royalty  rates  drawn  from  commercial  databases  or  proprietary 
+compilations  of  publicly  available  licence  or  similar  agreements.  The 
+principles  of  Section  A.4.3.1  of  Chapter  III  apply  fully  in  assessing  the 
+usefulness  of  transactions  drawn  from  such  sources.  In  particular,  it  is 
+important to assess whether publicly available data drawn from commercial 
+databases  and  proprietary  compilations  is  sufficiently  detailed  to  permit 
+an evaluation of the specific features of intangibles that may be important 
+in  conducting  a  comparability  analysis.  In  evaluating  comparable  licence 
+arrangements  identified  from  databases,  the  specific  facts  of  the  case, 
+including the methodology being applied, should be considered in the context 
+of the provisions of paragraph 3.38.
+
+D.2.5.  Selecting the most appropriate transfer pricing method in a matter 
+involving the transfer of intangibles or rights in intangibles
+
+6.131.  The  principles  of  these  Guidelines  related  to  the  selection  of  the 
+most  appropriate  transfer  pricing  method  to  the  circumstances  of  the  case 
+are described in paragraphs 2.1 to 2.12. Those principles apply fully to cases 
+involving  the  transfer  of  intangibles  or  rights  in  intangibles.  In  selecting 
+the most appropriate transfer pricing method in a case involving a transfer 
+of  intangibles  or  rights  in  intangibles,  attention  should  be  given  to  (i)  the 
+nature of the relevant intangibles, (ii) the difficulty of identifying comparable 
+uncontrolled  transactions  and  intangibles  in  many,  if  not  most,  cases, 
+and  (iii)  the  difficulty  of  applying  certain  of  the  transfer  pricing  methods 
+described  in  Chapter  II  in  cases  involving  the  transfer  of  intangibles.  The 
+issues discussed below are particularly important in the selection

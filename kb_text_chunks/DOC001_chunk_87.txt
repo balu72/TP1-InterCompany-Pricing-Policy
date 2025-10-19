@@ -1,0 +1,71 @@
+ on  a 
+transaction-by-transaction basis. However, there are often situations where 
+separate  transactions  are  so  closely  linked  or  continuous  that  they  cannot 
+be evaluated adequately on a separate basis. Examples may include: a) some 
+long-term contracts for the supply of commodities or services, b) rights to 
+use  intangible  property,  and  c)  pricing  a  range  of  closely-linked  products 
+(e.g. in a product line) when it is impractical to determine pricing for each 
+individual product or transaction. Another example would be the licensing of 
+manufacturing know-how and the supply of vital components to an associated 
+manufacturer; it may be more reasonable to assess the arm’s length terms for 
+the two items together rather than individually. Such transactions should be 
+evaluated together using the most appropriate arm’s length method. A further 
+example  would  be  the  routing  of  a  transaction  through  another  associated 
+enterprise; it may be more appropriate to consider the transaction of which 
+the  routing  is  a  part  in  its  entirety,  rather  than  consider  the  individual 
+transactions on a separate basis. See example 26 of Annex I to Chapter VI.
+
+3.10.  Another  example  where  a  taxpayer’s  transactions  may  be  combined 
+is related to portfolio approaches. A portfolio approach is a business strategy 
+consisting of a taxpayer bundling certain transactions for the purpose of earning 
+an appropriate return across the portfolio rather than necessarily on any single 
+product within the portfolio. For instance, some products may be marketed by 
+a taxpayer with a low profit or even at a loss, because they create a demand for 
+other products and/or related services of the same taxpayer that are then sold or 
+provided with high profits (e.g. equipment and captive aftermarket consumables, 
+such as vending coffee machines and coffee capsules, or printers and cartridges). 
+Similar approaches can be observed in various industries. Portfolio approaches 
+are an example of a business strategy that may need to be taken into account in 
+the comparability analysis and when examining the reliability of comparables. 
+See  paragraphs  1.134-1.138  on  business  strategies.  However,  as  discussed  in 
+paragraphs 1.149-1.151, these considerations will not explain continued overall 
+losses  or  poor  performance  over  time.  Moreover,  in  order  to  be  acceptable, 
+portfolio approaches must be reasonably targeted as they should not be used to 
+apply a transfer pricing method at the taxpayer’s company-wide level in those 
+cases  where  different  transactions  have  different  economic  logic  and  should 
+be segmented. See paragraphs 2.84-2.85. Finally, the above comments should 
+not be misread as implying that it would be acceptable for one entity within an 
+MNE group to have a below arm’s length return in order to provide benefits to 
+another entity of the MNE group, see in particular paragraph 1.150.
+
+3.11.  While  some  separately  contracted  transactions  between  associated 
+enterprises may need to be evaluated together in order to determine whether 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER III: COMPARABILITy ANALySIS – 153
+
+the conditions are arm’s length, other transactions contracted between such 
+enterprises as a package may need to be evaluated separately. An MNE may 
+package  as  a  single  transaction  and  establish  a  single  price  for  a  number 
+of  benefits  such  as  licences  for  patents,  know-how,  and  trademarks,  the 
+provision of technical and administrative services, and the lease of production 
+facilities.  This  type  of  arrangement  is  often  referred  to  as  a  package  deal. 
+Such comprehensive packages would be unlikely to include sales of goods, 
+however,  although  the  price  charged  for  sales  of  goods  may  cover  some 
+accompanying services. In some cases, it may not be feasible to evaluate the 
+package as a whole so that the elements of the package must be segregated. 
+In  such  cases,  after  determining  separate  transfer  pricing  for  the  separate 
+elements, the tax administration should nonetheless consider whether in total 
+the transfer pricing for the entire package is arm’s length.
+
+3.12.  Even in uncontrolled transactions, package deals may combine elements 
+that are subject to different tax treatment under domestic law or an income 
+tax convention. For example, royalty payments may be subject to withholding 
+tax but lease payments may be subject to net taxation. In such circumstances, 
+it  may  still  be  appropriate  to  determine  the  transfer  pricing  on  a  package 
+basis, and the tax administration could then determine whether for other tax 
+reasons it is necessary to allocate the price to the elements of the package. In 
+making this determination, tax administrations should examine the package 
+deal between associated enterprises in the same way that they would analyse 
+similar deals between independent

@@ -1,0 +1,91 @@
+o  expand  the 
+coverage of their international agreements for exchange of information. The 
+implementation of the package will be monitored on an ongoing basis. The 
+outcomes  of  this  monitoring  will  be  taken  into  consideration  in  the  2020 
+review.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 245
+
+Chapter VI 
+
+Special considerations for intangibles
+
+6.1. 
+Under  Article  9  of  the  OECD  Model  Tax  Convention,  where  the 
+conditions  made  or  imposed  in  the  use  or  transfer  of  intangibles  between 
+two  associated  enterprises  differ  from  those  that  would  be  made  between 
+independent enterprises, then any profits that would, but for those conditions, 
+have  accrued  to  one  of  the  enterprises,  but,  by  reason  of  those  conditions, 
+have  not  so  accrued,  may  be  included  in  the  profits  of  that  enterprise  and 
+taxed accordingly.
+
+6.2. 
+The purpose of this Chapter VI is to provide guidance specially tailored 
+to  determining  arm’s  length  conditions  for  transactions  that  involve  the  use 
+or  transfer  of  intangibles.  Article  9  of  the  OECD  Model  Tax  Convention  is 
+concerned with the conditions of transactions between associated enterprises, 
+not  with  assigning  particular  labels  to  such  transactions.  Consequently,  the 
+key consideration is whether a transaction conveys economic value from one 
+associated  enterprise  to  another,  whether  that  benefit  derives  from  tangible 
+property, intangibles, services or other items or activities. An item or activity 
+can  convey  economic  value  notwithstanding  the  fact  that  it  may  not  be 
+specifically  addressed  in  Chapter  VI.  To  the  extent  that  an  item  or  activity 
+conveys economic value, it should be taken into account in the determination 
+of  arm’s  length  prices  whether  or  not  it  constitutes  an  intangible  within  the 
+meaning of paragraph 6.6.
+
+6.3. 
+The principles of Chapters I-III of these Guidelines apply equally to 
+transactions involving intangibles and those transactions which do not. Under 
+those principles, as is the case with other transfer pricing matters, the analysis 
+of  cases  involving  the  use  or  transfer  of  intangibles  should  begin  with  a 
+thorough  identification  of  the  commercial  or  financial  relations  between 
+the  associated  enterprises  and  the  conditions  and  economically  relevant 
+circumstances attaching to those relations in order that the actual transaction 
+involving  the  use  or  transfer  of  intangibles  is  accurately  delineated.  The 
+functional  analysis  should  identify  the  functions  performed,  assets  used, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+246 – CHAPTER VI: INTANGIBLES
+
+and  risks  assumed1  by  each  relevant  member  of  the  MNE  group.  In  cases 
+involving  the  use  or  transfer  of  intangibles,  it  is  especially  important  to 
+ground  the  functional  analysis  on  an  understanding  of  the  MNE’s  global 
+business and the manner in which intangibles are used by the MNE to add 
+or create value across the entire supply chain. Where necessary, the analysis 
+should consider, within the framework of Section D.2 of Chapter I, whether 
+independent parties would have entered into the arrangement and if so, the 
+conditions that would have been agreed.
+
+6.4. 
+In order to determine arm’s length conditions for the use or transfer 
+of  intangibles  it  is  important  to  perform  a  functional  and  comparability 
+analysis in accordance with Section D.1 of Chapter I, based on identifying 
+the  intangibles  and  associated  risks  in  contractual  arrangements  and  then 
+supplementing the analysis through examination of the actual conduct of the 
+parties  based  on  the  functions  performed,  assets  used,  and  risks  assumed, 
+including control of important functions and economically significant risks. 
+Accordingly the next section, Section A, provides guidance on identifying 
+intangibles. Section B examines legal ownership and other contractual terms, 
+together with guidance on the evaluation of the conduct of the parties based 
+on  functions,  assets  and  risks.  Section  C  outlines  some  typical  scenarios 
+involving intangibles, and Section D provides guidance on determining arm’s 
+length conditions including the application of pricing methods and valuation 
+techniques, and provides an approach to determining arm’s length conditions 
+for a specific category of hard-to-value intangibles. Examples illustrating the 
+guidance are contained in the Annex to this chapter.
+
+A. Identifying intangibles
+
+A.1. In general
+
+6.5. 
+Difficulties  can  arise  in  a  transfer  pricing  analysis  as  a  result  of 
+definitions of the term intangible that are either too narrow or too broad. If an 
+overly narrow definition of the term intangible is applied, either taxpayers or 
+governments may argue that certain items fall outside the definition and may 
+therefore b

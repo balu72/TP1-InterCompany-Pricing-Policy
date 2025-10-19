@@ -1,0 +1,101 @@
+value  proposition  to  its  customers  lies  in  its  competitive 
+pricing, which is made possible by its efficiency and economies of scale and 
+scope, and its seamless integration across international boundaries.
+
+36. 
+Companies  L  and  M  jointly  perform  the  same  key  value-adding 
+functions and jointly use and contribute to the MNE group’s most important 
+assets.  Although  arm’s  length  pricing  for  their  joint  activities  is  readily 
+available,  their  operations  are  highly  integrated  and  interdependent  such 
+that it is not possible to use a one-sided method to determine an arm’s length 
+outcome for either of their respective contributions. In this case, therefore, it 
+is likely that a transactional profit split will be the most appropriate method 
+of determining the arm’s length compensation due to Companies L and M.
+
+37. 
+If Companies L and M also share the assumption of the economically 
+significant risks associated with the transactions, a profit split of actual profits 
+is likely to be appropriate.
+
+Example 8
+
+Company  A  is  the  parent  company  of  M  Group,  an  MNE  group 
+38. 
+engaged  in  the  manufacturing  and  distribution  of  electronic  devices. 
+Company A has the exclusive right to sell the devices in all territories.
+
+39. 
+Company A decides to subcontract the manufacturing of the electronic 
+devices to Company B, another member of M Group. Under the terms of the 
+contract, Company B will follow the directions of Company A to produce the 
+devices. Company B will source and supply the materials necessary to produce 
+the different parts of the final products. A key component in the manufacturing 
+process is sourced from Company A. Company B sells the finished goods to 
+Company A, which in turn will market and distribute the product to unrelated 
+customers.
+
+40. 
+To  perform  the  manufacturing  activities,  Company  B  has  invested 
+in machinery and tooling that is specifically adapted to the production of the 
+electronic devices sold by M Group. Company B has no other customer than 
+Company A so its entire output is acquired by Company A.
+
+41. 
+The accurately delineated transaction shows that Company B does 
+not make any unique and valuable contributions in relation to the controlled 
+transactions and the business of M Group. Furthermore, the risks assumed 
+by Company B are not economically significant for the business operations 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+474 – ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD
+
+of  the  group.  While  the  operations  of  Company  B  are  integrated  to  some 
+degree with those of Company A and are dependent upon Company A, arm’s 
+length  compensation  for  the  contributions  of  Company  B  can  be  reliably 
+benchmarked by reference to comparable uncontrolled transactions and the 
+application of a one-sided transfer pricing method or methods. Under these 
+circumstances, the transactional profit split method is unlikely to be the most 
+appropriate method.
+
+Example 9
+
+ACo,  resident  in  Country  A,  and  BCo,  resident  in  Country  B,  are 
+42. 
+members  of  AB  Inc,  an  MNE  Group.  ACo  owns  worldwide  patents  on 
+Compound A and BCo owns worldwide patents on Enzyme B. Compound A 
+and  Enzyme  B  are  both  unique.  ACo  and  BCo  have  each  developed  their 
+respective compound or enzyme by their own efforts, for different purposes, 
+but  each  found  that  they  were  not  able  to  be  used  as  they  had  originally 
+intended.  As  a  result,  neither  Compound  A  nor  Enzyme  B  has  significant 
+value at this time.
+
+However, engineers from ACo and BCo working together subsequently 
+43. 
+determine  that  the  combination  of  Compound  A  and  Enzyme  B  creates  a 
+unique and valuable drug which is very effective in treating a specific disease 
+and is likely to be highly valuable.
+
+ACo and BCo enter into a contract according to which ACo grants 
+44. 
+BCo the right to use Compound A. BCo will combine both components to 
+develop the new drug and will market it.
+
+45. 
+Under  these  circumstances,  the  high  level  of  integration  and  inter-
+dependency between the contributions of ACo and BCo affects the value of 
+those contributions such that each contribution is unique and valuable when 
+considered in combination with the other. As a result, the transactional profit 
+split method is found to be the most appropriate method for determining the 
+compensation at which the rights to use Compound A are transferred by ACo 
+to BCo.
+
+Example 10
+
+46. 
+Company A designs, develops and produces a line of high technology 
+industrial products. A new generation of the product line incorporates a key 
+component developed and created by Company B, an associated enterprise 
+of  Company  A.  This  key  component  is  highly  innovative,  incorporating 
+unique  and  valuable  intangibles.  This  innovation  represents  the  key  point 
+of  difference  in  the  new  generation  of  products.  The  success  

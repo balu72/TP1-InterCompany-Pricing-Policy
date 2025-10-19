@@ -1,0 +1,84 @@
+ndependent 
+enterprises engaging in a comparable transaction or transactions. The method 
+first identifies the profits to be split from the controlled transactions – the 
+relevant  profits  –  and  then  splits  them  between  the  associated  enterprises 
+on  an  economically  valid  basis  that  approximates  the  division  of  profits 
+that would have been agreed at arm’s length. As is the case with all transfer 
+pricing methods, the aim is to ensure that profits of the associated enterprises 
+are aligned with the value of their contributions and the compensation which 
+would  have  been  agreed  in  comparable  transactions  between  independent 
+enterprises  for  those  contributions.  The  transactional  profit  split  method 
+is  particularly  useful  when  the  compensation  to  the  associated  enterprises 
+can  be  more  reliably  valued  by  reference  to  the  relative  shares  of  their 
+contributions to the profits arising in relation to the transaction(s) than by a 
+more direct estimation of the value of those contributions.
+
+2.115.  References to “profits” in this section should generally be taken as 
+applying equally to losses. That is, where a transactional profit split method 
+is  determined  to  be  the  most  appropriate  method,  it  should  generally  also 
+apply,  and  apply  in  the  same  way,  regardless  of  whether  the  transaction(s) 
+result in a relevant profit or loss. Asymmetrical splits of profits and losses 
+(i.e. where the parties apply different considerations depending on the results 
+of the transaction) might be arm’s length, but should be used with caution and 
+appropriately documented.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 129
+
+C.2.  When is a transactional profit split method likely to be the most 
+
+appropriate method?
+
+2.116.  As  is  noted  in  paragraph  2.2,  the  selection  of  a  transfer  pricing 
+method always aims at finding the most appropriate method for a particular 
+case,  taking  into  account  the  respective  strengths  and  weaknesses  of  each 
+method, its appropriateness in view of the nature of the accurately delineated 
+controlled transaction, the availability of reliable information (in particular 
+on  uncontrolled  comparables)  needed  for  application,  and  the  degree  of 
+comparability between the controlled and uncontrolled transactions. See also 
+paragraphs 2.4 to 2.7.
+
+2.117.  Guidance on how to determine whether the transactional profit split 
+method is likely to be the most appropriate method is set out below, including 
+the identification of certain features of a transaction which may be relevant. 
+However it is important to note that there is no prescriptive rule for establishing 
+when a particular transfer pricing method is the most appropriate method.
+
+2.118.  While  there  is  no  requirement  in  these  Guidelines  to  undertake 
+exhaustive  analysis  or  testing  of  every  method  in  each  case,  the  selection 
+of  the  most  appropriate  method  should  take  into  account  the  relative 
+appropriateness and reliability of the selected method as compared to other 
+methods which could be used.
+
+C.2.1. Strengths and weaknesses of the transactional profit split method
+
+2.119.  The main strength of the transactional profit split method is that it 
+can offer a solution for cases where both parties to a transaction make unique 
+and valuable contributions (e.g. contribute unique and valuable intangibles) 
+to the transaction. In such a case independent parties might effectively price 
+the  transaction  in  proportion  to  their  respective  contributions,  making  a 
+two-sided method more appropriate. Furthermore, since those contributions 
+are  unique  and  valuable  there  will  be  no  reliable  comparables  information 
+which could be used to price the entirety of the transaction in a more reliable 
+way, through the application of another method. In such cases, the allocation 
+of  profits  under  the  transactional  profit  split  method  may  be  based  on  the 
+contributions made by the associated enterprises, by reference to the relative 
+values of their respective functions, assets and risks. See Section C.2.2 below 
+on the nature of the transaction.
+
+2.120.  The transactional profit split method can also provide a solution for 
+highly integrated operations in cases for which a one-sided method would not 
+be appropriate. See Section C.2.2.2, below.
+
+2.121.  Another  strength  of  the  transactional  profit  split  method  is  that  it 
+can offer flexibility by taking into account specific, possibly unique, facts 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+130 – CHAPTER II: TRANSFER PRICING METHODS
+
+and  circumstances  of  the  associated  enterprises  that  may  not  be  present 
+in  independent  enterprises.  Moreover,  where  there  is  a  high  degree  of 
+uncertainty for each of the parties in relation to a transaction, for example 
+in transactions involving the sh

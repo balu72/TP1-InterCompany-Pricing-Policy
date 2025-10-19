@@ -1,0 +1,76 @@
+  the 
+intangibles in question (e.g. a sale of the intangible or a perpetual, exclusive 
+licence of the intangible) or only limited rights (e.g. a licence or similar transfer 
+of  limited  rights  to  use  an  intangible  which  may  be  subject  to  geographical 
+restrictions, limited duration, or restrictions with respect to the right to use, 
+exploit,  reproduce,  further  transfer  or  further  develop).  The  principles  of 
+Chapters  I-III  apply  to  transactions  involving  the  transfer  of  intangibles  or 
+rights  in  intangibles.  Supplemental  guidance  regarding  the  determination  of 
+arm’s length conditions for such transactions is also contained in Sections D.1, 
+D.2 and D.3 of this chapter.
+6.89. 
+In  transactions  involving  the  transfer  of  intangibles  or  rights  in 
+intangibles,  it  is  essential  to  identify  with  specificity  the  nature  of  the 
+intangibles and rights in intangibles that are transferred between associated 
+enterprises. Where limitations are imposed on the rights transferred, it is also 
+essential to identify the nature of such limitations and the full extent of the 
+rights transferred. It should be noted in this regard that the labels applied to 
+transactions do not control the transfer pricing analysis. For example, in the 
+case of a transfer of the exclusive right to exploit a patent in Country X, the 
+taxpayer’s decision to characterise the transaction either as a sale of all of the 
+Country X patent rights, or as a perpetual exclusive licence of a portion of the 
+worldwide patent rights, does not affect the determination of the arm’s length 
+price if, in either case, the transaction being priced is a transfer of exclusive 
+rights to exploit the patent in Country X over its remaining useful life. Thus, 
+the functional analysis should identify the nature of the transferred rights in 
+intangibles with specificity.
+6.90.  Restrictions imposed in licence and similar agreements on the use of 
+an intangible in the further development of new intangibles or new products 
+using the intangibles are often of significant importance in a transfer pricing 
+analysis.  It  is  therefore  important  in  identifying  the  nature  of  a  transfer  of 
+rights  in  intangibles  to  consider  whether  the  transferee  receives  the  right 
+to  use  the  transferred  intangible  for  the  purpose  of  further  research  and 
+development. In transactions between independent enterprises, arrangements 
+are  observed  where  the  transferor/licensor  retains  the  full  right  to  any 
+enhancements  of  the  licensed  intangible  that  may  be  developed  during  the 
+term  of  the  licence.  Transactions  between  independent  enterprises  are  also 
+observed where the transferee/licensee retains the right to any enhancements 
+it may develop, either for the term of its licence or in perpetuity. The nature 
+of  any  limitations  on  further  development  of  transferred  intangibles,  or  on 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+276 – CHAPTER VI: INTANGIBLES
+
+the ability of the transferee and the transferor to derive an economic benefit 
+from  such  enhancements,  can  affect  the  value  of  the  rights  transferred  and 
+the comparability of two transactions involving otherwise identical or closely 
+comparable intangibles. Such limitations must be evaluated in light of both 
+the written terms of agreements and the actual conduct of the affected parties.
+
+6.91.  The provisions of Section D.1.1 of Chapter I apply in identifying the 
+specific  nature  of  a  transaction  involving  a  transfer  of  intangibles  or  rights 
+in intangibles, in identifying the nature of any intangibles transferred, and in 
+identifying any limitations imposed by the terms of the transfer on the use of 
+those  intangibles.  For  example,  a  written  specification  that  a  licence  is  non-
+exclusive or of limited duration need not be respected by the tax administration 
+if such specification is not consistent with the conduct of the parties. Example 18 
+in Annex I to Chapter VI illustrates the provisions of this paragraph.
+
+C.1.2. Transfers of combinations of intangibles
+
+6.92. 
+Intangibles (including limited rights in intangibles) may be transferred 
+individually or in combination with other intangibles. In considering transactions 
+involving transfers of combinations of intangibles, two related issues often 
+arise.
+
+6.93.  The  first  of  these  involves  the  nature  and  economic  consequences 
+of  interactions  between  different  intangibles.  It  may  be  the  case  that  some 
+intangibles  are  more  valuable  in  combination  with  other  intangibles  than 
+would be the case if the intangibles were considered separately. It is therefore 
+important to identify the nature of the legal and economic interactions between 
+intangibles that are transferred in combination.
+
+6.94.  For example, a pharmaceutical product will often have associated with 
+it  three  or  more  types  of  intangib

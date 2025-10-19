@@ -1,0 +1,57 @@
+You are a transfer pricing expert conducting a comparability analysis.
+
+REGULATORY CONTEXT:
+{regulatory_context}
+
+COMPANY INFORMATION:
+- Name: {company_name}
+- Jurisdiction: {jurisdiction}
+
+FUNCTIONAL ANALYSIS:
+{functional_analysis_summary}
+
+SELECTED TP METHOD:
+{selected_method}
+
+TASK:
+Generate a comprehensive Comparability Analysis section that:
+
+1. **Comparability Framework:**
+   - Explain the five comparability factors per OECD Guidelines:
+     * Characteristics of property or services
+     * Functional analysis (FAR)
+     * Contractual terms
+     * Economic circumstances
+     * Business strategies
+
+2. **Comparability Analysis:**
+   For each transaction, analyze:
+   - **Product/Service Characteristics:** Describe the nature, quality, and specifications
+   - **Functional Comparability:** Compare FAR profile with potential comparables
+   - **Contractual Terms:** Analyze payment terms, volume, duration, etc.
+   - **Economic Circumstances:** Market conditions, geographic location, market size
+   - **Business Strategies:** Innovation, market penetration, diversification
+
+3. **Search Strategy:**
+   - Describe the approach to identify comparable companies/transactions
+   - Specify search criteria and databases used (if applicable)
+   - Explain geographic scope (local, regional, global comparables)
+
+4. **Comparability Adjustments:**
+   - Identify any necessary adjustments to ensure comparability
+   - Explain the rationale for adjustments
+   - Quantify adjustments where possible
+
+5. **Regulatory Compliance:**
+   - Cite OECD Guidelines on comparability analysis
+   - Reference {jurisdiction}-specific comparability requirements
+   - Address any safe harbour provisions if applicable
+
+REQUIREMENTS:
+- Apply all five comparability factors systematically
+- Be specific about how each factor affects comparability
+- Include regulatory citations from the provided context
+- Explain any limitations in finding comparables
+- Justify the comparability approach for {jurisdiction}
+
+Generate the comparability analysis now:

@@ -1,0 +1,81 @@
+int  in  time  before 
+it  has  been  fully  demonstrated  that  the  intangible  will  support  commercially 
+viable  products.  A  common  example  arises  in  the  pharmaceutical  industry, 
+where chemical compounds may be patented, and the patents (or rights to use 
+the patents) transferred in controlled transactions, well in advance of the time 
+when further research, development and testing demonstrates that the compound 
+constitutes a safe and effective treatment for a particular medical condition.
+
+6.124.  As a general rule, intangibles relating to products with established 
+commercial  viability  will  be  more  valuable  than  otherwise  comparable 
+intangibles  relating  to  products  whose  commercial  viability  is  yet  to  be 
+established.  In  conducting  a  comparability  analysis  involving  partially 
+developed intangibles, it is important to evaluate the likelihood that further 
+development will lead to commercially significant future benefits. In certain 
+circumstances,  industry  data  regarding  the  risks  associated  with  further 
+development  can  be  helpful  to  such  evaluations.  However,  the  specific 
+circumstances of any individual situation should always be considered.
+
+D.2.1.6. Rights to enhancements, revisions, and updates
+
+6.125.  Often, an important consideration in a comparability analysis involving 
+intangibles relates to the rights of the parties with regard to future enhancements, 
+revisions and updates of the intangibles. In some industries, products protected 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 285
+
+by intangibles can become obsolete or uncompetitive in a relatively short period 
+of  time  in  the  absence  of  continuing  development  and  enhancement  of  the 
+intangibles.  As  a  result,  having  access  to  updates  and  enhancements  can  be 
+the  difference  between  deriving  a  short  term  advantage  from  the  intangibles 
+and deriving a longer term advantage. It is therefore necessary to consider for 
+comparability purposes whether or not a particular grant of rights in intangibles 
+includes access to enhancements, revisions, and updates of the intangibles.
+6.126.  A very similar question, often important in a comparability analysis, 
+involves  whether  the  transferee  of  intangibles  obtains  the  right  to  use  the 
+intangibles  in  connection  with  research  directed  to  developing  new  and 
+enhanced intangibles. For example, the right to use an existing software platform 
+as a basis for developing new software products can shorten development times 
+and  can  make  the  difference  between  being  the  first  to  market  with  a  new 
+product or application, or being forced to enter a market already occupied by 
+established  competitive  products.  A  comparability  analysis  with  regard  to 
+intangibles should, therefore, consider the rights of the parties regarding the use 
+of the intangibles in developing new and enhanced versions of products.
+
+D.2.1.7. Expectation of future benefit
+
+6.127.  Each of the foregoing comparability considerations has a consequence 
+with regard to the expectation of the parties to a transaction regarding the future 
+benefits  to  be  derived  from  the  use  of  the  intangibles  in  question.  If  for  any 
+reason there is a significant discrepancy between the anticipated future benefit 
+of  using  one  intangible  as  opposed  to  another,  it  is  difficult  to  consider  the 
+intangibles  as  being  sufficiently  comparable  to  support  a  comparables-based 
+transfer pricing analysis in the absence of reliable comparability adjustments. 
+Specifically,  it  is  important  to  consider  the  actual  and  potential  profitability 
+of products or potential products that are based on the intangible. Intangibles 
+that  provide  a  basis  for  high  profit  products  or  services  are  not  likely  to  be 
+comparable to intangibles that support products or services with only industry 
+average profits. Any factor materially affecting the expectation of the parties to 
+a controlled transaction of obtaining future benefits from the intangible should 
+be taken into account in conducting the comparability analysis.
+
+D.2.2.  Comparison of risk in cases involving transfers of intangibles 
+
+or rights in intangibles
+
+6.128. 
+In  conducting  a  comparability  analysis  involving  the  transfer  of 
+intangibles or rights in intangibles, the existence of risks related to the likelihood 
+of obtaining future economic benefits from the transferred intangibles must be 
+considered, including the allocation of risk between the parties which should 
+be analysed within the framework set out in Section D.1.2 of Chapter I. The 
+following  types  of  risks,  among  others,  should  be  considered  in  evaluating 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+286 – CHAPTER VI: INTANGIBLES
+
+whether transfers of intangibles or combinations of intangibles are comparable, 
+and in evaluating whether 

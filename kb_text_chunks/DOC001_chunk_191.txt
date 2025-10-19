@@ -1,0 +1,77 @@
+’s length compensation may be appropriate). It would not be 
+appropriate in such a case to increase the price for the service above what 
+would be established by the CUP method just to make sure the associated 
+enterprise makes a profit. Such a result would be contrary to the arm’s length 
+principle. However, it is important to ensure that all benefits to the recipient 
+are properly taken into account.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VII: INTRA-GROUP SERVICES – 325
+
+7.37.  While as a matter of principle tax administrations and taxpayers should 
+try  to  establish  the  proper  arm’s  length  pricing,  it  should  not  be  overlooked 
+that there may be practical reasons why a tax administration in its discretion 
+exceptionally  might  be  willing  to  forgo  computing  and  taxing  an  arm’s 
+length price from the performance of services in some cases, as distinct from 
+allowing a taxpayer in appropriate circumstances to merely allocate the costs 
+of providing those services. For instance, a cost-benefit analysis might indicate 
+the additional tax revenue that would be collected does not justify the costs 
+and administrative burdens of determining what an appropriate arm’s length 
+price might be in some cases. In such cases, charging all relevant costs rather 
+than an arm’s length price may provide a satisfactory result for MNEs and tax 
+administrations. This concession is unlikely to be made by tax administrations 
+where  the  provision  of  a  service  is  a  principal  activity  of  the  associated 
+enterprise,  where  the  profit  element  is  relatively  significant,  or  where  direct 
+charging is possible as a basis from which to determine the arm’s length price.
+
+C. Some examples of intra-group services
+
+7.38.  This  section  sets  forth  several  examples  of  transfer  pricing  issues 
+in  the  provision  of  intra-group  services.  The  examples  are  provided  for 
+illustrative purposes only. When dealing with individual cases, it is necessary 
+to explore the actual facts and circumstances to judge the applicability of any 
+transfer pricing method.
+
+7.39.  One  example  involves  debt-factoring  activities,  where  an  MNE 
+group decides to centralise the activities for economic reasons. For example, 
+it may be prudent to centralise the debt-factoring activities to better manage 
+liquidity, currency and debt risks and to provide administrative efficiencies. 
+A debt-factoring centre that takes on this responsibility is performing intra-
+group  services  for  which  an  arm’s  length  charge  should  be  made.  A  CUP 
+method could be appropriate in such a case.
+
+7.40.  Another example of an activity that may involve intra-group services 
+is  manufacturing  or  assembly  operations.  The  activities  can  take  a  variety 
+of forms including what is commonly referred to as contract manufacturing. 
+In  some  cases  of  contract  manufacturing  the  producer  may  operate  under 
+extensive instruction from the counterparty about what to produce, in what 
+quantity  and  of  what  quality.  In  some  cases,  raw  materials  or  components 
+may be made available to the producer by the counterparty. The production 
+company may be assured that its entire output will be purchased, assuming 
+quality requirements are met. In such a case the production company could be 
+considered as performing a low-risk service to the counterparty, and the cost 
+plus method could be the most appropriate transfer pricing method, subject 
+to the principles in Chapter II.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+326 – CHAPTER VII: INTRA-GROUP SERVICES
+
+7.41.  Research  is  similarly  an  example  of  an  activity  that  may  involve 
+intra-group  services.  The  terms  of  the  activity  can  be  set  out  in  a  detailed 
+contract  with  the  party  commissioning  the  service,  commonly  known  as 
+contract research. The activity can involve highly skilled personnel and vary 
+considerably both in its nature and in its importance to the success of the group. 
+The actual arrangements can take a variety of forms from the undertaking of 
+detailed programmes laid down by the principal party, extending to agreements 
+where  the  research  company  has  discretion  to  work  within  broadly  defined 
+categories.  In  the  latter  instance,  the  additional  functions  of  identifying 
+commercially  valuable  areas  and  assessing  the  risk  of  unsuccessful  research 
+can be a critical factor in the performance of the group as a whole. It is therefore 
+crucial  to  undertake  a  detailed  functional  analysis  and  to  obtain  a  clear 
+understanding of the precise nature of the research, and of how the activities 
+are being carried out by the company, prior to consideration of the appropriate 
+transfer pricing methodology. The consideration of options realistically available 
+to the party commissioning the research may also prove useful in selecting the 
+most appropriate transfer pricing method. See

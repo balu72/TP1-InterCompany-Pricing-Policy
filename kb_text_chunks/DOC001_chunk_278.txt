@@ -1,0 +1,92 @@
+PTER II: EXAMPLES ON THE PROFIT SPLIT METHOD – 479
+
+to  effectively  meet  customers’  demands  in  a  timely  fashion.  As  a  result 
+of  their  broad  experience  in  the  sector,  Company  A  and  Company  B  have 
+each  developed  unique  and  valuable  know-how  and  other  intangibles 
+in  their  respective  design  and  manufacturing  processes.  In  contrast,  the 
+accurate  delineation  of  the  transaction  shows  that  Company  C  does  not 
+make any unique and valuable contribution. Instead, Company C performs 
+benchmarkable marketing and distribution functions.
+
+60. 
+Design  and  manufacturing  are  identified  as  the  key  value  drivers 
+for  the  MNE  group  and  the  functional  analysis  shows  the  economically 
+significant risks are the strategic and operational risks relating to the design 
+and manufacturing functions. Company A and Company B are engaged in 
+a  complex  web  of  intragroup  transactions  where  the  performance  of  each 
+company heavily depends on the capacity of the other to provide the different 
+components  and  other  inputs.  The  manufacturing  and  design  activities  of 
+Company  A  and  Company  B  are  highly  interdependent  and  the  entities 
+both  perform  relevant  control  functions  in  relation  to  the  economically 
+significant risks. In accordance with the risk analysis framework described 
+in  Section  D.1.2.1  of  Chapter  I  of  these  Guidelines,  it  is  determined  that 
+Company  A  and  Company  B  share  the  assumption  of  the  risks  relating  to 
+design  and  manufacturing.  Both  Companies  A  and  B  make  unique  and 
+valuable contributions to the manufacturing and design processes.
+
+61. 
+Under  these  circumstances,  the  transactional  profit  split  method  is 
+likely to be the most appropriate method for determining the compensation 
+for Companies A and B in relation to their intra-group transactions. However, 
+a  one-sided  transfer  pricing  method  such  as  a  resale  price  method  or  a 
+TNMM  is  likely  to  be  the  most  appropriate  to  determine  an  arm’s  length 
+return for Company C.
+
+62. 
+In applying the transactional profit split method, the sales of products 
+in  Countries  A,  B  and  C  should  be  taken  into  account  in  determining  the 
+relevant profits to be split. In the case of Country C, this will be calculated by 
+reference to the sales revenue of Company C, less the arm’s length return to 
+Company C (as established above) for its contributions.
+
+63. 
+Under  a  residual  approach  to  the  transactional  profit  split  method, 
+the  first  step  of  the  process  would  be  to  determine  an  arm’s  length  return 
+for  the  less  complex,  benchmarkable  contributions  of  each  of  the  parties 
+(i.e. Companies A and B). These amounts are then deducted from the pool of 
+relevant profits to identify the residual profits to be split. Under the second 
+step of the residual analysis, the residual profits would then be split between 
+Company A and Company B on the basis of their relative contributions to 
+those residual profits.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+480 – ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD
+
+Example 13
+
+Company A, resident in Country A, is the parent company of Retail 
+64. 
+Group,  an  MNE  group  engaged  in  the  retail  fashion  industry.  Over  the 
+years,  Company  A  has  developed  know-how  and  has  enhanced  the  value 
+of the trademark and associated goodwill of its business through intensive 
+marketing  activities.  In  this  case,  the  intangibles  developed  and  owned  by 
+Company A do not qualify as hard-to-value intangibles.
+
+65. 
+To  expand  the  business  into  the  Country  B  market,  Company  A 
+enters into an agreement with Company B, a member of Retail Group resident 
+in Country B. Under this agreement, Company A grants to Company B the 
+rights  to  utilise  the  know-how  and  to  use  the  trademarks  for  the  purpose 
+of fashion retailing in Country B. Company B has extensive experience in 
+retail  fashion  distribution  and  has  a  strong  track  record  in  building  brand 
+recognition  and  loyalty  in  Country  B  through  its  in-house  team  which 
+develops and implements innovative marketing strategies and activities.
+
+66. 
+The  accurate  delineation  of  the  transaction  indicates  that  the 
+contributions  of  both  companies  are  unique  and  valuable  to  the  Retail 
+Group’s business in Country B.
+
+67. 
+In  the  scenarios  presented  below,  the  transactional  profit  split  is 
+found to be the most appropriate method for determining the compensation 
+for the rights granted by Company A to Company B on the basis that both 
+parties to the transaction are making unique and valuable contributions.
+
+Scenario 1
+
+The accurately delineated transaction shows that Company A does 
+68. 
+not  share  in  the  assumption  of  any  of  the  economically  significant  risks 
+associated  with  the  marketing  and  exploitati

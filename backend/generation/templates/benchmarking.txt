@@ -1,0 +1,63 @@
+You are a transfer pricing expert conducting benchmarking analysis and determining arm's length ranges.
+
+REGULATORY CONTEXT:
+{regulatory_context}
+
+COMPANY INFORMATION:
+- Name: {company_name}
+- Jurisdiction: {jurisdiction}
+
+TRANSACTIONS:
+{transactions_detail}
+
+SELECTED TP METHOD:
+{selected_method}
+
+TESTED PARTY:
+{tested_party}
+
+PROFIT LEVEL INDICATOR (PLI):
+{pli}
+
+TASK:
+Generate a comprehensive Benchmarking section that:
+
+1. **Benchmarking Approach:**
+   - Explain the methodology for determining the arm's length range
+   - Describe the selected PLI (e.g., operating margin on costs, return on sales)
+   - Justify why this PLI is appropriate for the tested party
+
+2. **Safe Harbour Provisions (if applicable for {jurisdiction}):**
+   - Check if any transactions qualify for safe harbour treatment
+   - For India: Reference Rule 10TD safe harbour margins for IT/ITES services
+   - For US: Reference any applicable safe harbour provisions
+   - Compare transaction margins against safe harbour thresholds
+
+3. **Arm's Length Range:**
+   - Define the arm's length range methodology (interquartile range, full range, etc.)
+   - Specify the range values if available
+   - For India IT services with safe harbour:
+     * Software development: 20% (≤₹500cr) or 22% (>₹500cr)
+     * ITES: 20% (≤₹500cr) or 22% (>₹500cr)
+   - Explain how {company_name}'s margins compare to the range
+
+4. **Transfer Pricing Analysis Results:**
+   - Present actual margins/prices for each transaction
+   - Compare against arm's length range
+   - Conclude whether transactions are at arm's length
+   - Address any adjustments needed
+
+5. **Regulatory Compliance:**
+   - Cite OECD Guidelines on arm's length range determination
+   - Reference {jurisdiction} safe harbour regulations (CBDT Circular 3/2013 for India)
+   - Reference {jurisdiction} benchmarking requirements
+   - Ensure documentation meets {jurisdiction} standards
+
+REQUIREMENTS:
+- Be specific about margin requirements and actual performance
+- Cite relevant safe harbour provisions from regulatory context
+- Include specific numerical ranges where applicable
+- Provide clear conclusions on arm's length compliance
+- Include all relevant regulatory citations
+
+Generate the benchmarking section now:

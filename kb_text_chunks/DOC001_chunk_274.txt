@@ -1,0 +1,91 @@
+ies, 
+Company A in Country A and Company B, in Country B.
+27. 
+FUND Co is an independent asset management company that offers 
+collective investment vehicles to retail investors in Country A and Country B. 
+The investment vehicles commercialised by FUND Co are mirror funds that 
+contain equity holdings from both Country A and Country B.
+28. 
+FUND Co hires ASSET Co to provide portfolio management services 
+for the funds. FUND Co pays ASSET Co a fee based on the combined assets 
+under  management  of  the  funds  sold  to  retail  investors  in  Country  A  and 
+Country B.
+29. 
+ASSET Co enters into a contract with Company A and Company B 
+such  that  both  companies  will  provide  the  portfolio  management  services. 
+Company A employs portfolio managers who specialise in Country A equity 
+and  Company  B  employs  portfolio  managers  who  specialise  in  Country  B 
+equity.  ASSET  Co  acts  as  a  nominee  for  Companies  A  and  B.  It  does  not 
+perform  any  functions  in  relation  to  the  FUND  Co  contract,  nor  has  it 
+contributed any assets or assumed any risks.
+30. 
+An investment management committee composed of equal numbers 
+of portfolio managers from Company A and Company B decides on the funds’ 
+investment management. This committee meets regularly and determines the 
+composition of the funds. The composition of the funds between equities of 
+Countries A and B will vary according to the decisions of the committee.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+472 – ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD
+
+31. 
+The functional analysis concludes that the economically significant 
+risk in relation to the transaction relates to retail investors withdrawing their 
+deposits from the FUND Co mirror funds, in particular as a result of poor 
+performance.  In  accordance  with  the  risk  analysis  framework  described 
+in  Section  D.1.2.1  of  Chapter  I  of  these  Guidelines,  it  is  determined  that 
+Company  A  and  Company  B  share  the  assumption  of  risks  related  to  the 
+performance of the funds and perform the portfolio management services in 
+a highly integrated fashion.
+
+32.  While  Company  A  and  Company  B  provide  valuable  services,  an 
+active arm’s length market for portfolio management services indicates that 
+these services are not unique. Comparables for such portfolio management 
+services (i.e. the services performed by Company A and B together) may be 
+available, but would provide no information on how to split the arm’s length 
+fee between Company A and Company B.
+
+Under  these  circumstances,  the  transactional  profit  split  method  is 
+33. 
+found to be the most appropriate method for determining the compensation 
+for  Company  A  and  Company  B  as  their  operations  are  highly  integrated 
+and interdependent such that it is not possible to use a one-sided method to 
+determine an arm’s length outcome for either of their respective contributions. 
+The arm’s length fee received by ASSET Co from FUND Co will form the 
+revenue  portion of the relevant profits to  be split between  Company A and 
+Company B. The arm’s length compensation to ASSET Co will be zero.
+
+Example 7
+
+34. 
+Company  L,  a  resident  of  Country  L,  and  Company  M,  a  resident 
+of Country M, are part of an MNE group, LM Corporation. Companies L 
+and M offer international trade facilitation, freight forwarding and customs 
+broking  services  to  unrelated  customers.  Together,  Companies  L  and  M, 
+provide customers with services including receipt of goods in the exporting 
+country,  customs  clearance  in  the  exporting  country,  containerisation, 
+organising shipment of the container, delivery of containers to and from the 
+ship,  de-containerisation,  customs  clearance  in  the  importing  country,  and 
+delivering  the  goods  to  their  destination.  Customers  may  be  importers  or 
+exporters and Companies L and M facilitate imports and exports from both 
+countries. Customers typically pay for these services based on a combination 
+of the volume and weight of the goods.
+
+35. 
+The  accurate  delineation  of  the  transaction  determines  that 
+Companies L and M perform the same trade facilitation, freight forwarding 
+and  customs  broking  services  jointly  in  a  highly  integrated  manner. 
+Companies L and M are highly dependent on each other for the successful 
+completion  of  each  transaction  with  a  customer.  Companies  L  and  M  also 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD – 473
+
+perform similar marketing and customer relationship functions, depending 
+on the location of the customer. Companies L and M jointly use an integrated 
+goods-tracking  IT  system.  The  system  was  initially  purchased  jointly 
+by  Companies  L  and  M  from  an  unrelated  supplier.  Companies  L  and  M 
+each  make  incremental  improvements  to  the  system  where  possible.  LM 
+Corporation’s  

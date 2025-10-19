@@ -1,0 +1,77 @@
+ltaneously benefit from activities performed by other group members, 
+a CCA can provide a mechanism for replacing a web of separate intra-group 
+arm’s length payments with a more streamlined system of netted payments, 
+based on aggregated benefits and aggregated contributions associated with all 
+the covered activities (see also paragraphs 3.9 to 3.17 of these Guidelines). A 
+CCA for the sharing in the development of intangibles can eliminate the need 
+for complex cross-licensing arrangements and associated allocation of risk, 
+and replace them with a more streamlined sharing of contributions and risks, 
+with ownership interests of the resulting intangible(s) shared in accordance 
+with  the  terms  of  the  CCA.  However,  the  streamlining  of  flows  that  may 
+result from the adoption of a CCA does not affect the appropriate valuation 
+of the separate contributions of the parties.
+
+8.8. 
+As  an  illustration  of  a  CCA,  take  the  example  of  an  MNE  group 
+which manufactures products through three enterprises which each operate 
+a production site and have their own R&D teams engaged in various projects 
+to improve production processes. Those three enterprises enter into a CCA 
+aimed at generating production process improvements, and as a result pool 
+their  expertise  and  share  the  risks.  Since  the  CCA  grants  each  participant 
+rights to the outcomes of the projects, the CCA replaces the cross-licensing 
+arrangements  that  may  have  resulted  in  the  absence  of  a  CCA  and  if  the 
+enterprises had individually developed certain intangibles and granted rights 
+to one another.
+
+B.2. Relationship to other chapters
+
+8.9. 
+As indicated in paragraph 8.4, there is no difference in the analytical 
+framework  for  analysing  transfer  prices  for  CCAs  compared  to  analysing 
+other forms of contractual relations. The guidance in Section D of Chapter I 
+is relevant to the analysis of all transactions between associated enterprises, 
+and  applies  to  identify  the  economically  relevant  characteristics  of  the 
+commercial  or  financial  relations  between  the  parties  as  expressed  in  a 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+340 – CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS
+
+CCA.  The  contractual  terms  of  the  CCA  provide  the  starting  point  for 
+delineating the transaction between the parties and how the responsibilities, 
+risks, and anticipated outcomes were intended to be allocated at the time of 
+entering  into  the  arrangements.  However,  as  set  out  in  that  guidance,  the 
+evidence  of  the  conduct  of  the  parties  may  clarify  or  supplement  aspects 
+of  the  agreement.  The  framework  for  analysing  risk  in  Section  D.1.2.1  of 
+Chapter I is relevant to determining whether parties assume risks under the 
+CCA, as discussed in Section C.2 of this chapter, and the consequences for 
+providing  funding  without  assuming  risk  or  performing  other  functions. 
+Chapter VI provides guidance regarding the determination of arm’s length 
+conditions  for  transactions  that  involve  the  use  or  transfer  of  intangibles. 
+Paragraphs  6.60  to  6.64  give  relevant  guidance  on  exercising  control  over 
+the financial risk if the funding is used for investment in R&D projects. The 
+guidance in Sections D.3 and D.4 of Chapter VI on hard-to-value intangibles 
+is equally applicable to CCAs. Chapter VII provides guidance on issues that 
+arise in determining for transfer pricing purposes whether services have been 
+provided by a member of an MNE group to other members of that group and, 
+if so, in establishing arm’s length prices for those intra-group services. This 
+chapter’s objective is to provide supplementary guidance on situations where 
+resources and skills are pooled and the consideration received is, in part or 
+whole, the reasonable expectation of mutual benefits. Thus, the provisions of 
+Chapters VI and VII, and indeed all the other chapters of these Guidelines, 
+will continue to apply to the extent relevant, for instance in measuring the 
+value of a contribution to a CCA as part of the process of determining the 
+proportionate  shares  of  contributions.  MNEs  are  encouraged  to  observe 
+the  guidance  of  this  chapter  in  order  to  ensure  that  their  CCAs  operate  in 
+accordance with the arm’s length principle.
+
+B.3. Types of CCAs
+
+8.10.  Two types of CCAs are commonly encountered: those established for 
+the joint development, production or the obtaining of intangibles or tangible 
+assets  (“development  CCAs”);  and  those  for  obtaining  services  (“services 
+CCAs”).  Although  each  particular  CCA  should  be  considered  on  its  own 
+facts and circumstances, key differences between these two types of CCAs 
+will  generally  be  that  development  CCAs  are  expected  to  create  ongoing, 
+future  benefits  for  participants,  while  services  CCAs  will  create  current 
+benefits only. Development CCAs, in particular with resp

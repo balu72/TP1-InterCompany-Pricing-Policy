@@ -1,0 +1,81 @@
+Article 9, 
+sub-paragraphs 1a) and 1b) of the OECD Model Tax Convention. Under these 
+conditions, two enterprises are associated if one of the enterprises participates 
+directly or indirectly in the management, control, or capital of the other or if 
+“the same persons participate directly or indirectly in the management, control, 
+or  capital”  of  both  enterprises  (i.e.  if  both  enterprises  are  under  common 
+control). The issues discussed in these Guidelines also arise in the treatment 
+of permanent establishments as discussed in the Report on the Attribution of 
+Profits to Permanent Establishments that was adopted by the OECD Council 
+in  July  2010,  which  supersedes  the  OECD  Report  Model  Tax  Convention: 
+Attribution  of  Income  to  Permanent  Establishments  (1994).  Some  relevant 
+discussion may also be found in the OECD Report International Tax Avoidance 
+and Evasion (1987).
+
+12. 
+Transfer prices are significant for both taxpayers and tax administrations 
+because they determine in large part the income and expenses, and therefore 
+taxable profits, of associated enterprises in different tax jurisdictions. Transfer 
+pricing  issues  originally  arose  in  transactions  between  associated  enterprises 
+operating  within  the  same  tax  jurisdiction.  The  domestic  issues  are  not 
+considered  in  these  Guidelines,  which  focus  on  the  international  aspects  of 
+transfer  pricing.  These  international  aspects  are  more  difficult  to  deal  with 
+because they involve more than one tax jurisdiction and therefore any adjustment 
+to the transfer price in one jurisdiction implies that a corresponding change in 
+another jurisdiction is appropriate. However, if the other jurisdiction does not 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+14 – PREFACE
+
+agree to make a corresponding adjustment the MNE group will be taxed twice 
+on this part of its profits. In order to minimise the risk of such double taxation, 
+an  international  consensus  is  required  on  how  to  establish  for  tax  purposes 
+transfer prices on cross-border transactions.
+
+13. 
+These  Guidelines  are  intended  to  be  a  revision  and  compilation  of 
+previous  reports  by  the  OECD  Committee  on  Fiscal  Affairs  addressing 
+transfer  pricing  and  other  related  tax  issues  with  respect  to  multinational 
+enterprises.  The  principal  report  is  Transfer  Pricing  and  Multinational 
+Enterprises  (1979)  (the  “1979  Report”)  which  was  repealed  by  the  OECD 
+Council in 1995. Other reports address transfer pricing issues in the context 
+of  specific  topics.  These  reports  are  Transfer  Pricing  and  Multinational 
+Enterprises  –  Three  Taxation  Issues  (1984)  (the  “1984  Report”),  and  Thin 
+Capitalisation  (the  “1987  Report”).  A  list  of  amendments  made  to  these 
+Guidelines is included in the Foreword.
+
+These Guidelines also draw upon the discussion undertaken by the 
+14. 
+OECD on the proposed transfer pricing regulations in the United States [see 
+the  OECD  Report  Tax  Aspects  of  Transfer  Pricing  within  Multinational 
+Enterprises: The United States Proposed Regulations (1993)]. However, the 
+context  in  which  that  Report  was  written  was  very  different  from  that  in 
+which these Guidelines have been undertaken, its scope was far more limited, 
+and it specifically addressed the United States proposed regulations.
+
+15. 
+OECD  member  countries  continue  to  endorse  the  arm’s  length 
+principle as embodied in the OECD Model Tax Convention (and in the bilateral 
+conventions that legally bind treaty partners in this respect) and in the 1979 
+Report. These Guidelines focus on the application of the arm’s length principle 
+to evaluate the transfer pricing of associated enterprises. The Guidelines are 
+intended to help tax administrations (of both OECD member countries and non -
+member countries) and MNEs by indicating ways to find mutually satisfactory 
+solutions  to  transfer  pricing  cases,  thereby  minimising  conflict  among  tax 
+administrations  and  between  tax  administrations  and  MNEs  and  avoiding 
+costly litigation. The Guidelines analyse the methods for evaluating whether 
+the conditions of commercial and financial relations within an MNE satisfy the 
+arm’s length principle and discuss the practical application of those methods. 
+They also include a discussion of global formulary apportionment.
+
+OECD member countries are encouraged to follow these Guidelines 
+16. 
+in their domestic transfer pricing practices, and taxpayers are encouraged to 
+follow these Guidelines in evaluating for tax purposes whether their transfer 
+pricing  complies  with  the  arm’s  length  principle.  Tax  administrations  are 
+encouraged to take into account the taxpayer’s commercial judgement about 
+the application of the arm’s length principle in their examination practices 
+and to undertake their analyses of transfer pricing from that perspective.
+
+OECD TRANSFER PRICING G

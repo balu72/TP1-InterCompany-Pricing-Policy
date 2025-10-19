@@ -1,0 +1,72 @@
+ment. Such approaches 
+are  generally  based  on  projections  of  cash  flows  and  benefits  expected  to 
+arise at some future date following the transfer and the assumed successful 
+completion of further development activities.
+6.151.  Caution  should  be  exercised  in  applying  profit  split  approaches  to 
+determine estimates of the contributions of the parties to the creation of income 
+in years following the transfer, or an arm’s length allocation of future income, 
+with  respect  to  partially  developed  intangibles.  The  contribution  or  value  of 
+work undertaken prior to the transfer may bear no relationship to the cost of 
+that  work.  For  example,  a  chemical  compound  with  potentially  blockbuster 
+pharmaceutical indications might be developed in the laboratory at relatively 
+little cost. In addition, a variety of difficult to evaluate factors would need to be 
+taken into account in such a profit split analysis. These would include the relative 
+riskiness and value of research contributions before and after the transfer, the 
+relative  risk  and  its  effect  on  value,  for  other  development  activities  carried 
+out before and after the transfer, the appropriate amortisation rate for various 
+contributions to the intangible value, assumptions regarding the time at which 
+any potential new products might be introduced, and the value of contributions 
+other than intangibles to the ultimate generation of profit. Income and cash flow 
+projections in such situations can sometimes be especially speculative. These 
+factors can combine to call the reliability of such an application of a profit split 
+analysis into question. See Section D.4 on hard-to-value intangibles.
+
+6.152.  Where limited rights in fully developed intangibles are transferred 
+in  a  licence  or  similar  transaction,  and  reliable  comparable  uncontrolled 
+transactions cannot be identified, a transactional profit split method can often 
+be utilised to evaluate the respective contributions of the parties to earning 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 293
+
+the relevant income. The profit contribution of the rights in intangibles made 
+available by the licensor or other transferor would, in such a circumstance, 
+be  one  of  the  factors  contributing  to  the  earning  of  income  following 
+the  transfer.  However,  other  factors  would  also  need  to  be  considered. 
+In  particular,  functions  performed  and  risks  assumed  by  the  licensee/
+transferee should specifically be taken into account in such an analysis. Other 
+intangibles used by the licensor/transferor and by the licensee/transferee in 
+their respective businesses should similarly be considered, as well as other 
+relevant factors. Careful attention should be given in such an analysis to the 
+limitations imposed by the terms of the transfer on the use of the intangibles 
+by the licensee/transferee and on the rights of the licensee/transferee to use 
+the intangibles for purposes of ongoing research and development. Further, 
+assessing  contributions  of  the  licensee  to  enhancements  in  the  value  of 
+licensed intangibles may be important. The allocation of income in such an 
+analysis would depend on the findings of the functional analysis, including an 
+analysis of the relevant risks assumed. It should not be assumed that all of the 
+residual profit after functional returns would necessarily be allocated to the 
+licensor/transferor in a profit split analysis related to a licensing arrangement.
+
+D.2.6.3. Use of valuation techniques
+6.153. 
+In  situations  where  reliable  comparable  uncontrolled  transactions 
+for  a  transfer  of  one  or  more  intangibles  cannot  be  identified,  it  may  also 
+be  possible  to  use  valuation  techniques  to  estimate  the  arm’s  length  price 
+for  intangibles  transferred  between  associated  enterprises.  In  particular, 
+the  application  of  income  based  valuation  techniques,  especially  valuation 
+techniques premised on the calculation of the discounted value of projected 
+future  income  streams  or  cash  flows  derived  from  the  exploitation  of  the 
+intangible being valued, may be particularly useful when properly applied. 
+Depending  on  the  facts  and  circumstances,  valuation  techniques  may  be 
+used by tax payers and tax administrations as a part of one of the five OECD 
+transfer  pricing  methods  described  in  Chapter  II,  or  as  a  tool  that  can  be 
+usefully applied in identifying an arm’s length price.
+
+6.154.  Where valuation techniques are utilised in a transfer pricing analysis 
+involving the transfer of intangibles or rights in intangibles, it is necessary 
+to apply such techniques in a manner that is consistent with the arm’s length 
+principle  and  the  principles  of  these  Guidelines.  In  particular,  due  regard 
+should  be  given  to  the  principles  contained  in  Chapters  I-III.  Principles 
+related to realisticall

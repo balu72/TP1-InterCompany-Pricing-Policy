@@ -1,0 +1,332 @@
+OECD/G20 Base Erosion and Profit Shifting Project
+
+Transfer Pricing Documentation  
+
+and Country-by-Country Reporting
+
+Addressing base erosion and profit shifting is a key priority of governments around the globe. In 2013, OECD  
+
+and G20 countries, working together on an equal footing, adopted a 15-point Action Plan to address BEPS.  
+
+This report is an output of Action 13.
+
+Beyond securing revenues by realigning taxation with economic activities and value creation, the OECD/G20 
+
+BEPS Project aims to create a single set of consensus-based international tax rules to address BEPS, and 
+
+hence to protect tax bases while offering increased certainty and predictability to taxpayers. A key focus of this 
+
+work is to eliminate double non-taxation. However in doing so, new rules should not result in double taxation, 
+
+unwarranted compliance burdens or restrictions to legitimate cross-border activity.
+
+Contents
+
+Chapter V of the Transfer Pricing Guidelines on Documentation
+
+Annex I to Chapter V. Transfer pricing documentation – Master file
+
+Annex II to Chapter V. Transfer pricing documentation – Local file
+
+Annex III to Chapter V. Transfer pricing documentation – Country-by-Country Report
+
+Annex IV to Chapter V. Country-by-Country Reporting Implementation Package
+
+www.oecd.org/tax/beps.htm
+
+OECD/G20 Base Erosion and Profit Shifting 
+Project
+Transfer Pricing 
+Documentation and  
+Country-by-Country 
+Reporting
+
+ACTiOn 13: 2015 Final Report
+
+O
+
+E
+
+C
+
+D
+
+/
+
+G
+
+2
+
+0
+
+B
+
+a
+
+s
+
+e
+
+E
+
+r
+
+o
+
+s
+
+i
+
+o
+
+n
+
+a
+
+n
+
+d
+
+P
+
+r
+
+o
+
+f
+
+i
+
+t
+
+S
+
+h
+
+i
+
+f
+
+t
+
+i
+
+n
+
+g
+
+P
+
+r
+
+o
+
+j
+
+e
+
+c
+
+t
+
+T
+
+r
+
+a
+
+n
+
+s
+
+f
+
+e
+
+r
+
+P
+
+r
+
+i
+
+c
+
+i
+
+n
+
+g
+
+D
+
+o
+
+c
+
+u
+
+m
+
+e
+
+n
+
+t
+
+a
+
+t
+
+i
+
+o
+
+n
+
+a
+
+n
+
+d
+
+C
+
+o
+
+u
+
+n
+
+t
+
+r
+
+y
+
+-
+
+b
+
+y
+
+-
+
+C
+
+o
+
+u
+
+n
+
+t
+
+r
+
+y
+
+R
+
+e
+
+p
+
+o
+
+r
+
+t
+
+i
+
+n
+
+g
+
+Consult this publication on line at http://dx.doi.org/10.1787/9789264241480-en.
+
+This work is published on the OECD iLibrary, which gathers all OECD books, periodicals and statistical databases.
+
+Visit www.oecd-ilibrary.org for more information.
+
+iSBn 978-92-64-24146-6 
+
+23 2015 38 1 P
+
+9HSTCQE*cebegg+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OECD/G20 Base Erosion and Profit Shifting Project
+
+Transfer Pricing 
+Documentation 
+and Country‑by‑Country 
+Reporting, Action 13 ‑ 
+2015 Final Report
+
+This document and any map included herein are without prejudice to the status of or
+sovereignty over any territory, to the delimitation of international frontiers and boundaries
+and to the name of any territory, city or area.
+
+Please cite this publication as:
+OECD (2015), Transfer Pricing Documentation and Country-by-Country Reporting, Action 13 - 2015 Final
+Report, OECD/G20 Base Erosion and Profit Shifting Project, OECD Publishing, Paris.
+http://dx.doi.org/10.1787/9789264241480-en
+
+ISBN 978-92-64-24146-6 (print)
+ISBN 978-92-64-24148-0 (PDF)
+
+Series: OECD/G20 Base Erosion and Profit Shifting Project
+ISSN 2313-2604 (print)
+ISSN 2313-2612 (online)
+
+Photo credits: Cover © ninog – Fotolia.com
+
+Corrigenda to OECD publications may be found on line at: www.oecd.org/about/publishing/corrigenda.htm.
+
+© OECD 2015
+
+You can copy, download or print OECD content for your own use, and you can include excerpts from OECD publications, databases and
+
+multimedia products in your own documents, presentations, blogs, websites and teaching materials, provided that suitable
+
+acknowledgement of OECD as source and copyright owner is given. All requests for public or commercial use and translation rights
+
+should be submitted to rights@oecd.org. Requests for permission to photocopy portions of this material for public or commercial use shall
+
+be addressed directly to the Copyright Clearance Center (CCC) at info@copyright.com or the Centre français d’exploitation du droit de copie
+
+(CFC) at contact@cfcopies.com.
+
+ FOREwORD – 3
+
+Foreword
+
+International  tax  issues  have  never  been  as  high  on  the  political  agenda  as  they  are 
+today.  The  integration  of  national  economies  and  markets  has  increased  substantially  in 
+recent years, putting a strain on the international tax rules, which were designed more than a 
+century ago. weaknesses in the current rules create opportunities for base erosion and profit 
+shifting (BEPS), requiring bold moves by policy makers to restore confidence in the system 
+and ensure that profits are taxed where economic activities take place and value is created.
+
+Following  the  release  of  the  report  Addressing  Base  Erosion  and  Profit  Shifting  in 
+February  2013,  OECD  and  G20  countries  adopted  a  15-point  Action  Plan  to  address 
+BEPS in September 2013. The Action Plan identified 15 actions along three key pillars: 
+introducing coherence in the domestic rules that affect cross-border activities, reinforcing 
+substance requirements in the existing international standards, and improving transparency 
+as well as certainty.
+
+Since  then,  all  G20  and  OECD  countries  have  worked  on  an  equal  footing  and  the 
+European  Commission  also  provided  its  views  throughout  the  

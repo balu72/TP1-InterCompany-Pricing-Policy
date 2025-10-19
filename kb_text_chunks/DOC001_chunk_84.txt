@@ -1,0 +1,72 @@
+ntributed.  For  example,  marketing  expenses 
+may  be  an  appropriate  factor  for  distributors-marketers  if  advertising 
+generates  unique  and  valuable  marketing  intangibles,  e.g.  in  consumer 
+goods  where  the  value  of  marketing  intangibles  is  affected  by  advertising. 
+Research  and  development  expenses  may  be  suitable  for  manufacturers  if 
+they  relate  to  the  development  of  unique  and  valuable  intangibles  such  as 
+patents. However, if, for instance, each party contributes different valuable 
+intangibles,  then  it  is  not  appropriate  to  use  a  costbased  factor  unless  cost 
+is a reliable measure of the relative value of those intangibles or costs can 
+be risk-weighted to achieve a reliable measure of relative value. Even where 
+each party contributes the same kind of intangibles, risk-weighting will be 
+an  appropriate  consideration.  For  example,  where  the  risk  of  failure  at  an 
+early stage of development is several times higher than the risk of failure at a 
+later stage or in the development of incremental improvements to an already 
+proven concept, then the costs incurred in that early stage will have a higher 
+risk  weighting  than  the  costs  incurred  at  a  later  stage  or  on  incremental 
+improvements. Employee remuneration may be relevant in situations where 
+functions relating to the skills and experience of staff are the primary factor 
+in generating the relevant profits.
+
+2.182.  In  identifying  and  applying  appropriate  cost-based  profit  splitting 
+factors a number of issues may need to be considered. One is that there may 
+be differences between the parties in the timing of expenditure. For example, 
+research  and  development  costs  that  are  relevant  to  the  value  of  a  party’s 
+contributions may have been incurred several years in the past, whereas the 
+expenditure for another party may be current. As a result, it may be necessary 
+to  bring  historic  costs  to  current  values  (as  discussed  further  below)  in 
+addition to the risk weighting described in paragraph 2.181. The relevant costs 
+may be part of a larger cost pool that needs to be analysed and allocated to 
+the contributions made to the profit split transaction. For example, marketing 
+costs  may  be  incurred  and  recorded  across  several  product  lines,  whereas 
+only  one  product  line  is  the  subject  of  the  profit  split  transaction.  Where 
+location savings retained by member(s) of the MNE group are a significant 
+contributor to profits, and such costs are included in the profits to be split, 
+then  the  manner  in  which  independent  parties  would  allocate  retained 
+location  savings  would  need  to  be  reflected  in  the  profit  split,  taking  into 
+account the guidance in Section D.6 of Chapter I. Cost-based profit splitting 
+factors  can  be  very  sensitive  to  differences  and  changes  in  accounting 
+classification of costs. It is therefore necessary to clearly identify in advance 
+what  costs  will  be  taken  into  account  in  the  determination  of  the  profit 
+splitting factor and to determine the factor consistently among the parties.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 147
+
+2.183. 
+In  some  cases,  a  significant  issue  for  the  reliability  of  cost-based 
+splitting factors is the determination of the relevant period of time from which 
+the elements of determination of the profit splitting factor(s) (e.g. assets, costs, 
+or others) should be taken into account. A difficulty arises because there can be 
+a lag between the time when expenses are incurred and the time when value is 
+created, and it is sometimes difficult to decide which period’s expenses should 
+be used. For example, in the case of a cost-based factor, using the expenditure 
+on a single-year basis may be suitable for some cases, while in some other cases 
+it may be more suitable to use accumulated expenditure (net of depreciation or 
+amortisation, where appropriate in the circumstances) incurred in the previous 
+as  well  as  the  current  years.  Depending  on  the  facts  and  circumstances  of 
+the case, this determination may have a significant effect on the allocation of 
+profits amongst the parties. As noted in Section C.5.1 above, the selection of 
+the profit splitting factor should be appropriate to the particular circumstances 
+of the case and provide a reliable approximation of the division of profits that 
+would have been agreed between independent parties. The principles of this 
+section are illustrated by Example 16 in Annex II to Chapter II of this guidance.
+
+D. Conclusions on transactional profit methods
+
+2.184.  Paragraphs  2.1-2.12  provide  guidance  on  the  selection  of  the  most 
+appropriate transfer pricing method to the circumstances of the case.
+
+2.185.  As discussed in these Guidelines, there are concerns regarding the use 
+of the transactional net margin method, in partic

@@ -1,0 +1,79 @@
+bC report filed by a “surrogate 
+parent entity” which is a Constituent Entity appointed by an MNE as a sole substitute for the UPE, to file a 
+CbC report on behalf of the MNE where certain conditions are met. This guidance does not concern the 
+exchange of CbC reports filed by a surrogate parent entity. 
+
+7 This guidance does not prevent the automatic exchange of locally filed CbC reports within the European 
+Union, which is required under Directive 2016/881/EU, nor does this guidance concern the spontaneous 
+exchange of CbC reports or the exchange of CbC reports on request. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+ 
+  | 45 
+
+6 Issues relating to 
+
+Mergers/Acquisitions/Demergers  
+
+Treatment in case of Mergers/Acquisitions/Demergers (November 2017) 
+
+1.1 When in a given year there are changes in ownership due to mergers, acquisitions 
+and demergers, how is the CbC filing obligation for that given year affected and what 
+information should be reported in the CbC report?  
+
+For the year in which a merger/acquisition/demerger occurs, the determination of whether the Group is or 
+is not an Excluded MNE Group shall be based on the Group's total consolidated group revenue during the 
+Fiscal Year immediately preceding the Reporting Fiscal Year, as reflected  in its  Consolidated Financial 
+Statements for such preceding Fiscal Year. There is no need to adjust the consolidated group revenue for 
+the preceding Fiscal Year due to a merger/acquisition/demerger occurring during the following year.  
+
+As to the information to be reported in the CbC report for the year in which the merger/acquisition/demerger 
+occurs, the accounting principles/standards (as determined in accordance with the guidance to identify the 
+accounting principles/standards for determining the existence and membership of a group) will govern the 
+determination as to the period for which the financial data of the merged/acquired/demerged Constituent 
+Entities should be included in CbC reports of the relevant MNE Groups (e.g. a pro rata share or full year). 
+In  accordance  with  the  flexibility  given  on  the  source  of  data  for  purposes  of  completing  Table  1,  the 
+information reported in Table 1 may be taken from a source using different accounting principles/standards 
+from those applied in the Consolidated Financial Statements. 
+
+There may be cases where a group (Acquired Group) is acquired by another group (Succeeding Group) 
+on a date other than the Acquired Group's regular fiscal year end. For example, Acquired Group could 
+prepare its regular financial statements on a calendar year basis, but be acquired by Succeeding Group 
+on 30 June Y1. Assuming the Acquired Group had total consolidated group revenues in Y0 which were 
+not less than 750 million EUR, whether the Acquired Group will be obligated to submit a CbC report for the 
+period from 1 January Y1 to 30 June Y1 will depend upon whether it is required to prepare Consolidated 
+Financial Statements for this period in the jurisdiction where its UPE is tax resident (or if the deemed listing 
+provision applies). If there is no such requirement, then the Acquired Group will not be obligated to submit 
+a CbC report for this period. In such a case, the Succeeding Group should in Table 3 of its CbC Report for 
+Y1: a) indicate that the Succeeding Group acquired the Acquired Group and the date of acquisition; and, 
+b) include the following statement: "The Acquired Group did not file a CbC report in any jurisdiction for the 
+period  1  January  Y1  to  30  June  Y1".  Inclusive  Framework  members  are  encouraged  to  require  their 
+taxpayers to provide the above information in Table 3 as soon as possible, taking into account the specific 
+domestic circumstances.  
+
+The following fact patterns illustrate the application of this guidance. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+46 |   
+
+Fact Pattern #1 
+
+In Y1, Group S sells a sub-group of its own entities. The sub-group of entities subsequently becomes an 
+independent Group, Group E. 
+
+1.2 How should Group S and Group E determine if they qualify as Excluded MNE Group(s) for Y1? 
+
+In  order  to  determine  whether  a  Group  is  an  Excluded  MNE  Group  under  Article  1.3  of  the  Model 
+Legislation, there is no need to adjust the consolidated group revenue for the preceding Fiscal Year 
+due to a merger/acquisition/demerger occurring during the following year. Group S should be required 
+to file a CbC report for Y1 if the total consolidated group revenue of Group S for Y0 was equal to or 
+greater than 750 million euros (or near equivalent amount in local currency as of January 2015).  
+
+In the case of Group E, the Action 13 minimum standard does not contain specific guidance on how to 
+treat a group that was part of another MNE group in the previous fiscal year. Jurisdictions may take the 
+view that, as Group E did not

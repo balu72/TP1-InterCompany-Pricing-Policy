@@ -1,0 +1,123 @@
+5, should not be interpreted to mean that that 
+activity generates high returns. The activity could still add low value, and the 
+determination of the arm’s length charge for such activity, if any, should be 
+determined according to the guidance set out in paragraphs 7.1 to 7.42.
+
+7.49.  The  following  bullet  points  provide  examples  of  services  that 
+would  likely  meet  the  definition  of  low  value-adding  services  provided  in 
+paragraph 7.45:
+
+• 
+
+• 
+
+accounting and auditing, for example gathering and reviewing information 
+for  use  in  financial  statements,  maintenance  of  accounting  records, 
+preparation  of  financial  statements,  preparation  or  assistance  in 
+operational and financial audits, verifying authenticity and reliability of 
+accounting records, and assistance in the preparation of budgets through 
+compilation of data and information gathering;
+
+processing  and  management  of  accounts  receivable  and  accounts 
+payable,  for  example  compilation  of  customer  or  client  billing 
+information, and credit control checking and processing;
+
+• 
+
+human resources activities, such as:
+
+- 
+
+- 
+
+- 
+
+staffing and recruitment, for example hiring procedures, assistance 
+in  evaluation  of  applicants  and  selection  and  appointment  of 
+personnel, on-boarding new employees, performance evaluation and 
+assistance in defining careers, assistance in procedures to dismiss 
+personnel, assistance in programmes for redundant personnel;
+
+training  and  employee  development,  for  example  evaluation  of 
+training  needs,  creation  of  internal  training  and  development 
+programmes, creation of management skills and career development 
+programmes;
+
+remuneration  services,  for  example,  providing  advice  and 
+determining  policies  for  employee  compensation  and  benefits 
+such  as  healthcare  and  life  insurance,  stock  option  plans,  and 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VII: INTRA-GROUP SERVICES – 329
+
+pension  schemes;  verification  of  attendance  and  timekeeping, 
+payroll services including processing and tax compliance;
+
+- 
+
+developing and monitoring of staff health procedures, safety and 
+environmental standards relating to employment matters;
+
+•  monitoring  and  compilation  of  data  relating  to  health,  safety, 
+
+environmental and other standards regulating the business;
+
+• 
+
+• 
+
+• 
+
+• 
+
+information  technology  services  where  they  are  not  part  of  the 
+principal activity of the group, for example installing, maintaining and 
+updating IT systems used in the business; information system support 
+(which  may  include  the  information  system  used  in  connection 
+with  accounting,  production,  client  relations,  human  resources  and 
+payroll,  and  email  systems);  training  on  the  use  or  application  of 
+information systems as well as on the associated equipment employed 
+to collect, process and present information; developing IT guidelines, 
+providing  telecommunications  services,  organising  an  IT  helpdesk, 
+implementing  and  maintaining  of  IT  security  systems;  supporting, 
+maintaining and supervising of IT networks (local area network, wide 
+area network, internet);
+
+internal  and  external  communications  and  public  relations  support 
+(but excluding specific advertising or marketing activities as well as 
+development of underlying strategies);
+
+legal  services,  for  example  general  legal  services  performed  by 
+in-house  legal  counsel  such  as  drafting  and  reviewing  contracts, 
+agreements  and  other  legal  documents,  legal  consultation  and 
+opinions, representation of the company (judicial litigation, arbitration 
+panels, administrative procedures), legal research and legal as well as 
+administrative work for the registration and protection of intangible 
+property;
+
+activities  with  regard  to  tax  obligations,  for  example  information 
+gathering and preparation of tax returns (income tax, sales tax, VAT, 
+property tax, customs and excise), making tax payments, responding 
+to tax administrations’ audits, and giving advice on tax matters;
+
+• 
+
+general services of an administrative or clerical nature.
+
+7.50.  The  following  examples  illustrate  an  important  element  of  the 
+definition of low value-adding intra-group services, namely, that they should 
+not  include  services  which  are  part  of  the  MNE’s  core  business.  Services 
+that  may  seem  superficially  similar  in  nature  (in  the  example,  credit  risk 
+analysis) may or may not be low value-adding intra-group services depending 
+on the specific context and circumstances. The examples also illustrate the 
+point that services may not qualify as low value-adding intra-group services 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+330 – CHAPTER VII: INTRA-GROUP SERVICES
+
+because in their specific context they create significant risk or unique and 
+valuable intangibles.
+
+a)  Company  A,  situated  in  Country  A,  is  

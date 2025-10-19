@@ -1,0 +1,89 @@
+tra-
+group services. However, some guidance may be given to elucidate how the 
+analysis would be applied for some common types of services undertaken in 
+MNE groups.
+
+7.8. 
+Some  intra-group  services  are  performed  by  one  member  of  an 
+MNE  group  to  meet  an  identified  need  of  one  or  more  specific  members 
+of  the  group.  In  such  a  case,  it  is  relatively  straightforward  to  determine 
+whether a service has been provided. Ordinarily an independent enterprise 
+in comparable circumstances would have satisfied the identified need either 
+by performing the activity in-house or by having the activity performed by a 
+third party. Thus, in such a case, an intra-group service ordinarily would be 
+found to exist. For example, an intra-group service would normally be found 
+where  an  associated  enterprise  repairs  equipment  used  in  manufacturing 
+by another member of the MNE group. It is essential, however, that reliable 
+documentation is provided to the tax administrations to verify that the costs 
+have been incurred by the service provider.
+
+B.1.2. Shareholder activities
+
+7.9. 
+A more complex analysis is necessary where an associated enterprise 
+undertakes  activities  that  relate  to  more  than  one  member  of  the  group  or 
+to  the  group  as  a  whole.  In  a  narrow  range  of  such  cases,  an  intra-group 
+activity  may  be  performed  relating  to  group  members  even  though  those 
+group members do not need the activity (and would not be willing to pay for 
+it were they independent enterprises). Such an activity would be one that a 
+group member (usually the parent company or a regional holding company) 
+performs solely because of its ownership interest in one or more other group 
+members, i.e. in its capacity as shareholder. This type of activity would not be 
+considered to be an intra-group service, and thus would not justify a charge to 
+other group members. Instead, the costs associated with this type of activity 
+should be borne and allocated at the level of the shareholder. This  type  of 
+activity may be referred to as a “shareholder activity”, distinguishable from 
+the broader term “stewardship activity” used in the 1979 Report. Stewardship 
+activities  covered  a  range  of  activities  by  a  shareholder  that  may  include 
+the provision of services to other group members, for example services that 
+would  be  provided  by  a  co-ordinating  centre.  These  latter  types  of  non-
+shareholder activities could include detailed planning services for particular 
+operations, emergency management or technical advice (trouble shooting), or 
+in some cases assistance in day-to-day management.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+316 – CHAPTER VII: INTRA-GROUP SERVICES
+
+7.10.  The  following  are  examples  of  costs  associated  with  shareholder 
+activities, under the standard set forth in paragraph 7.6:
+
+a)  Costs  relating  to  the  juridical  structure  of  the  parent  company 
+itself, such as meetings of shareholders of the parent, issuing of 
+shares in the parent company, stock exchange listing of the parent 
+company and costs of the supervisory board;
+
+b)  Costs relating to reporting requirements (including financial reporting 
+and  audit)  of  the  parent  company  including  the  consolidation 
+of  reports,  costs  relating  to  the  parent  company’s  audit  of  the 
+subsidiary’s accounts carried out exclusively in the interest of the 
+parent company, and costs relating to the preparation of consolidated 
+financial  statements  of  the  MNE  (however,  in  practice  costs 
+incurred locally by the subsidiaries may not need to be passed on to 
+the parent or holding company where it is disproportionately onerous 
+to identify and isolate those costs);
+
+c)  Costs  of  raising  funds  for  the  acquisition  of  its  participations 
+and  costs  relating  to  the  parent  company’s  investor  relations 
+such as communication strategy with shareholders of the parent 
+company, financial analysts, funds and other stakeholders in the 
+parent company;
+
+d)  Costs  relating  to  compliance  of  the  parent  company  with  the 
+
+relevant tax laws;
+
+e)  Costs  which  are  ancillary  to  the  corporate  governance  of  the 
+
+MNE as a whole.
+
+In contrast, if for example a parent company raises funds on behalf of 
+another group member which uses them to acquire a new company, the parent 
+company  would  generally  be  regarded  as  providing  a  service  to  the  group 
+member. The 1984 Report also mentioned “costs of managerial and control 
+(monitoring)  activities  related  to  the  management  and  protection  of  the 
+investment as such in participations”. Whether these activities fall within the 
+definition of shareholder activities as defined in these Guidelines would be 
+determined according to whether under comparable facts and circumstances 
+the activity is one that an independent enterprise would have been willing 
+to pay for or to perform for itself. Whe

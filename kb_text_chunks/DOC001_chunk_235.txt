@@ -1,0 +1,85 @@
+ delineation of the transaction after 
+the  restructuring  may  lead  to  the  conclusion  that  this  is  in  substance  a 
+funding  arrangement  between  Company  A  and  Company  Z,  rather  than  a 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+400 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+restructuring for the centralisation of intangible management. An assessment 
+may be necessary of the commercial rationality of the transaction based on 
+the guidance in Section D.2 of Chapter I taking into account the full facts and 
+circumstances of the transaction8.
+
+9.125.  There will also be cases where before-and-after comparisons can be 
+made because the transactions prior to the restructuring were not controlled, 
+for  instance  where  the  restructuring  follows  an  acquisition,  and  where 
+adjustments  can  reliably  be  made  to  account  for  the  differences  between 
+the  pre-restructuring  uncontrolled  transactions  and  the  post-restructuring 
+controlled  transactions.  See  example  in  paragraph  9.110.  Whether  such 
+uncontrolled  transactions  provide  reliable  comparables  would  have  to  be 
+evaluated in light of the guidance in paragraph 3.2.
+
+E. Location savings
+
+9.126.  Location  savings  can  be  derived  by  an  MNE  group  that  relocates 
+some  of  its  activities  to  a  place  where  costs  (such  as  labour  costs,  real 
+estate  costs,  etc.)  are  lower  than  in  the  location  where  the  activities  were 
+initially  performed,  account  being  taken  of  the  possible  costs  involved  in 
+the relocation (such as termination costs for the existing operation, possibly 
+higher infrastructure costs in the new location, possibly higher transportation 
+costs if the new operation is more distant from the market, training costs of 
+local employees, etc.). Where a business strategy aimed at deriving location 
+savings is put forward as a business reason for restructuring, the discussion 
+in Section D.1.5 of Chapter I is relevant.
+
+9.127.  Where significant location savings are derived further to a business 
+restructuring,  the  question  arises  of  whether  and  if  so  how  the  location 
+savings should be shared among the parties. In addressing this matter, the 
+guidance in Section D.6 of Chapter I is relevant.
+
+9.128.  Take  the  example  of  an  enterprise  that  designs,  manufactures  and 
+sells brand name clothes. Assume that the manufacturing process is basic and 
+that the brand name is famous and represents a highly valuable intangible. 
+Assume  that  the  enterprise  is  established  in  Country  A  where  the  labour 
+costs are high and that it decides to close down its manufacturing activities in 
+Country A and to relocate them in an affiliate company in Country B where 
+labour  costs  are  significantly  lower.  The  enterprise  in  Country  A  retains 
+the  rights  on  the  brand  name  and  continues  designing  the  clothes.  Further 
+to  this  restructuring,  the  clothes  will  be  manufactured  by  the  affiliate  in 
+Country B under a contract manufacturing arrangement. The arrangement 
+
+8. 
+
+This is notwithstanding any possible application of general anti-avoidance rules and 
+notwithstanding the question about Company Z’s place of effective management.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 401
+
+does not involve the use of any significant intangible owned by or licensed 
+to the affiliate or the assumption of any significant risks by the affiliate in 
+Country  B.  Once  manufactured  by  the  affiliate  in  Country  B,  the  clothes 
+will be sold to the enterprise in Country A which will on-sell them to third 
+party  customers.  Assume  that  this  restructuring  makes  it  possible  for  the 
+group formed by the enterprise in Country A and its affiliate in Country B to 
+derive significant location savings. The question arises whether the location 
+savings should be attributed to the enterprise in Country A, or its affiliate in 
+Country B, or both (and if so in what proportions).
+
+9.129. 
+In  such  an  example,  given  that  the  relocated  activity  is  a  highly 
+competitive one, it is likely that the enterprise in Country A has the option 
+realistically  available  to  it  to  use  either  the  affiliate  in  Country  B  or  a 
+third  party  manufacturer.  As  a  consequence,  it  should  be  possible  to  find 
+comparables data to determine the conditions in which a third party would 
+be willing at arm’s length to manufacture the clothes for the enterprise. In 
+such a situation, a contract manufacturer at arm’s length would generally be 
+attributed  very  little,  if  any,  part  of  the  location  savings.  Doing  otherwise 
+would  put  the  associated  manufacturer  in  a  situation  different  from  the 
+situation of an independent manufacturer, and would be contrary to the arm’s 
+length principle.
+
+9.130.  As  another  example,  assume  now  that  an  enterprise  in  Country  X 
+provides highly specialised and

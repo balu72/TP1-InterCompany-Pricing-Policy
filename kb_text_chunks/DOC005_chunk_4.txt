@@ -1,0 +1,266 @@
+                  
+                             
+                                 IRS Officers Online 
+                             
+                             
+                                 Official Email Systems 
+                             
+                         
+                     
+                 
+             
+             
+                 हिंदी 
+
+
+
+
+             
+         
+     
+    
+ 
+
+         
+     
+     
+         
+             
+                 
+                     Income Tax Department 
+                 
+             
+
+             
+                 
+         
+            
+
+ 
+ 
+     
+         
+             
+                 Guided Tour 
+             
+             
+                 Skip to main content 
+             
+             
+                 Department Officials 
+                 
+                     
+                         IRS Officers Online 
+                     
+                         Official Email Systems 
+                     
+                         Employees Corner 
+                     
+                     
+                         
+                            Take Online Oath
+
+                         
+                     
+                 
+             
+             
+                 T T   
+                 
+                     
+                         A + 
+                     
+                     
+                         A 
+                     
+                     
+                         A - 
+                     
+                 
+             
+
+             
+                 A 
+             
+             
+                 A 
+             
+             
+                 
+                     
+                         
+                     
+
+                 
+             
+             
+                 हिंदी 
+
+
+
+
+             
+
+             
+                 Help 
+             
+             
+                 
+                     
+                         
+                     
+                    1800 180 1961/ 1961
+                 
+             
+             
+                 
+                     Login 
+                 
+             
+         
+     
+ 
+
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                     
+                    
+                     Department Officials
+                 
+                 
+                     
+                         
+                            Take Online Oath
+
+                         
+                     
+                     
+                         Employees Corner 
+                     
+                     
+                         Employees Login 
+                         
+                             
+                                 IRS Officers Online 
+                             
+                             
+                                 Official Email Systems 
+                             
+                         
+                     
+                 
+             
+             
+                 हिंदी 
+
+
+
+
+             
+         
+     
+    
+ 
+
+         
+     
+                 
+                
+                 
+                     
+                        
+
+ 
+     
+ 
+ 
+
+ 
+
+ 
+     
+        $(document).ready(function () {
+            var contextUrl = _spPageContextInfo.siteServerRelativeUrl;
+            if (contextUrl.toLowerCase().indexOf('/hindi') >= 0) {
+                var textBoxId = $('#serachbarmaindiv').find('input[type="text"]').attr('id');
+                $("#" + textBoxId).removeClass("keyboardInput").addClass("keyboardInput");
+            }
+            $("#ctl00_ctl24_ctl00_ctl01_SmallSearchInputBox1_csr_sbox").attr('maxlength', '256');
+        });
+        //$("#ctl00_ctl24_ctl00_ctl01_SmallSearchInputBox1_csr_sbox").attr('maxlength', '254');
+     
+     
+         
+	 It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again. 
+
+	 
+ 
+     
+     
+       
+             A to Z Index 
+        
+         Search Tips 
+        
+         Advance Search 
+
+     
+   
+ 
+
+ 
+$(document).ready(function(){
+    $(".mobile-search-btn").click(function () {
+        $(".showsearch").toggle();
+  });
+});
+ 
+
+                     
+                 
+                     
+             
+         
+     
+ 
+ 
+     
+        
+
+ 
+    .accessible-megamenu .accessible-megamenu-top-nav-item a.menuActive {
+        background: #4f4f4f;
+        color: #fff;
+    }
+
+    .menuActive .iconspritenew.submenuarrow {
+        background-position: -86px -125px !important;
+        width: 9px;
+        height: 7px;
+    }
+
+    .home-btn-menu {
+        padding: 5px 0px !important;
+    }
+
+        .home-btn-menu a {
+            line-height: 10px !important;
+        }
+
+            .home-btn-menu a:hover {
+                background: #4f4f4f;
+            }
+
+    .homeInactive {
+        background: url(/_Layouts/15/images/dit/home-btn.png) no-repeat 3px -15px;
+        padding: 5px 1em !important;
+    }
+
+    .homeActive a {
+        

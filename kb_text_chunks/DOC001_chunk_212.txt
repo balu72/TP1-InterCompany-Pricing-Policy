@@ -1,0 +1,80 @@
+n of the transactions comprising the business 
+restructuring: functions, assets and risks before and after the 
+restructuring
+
+9.15.  Restructurings  can  take  a  variety  of  different  forms  and  may 
+involve  two  or  more  members  of  an  MNE  group.  For  example,  a  simple 
+pre-restructuring  arrangement  could  involve  a  full-fledged  manufacturer 
+producing goods and selling them to an associated full-fledged distributor for 
+on-sale into the market. The restructuring could involve a modification to that 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 363
+
+two-party arrangement, whereby the distributor is converted to a limited risk 
+distributor or commissionnaire, with risks previously assumed by the full-
+fledged distributor being assumed by the manufacturer (taking into account 
+the guidance in Section D.1 of Chapter I. Frequently, the restructuring will be 
+more complicated, with functions performed, assets used and risks assumed 
+by either or both parties to a pre-restructuring arrangement shifting to one or 
+more members of the group.
+
+9.16. 
+In order to determine whether, at arm’s length, compensation would 
+be payable upon a restructuring to any restructured entity within an MNE 
+group, and if so the amount of such compensation as well as the member of 
+the group that should bear such compensation, it is important to accurately 
+delineate  the  transactions  occurring  between  the  restructured  entity  and 
+one  or  more  other  members  of  the  group.  For  these  purposes,  the  detailed 
+guidance in Section D of Chapter I of these Guidelines is applicable.
+
+9.17.  Where  the  conditions  of  a  business  restructuring  have  been 
+formalised by the MNE group in writing (e.g. written contractual agreements, 
+correspondence  and/or  other  communications),  those  agreements  provide 
+the  starting  point  for  delineating  the  transactions  comprising  the  business 
+restructuring between the MNEs involved. The contractual terms may describe 
+the  roles,  responsibilities  and  rights  of  the  restructured  entity  under  the  pre-
+restructuring arrangement (including in relevant circumstances those existing 
+under contract and commercial law) and of the manner and extent to which those 
+rights and obligations change as a result of the restructuring. However, where 
+no written terms exist, or where the facts of the case, including the conduct of 
+the parties, differ materially from the written terms of any agreement between 
+them or supplement these written terms, the actual transactions comprising the 
+business restructuring must be deduced from the facts as established, including 
+the conduct of the parties (see Section D.1.1 of Chapter I).
+
+9.18.  The accurate delineation of the transactions comprising the business 
+restructuring requires performing a functional analysis that seeks to identify 
+the economically significant activities and responsibilities undertaken, assets 
+used or contributed, and risks assumed before and after the restructuring by 
+the parties involved. Accordingly, the analysis focuses on what the parties 
+actually do and the capabilities, as well as the type and nature of assets used 
+or  contributed  by  the  parties  in  a  pre-restructuring  and  post-restructuring 
+scenarios. See Section D.1.2 of Chapter I. Given the importance of risk in the 
+analysis of business restructurings, the following section provides specific 
+guidance  on  the  analysis  of  risk  in  transactions  comprising  the  business 
+restructuring.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+364 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+B.1.1. The analysis of risk in the context of business restructurings
+
+9.19.  Risks  are  of  critical  importance  in  the  context  of  business 
+restructurings. Usually, in the open market, the assumption of risk associated 
+with a commercial opportunity affects the profit potential of that opportunity, 
+and  the  allocation  of  risk  assumed  between  the  parties  to  the  arrangement 
+affects  how  profits  or  losses  resulting  from  the  transaction  are  allocated 
+through the arm’s length pricing of the transaction. Business restructurings 
+often  result  in  local  operations  being  converted  into  low  risk  operations 
+(e.g. “low risk distributors”, or “low risk contract manufacturers”) and being 
+remunerated with a relatively low (but generally stable) return on the grounds 
+that the economically significant risks are assumed by another party to which 
+the profits or losses associated with those risks are allocated. For this reason, 
+an examination of the allocation of risks between associated enterprises before 
+and  after  the  restructuring  is  an  essential  part  of  the  functional  analysis. 
+Such analysis should allow tax administrations to assess the transfer of the 
+economically  significant  risks  of  the  business  that  is  restructured  and  the 
+consequences of that transfer f

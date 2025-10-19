@@ -1,0 +1,83 @@
+ comparable circumstances, an independent party would 
+not  have  had  any  option  realistically  available  that  would  be  clearly  more 
+attractive to it than to accept the conditions of the termination or substantial 
+renegotiation of the contract. The guidance in Section D of Chapter I, as well 
+as the Guidance in Section B of this Part, are applicable.
+
+9.85.  Another  aspect  that  may  be  necessary  to  examine  in  assessing 
+whether the conditions of an arrangement in relation to an indemnification 
+clause are arm’s length, is the remuneration of the transactions that are the 
+object  of  the  arrangement  and  the  financial  conditions  of  the  termination 
+thereof,  as  both  can  be  inter-related.  In  effect,  the  terms  of  a  termination 
+clause (or the absence thereof) may be a significant element of the functional 
+analysis  of  the  transactions  and  specifically  of  the  analysis  of  the  risks 
+of  the  parties,  and  may  accordingly  need  to  be  taken  into  account  in  the 
+determination of an arm’s length remuneration for the transactions. Similarly, 
+the remuneration of the transactions will affect the determination of whether 
+the conditions of the termination of the arrangement are at arm’s length.
+
+9.86.  Business  restructurings  may  lead  to  the  termination  of  the 
+employment  contracts  of  members  of  an  assembled  workforce.  In  this 
+regard,  in  determining  whether  the  restructuring  is  undertaken  on  arm’s 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 387
+
+length terms, the analysis should consider the facts and circumstances before 
+and  after  the  restructuring  related  to  the  assembled  workforce,  including 
+whether  something  of  value  has  been  transferred  upon  termination  of  the 
+arrangements  between  associated  enterprises  and,  for  example,  whether 
+there are implicit or explicit restrictive covenants (e.g. non-compete clause) 
+in  the  employment  contracts  of  the  workforce  members,  which  should  be 
+reflected  in  the  amount  of  any  indemnification  that  should  be  paid  to  the 
+party previously undertaking the activities through that workforce.
+
+9.87.  One circumstance that deserves particular attention, is the situation 
+where the now-terminated contract required one party to make a significant 
+investment  for  which  an  arm’s  length  return  might  only  be  reasonably 
+expected  if  the  contract  was  maintained  for  an  extended  period  of  time. 
+This created a financial risk for the party making the investment in case the 
+contract was terminated before the end of such period of time. The degree of 
+the risk would depend on whether the investment was highly specialised or 
+could be used (possibly subject to some adaptations) for other clients. Where 
+the risk was material, it would have been reasonable for independent parties 
+in  comparable  circumstances  to  take  it  into  account  when  negotiating  the 
+contract.
+
+9.88.  An  example  would  be  where  a  manufacturing  contract  between 
+associated enterprises requires the manufacturer to invest in a new manufacturing 
+unit.  Assume  an  arm’s  length  return  on  the  investment  can  reasonably  be 
+anticipated by the manufacturer at the time the contract is concluded, subject to 
+the manufacturing contract lasting for at least five years, for the manufacturing 
+activity to produce at least × units per year, and for the remuneration of the 
+manufacturing  activity  to  be  calculated  on  a  basis  (e.g.  USD/unit)  that  is 
+expected to generate an arm’s length return on the total investment in the new 
+manufacturing unit. Assume that after three years, the associated enterprise 
+terminates the contract in accordance with its terms in the context of a group-
+wide restructuring of the manufacturing operations. Assume the manufacturing 
+unit is highly specialised and the manufacturer further to the termination would 
+have no other choice than to write off the assets.
+
+9.89.  At arm’s length, the manufacturer may mitigate the risks inherent in 
+the investment by:
+
+• 
+
+Including  in  the  contract  an  appropriate  indemnification  clause  or 
+penalties in case of early termination, or an option for the party making 
+the investment to transfer it at a given price to the other party in case the 
+investment becomes useless to the former due to the early termination 
+of the contract by the latter.
+
+•  Factoring the risk linked with the possible termination of the contract 
+into the determination of the remuneration of the activities covered 
+by the contract (e.g. by factoring the risk into the determination of 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+388 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+the remuneration of the manufacturing activities where third party 
+comparables that bear comparable risks can be identified, perhaps by 
+including front-end loaded fee structures). In such a case the part

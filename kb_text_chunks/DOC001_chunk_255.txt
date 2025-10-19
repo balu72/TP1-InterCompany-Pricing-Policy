@@ -1,0 +1,86 @@
+d  within  the 
+same entity, although the MNE group position is protected. Where off-setting 
+hedging contract instruments exist within the MNE group but not within the 
+same entity, or where contract instruments do not exist within the MNE group 
+but the MNE group position is protected (as may be the case with a natural 
+hedge,  for  example),  it  would  be  inappropriate  to  match  the  hedges  within 
+the same entity or recognise hedging transactions where written contracts do 
+not exist without a comprehensive analysis of the accurate delineation of the 
+actual transactions under Section D.1 of Chapter I (for example, the existence 
+of a deliberate concerted action to engage in a hedge of a specific risk) and 
+the commercial rationality of the transactions under Section D.2 of Chapter I.
+
+D. Financial guarantees
+
+10.154.  This  section  considers  financial  guarantees  on  certain  intra-group 
+transactions.  To  consider  any  transfer  pricing  consequences  of  a  financial 
+guarantee,  it  is  first  necessary  to  understand  the  nature  and  extent  of  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+434 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+obligations  guaranteed  and  the  consequences  for  all  parties,  accurately 
+delineating the actual transaction in accordance with Section D.1 of Chapter I.
+
+10.155.  In  general,  a  financial  guarantee  provides  for  the  guarantor  to 
+meet  specified  financial  obligations  in  the  event  of  a  failure  to  do  so  by 
+the guaranteed party. There are various terms in use for different types of 
+credit support from one member of an MNE group to another. At one end of 
+the spectrum is the formal written guarantee and at the other is the implied 
+support attributable solely to membership in the MNE group. In the context 
+of this section, a guarantee is a legally binding commitment on the part of 
+the  guarantor  to  assume  a  specified  obligation  of  the  guaranteed  debtor  if 
+the debtor defaults on that obligation. The situation likely to be encountered 
+most frequently in a transfer pricing context is that in which an associated 
+enterprise (guarantor) provides a guarantee on a loan taken out by another 
+associated enterprise from an unrelated lender.
+
+D.1. Accurate delineation of financial guarantees
+
+D.1.1. Economic benefit derived from a financial guarantee
+
+10.156.  The  accurate  delineation  of  financial  guarantees  requires  initial 
+consideration of the economic benefit arising to the borrower beyond the one 
+that derives from passive association, as explained in the Section C.1.1.3.
+
+10.157.  From the borrower perspective, a financial guarantee may affect the 
+terms of the borrowing – for instance, the existence of a guarantee may allow 
+the guaranteed party to obtain a more favourable interest rate since the lender 
+has access to a wider pool of assets –, or the amount of the borrowing – for 
+instance, enabling the borrower to access a larger amount of funds.
+
+D.1.1.1. Enhancement of the terms of the borrowing
+
+10.158.  From  the  perspective  of  a  lender,  the  consequence  of  one  or  more 
+explicit guarantees is that the guarantor(s) are legally committed; the lender’s 
+risk would be expected to be reduced by having access to the assets of the 
+guarantor(s) in the event of the borrower’s default. Effectively, this may mean 
+that the guarantee allows the borrower to borrow on the terms that would be 
+applicable if it had the credit rating of the guarantor rather than the terms it 
+could  obtain  based  on  its  own,  non-guaranteed,  rating.  The  principles  and 
+methodologies of pricing a guarantee in these circumstances are similar to 
+those explained for loan pricing in Section C.1.2.
+
+10.159.  Where the effect of an intra-group guarantee as accurately delineated 
+is to reduce the cost of debt-funding for the borrower, it might be prepared 
+to  pay  for  that  guarantee,  provided  it  was  in  no  worse  a  position  overall. 
+In  considering  the  borrower’s  overall  financial  position  as  a  result  of  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 435
+
+guarantee,  its  cost  of  borrowing  with  the  guarantee  (including  the  cost  of 
+the guarantee and any associated costs of arranging the guarantee) would be 
+measured against its non-guaranteed cost of borrowing, taking into account 
+any implicit support. Borrowing with a guarantee might also affect terms and 
+conditions of the loan other than price; each case will depend on its own facts 
+and circumstances.
+
+10.160.  Alternatively,  Chapter  I  analysis  may  indicate  that  the  purported 
+financial guarantee is not providing any benefit to the borrower but merely 
+recognising  the  benefit  that  the  guaranteed  party  would  have  obtained  in 
+any case by being part of the MNE group. In such situations, based on facts 
+and  circumstances,  an  unrelated  enterprise  in  comparable  circumstances 
+would  be

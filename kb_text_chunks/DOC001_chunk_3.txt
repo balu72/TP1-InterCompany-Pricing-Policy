@@ -1,0 +1,80 @@
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .198
+E. Safe harbours  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .203
+F. Advance pricing arrangements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 213
+G. Arbitration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .224
+
+Chapter V.  Documentation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .227
+
+A. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .227
+B. Objectives of transfer pricing documentation requirements  . . . . . . . . . . . .228
+C. A three-tiered approach to transfer pricing documentation  . . . . . . . . . . . . 231
+D. Compliance issues  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .233
+E. Implementation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .238
+
+Chapter VI.  Special considerations for intangibles. . . . . . . . . . . . . . . . . . . . . . .245
+
+A. Identifying intangibles. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .246
+B.  Ownership of intangibles and transactions involving  
+
+the development, enhancement, maintenance,  
+protection and exploitation of intangibles  . . . . . . . . . . . . . . . . . . . . . . . . . .255
+C. Transactions involving the use or transfer of intangibles  . . . . . . . . . . . . . .274
+D.  Supplemental guidance for determining arm’s length conditions  
+
+in cases involving intangibles  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .280
+
+Chapter VII.  Special considerations for intra-group services . . . . . . . . . . . . . . 313
+
+A. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 313
+B. Main issues. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 314
+C. Some examples of intra-group services . . . . . . . . . . . . . . . . . . . . . . . . . . . .325
+D. Low value-adding intra-group services. . . . . . . . . . . . . . . . . . . . . . . . . . . .326
+
+Chapter VIII.  Cost contribution arrangements. . . . . . . . . . . . . . . . . . . . . . . . . .337
+
+A. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .337
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+TABLE OF CONTENTS – 9
+
+B. Concept of a CCA  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .337
+C. Applying the arm’s length principle  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .341
+D. CCA entry, withdrawal or termination  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 352
+E. Recommendations for structuring and documenting CCAs  . . . . . . . . . . . . 353
+
+Chapter IX.  Transfer pricing aspects of business restructurings  . . . . . . . . . . .357
+
+Introduction  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .357
+
+A. Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .357
+B.  Applying Article 9 of the OECD Model Tax Convention and these 
+
+Guidelines to business restructurings: theoretical framework  . . . . . . . . . .359
+
+Part I: Arm’s length compensation for the restructuring itself. . . . . . . . . . . 361
+
+A. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 361
+B. Understanding the restructuring itself. . . . . . . . . . . . . . . . . . . . . . . . . . . . .362
+C.  Recognition of the accurately delineated transactions that comprise  
+
+the business restructuring  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .369
+D. Reallocation of profit potential as a result of a business restructuring . . . .371
+E. Transfer of something of value (e.g. an asset or an ongoing concern) . . . . . 374
+F.  Indemnification of the restructured entity for the termination or 
+
+substantial renegotiation of existing arrangements  . . . . . . . . . . . . . . . . . . .383
+
+Part II: Remuneration of post-restructuring controlled transactions  . . . . . 391
+
+A. Business restructurings versus “structuring”  . . . . . . . . . . . . . . . . . . . . . . . 391
+B.  Application to business restructuring situations: selection and 
+
+application of a transfer pricing method for the post-restructuring 
+controlled transactions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .394
+
+C.  Relationship between compensation for the restructuring and post-
+
+restructuring remuneration  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .396
+D. Comparing the pre- and post-restructuring situations. . . . . . . . . . . . . . . . .397
+E. Location savings  . . . .

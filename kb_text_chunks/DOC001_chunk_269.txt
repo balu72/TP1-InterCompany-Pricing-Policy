@@ -1,0 +1,98 @@
+ice improved. 
+However, the general guidance to the business community encourages them 
+to identify problematic issues which may be suitable for further analysis and 
+the Working Party will be able to take account of this input when making its 
+final selection of issues for the revised peer review.
+
+21. 
+It is also envisaged that once an issue or a country has been selected 
+by  the  Working  Party  for  further  review,  the  BIAC  will  be  notified  of  the 
+decision  so  that  they  have  the  opportunity  to  comment.  If  the  issue  is  one 
+originally  identified  by  the  BIAC  –  particularly  in  the  context  of  issue 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+460 – ANNEX: MONITORING PROCEDURES
+
+reviews  –  they  would  be  kept  informed  of  the  Working  Party’s  discussion 
+on these issues and asked, if necessary, to provide additional clarification. 
+However, a further role for the BIAC in the peer review process beyond that 
+already described is not contemplated at the moment.
+
+C.2.  Identification and analysis of difficult case paradigms and the 
+
+development of examples
+
+22. 
+The  difficult  case  paradigms  are  intended  to  illustrate  issues  and 
+situations where the Guidelines provide no or inadequate guidance. Practical 
+examples  when  complete  will  be  inserted  into  the  Guidelines  to  provide 
+illustrations  of  particular  principles.  There  is  a  clear  role  for  the  business 
+community  in  assisting  in  the  development  of  paradigms  or  examples  by 
+contributing the practical experience of their members. The Working Party 
+will ask for comments on both the difficult case paradigms and the practical 
+examples  at  regular  stages  in  their  development.  BIAC  may  also  initiate 
+paradigms or examples, provided the caveats in paragraph 17 of this annex 
+are followed so that there can be no question of the process being used to 
+resolve a particular transfer pricing case.
+
+C.3. Updates of legislation and practice
+
+23. 
+The  aim  of  this  element  in  the  monitoring  process  is  to  keep  the 
+member  countries  informed  about  developments  in  each  others’  countries. 
+There  are  usually  well  established  ways  at  the  national  level  by  which  the 
+business community can make an input into any developments in the transfer 
+pricing  legislation,  regulations  and  administrative  practices  of  a  member 
+country. At the level of the OECD, the BIAC will have an opportunity to bring 
+to the attention of the Working Party changes in legislation or practices in both 
+member  and  non-member  countries,  which  it  considered  were  inconsistent 
+with the Guidelines or which it felt could give rise to practical problems in 
+terms of implementation without, of course, referring to individual cases.
+
+The input from the BIAC will be discussed at the regular joint meetings 
+
+24. 
+between the BIAC and the Working Party.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER II: SENSITIVITy OF GROSS AND NET PROFIT INDICATORS – 461
+
+Annex I to Chapter II 
+
+Sensitivity of gross and net profit indicators
+
+See Chapter II, Part III, Section B of these Guidelines for general guidance on the 
+application of the transactional net margin method.
+
+The assumptions about arm’s length arrangements in the following examples are 
+intended  for  illustrative  purposes  only  and  should  not  be  taken  as  prescribing 
+adjustments and arm’s length arrangements in actual cases of particular industries. 
+While they seek to demonstrate the principles of the sections of the Guidelines to 
+which they refer, those principles must be applied in each case according to the 
+specific facts and circumstances of that case.
+
+Furthermore,  the  comments  below  relate  to  the  application  of  a  transactional 
+net  margin  method  in  the  situations  where,  given  the  facts  and  circumstances 
+of  the  case  and  in  particular  the  comparability  (including  functional)  analysis 
+of  the  transaction  and  the  review  of  the  information  available  on  uncontrolled 
+comparables, such a method is found to be the most appropriate method to be used.
+
+It  is  recognised  that  the  transactional  net  margin  method  can  be 
+1. 
+less sensitive to some differences in the characteristics of products than the 
+comparable  uncontrolled  price  or  resale  price  methods.  In  practice  when 
+applying the transactional net margin method a greater emphasis is generally 
+placed on functional comparability than on the characteristics of products. 
+The transactional net margin method can however be less sensitive to some 
+differences  in  functions  which  are  reflected  in  variations  in  operating 
+expenses as illustrated below.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+462 – ANNEX I TO CHAPTER II: SENSITIVITy OF GROSS AND NET PROFIT INDICATORS
+
+Illustration 1: Effect of a difference in the extent and complexity of the 
+marketing function performed by a di

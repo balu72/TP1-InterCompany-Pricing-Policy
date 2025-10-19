@@ -1,0 +1,75 @@
+xpenses may be an appropriate base for distribution 
+activities, full costs or operating expenses may be an appropriate base for a 
+service or manufacturing activity, and operating assets may be an appropriate 
+base for capital-intensive activities such as certain manufacturing activities or 
+utilities. Other bases can also be appropriate depending on the circumstances 
+of the case.
+
+2.94.  The denominator should be reasonably independent from controlled 
+transactions,  otherwise  there  would  be  no  objective  starting  point.  For 
+instance, when analysing a transaction consisting in the purchase of goods 
+by  a  distributor  from  an  associated  enterprise  for  resale  to  independent 
+customers, one could not weight the net profit indicator against the cost of 
+goods sold because these costs are the controlled costs for which consistency 
+with  the  arm’s  length  principle  is  being  tested.  Similarly,  for  a  controlled 
+transaction consisting in the provision of services to an associated enterprise, 
+one  could  not  weight  the  net  profit  indicator  against  the  revenue  from  the 
+sale of services because these are the controlled sales for which consistency 
+with  the  arm’s  length  principle  is  being  tested.  Where  the  denominator  is 
+materially  affected  by  controlled  transaction  costs  that  are  not  the  object 
+of  the  testing  (such  as  head  office  charges,  rental  fees  or  royalties  paid  to 
+an  associated  enterprise),  caution  should  be  exercised  to  ensure  that  said 
+controlled  trans action  costs  do  not  materially  distort  the  analysis  and  in 
+particular that they are in accordance with the arm’s length principle.
+
+2.95.  The  denominator  should  be  one  that  is  capable  of  being  measured 
+in a reliable and consistent manner at the level of the taxpayer’s controlled 
+transactions. In addition, the appropriate base should be one that is capable 
+of  being  measured  in  a  reliable  and  consistent  manner  at  the  level  of  the 
+comparable uncontrolled transactions. This in practice limits the ability to 
+use  certain  indicators,  as  discussed  in  paragraph  2.105  below.  Further,  the 
+taxpayer’s  allocation  of  indirect  expenses  to  the  transaction  under  review 
+should be appropriate and consistent over time.
+
+B.3.4.1. Cases where the net profit is weighted to sales
+
+2.96.  A  net  profit  indicator  of  net  profit  divided  by  sales,  or  net  profit 
+margin, is frequently used to determine the arm’s length price of purchases 
+from  an  associated  enterprise  for  resale  to  independent  customers.  In 
+such  cases,  the  sales  figure  at  the  denominator  should  be  the  re-sales  of 
+items  purchased  in  the  controlled  transaction  under  review.  Sales  revenue 
+that  is  derived  from  uncontrolled  activities  (purchase  from  independent 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 123
+
+parties  for  re-sale  to  independent  parties)  should  not  be  included  in  the 
+determination  or  testing  of  the  remuneration  for  controlled  transactions, 
+unless  the  uncontrolled  transactions  are  such  that  they  do  not  materially 
+affect  the  comparison;  and/or  the  controlled  and  uncontrolled  transactions 
+are so closely linked that they cannot be evaluated adequately on a separate 
+basis.  One  example  of  the  latter  situation  can  sometimes  occur  in  relation 
+to  uncontrolled  after-sales  services  or  sales  of  spare  parts  provided  by  a 
+distributor to independent end-user customers where they are closely linked 
+to controlled purchase transactions by the distributor for resale to the same 
+independent end-user customers, for instance because the service activity is 
+performed using rights or other assets that are granted under the distribution 
+arrangement. See also discussion of portfolio approaches in paragraph 3.10.
+
+2.97.  One  question  that  arises  in  cases  where  the  net  profit  indicator  is 
+weighted against sales is how to account for rebates and discounts that may 
+be granted to customers by the taxpayer or the comparables. Depending on 
+the accounting standards, rebates and discounts may be treated as a reduction 
+of sales revenue or as an expense. Similar difficulties can arise in relation 
+to  foreign  exchange  gains  or  losses.  Where  such  items  materially  affect 
+the  comparison,  the  key  is  to  compare  like  with  like  and  follow  the  same 
+accounting principles for the taxpayer and for the comparables.
+
+B.3.4.2. Cases where the net profit is weighted to costs
+
+2.98.  Cost-based indicators should only be used in those cases where costs 
+are a relevant indicator of the value of the functions performed, assets used 
+and risks assumed by the tested party. In addition, the determination of what 
+costs should be included in the cost base should derive from a careful review 
+of  the  facts  and  circumstance

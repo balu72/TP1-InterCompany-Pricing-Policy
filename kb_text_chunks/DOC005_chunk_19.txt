@@ -1,0 +1,56 @@
+csr_sbox', 'ctl00_ctl25_ctl02_SmallSearchInputBox1_csr_sboxdiv', 'ctl00_ctl25_ctl02_SmallSearchInputBox1_csr_NavButton', 'ctl00_ctl25_ctl02_SmallSearchInputBox1_csr_AutoCompList', 'ctl00_ctl25_ctl02_SmallSearchInputBox1_csr_NavDropdownList', 'ctl00_ctl25_ctl02_SmallSearchInputBox1_csr_SearchLink', 'ms-srch-sbprogress', 'ms-srch-sb-prompt ms-helperText');
+                            }
+                        }, 'Search.ClientControls.js');//]]>
+ 
+ 
+         
+            
+         
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+         
+            if (jQuery) {
+                (function ($) {
+                    $(document).ready(function () {
+                        // initialize the megamenu
+                        $('.megamenu').show();
+                        $('.megamenu').accessibleMegaMenu();
+
+                        // hack so that the megamenu doesn't show flash of css animation after the page loads.
+                        setTimeout(function () {
+                            $('body').removeClass('init');
+                        }, 500);
+
+                    });
+                }(jQuery));
+            }
+         
+
+
+     

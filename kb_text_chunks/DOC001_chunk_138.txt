@@ -1,0 +1,85 @@
+ whether  functional  and  economic  analyses 
+are  still  accurate  and  relevant  and  to  confirm  the  validity  of  the  applied 
+transfer pricing methodology. In general, the master file, the local file and the 
+Country-by-Country Report should be reviewed and updated annually. It is 
+recognised, however, that in many situations business descriptions, functional 
+analyses, and descriptions of comparables may not change significantly from 
+year to year.
+
+5.38. 
+In order to simplify compliance burdens on taxpayers, tax administrations 
+may determine, as long as the operating conditions remain unchanged, that 
+the  searches  in  databases  for  comparables  supporting  part  of  the  local  file 
+be  updated  every  three  years  rather  than  annually.  Financial  data  for  the 
+comparables should nonetheless be updated every year in order to apply the 
+arm’s length principle reliably.
+
+D.6. Language
+
+5.39.  The  necessity  of  providing  documentation  in  local  language  may 
+constitute a complicating factor with respect to transfer pricing compliance 
+to  the  extent  that  substantial  time  and  cost  may  be  involved  in  translating 
+documents.  The  language  in  which  transfer  pricing  documentation  should 
+be  submitted  should  be  established  under  local  laws.  Jurisdictions  are 
+encouraged to permit filing of transfer pricing documentation in commonly 
+used  languages  where  it  will  not  compromise  the  usefulness  of  the 
+documents. Where tax administrations believe that translation of documents 
+is necessary, they should make specific requests for translation and provide 
+sufficient time to make such translation as comfortable a burden as possible.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER V: DOCUMENTATION – 237
+
+D.7. Penalties
+
+5.40.  Many jurisdictions have adopted documentation-related penalties to 
+ensure  efficient  operation  of  transfer  pricing  documentation  requirements. 
+They  are  designed  to  make  non-compliance  more  costly  than  compliance. 
+Penalty  regimes  are  governed  by  the  laws  of  each  individual  jurisdiction. 
+Practices among jurisdictions with regard to transfer pricing documentation-
+related penalties vary widely. The existence of different local penalty regimes 
+in different jurisdictions may influence the quality of taxpayers’ compliance 
+so that taxpayers could be driven to favour one jurisdiction over another in 
+their compliance practices.
+
+5.41.  Documentation-related penalties imposed for failure to comply with 
+transfer  pricing  documentation  requirements  or  failure  to  timely  submit 
+required information are usually civil (or administrative) monetary penalties. 
+These documentation-related penalties are based on a fixed amount that may 
+be assessed for each document missing or for each fiscal year under review, 
+or  calculated  as  a  percentage  of  the  related  tax  understatement  ultimately 
+determined,  a  percentage  of  the  related  adjustment  to  the  income,  or  as  a 
+percentage of the amount of the cross-border transactions not documented.
+
+5.42.  Care should be taken not to impose a documentation-related penalty on a 
+taxpayer for failing to submit data to which the MNE group did not have access. 
+However,  a  decision  not  to  impose  documentation-related  penalties  does  not 
+mean that adjustments cannot be made to income where prices are not consistent 
+with  the  arm’s  length  principle.  The  fact  that  positions  are  fully  documented 
+does not necessarily mean that the taxpayer’s positions are correct. Moreover, an 
+assertion by a local entity that other group members are responsible for transfer 
+pricing  compliance  is  not  a  sufficient  reason  for  that  entity  to  fail  to  provide 
+required documentation, nor should such an assertion prevent the imposition of 
+documentation-related penalties for failure to comply with documentation rules 
+where the necessary information is not forthcoming.
+
+5.43.  Another way for jurisdictions to encourage taxpayers to fulfil transfer 
+pricing documentation requirements is by designing compliance incentives 
+such  as  penalty  protection  or  a  shift  in  the  burden  of  proof.  Where  the 
+documentation meets the requirements and is timely submitted, the taxpayer 
+could  be  exempted  from  tax  penalties  or  subject  to  a  lower  penalty  rate  if 
+a  transfer  pricing  adjustment  is  made  and  sustained,  notwithstanding  the 
+provision of documentation. In some jurisdictions where the taxpayer bears 
+the burden of proof regarding transfer pricing matters, a shift of the burden 
+of  proof  to  the  tax  administration’s  side  where  adequate  documentation  is 
+provided on a timely basis offers another measure that could be used to create 
+an incentive for transfer pricing documentation compliance.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+238 – CHAPTER V: DOCUMENTATION
+
+D.8. Confidentiality
+
+5.44.  Tax  administrations  

@@ -1,0 +1,79 @@
+ould need to be 
+deduced from the conduct of the parties. For example, technical assistance 
+may have been granted, synergies may have been created through deliberate 
+concerted  action  (as  discussed  in  Section  D.8),  or  know-how  may  have 
+been  provided  through  seconded  employees  or  otherwise.  These  relations 
+may  not  have  been  recognised  by  the  MNE,  may  not  be  reflected  in  the 
+pricing  of  other  connected  transactions,  may  not  have  been  formalised  in 
+written contracts, and may not appear as entries in the accounting systems. 
+Where the transaction has not been formalised, all aspects would need to be 
+deduced from available evidence of the conduct of the parties, including what 
+functions  are  actually  performed,  what  assets  are  actually  used,  and  what 
+risks are actually assumed by each of the parties.
+
+1.50.  The  following  example  illustrates  the  concept  of  determining  the 
+actual transaction where a transaction has not been identified by the MNE. In 
+reviewing the commercial or financial relations between Company P and its 
+subsidiary companies, it is observed that those subsidiaries receive services 
+from an independent party engaged by Company P. Company P pays for the 
+services, the subsidiaries do not reimburse Company P directly or indirectly 
+through the pricing of another transaction and there is no service agreement 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+46 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+in place between Company P and the subsidiaries. The conclusion is that, in 
+addition to a provision of services by the independent party to the subsidiaries, 
+there  are  commercial  or  financial  relations  between  Company  P  and  the 
+subsidiaries, which transfer potential value from Company P to the subsid-
+iaries. The analysis would need to determine the nature of those commercial 
+or financial relations from the economically relevant characteristics in order to 
+determine the terms and conditions of the identified transaction.
+
+D.1.2. Functional analysis
+
+In transactions between two independent enterprises, compensation 
+1.51. 
+usually  will  reflect  the  functions  that  each  enterprise  performs  (taking 
+into  account  assets  used  and  risks  assumed).  Therefore,  in  delineating  the 
+controlled transaction and determining comparability between controlled and 
+uncontrolled transactions or entities, a functional analysis is necessary. This 
+functional  analysis  seeks  to  identify  the  economically  significant  activities 
+and responsibilities undertaken, assets used or contributed, and risks assumed 
+by  the  parties  to  the  transactions.  The  analysis  focuses  on  what  the  parties 
+actually do and the capabilities they provide. Such activities and capabilities 
+will  include  decision-making,  including  decisions  about  business  strategy 
+and risks. For this purpose, it may be helpful to understand the structure and 
+organisation of the MNE group and how they influence the context in which 
+the MNE operates. In particular, it is important to understand how value is 
+generated  by  the  group  as  a  whole,  the  interdependencies  of  the  functions 
+performed  by  the  associated  enterprises  with  the  rest  of  the  group,  and  the 
+contribution that the associated enterprises make to that value creation. It will 
+also be relevant to determine the legal rights and obligations of each of the 
+parties in performing their functions. While one party may provide a large 
+number  of  functions relative to that of the other party to the transaction,  it 
+is the economic significance of those functions in terms of their frequency, 
+nature, and value to the respective parties to the transactions that is important.
+
+1.52.  The actual contributions, capabilities, and other features of the parties 
+can  influence  the  options  realistically  available  to  them.  For  example,  an 
+associated  enterprise  provides  logistics  services  to  the  group.  The  logistics 
+company is required to operate warehouses with spare capacity and in several 
+locations in order to be able to cope in the event that supply is disrupted at any 
+one location. The option of greater efficiency through consolidation of locations 
+and reduction in excess capacity is not available. Its functions and assets may, 
+therefore,  be  different  to  those  of  an  independent  logistics  company  if  that 
+independent service provider did not offer the same capabilities to reduce the 
+risk of disruption to supply.
+
+1.53.  Therefore,  the  process  of  identifying  the  economically  relevant 
+characteristics  of  the  commercial  or  financial  relations  should  include 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 47
+
+consideration of the capabilities of the parties, how such capabilities affect 
+options realistically available, and whether similar capabilities are reflected 
+in potentially comparab

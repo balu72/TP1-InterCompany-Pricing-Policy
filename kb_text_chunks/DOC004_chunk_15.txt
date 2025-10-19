@@ -1,0 +1,90 @@
+ource: OECD 
+
+Where a Reporting MNE chooses to include information for the fiscal year of Constituent Entities ending 
+on the same date as the fiscal year of the Reporting MNE, or ending within the fiscal year of the Reporting 
+MNE, it should include in Table 3 the following explanations, if applicable. 
+
+• 
+
+• 
+
+Information  may  be  included  in  Table  1  for  more  than  one  12  month  fiscal  year  of  a  particular 
+Constituent Entity ending in the fiscal year of the Reporting MNE (e.g. in cases where the fiscal 
+year of the Reporting MNE is for a period in excess of 12 months). 
+
+If Table 1 includes information that relates to the fiscal year(s) of one or more Constituent Entities 
+that cover a period that  is  longer or shorter than the  fiscal year of the Reporting MNE, Table 3 
+should include one or more statements that “Table 1 includes information on [name of Constituent 
+Entity/Entities and residence jurisdictions] for the fiscal year [start date to end date of relevant fiscal 
+year]”.  
+
+If Table 1 does not include information on one or more Constituent Entities that do not have a fiscal year 
+ending in the fiscal year of the Reporting MNE, Table 3 should include a statement that “Table 1 does not 
+contain information on the following Constituent [Entity/Entities], which do not have a fiscal year ending in 
+the reporting fiscal year: [list of names of Constituent Entities and residence jurisdictions]”. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+32 |   
+
+Information with respect to the sources of data in Table 3 (November 2019) 
+
+4.1 What information should an MNE Group include in Table 3 with respect to the 
+sources of data used in preparing its CbC Report?  
+
+The general instructions for completion of the CbC report template provide, at page 32 of the BEPS Action 
+13 report, that a reporting  MNE should consistently use the same sources of data from year to year in 
+completing the CbC report template. The reporting MNE may choose to use data from its consolidation 
+reporting packages, from separate entity financial statements, regulatory financial statements, or internal 
+management accounts. The reporting MNE should also provide a brief description of the sources of data 
+used in preparing the template in Table 3. If a change is made to the source of data used from year to 
+year, the reporting MNE should explain the reasons for the change and its consequences. However, from 
+CbC reports filed to date, it appears that not all MNEs are providing this information, or the information 
+being  provided  is  insufficient  for  a  tax  administration  to  understand  the  different  data  sources  used  in 
+completing the CbC report.  
+
+This guidance clarifies that MNEs are required to provide a description of the sources of data used and, 
+while this may be brief, it should be sufficient to enable an understanding of the source of each item of 
+information in the CbC report. Where a general principle applies, this should be described together with 
+any  exceptions  that  exist.  Where  information  relevant  to  a  particular  jurisdiction  is  taken  from  different 
+sources of data, or where the sources of data used change over time, this must be explained.  
+
+As an illustrative example, Table 3 could include a statement that information has been obtained from the 
+MNE Group’s consolidation package with the exception of the following.  
+
+• 
+
+• 
+
+[Specified  items  for  jurisdictions  A,  B  and  C]  were  obtained  from  entity  financial  statements 
+prepared in accordance with local GAAP. 
+
+[Specified items for jurisdictions D, E and F] were obtained from regulatory financial statements 
+prepared in accordance with local law. 
+
+• 
+[Specified items for jurisdictions B, D and F] were obtained from internal management accounts. 
+•  Since the CbC report for [previous reporting fiscal year], the source of data used for [specified items 
+for  jurisdiction  D]  has  changed  from  [previous  source]  to  [current  source].  [Description  of  the 
+reasons and consequences of this change]. 
+
+Inclusive  Framework  members  should  implement  this  guidance  as  soon  as  possible,  taking  into  their 
+specific  domestic  circumstances,  but  it  is  recognised  that  time  may  be  needed  to  make  any  required 
+changes to domestic law or administrative guidance. During this short transitional period, taxpayers are 
+encouraged  to  include  voluntarily  in  Table  3  the  information  on  sources  of  data  used  set  out  in  this 
+guidance. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+  | 33 
+
+Common errors made by MNE groups in preparing CbC reports (November 2019)  
+
+5.1 What common errors have been made by MNE groups in preparing CbC reports?  
+
+CbC reports contain valuable information on the global allocation of the income, taxes paid and the location 
+of economic activity among tax

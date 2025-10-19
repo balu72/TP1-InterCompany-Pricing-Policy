@@ -1,0 +1,76 @@
+nufacturing, selling or service 
+activities comparable to the ones provided by the restructured affiliate. Given 
+the recent development of outsourcing activities, it may be possible in some 
+cases to find independent outsourcing transactions that provide a basis for using 
+the CUP method in order to determine the arm’s length remuneration of post-
+restructuring controlled transactions. This of course is subject to the condition 
+that the outsourcing transactions qualify as uncontrolled transactions and that 
+the review of the five economically relevant characteristics or comparability 
+factors  provides  sufficient  comfort  that  either  no  material  difference  exists 
+between the conditions of the uncontrolled outsourcing transactions and the 
+conditions  of  the  post-restructuring  controlled  trans actions,  or  that  reliable 
+enough adjustments can be made (and are effectively made) to eliminate such 
+differences.
+9.112.  Whenever a comparable is proposed, it is important to ensure that 
+a  comparability  analysis  of  the  controlled  and  uncontrolled  transactions  is 
+performed in order to identify material differences, if any, between them and, 
+where necessary and possible, to adjust for such differences. In particular, 
+the comparability analysis might reveal that the restructured entity continues 
+to  perform  valuable  and  significant  functions  and/or  the  presence  of  local 
+intangibles  and/or  of  economically  significant  risks  that  remain  in  the 
+“stripped”  entity  after  the  restructuring  but  are  not  found  in  the  proposed 
+comparables. See Section A on the possible differences between restructured 
+activities and start-up situations.
+9.113.  The identification of potential comparables has to be made with the 
+objective of finding the most reliable comparables data in the circumstances 
+of the case, keeping in mind the limitations that may exist in availability of 
+information and the compliance costs involved (see paragraphs 3.2 and 3.80). 
+It is recognised that the data will not always be perfect. There are also cases 
+where comparables data are not found, for instance where the restructuring 
+has  led  to  fragmentation  of  integrated  functions  across  several  group 
+companies in a way that is not found between unrelated parties. This does not 
+necessarily mean that the conditions of the controlled transaction as accurately 
+delineated are not arm’s length. Notwithstanding the difficulties that can arise 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+396 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+in the process of searching comparables, it is necessary to find a reasonable 
+solution to all transfer pricing cases. Following the guidance in paragraph 2.2, 
+even in cases where comparables data are scarce and imperfect, the choice of 
+the most appropriate transfer pricing method to the circumstances of the case 
+should be consistent with the nature of the controlled transaction, determined 
+in particular through a functional analysis.
+
+C.  Relationship between compensation for the restructuring and post-
+
+restructuring remuneration
+
+9.114.  There may in some circumstances be an important inter-relationship 
+between the compensation for the restructuring and an arm’s length reward 
+for operating the business post-restructuring. This can be the case where a 
+taxpayer  disposes  of  business  operations  to  an  associated  enterprise  with 
+which it must then transact business as part of those operations. One example 
+of such a relationship is found in paragraph 9.74 regarding outsourcing.
+
+9.115.  Another  example  would  be  where  a  taxpayer  that  operates  a 
+manufacturing  and  distribution  activity  restructures  by  disposing  of  its 
+distribution activity to a foreign associated enterprise to which the taxpayer will 
+in the future sell the goods it manufactures. The foreign associated enterprise 
+would expect to be able to earn an arm’s length reward for its investment in 
+acquiring  and  operating  the  business.  In  this  situation,  the  taxpayer  might 
+agree with the foreign associated enterprise to forgo receipt of part or all of the 
+up-front  compensation  for  the  business  that  may  be  payable  at  arm’s  length, 
+and instead obtain comparable financial benefit over time through selling its 
+goods  to  the  foreign  associated  enterprise  at  prices  that  are  higher  than  the 
+latter  would  otherwise  agree  to  if  the  up-front  compensation  had  been  paid. 
+Alternatively, the parties might agree to set an up-front compensation payment 
+for the restructuring that is partly offset through future lower transfer prices for 
+the manufactured products than would have been set otherwise. See Part I of this 
+chapter for a discussion of situations where compensation would be payable at 
+arm’s length for the restructuring itself.
+
+9.116. 
+In  other  words,  in  this  situation  where  the  taxpayer  will  have  an 
+ongoing business relation

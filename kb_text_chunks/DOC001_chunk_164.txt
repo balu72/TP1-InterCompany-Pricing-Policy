@@ -1,0 +1,83 @@
+dentified and taken into account in the comparability 
+analysis  of  the  transaction  consisting  in  the  sales  of  cars  by  the  car 
+manufacturer to its associated distributors, in selecting the most appropriate 
+transfer pricing method for the transactions, and in selecting the tested party. 
+The associated distributors purchasing the cars do not, however, acquire any 
+right in the manufacturer’s patents. In such a case, the patents are used in the 
+manufacturing and may affect the value of the cars, but the patents themselves 
+are not transferred.
+
+6.106.  As  another  example  of  the  use  of  intangibles  in  connection  with  a 
+controlled transaction, assume that an exploration company has acquired or 
+developed valuable geological data and analysis, and sophisticated exploratory 
+software  and  know-how.  Assume  further  that  it  uses  those  intangibles  in 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+280 – CHAPTER VI: INTANGIBLES
+
+providing exploration services to an associated enterprise. Those intangibles 
+should be identified and taken into account in the comparability analysis of 
+the service transactions between the exploration company and the associated 
+enterprise, in selecting the most appropriate transfer pricing method for the 
+transaction,  and  in  selecting  the  tested  party.  Assuming  that  the  associated 
+enterprise  of  the  exploration  company  does  not  acquire  any  rights  in  the 
+exploration company’s intangibles, the intangibles are used in the performance 
+of the services and may affect the value of services, but are not transferred.
+
+D.  Supplemental guidance for determining arm’s length conditions in 
+
+cases involving intangibles
+
+6.107.  After  identifying  the  relevant  transactions  involving  intangibles, 
+specifically  identifying  the  intangibles  involved  in  those  transactions, 
+identifying  which  entity  or  entities  legally  own  the  intangibles  as  well  as 
+those  that  contribute  to  the  value  of  the  intangibles,  it  should  be  possible  to 
+identify  arm’s  length  conditions  for  the  relevant  transactions.  The  principles 
+set out in Chapters I-III of these Guidelines should be applied in determining 
+arm’s  length  conditions  for  transactions  involving  intangibles.  In  particular, 
+the recommended nine-step process set out in paragraph 3.4 can be helpful in 
+identifying arm’s length conditions for transactions involving intangibles. As an 
+essential part of applying the principles of Chapter III to conduct a comparability 
+analysis under the process described in paragraph 3.4, the principles contained 
+in Sections A, B, and C of this Chapter VI should be considered.
+
+6.108.  However, the principles of Chapters I-III can sometimes be difficult 
+to  apply  to  controlled  transactions  involving  intangibles.  Intangibles  may 
+have special characteristics that complicate the search for comparables, and in 
+some cases make pricing difficult to determine at the time of the transaction. 
+Further,  for  wholly  legitimate  business  reasons,  due  to  the  relationship 
+between  them,  associated  enterprises  might  sometimes  structure  a  trans-
+action involving intangibles in a manner that independent enterprises would 
+not contemplate. See paragraph 1.11. The use or transfer of intangibles may 
+raise challenging issues regarding comparability, selection of transfer pricing 
+methods, and determination of arm’s length conditions for transactions. This 
+Section D provides supplemental guidance for use in applying the principles 
+of  Chapters  I-III  to  determine  arm’s  length  conditions  for  controlled 
+transactions involving intangibles.
+
+6.109.  Section  D.1  provides  general  supplemental  guidance  related  to  all 
+transactions involving intangibles. Section D.2 provides supplemental guidance 
+specifically  related  to  transactions  involving  the  transfer  of  intangibles  or 
+rights  in  intangibles.  Section  D.3  provides  supplemental  guidance  regarding 
+transfers of intangibles or rights in intangibles whose value is highly uncertain 
+at  the  time  of  the  transfer.  Section  D.4  provides  an  approach  to  pricing 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 281
+
+hard-to-value  intangibles.  Section  D.5  provides  supplemental  guidance 
+applicable to transactions involving the use of intangibles in connection with 
+the sale of goods or the provision of services in situations where there is no 
+transfer of rights in the intangibles.
+
+D.1. General principles applicable in transactions involving intangibles
+
+6.110.  Section  D  of  Chapter  I  and  Chapter  III  contain  principles  to  be 
+considered  and  a  recommended  process  to  be  followed  in  conducting  a 
+comparability  analysis.  The  principles  described  in  those  sections  of  the 
+Guidelines apply to all controlled transactions involving intangibles.
+
+6.111. 
+In applying the principles of the Gui

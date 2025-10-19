@@ -1,0 +1,90 @@
+ciated  enterprise  for  a  lump  sum 
+payment.
+
+•  The intangible is either used in connection with or developed under a 
+
+CCA or similar arrangements.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 305
+
+6.191.  For  such  intangibles,  information  asymmetry  between  taxpayer 
+and tax administrations, including what information the taxpayer took into 
+account in determining the pricing of the transaction, may be acute and may 
+exacerbate the difficulty encountered by tax administrations in verifying the 
+arm’s length basis on which pricing was determined for the reasons discussed 
+in paragraph 6.186. As a result, it will prove difficult for a tax administration 
+to  perform  a  risk  assessment  for  transfer  pricing  purposes,  to  evaluate 
+the  reliability  of  the  information  on  which  pricing  has  been  based  by  the 
+taxpayer, or to consider whether the intangible or rights in intangibles have 
+been  transferred  at  undervalue  or  overvalue  compared  to  the  arm’s  length 
+price, until ex post outcomes are known in years subsequent to the transfer.
+
+6.192.  In these circumstances, the tax administration can consider ex post 
+outcomes as presumptive evidence about the appropriateness of the ex ante 
+pricing arrangements. However, the consideration of ex post evidence should 
+be  based  on  a  determination  that  such  evidence  is  necessary  to  be  taken 
+into  account  to  assess  the  reliability  of  the  information  on  which  ex  ante 
+pricing  has  been  based.  Where  the  tax  administration  is  able  to  confirm 
+the reliability of the information on which ex ante pricing has been based, 
+notwithstanding  the  approach  described  in  this  section,  then  adjustments 
+based on ex post profit levels should not be made. In evaluating the ex ante 
+pricing  arrangements,  the  tax  administration  is  entitled  to  use  the  ex  post 
+evidence about financial outcomes to inform the determination of the arm’s 
+length pricing arrangements, including any contingent pricing arrangements, 
+that would have been made between independent enterprises at the time of 
+the  transaction,  considering  the  guidance  in  paragraph  6.185.  Depending 
+on the facts and circumstances of the case and considering the guidance in 
+Section B.5 of Chapter III, a multi-year analysis of the information for the 
+application of this approach may be appropriate.
+
+6.193.  This approach will not apply to transactions involving the transfer or 
+use of HTVI falling within the scope of paragraph 6.189, when at least one of 
+the following exemptions applies:
+
+i)  The taxpayer provides:
+
+1.  Details of the  ex ante projections used at the time of the transfer 
+to  determine  the  pricing  arrangements,  including  how  risks  were 
+accounted for in calculations to determine the price (e.g. probability-
+weighted), and the appropriateness of its consideration of reasonably 
+foreseeable events and other risks, and the probability of occurrence; 
+and,
+
+2.  Reliable  evidence  that  any  significant  difference  between  the 
+financial projections and actual outcomes is due to: a) unforeseeable 
+developments  or  events  occurring  after  the  determination  of 
+the  price  that  could  not  have  been  anticipated  by  the  associated 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+306 – CHAPTER VI: INTANGIBLES
+
+enterprises at the time of the transaction; or b) the playing out 
+of  probability  of  occurrence  of  foreseeable  outcomes,  and  that 
+these  probabilities  were  not  significantly  overestimated  or 
+underestimated at the time of the transaction;
+
+ii)  The  transfer  of  the  HTVI  is  covered  by  a  bilateral  or  multilateral 
+advance  pricing  arrangement  in  effect  for  the  period  in  question 
+between the jurisdictions of the transferee and the transferor.
+
+iii)  Any  significant  difference  between  the  financial  projections  and 
+actual outcomes mentioned in i)2 above does not have the effect of 
+reducing or increasing the compensation for the HTVI by more than 
+20% of the compensation determined at the time of the transaction.
+
+iv)  A commercialisation period of five years has passed following the 
+year in which the HTVI first generated unrelated party revenues for 
+the transferee and in which commercialisation period any significant 
+difference  between  the  financial  projections  and  actual  outcomes 
+mentioned in i)2 above was not greater than 20% of the projections 
+for that period.7
+
+6.194.  The first exemption means that, although the ex post evidence about 
+financial  outcomes  provides  relevant  information  for  tax  administrations 
+to  consider  the  appropriateness  of  the  ex  ante  pricing  arrangements,  in 
+circumstances  where  the  taxpayer  can  satisfactorily  demonstrate  what 
+was  foreseeable  at  the  time  of  the  transaction  and  reflected  in  the  pricing 
+assumptions,  and  that  the  developments  leading  to  the  differe

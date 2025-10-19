@@ -1,0 +1,95 @@
+nning after 1 January 2016. 
+It follows from this recommendation that the jurisdictions participating in the 
+OECD/G20 BEPS Project agree that they will not require filing of a Country-
+by-Country Report based on the new template for MNE fiscal years beginning 
+prior  to  1  January  2016.  The  MNE  fiscal  year  relates  to  the  consolidated 
+reporting period for financial statement purposes and not to taxable years or 
+to the financial reporting periods of individual subsidiaries.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+240 – CHAPTER V: DOCUMENTATION
+
+E.2.2.  Which MNE groups should be required to file the Country-by-
+
+Country Report?
+
+It  is  recommended  that  all  MNE  groups  be  required  to  file  the 
+
+5.51. 
+Country-by-Country Report each year except as follows.
+
+5.52.  There  would  be  an  exemption  from  the  general  filing  requirement 
+for MNE groups with annual consolidated group revenue in the immediately 
+preceding  fiscal  year  of  less  than  EUR  750  million  or  a  near  equivalent 
+amount  in  domestic  currency  as  of  January  2015.  Thus,  for  example,  if 
+an  MNE  that  keeps  its  financial  accounts  on  a  calendar  year  basis  has 
+EUR 625 million in consolidated group revenue for its 2015 calendar year, 
+it  would  not  be  required  to  file  the  Country-by-Country  Report  in  any 
+jurisdiction with respect to its fiscal year ending 31 December 2016.
+
+5.53. 
+It  is  believed  that  the  exemption  described  in  paragraph  52,  which 
+provides a threshold of EUR 750 million, will exclude approximately 85 to 
+90% of MNE groups from the requirement to file the Country-by-Country 
+Report,  but  that  the  Country-by-Country  Report  will  nevertheless  be  filed 
+by MNE groups controlling approximately 90% of corporate revenues. The 
+prescribed exemption threshold therefore represents an appropriate balancing 
+of reporting burden and benefit to tax administrations.
+
+5.54. 
+It is the intention of the jurisdictions participating in the OECD/G20 
+BEPS  Project  to  reconsider  the  appropriateness  of  the  applicable  revenue 
+threshold described in the preceding paragraph in connection with their 2020 
+review of implementation of the new standard, including whether additional 
+or different data should be reported.
+
+5.55. 
+It  is  considered  that  no  exemptions  from  filing  the  Country-by-
+Country  Report  should  be  adopted  apart  from  the  exemptions  outlined 
+in  this  section.  In  particular,  no  special  industry  exemptions  should  be 
+provided,  no  general  exemption  for  investment  funds  should  be  provided, 
+and no exemption for non-corporate entities or non-public corporate entities 
+should  be  provided.  Notwithstanding  this  conclusion,  MNE  groups  with 
+income derived from international transportation or transportation in inland 
+waterways  that  is  covered  by  treaty  provisions  that  are  specific  to  such 
+income  and  under  which  the  taxing  rights  on  such  income  are  allocated 
+exclusively  to  one  jurisdiction,  should  include  the  information  required  by 
+the Country-by-Country Report template with respect to such income only 
+against the name of the jurisdiction to which the relevant treaty provisions 
+allocate these taxing rights.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER V: DOCUMENTATION – 241
+
+E.2.3.  Necessary conditions underpinning the obtaining and the use 
+
+of the Country-by-Country Report
+
+5.56.  The following conditions underpin the obtaining and the use of the 
+Country-by-Country Report.
+
+Confidentiality
+5.57. 
+Jurisdictions  should  have  in  place  and  enforce  legal  protections 
+of  the  confidentiality  of  the  reported  information.  Such  protections  would 
+preserve the confidentiality of the Country-by-Country Report to an extent 
+at  least  equivalent  to  the  protections  that  would  apply  if  such  information 
+were  delivered  to  the  jurisdiction  under  the  provisions  of  the  Multilateral 
+Convention  on  Mutual  Administrative  Assistance  in  Tax  Matters,  a  Tax 
+Information  Exchange  Agreement  (TIEA)  or  a  tax  treaty  that  meets  the 
+internationally agreed standard of information upon request as reviewed by 
+the  Global  Forum  on  Transparency  and  Exchange  of  Information  for  Tax 
+Purposes. Such protections include limitation of the use of information, rules 
+on the persons to whom the information may be disclosed, ordre public, etc.
+
+Consistency
+5.58. 
+Jurisdictions should use their best efforts to adopt a legal requirement 
+that MNE groups’ ultimate parent entities resident in their jurisdiction prepare 
+and  file  the  Country-by-Country  Report,  unless  exempted  as  set  out  in 
+paragraph  5.52.  Jurisdictions  should  utilise  the  standard  template  contained 
+in Annex III of Chapter V of these Guidelines. Stated otherwise, under this 
+condition  no  jurisdiction  will  require  that  the  Country-by-Country  Report 
+contain ei

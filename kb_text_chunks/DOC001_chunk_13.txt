@@ -1,0 +1,81 @@
+ing tax liabilities of associated enterprises is authorised under 
+Article 9 of the OECD Model Tax Convention (see paragraph 2 of the 
+Commentary on Article 9); and
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+32 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+•  A  determination  of  the  profits  which  would  have  accrued  at  arm’s 
+length,  in  order  to  determine  the  quantum  of  any  re-writing  of 
+accounts.
+
+1.8. 
+There  are  several  reasons  why  OECD  member  countries  and  other 
+jurisdictions have adopted the arm’s length principle. A major reason is that the 
+arm’s length principle provides broad parity of tax treatment for members of 
+MNE groups and independent enterprises. Because the arm’s length principle 
+puts associated and independent enterprises on a more equal footing for tax 
+purposes, it avoids the creation of tax advantages or disadvantages that would 
+otherwise distort the relative competitive positions of either type of entity. In so 
+removing these tax considerations from economic decisions, the arm’s length 
+principle promotes the growth of international trade and investment.
+
+1.9. 
+The arm’s length principle has also been found to work effectively in 
+the vast majority of cases. For example, there are many cases involving the 
+purchase and sale of commodities and the lending of money where an arm’s 
+length price may readily be found in a comparable transaction undertaken by 
+comparable independent enterprises under comparable circumstances. There 
+are also many cases where a relevant comparison of transactions can be made 
+at the level of financial indicators such as mark-up on costs, gross margin, or 
+net profit indicators. Nevertheless, there are some significant cases in which 
+the arm’s length principle is difficult and complicated to apply, for example, 
+in  MNE  groups  dealing  in  the  integrated  production  of  highly  specialised 
+goods, in unique intangibles, and/or in the provision of specialised services. 
+Solutions  exist  to  deal  with  such  difficult  cases,  including  the  use  of  the 
+transactional  profit  split  method  described  in  Chapter  II,  Part  III  of  these 
+Guidelines in those situations where it is the most appropriate method in the 
+circumstances of the case.
+
+1.10.  The arm’s length principle is viewed by some as inherently flawed 
+because  the  separate  entity  approach  may  not  always  account  for  the 
+economies of scale and interrelation of diverse activities created by integrated 
+businesses.  There  are,  however,  no  widely  accepted  objective  criteria  for 
+allocating between associated enterprises the economies of scale or benefits 
+of  integration  resulting  from  group  membership.  The  issue  of  possible 
+alternatives to the arm’s length principle is discussed in Section C below.
+
+1.11.  A  practical  difficulty  in  applying  the  arm’s  length  principle  is  that 
+associated enterprises may engage in transactions that independent enterprises 
+would  not  undertake.  Such  transactions  may  not  necessarily  be  motivated 
+by  tax  avoidance  but  may  occur  because  in  transacting  business  with  each 
+other, members of an MNE group face different commercial circumstances 
+than would independent enterprises. Where independent enterprises seldom 
+undertake transactions of the type entered into by associated enterprises, the 
+arm’s length principle is difficult to apply because there is little or no direct 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 33
+
+evidence  of  what  conditions  would  have  been  established  by  independent 
+enterprises.  The  mere  fact  that  a  transaction  may  not  be  found  between 
+independent parties does not of itself mean that it is not arm’s length.
+
+1.12. 
+In  certain  cases,  the  arm’s  length  principle  may  result  in  an 
+administrative  burden  for  both  the  taxpayer  and  the  tax  administrations  of 
+evaluating significant numbers and types of cross-border transactions. Although 
+associated  enterprises  normally  establish  the  conditions  for  a  transaction  at 
+the  time  it  is  undertaken,  at  some  point  the  enterprises  may  be  required  to 
+demonstrate  that  these  are  consistent  with  the  arm’s  length  principle.  (See 
+discussion of timing and compliance issues in Sections B and C of Chapter III 
+and at Chapter V on Documentation). The tax administration may also have to 
+engage in this verification process perhaps some years after the transactions have 
+taken place. The tax administration would review any supporting documentation 
+prepared  by  the  taxpayer  to  show  that  its  transactions  are  consistent  with  the 
+arm’s length principle, and may also need to gather information about comparable 
+uncontrolled transactions, the market conditions at the time the transactions took 
+place, etc., for numerous and varied transactions. Such an undertaking usually 
+becomes more difficult with the

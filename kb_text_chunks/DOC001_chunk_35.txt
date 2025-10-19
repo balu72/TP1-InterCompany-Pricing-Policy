@@ -1,0 +1,74 @@
+ntrolled by Company A, Company A should be allocated the 
+risk of under-utilisation. This means that the financial consequences related 
+to the materialisation of that risk including failure to cover fixed costs, write-
+downs, or closure costs should be allocated to Company A.
+
+1.103.  The consequences of risk allocation in Example 3 in paragraph 1.85 
+depend  on  analysis  of  functions  under  step  3.  Company  A  does  not  have 
+control over the economically significant risks associated with the investment 
+in  and  exploitation  of  the  asset,  and  those  risks  should  be  aligned  with 
+control  of  those  risks  by  Companies  B  and  C.  The  functional  contribution 
+of  Company  A  is  limited  to  providing  financing  for  an  amount  equating 
+to  the  cost  of  the  asset  that  enables  the  asset  to  be  created  and  exploited 
+by  Companies  B  and  C.  However,  the  functional  analysis  also  provides 
+evidence that Company A has no capability and authority to control the risk 
+of  investing  in  a  financial  asset.  Company  A  does  not  have  the  capability 
+to  make  decisions  to  take  on  or  decline  the  financing  opportunity,  or  the 
+capability  to  make  decisions  on  whether  and  how  to  respond  to  the  risks 
+associated  with  the  financing  opportunity.  Company  A  does  not  perform 
+functions  to  evaluate  the  financing  opportunity,  does  not  consider  the 
+appropriate  risk  premium  and  other  issues  to  determine  the  appropriate 
+pricing of the financing opportunity, and does not evaluate the appropriate 
+protection  of  its  financial  investment.  In  the  circumstances  of  Example  3, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+66 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+Company A would not be entitled to any more than a risk-free return2 as an 
+appropriate  measure  of  the  profits  it  is  entitled  to  retain,  since  it  lacks  the 
+capability to control the risk associated with investing in a riskier financial 
+asset. The risk will be allocated to the enterprise which has control and the 
+financial capacity to assume the risk associated with the financial asset. In 
+the circumstances of example, this would be Company B. Company A does 
+not  control  the  investment  risk  that  carries  a  potential  risk  premium.  An 
+assessment may be necessary of the commercial rationality of the transaction 
+based on the guidance in Section D.2 taking into account the full facts and 
+circumstances of the transaction.
+
+1.104.  Guidance on the relationship between risk assumption in relation to the 
+provision of funding and the operational activities for which the funds are used 
+is given in paragraphs 6.60-6.64. The concepts reflected in these paragraphs 
+are equally applicable to investments in assets other than intangibles.
+
+1.105.  A party should always be appropriately compensated for its control 
+functions  in  relation  to  risk.  Usually,  the  compensation  will  derive  from 
+the  consequences  of  being  allocated  risk,  and  therefore  that  party  will  be 
+entitled  to  receive  the  upside  benefits  and  to  incur  the  downside  costs.  In 
+circumstances  where  a  party  contributes  to  the  control  of  risk,  but  does 
+not  assume  the  risk,  compensation  which  takes  the  form  of  a  sharing  in 
+the potential upside and downside, commensurate with that contribution to 
+control, may be appropriate.
+
+1.106.  The  difference  between  ex  ante  and  ex  post  returns  discussed 
+in  particular  in  Section  D  of  Chapter  VI  arises  in  large  part  from  risks 
+associated  with  the  uncertainty  of  future  business  outcomes.  As  discussed 
+in paragraph 1.78 the ex ante contractual assumption of risk should provide 
+clear evidence of a commitment to assume risk prior to the materialisation of 
+risk outcomes. Following the steps in this section, the transfer pricing analysis 
+will  determine  the  accurate  delineation  of  the  transaction  with  respect  to 
+risk, including the risk associated with unanticipated returns. A party which, 
+under  these  steps,  does  not  assume  the  risk,  nor  contributes  to  the  control 
+of that risk, will not be entitled to unanticipated profits (or required to bear 
+unanticipated losses) arising from that risk. In the circumstances of Example 3 
+(see paragraph 1.85), this would mean that neither unanticipated profits nor 
+unanticipated losses will be allocated to Company A. Accordingly, if the asset 
+in Example 3 were unexpectedly destroyed, resulting in an unanticipated loss, 
+that  loss  would  be  allocated  for  transfer  pricing  purposes  to  the  company 
+or  companies  that  control  the  investment  risk,  contribute  to  the  control  of 
+that risk and have the financial capacity to assume that risk, and that would 
+
+2. 
+
+Company  A  could  potentially  be  entitled  to  less  than  a  risk-free  return  if,  for 
+example, the transaction is disregarded under S

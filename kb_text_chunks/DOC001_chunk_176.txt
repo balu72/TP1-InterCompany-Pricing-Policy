@@ -1,0 +1,89 @@
+tes utilised in the valuation model.
+
+6.171.  There  is  no  single  measure  for  a  discount  rate  that  is  appropriate 
+for  transfer  pricing  purposes  in  all  instances.  Neither  taxpayers  nor  tax 
+administrations  should  assume  that  a  discount  rate  that  is  based  on  a 
+Weighted Average Cost of Capital (WACC) approach or any other measure 
+should always be used in transfer pricing analyses where determination of 
+appropriate discount rates is important. Instead the specific conditions and 
+risks associated with the facts of a given case and the particular cash flows 
+in question should be evaluated in determining the appropriate discount rate.
+
+6.172.  It should be recognised in determining and evaluating discount rates 
+that  in  some  instances,  particularly  those  associated  with  the  valuation  of 
+intangibles  still  in  development,  intangibles  may  be  among  the  most  risky 
+components of a taxpayer’s business. It should also be recognised that some 
+businesses are inherently more risky than others and some cash flow streams 
+are inherently more volatile than others. For example, the likelihood that a 
+projected level of research and development expense will be incurred may be 
+higher than the likelihood that a projected level of revenues will ultimately 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 299
+
+be generated. The discount rate or rates should reflect the level of risk in the 
+overall  business  and  the  expected  volatility  of  the  various  projected  cash 
+flows under the circumstances of each individual case.
+
+6.173.  Since  certain  risks  can  be  taken  into  account  either  in  arriving  at 
+financial projections or in calculating the discount rate, care should be taken 
+to avoid double discounting for risk.
+
+D.2.6.4.4. Useful life of intangibles and terminal values
+
+6.174.  Valuation  techniques  are  often  premised  on  the  projection  of  cash 
+flows derived from the exploitation of the intangible over the useful life of the 
+intangible in question. In such circumstances, the determination of the actual 
+useful life of the intangible will be one of the critical assumptions supporting 
+the valuation model.
+
+6.175.  The  projected  useful  life  of  particular  intangibles  is  a  question  to 
+be  determined  on  the  basis  of  all  of  the  relevant  facts  and  circumstances. 
+The useful life of a particular intangible can be affected by the nature and 
+duration of the legal protections afforded the intangible. The useful life of 
+intangibles also may be affected by the rate of technological change in the 
+industry, and by other factors affecting competition in the relevant economic 
+environment. See paragraphs 6.121 and 6.122.
+
+6.176. 
+In some circumstances, particular intangibles may contribute to the 
+generation of cash flow in years after the legal protections have expired or 
+the  products  to  which  they  specifically  relate  have  ceased  to  be  marketed. 
+This can be the case in situations where one generation of intangibles forms 
+the  base  for  the  development  of  future  generations  of  intangibles  and  new 
+products.  It  may  well  be  that  some  portion  of  continuing  cash  flows  from 
+projected  new  products  should  properly  be  attributed  to  otherwise  expired 
+intangibles where such follow on effects exist. It should be recognised that, 
+while  some  intangibles  have  an  indeterminate  useful  life  at  the  time  of 
+valuation, that fact does not imply that non-routine returns are attributable to 
+such intangibles in perpetuity.
+
+6.177. 
+In  this  regard,  where  specific  intangibles  contribute  to  continuing 
+cash  flows  beyond  the  period  for  which  reasonable  financial  projections 
+exist, it will sometimes be the case that a terminal value for the intangible 
+related cash flows is calculated. Where terminal values are used in valuation 
+calculations, the assumptions underlying their calculation should be clearly 
+set out and the underlying assumptions thoroughly examined, particularly the 
+assumed growth rates.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+300 – CHAPTER VI: INTANGIBLES
+
+D.2.6.4.5. Assumptions regarding taxes
+
+6.178.  Where  the  purpose  of  the  valuation  technique  is  to  isolate  the 
+projected  cash  flows  associated  with  an  intangible,  it  may  be  necessary  to 
+evaluate  and  quantify  the  effect  of  projected  future  income  taxes  on  the 
+projected cash flows. Tax effects to be considered include: (i) taxes projected 
+to be imposed on future cash flows, (ii) tax amortisation benefits projected to 
+be available to the transferee, if any, and (iii) taxes projected to be imposed on 
+the transferor as a result of the transfer, if any.
+
+D.2.7. Form of payment
+
+6.179.  Taxpayers have substantial discretion in defining the form of payment 
+for  transferred  intangibles.  In  transactions  between  independent  parties, 
+it  is  common  to

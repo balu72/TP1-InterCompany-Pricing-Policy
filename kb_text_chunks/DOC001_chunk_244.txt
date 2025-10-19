@@ -1,0 +1,83 @@
+into  account  in  determining  an  interest  rate  to 
+charge. Credit ratings can serve as a useful measure of creditworthiness and 
+therefore help to identify potential comparables or to apply economic models 
+in the context of related party transactions. Furthermore, in the case of intra-
+group loans and other financial instruments that are the subject of controlled 
+transactions,  the  effect  of  group  membership  may  be  an  economically 
+relevant  factor  that  affects  the  pricing  of  these  instruments.  Accordingly, 
+this subsection elaborates on the use of credit ratings and the effect of group 
+membership in the context of pricing intra-group loans. Where appropriate, 
+reference to this subsection will be made in other parts of this guidance.
+
+10.63.  Credit  ratings  can  be  determined  for  the  overall  creditworthiness  of 
+an MNE or MNE group4 or for a specific issuance of debt. As detailed in the 
+following  paragraphs,  determining  credit  ratings  requires  consideration  of 
+quantitative – e.g. financial information – and qualitative factors – e.g. industry 
+and jurisdiction in which the MNE or MNE group operates.
+
+C.1.1.2.1. The credit rating of an MNE or MNE group
+
+10.64.  The credit rating of an MNE or MNE group (usually referred to as 
+the “issuer credit rating”) is an opinion about its general creditworthiness. 
+Such an opinion is usually premised on the MNE or MNE group’s capacity 
+and  willingness  to  meet  its  financial  obligations  in  accordance  with  the 
+terms of those obligations. The credit rating of an MNE or MNE group is 
+effectively a form of relative ranking of the creditworthiness in comparison 
+
+4. 
+
+For the purpose of this guidance, the credit rating of an MNE group is intended 
+to  refer  to  the  credit  rating  of  the  ultimate  parent  entity  of  the  MNE  group 
+calculated on consolidated financial statements.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+416 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+to other borrowers. In general, a lower credit rating will indicate a greater 
+risk of default and be expected to result in a higher rate of return for lenders.
+
+10.65.  Information  is  readily  available  in  many  lending  markets  on  the 
+different rates of interest charged for differently rated enterprises and such 
+information may usefully contribute to performing comparability analyses. 
+Financing  transactions  that  the  borrowing  MNE  or  another  MNE  within 
+the  group  has  with  external  lenders  may  also  be  reliable  comparables  for 
+interest  rates  charged  by  associated  enterprises  (see  paragraphs  10.94 
+and  10.95).  Financing  transactions  undertaken  by  the  borrowing  MNE  or 
+another entity in the MNE group, for example the MNE group parent, will 
+be reliable comparables only where the differences between the controlled 
+and  uncontrolled  transactions  do  not  materially  affect  the  interest  rate  or 
+reasonably accurate adjustments can be made.
+
+10.66.  As  a  credit  rating  depends  on  a  combination  of  quantitative  and 
+qualitative factors, there is still likely to be some variance in creditworthiness 
+between  borrowers  with  the  same  credit  rating.  In  addition,  when  making 
+comparisons between borrowers using the kind of financial metrics typically 
+seen as important to lenders, such as debt-earnings or debt-equity ratios, it is 
+important to note that the same financial metrics will not necessarily result 
+in  the  same  credit  rating  if  there  are  other  differences  between  the  rated 
+parties.  For  example,  it  may  require  stronger  financial  metrics  to  obtain  a 
+given rating in some industries than to obtain the same rating for a borrower 
+in  other  industries.  More  intrinsically  risky  industries  and  those  with  less 
+stable revenue streams tend to require better financial ratios in order to obtain 
+the same rating.
+
+10.67.  There may be special circumstances, such as in the case of start-up 
+entities, or those that have recently been part of a merger, that may have an 
+impact on the credit rating of a group entity. These special situations should 
+be taken into consideration.
+
+10.68.  It  is  important  that  the  MNE  group  appropriately  documents  the 
+reasons and selection of the credit rating used for a particular MNE when 
+pricing intra-group loans and other controlled financial transactions.
+
+C.1.1.2.2. The credit rating of a specific debt issuance
+
+10.69.  The credit rating of a particular debt issuance (“issue rating”) is an 
+opinion  about  the  creditworthiness  of  the  issuer  with  respect  to  a  specific 
+financial  instrument.  The  issue  rating  considers  specific  features  of  the 
+financial instrument, for instance, guarantees, securities and level of seniority.
+
+10.70.  The credit rating of an MNE or MNE group may differ from an issue 
+rating due to the fact that the credit risk of a financial instrument is linked to 
+its specific features and no

@@ -1,0 +1,64 @@
+n  of  tax  residence  of  the  UPE  that  has  been 
+notified by the tax administration in the local jurisdiction to the Constituent Entity resident for tax 
+purposes in that jurisdiction.  
+
+The first of these conditions applies if the tax jurisdiction where the UPE of an MNE group is resident has 
+not  introduced  a  requirement  for  a  CbC  report  to  be  filed.  It  also  applies  where  the  jurisdiction  has 
+introduced a requirement for a CbC report to be filed but this is not in accordance with the BEPS Action 13 
+minimum standard (including taking into account interpretative guidance) and, as a result, the UPE of an 
+MNE group is not obligated to file a CbC report in that jurisdiction.  
+
+Where the tax residence jurisdiction of the UPE of an MNE group does not require a CbC report to be filed, 
+and  this  is  in  accordance  with  the  BEPS  Action  13  minimum  standard  (including  taking  into  account 
+interpretative  guidance),  the  first  condition  is  not  met.  In  this  case,  local  filing  is  not  accepted  and 
+jurisdictions cannot under the minimum standard require Constituent Entities to file a CbC report under 
+local filing rules. 
+
+4.2 In applying local filing, should a jurisdiction accept a CbC report containing 
+information as prepared for filing in the Ultimate Parent Entity jurisdiction?  
+
+The BEPS Action 13 report includes a template and definitions to be used by jurisdictions in implementing 
+a  CbC  reporting  obligation,  supported  by  subsequent  interpretative  guidance.  Consistency  with  the 
+minimum standard is monitored through the BEPS Action 13 peer review process. As such, CbC reports 
+prepared  in  accordance  with  the  laws  in  different  jurisdictions  should  contain  substantially  consistent 
+information. However, there may be cases where differences do exist in the information that must or may 
+be included in a CbC report under the laws of two jurisdictions, and both are in accordance with the BEPS 
+Action 13 minimum standard (e.g. where a different language is to be used, a different level of reasonable 
+rounding is permitted in preparing Table 1, or where information on the addresses and tax identification 
+numbers of Constituent Entities is required to be provided in Table 2 by one jurisdiction but not the other).  
+
+Where the UPE of an MNE files a CbC report, and Constituent Entities of the MNE are also subject to local 
+filing, jurisdictions applying local filing are encouraged to consider flexibility in allowing the MNE to file a 
+CbC  report  containing  the  information  included  in  the  CbC  report  filed  in  the  UPE  jurisdiction.  In  many 
+cases, this would simply mean that the jurisdiction applying local filing would receive the same information 
+as if it had obtained the CbC report under exchange of information. In all cases, a CbC report filed in a 
+jurisdiction should be in a format required or permitted in that jurisdiction. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+40 |   
+
+4.3 Should local filing be required no earlier than 12 months after the end of the MNE 
+group’s reporting fiscal year?  
+
+Paragraph 31 of BEPS Action 13 report states that “the deadline for filing a CbC report by the UPE of the 
+MNE group may be extended to one year following the last day of the reporting fiscal year of the UPE of 
+the MNE Group.” This takes into account the fact that the necessary financial information to prepare a CbC 
+report might not be available until after the due date for filing a tax return for a given fiscal year. However, 
+the report remains silent on the deadline for filing CbC reports in the case of local filing. In practice, many 
+jurisdictions apply the same deadline for the filing of CbC reports by UPEs and for local filing. This raises 
+two important issues, in particular where the filing deadline applied in a jurisdiction is earlier than 12 months 
+after the end of the reporting fiscal year.  
+
+•  First, a local entity may find it difficult or impossible to obtain accurate CbC reporting information 
+earlier than 12 months after the end of the reporting fiscal year, in particular if the UPE of the MNE 
+is required to file a CbC report 12 months after the end of the reporting fiscal year and the MNE’s 
+systems are intended to gather information to this timeframe.  
+
+•  Second,  an  early  deadline  for  local  filing  may  mean  local  filing  is  required  in  cases  where  the 
+conditions for local filing are no longer met by the time at which the UPE is required to file a CbC 
+report. For example, if local filing is required because there is no CbC reporting obligation in the 
+residence jurisdiction of the UPE, or because there is an international agreement in effect but no 
+qualifying  competent  authority  agreement  between  the  jurisdictions,  this  shortcoming  may  be 
+addressed before 12 months after the end of the reporting fiscal year. This could mean that 

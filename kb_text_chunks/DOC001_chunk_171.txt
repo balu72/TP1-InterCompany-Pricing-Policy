@@ -1,0 +1,78 @@
+r  apportionment  of  income  is  arm’s  length,  including  in  particular  an 
+apportionment of income between a licensor and a licensee of intangibles.
+
+6.145.  The transfer pricing methods most likely to prove useful in matters 
+involving transfers of one or more intangibles are the CUP method and the 
+transactional profit split method. Valuation techniques can be useful tools. 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 291
+
+Supplemental  guidance  on  the  transfer  pricing  methods  most  likely  to  be 
+useful in connection with transfers of intangibles is provided below.
+
+D.2.6.1. Application of the CUP Method
+
+6.146.  Where reliable comparable uncontrolled transactions can be identified, 
+the  CUP  method  can  be  applied  to  determine  the  arm’s  length  conditions 
+for  a  transfer  of  intangibles  or  rights  in  intangibles.  The  general  principles 
+contained  in  paragraphs  2.14  to  2.26  apply  when  the  CUP  method  is  used 
+in connection  with transactions involving the transfer of intangibles. Where 
+the  CUP  method  is  utilised  in  connection  with  the  transfer  of  intangibles, 
+particular consideration must be given to the comparability of the intangibles 
+or  rights  in  intangibles  transferred  in  the  controlled  transaction  and  in  the 
+potential  comparable  uncontrolled  transactions.  The  economically  relevant 
+characteristics or comparability factors described in Section D.1 of Chapter I 
+should be considered. The matters described in Sections D.2.1 to D.2.4 of this 
+chapter are of particular importance in evaluating the comparability of specific 
+transferred  intangibles  and  in  making  comparability  adjustments,  where 
+possible. It should be recognised that the identification of reliable comparables 
+in many cases involving intangibles may be difficult or impossible.
+
+6.147. 
+In  some  situations,  intangibles  acquired  by  an  MNE  group  from 
+independent enterprises are transferred to a member of the MNE group in a 
+controlled transaction immediately following the acquisition. In such a case 
+the price paid for the acquired intangibles will often (after any appropriate 
+adjustments,  including  adjustments  for  acquired  assets  not  re-transferred) 
+represent  a  useful  comparable  for  determining  the  arm’s  length  price  for 
+the controlled transaction under a CUP method. Depending on the facts and 
+circumstances, the third party acquisition price in such situations will have 
+relevance  in  determining  arm’s  length  prices  and  other  conditions  for  the 
+controlled  transaction,  even  where  the  intangibles  are  acquired  indirectly 
+through an acquisition of shares or where the price paid to the third party for 
+shares or assets exceeds the book value of the acquired assets. Examples 23 
+and 26 in Annex I to Chapter VI illustrate the principles of this paragraph.
+
+D.2.6.2. Application of transactional profit split method
+
+6.148.  In  some  circumstances,  a  transactional  profit  split  method  can  be 
+utilised to determine the arm’s length conditions for a transfer of intangibles 
+or rights in intangibles where it is not possible to identify reliable comparable 
+uncontrolled transactions for such transfers. Section C of Chapter II contains 
+guidance to be considered in applying transactional profit split methods. That 
+guidance is fully applicable to matters involving the transfer of intangibles or 
+rights in intangibles. In evaluating the reliability of transactional profit split 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+292 – CHAPTER VI: INTANGIBLES
+
+methods, however, the availability of reliable and adequate data regarding the 
+relevant profits to be split, appropriately allocable expenses, and the reliability 
+of factors used to divide the relevant income should be fully considered.
+6.149.  Transactional profit split methods may have application in connection 
+with  the  sale  of  full  rights  in  intangibles.  As  with  other  applications  of  the 
+transactional profit split method, a full functional analysis that considers the 
+functions performed, risks assumed and assets used by each of the parties is an 
+essential element of the analysis. Where a transactional profit split analysis is 
+based on projected revenues and expenses, the concerns with the accuracy of 
+such projections described in Section D.2.6.4.1 should be taken into account.
+6.150.  It  is  also  sometimes  suggested  that  a  profit  split  analysis  can  be 
+applied to transfers of partially developed intangibles. In such an analysis, 
+the relative value of contributions to the development of intangibles before 
+and  after  a  transfer  of  the  intangibles  in  question  is  sometimes  examined. 
+Such  an  approach  may  include  an  attempt  to  amortise  the  transferor’s 
+contribution  to  the  partially  developed  intangible  over  the  asserted  useful 
+life of that contribution, assuming no further develop

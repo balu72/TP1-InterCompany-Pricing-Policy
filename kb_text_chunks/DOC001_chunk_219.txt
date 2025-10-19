@@ -1,0 +1,154 @@
+ment around the time of the restructuring that mean 
+that  past  performance  is  not  an  indicator  of  profit  potential.  For  example, 
+competing products could have the effect of eroding profitability, and new 
+technology or consumer preferences could render the products less attractive. 
+The consideration of these factors from perspective of the distributor can be 
+illustrated with the following example.
+
+Note: This example is for illustration only. It is not intended to say anything about 
+the choice of the most appropriate transfer pricing method, about aggregation of 
+transactions, or about arm’s length remuneration rates for distribution activities. 
+It  is  assumed  in  this  example  that  the  change  in  the  allocation  of  risk  to  the 
+distributor derives from the renegotiation of the existing distribution arrangement 
+which reallocates risk between the parties. This example is intended to illustrate 
+the perspective of the distributor. It does not take account of the perspective of the 
+foreign  associated  enterprise  (principal),  although  both  perspectives  should  be 
+taken into account in the transfer pricing analysis.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+374 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+Full-fledged distributor
+
+Historical  
+profitability data 
+(last 5 years)
+
+Scenario 1
+
+Year 1:
+Year 2:
+Year 3:
+Year 4:
+Year 5:
+
+- 2%
+4%
+2%
+0%
+6%
+
+Scenario 2
+
+Year 1:
+Year 2:
+Year 3:
+Year 4:
+Year 5:
+
+5%
+10%
+5%
+5%
+10%
+
+Full-fledged distributor
+Projected profitability 
+(over remaining term of 
+agreement)
+
+(-2)% to 6%
+With significant 
+uncertainties within  
+this range
+
+5% to 10%
+With significant 
+uncertainties within  
+that range
+
+Scenario 3
+
+Year 1:
+Year 2:
+Year 3:
+Year 4:
+Year 5:
+
+5%
+7%
+10%
+8%
+6%
+
+0% to 4%
+With significant 
+uncertainties within 
+that range (due to new 
+competitive pressures)
+
+Limited risk distributor
+Projected profitability 
+(next three years)
+
+2% per year
+
+2% per year
+
+2% per year
+
+9.47. 
+In scenario no. 1, the distributor is surrendering a profit potential with 
+significant  uncertainties  for  a  relatively  low  but  stable  rate  of  profitability. 
+Whether an independent party would be willing to do so would depend on 
+its  anticipated  return  under  both  scenarios,  on  its  level  of  risk  tolerance, 
+on  its  options  realistically  available  and  on  possible  compensation  for  the 
+restructuring  itself.  In  case  scenario  no.  2,  it  is  unlikely  that  independent 
+parties  in  the  distributor’s  situation  would  agree  to  relocate  the  risks  and 
+associated  profit  potential  for  no  additional  compensation  if  they  had  the 
+option  to  do  otherwise.  Scenario  no.  3  illustrates  the  fact  that  the  analysis 
+should take account of the profit potential going forward and that, where there 
+is a significant change in the commercial or economic environment, relying 
+on historical data alone will not be sufficient.
+
+E. Transfer of something of value (e.g. an asset or an ongoing concern)
+
+9.48. 
+Sections E.1 to E.3 below contain a discussion of some typical transfers 
+that  can  arise  in  business  restructurings:  transfers  of  tangible  assets,  of 
+intangibles and rights in intangibles, and of activities (ongoing concern).
+
+E.1. Tangible assets
+
+9.49.  Business  restructurings  can  involve  the  transfer  of  tangible  assets 
+(e.g. equipment) by a restructured entity to a foreign associated enterprise. 
+One common issue relates to the valuation of inventories that are transferred 
+upon the conversion by a restructured manufacturer or distributor to a foreign 
+associated  enterprise  (e.g.  a  principal),  where  the  latter  takes  title  to  the 
+inventories as from the implementation of the new business model and supply 
+chain arrangements.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 375
+
+Illustration
+
+Note: The following example is solely intended to illustrate the issue of valuation 
+of inventory transfers. It is not intended to undertake an analysis of the transactions 
+comprising the business restructuring as accurately delineated under Section D.1 
+of Chapter I, nor is it intended to suggest that a particular transfer pricing method 
+is always acceptable for restructured operations.
+
+9.50.  Assume a taxpayer, which is a member of an MNE group, used to 
+operate as a “full-fledged” manufacturer and  distributor.  According to the 
+pre-restructuring  business  model,  the  taxpayer  purchased  raw  materials, 
+manufactured  finished  products  using  tangible  property  and  intangibles 
+that  belonged  to  it  or  were  rented/licensed  to  it,  performed  marketing  and 
+distribution functions and sold the finished products to third party customers. 
+In doing so, the taxpayer assumed a series of risks such as inventory risks, 
+bad debt risks and market risks.
+
+9.51.  Assume  the  arrangement  is  restructured  and  the  taxpayer  now 
+operates as a so-called “toll-manufactur

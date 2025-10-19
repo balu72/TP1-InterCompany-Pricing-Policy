@@ -1,0 +1,74 @@
+ur higher costs (e.g. due to start-up costs or increased 
+marketing efforts) and hence achieve lower profit levels than other taxpayers 
+operating in the same market.
+1.136.  Timing issues can pose particular problems for tax administrations 
+when  evaluating  whether  a  taxpayer  is  following  a  business  strategy  that 
+distinguishes it from potential comparables. Some business strategies, such 
+as those involving market penetration or expansion of market share, involve 
+reductions in the taxpayer’s current profits in anticipation of increased future 
+profits.  If  in  the  future  those  increased  profits  fail  to  materialise  because 
+the purported business strategy was not actually followed by the taxpayer, 
+the  appropriate  transfer  pricing  outcome  would  likely  require  a  transfer 
+pricing adjustment. However legal constraints may prevent re-examination 
+of earlier tax years by the tax administrations. At least in part for this reason, 
+tax administrations may wish to subject the  issue of business  strategies to 
+particular scrutiny.
+1.137.  When  evaluating  whether  a  taxpayer  was  following  a  business 
+strategy  that  temporarily  decreased  profits  in  return  for  higher  long-run 
+profits,  several  factors  should  be  considered.  Tax  administrations  should 
+examine the conduct of the parties to determine if it is consistent with the 
+purported  business  strategy.  For  example,  if  a  manufacturer  charges  its 
+associated distributor a below-market price as part of a market penetration 
+strategy,  the  cost  savings  to  the  distributor  may  be  reflected  in  the  price 
+charged  to  the  distributor’s  customers  or  in  greater  market  penetration 
+expenses  incurred  by  the  distributor.  A  market  penetration  strategy  of  an 
+MNE  group  could  be  put  in  place  either  by  the  manufacturer  or  by  the 
+distributor  acting  separately  from  the  manufacturer  (and  the  resulting 
+cost borne by either of them), or by both of them acting in a co-ordinated 
+manner. Furthermore, unusually intensive marketing and advertising efforts 
+would  often  accompany  a  market  penetration  or  market  share  expansion 
+strategy. Another factor to consider is whether the nature of the relationship 
+between  the  parties  to  the  controlled  transaction  would  be  consistent  with 
+the taxpayer bearing the costs of the business strategy. For example, in arm’s 
+length transactions a company acting solely as a sales agent with little or no 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+74 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+responsibility  for  long-term  market  development  would  generally  not  bear 
+the costs of a market penetration strategy. Where a company has undertaken 
+market  development  activities  at  its  own  risk  and  enhances  the  value  of  a 
+product through a trademark or trade name or increases goodwill associated 
+with the product, this situation should be reflected in the analysis of functions 
+for the purposes of establishing comparability.
+
+1.138.  An additional consideration is whether there is a plausible expectation 
+that  following  the  business  strategy  will  produce  a  return  sufficient  to 
+justify its costs within a period of time that would be acceptable in an arm’s 
+length arrangement. It is recognised that a business strategy such as market 
+penetration may fail, and the failure does not of itself allow the strategy to be 
+ignored for transfer pricing purposes. However, if such an expected outcome 
+was  implausible  at  the  time  of  the  transaction,  or  if  the  business  strategy 
+is  unsuccessful  but  nonetheless  is  continued  beyond  what  an  independent 
+enterprise would accept, the arm’s length nature of the business strategy may be 
+doubtful and may warrant a transfer pricing adjustment. In determining what 
+period  of  time  an  independent  enterprise  would  accept,  tax  administrations 
+may  wish  to  consider  evidence  of  the  commercial  strategies  evident  in  the 
+jurisdiction  in  which  the  business  strategy  is  being  pursued.  In  the  end, 
+however, the most important consideration is whether the strategy in question 
+could plausibly be expected to prove profitable within the foreseeable future 
+(while recognising that the strategy might fail), and that a party operating at 
+arm’s length would have been prepared to sacrifice profitability for a similar 
+period under such economic circumstances and competitive conditions.
+
+D.2.  Recognition of the accurately delineated transaction
+
+1.139.  Following the guidance in the previous section, the transfer pricing 
+analysis  will  have  identified  the  substance  of  the  commercial  or  financial 
+relations between the parties, and will have accurately delineated the actual 
+transaction by analysing the economically relevant characteristics.
+
+In  performing  the  analysis,  the  actual  transaction  between  the 
+1.140. 
+parties will have

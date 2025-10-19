@@ -1,0 +1,72 @@
+ be attached to the making of interest 
+payments,  if  any,  and  whether  interest  is  to  be  capitalised  would  generally 
+need to be addressed. The constructive loan approach may have an effect not 
+only for the year to which a primary adjustment relates but to subsequent years 
+until such time as the constructive loan is considered by the tax administration 
+asserting the secondary adjustment to have been repaid.
+
+4.70.  A  secondary  adjustment  may  result  in  double  taxation  unless  a 
+corresponding credit or some other form of relief is provided by the other country 
+for  the  additional  tax  liability  that  may  result  from  a  secondary  adjustment. 
+Where a secondary adjustment takes the form of a constructive dividend any 
+withholding tax which is then imposed may not be relievable because there may 
+not be a deemed receipt under the domestic legislation of the other jurisdiction.
+4.71.  The Commentary on paragraph 2 of Article 9 of the OECD Model Tax 
+Convention notes that the Article does not deal with secondary adjustments, 
+and thus it neither forbids nor requires tax administrations to make secondary 
+adjustments. In a broad sense, the purpose of double tax agreements can be 
+stated as being for the avoidance of double taxation and the prevention of fiscal 
+evasion with respect to taxes on income and capital. Many jurisdictions do not 
+make  secondary  adjustments  either  as  a  matter  of  practice  or  because  their 
+respective domestic provisions do not permit them to do so. Some jurisdictions 
+might  refuse  to  grant  relief  in  respect  of  other  jurisdictions’  secondary 
+adjustments and indeed they are not required to do so under Article 9.
+4.72. 
+Secondary  adjustments  are  rejected  by  some  jurisdictions  because  of 
+the  practical  difficulties  they  present.  For  example,  if  a  primary  adjustment 
+is  made  between  brother-sister  companies,  the  secondary  adjustment  may 
+involve  a  hypothetical  dividend  from  one  of  those  companies  up  a  chain  to  a 
+common  parent,  followed  by  constructive  equity  contributions  down  another 
+chain  of  ownership  to  reach  the  other  company  involved  in  the  transaction. 
+Many hypothetical transactions might be created, raising questions whether tax 
+consequences  should  be  triggered  in  other  jurisdictions  besides  those  involved 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 197
+
+in the transaction for which the primary adjustment was made. This might be 
+avoided if the secondary transaction were a loan, but constructive loans are not 
+used by most jurisdictions for this purpose and they carry their own complications 
+because  of  issues  relating  to  imputed  interest.  It  would  be  inappropriate  for 
+minority  shareholders  that  are  not  parties  to  the  controlled  transactions  and 
+that have accordingly not received excess cash to be considered recipients of a 
+constructive dividend, even though a non-pro-rata dividend might be considered 
+inconsistent with the requirements of applicable corporate law. In addition, as a 
+result of the interaction with the foreign tax credit system, a secondary adjustment 
+may excessively reduce the overall tax burden of the MNE group.
+In  light  of  the  foregoing  difficulties,  tax  administrations,  when 
+4.73. 
+secondary  adjustments  are  considered  necessary,  are  encouraged  to 
+structure  such  adjustments  in  a  way  that  the  possibility  of  double  taxation 
+as a consequence thereof would be minimised, except where the taxpayer’s 
+behaviour suggests an intent to disguise a dividend for purposes of avoiding 
+withholding tax. In addition, jurisdictions in the process of formulating or 
+reviewing policy on this matter are recommended to take into consideration 
+the above-mentioned difficulties.
+Some jurisdictions that have adopted secondary adjustments also give 
+4.74. 
+the taxpayer receiving the primary adjustment another option that allows the 
+taxpayer to avoid the secondary adjustment by having the taxpayer arrange 
+for the MNE group of which it is a member to repatriate the excess profits to 
+enable the taxpayer to conform its accounts to the primary adjustment. The 
+repatriation could be effected either by setting up an account receivable or by 
+reclassifying other transfers, such as dividend payments where the adjustment 
+is between parent and subsidiary, as a payment of additional transfer price 
+(where the original price was too low) or as a refund of transfer price (where 
+the original price was too high).
+4.75.  Where a repatriation involves reclassifying a dividend payment, the 
+amount of the dividend (up to the amount of the primary adjustment) would 
+be  excluded  from  the  recipient’s  gross  income  (because  it  would  already 
+have been accounted for through the primary adjustment). The consequences 
+would be that the recipient would lose any indirect tax credit (or benefi

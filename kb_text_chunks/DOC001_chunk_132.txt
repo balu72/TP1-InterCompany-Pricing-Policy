@@ -1,0 +1,93 @@
+ure 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 225
+
+makes a resolution of the case still possible by submitting one or more issues 
+on which the competent authorities cannot reach an agreement to arbitration.
+
+4.178. 
+In the 2008 update to the OECD Model Tax Convention, Article 25 
+was supplemented with a new paragraph 5 which provides that, in the cases 
+where the competent authorities are unable to reach an agreement within two 
+years, the unresolved issues will, at the request of the person who presented 
+the  case,  be  solved  through  an  arbitration  process.  This  extension  of  the 
+mutual  agreement  procedure  ensures  that  where  the  competent  authorities 
+cannot reach an agreement on one or more issues that prevent the resolution 
+of a case, a resolution of the case will still be possible by submitting those 
+issues to arbitration. Arbitration under paragraph 5 of Article 25 is an integral 
+part of the mutual agreement procedure and does not constitute an alternative 
+route to solving tax treaty disputes between States. Paragraphs 63-85 of the 
+Commentary on Article 25 provide guidance on the arbitration phase of the 
+mutual agreement procedure.
+
+4.179.  The  existence  of  an  arbitration  clause  similar  to  paragraph  5  of 
+Article 25 in a particular bilateral treaty should make the mutual agreement 
+procedure  itself  more  effective  even  in  cases  where  resort  to  arbitration 
+is  not  necessary.  The  very  existence  of  this  possibility  should  encourage 
+greater use of the mutual agreement procedure since both governments and 
+taxpayers will know at the outset that the time and effort put into the mutual 
+agreement procedure will be likely to produce a satisfactory result. Further, 
+governments  will  have  an  incentive  to  ensure  that  the  mutual  agreement 
+procedure is conducted efficiently in order to avoid the necessity of subsequent 
+supplemental procedures.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER V: DOCUMENTATION – 227
+
+Chapter V 
+
+Documentation
+
+A. Introduction
+
+This  chapter  provides  guidance  for  tax  administrations  to  take 
+5.1. 
+into account in developing rules and/or procedures on documentation to be 
+obtained  from  taxpayers  in  connection  with  a  transfer  pricing  enquiry  or 
+risk assessment. It also provides guidance to assist taxpayers in identifying 
+documentation that would be most helpful in showing that their transactions 
+satisfy  the  arm’s  length  principle  and  hence  in  resolving  transfer  pricing 
+issues and facilitating tax examinations.
+
+5.2.  When  Chapter  V  of  these  Guidelines  was  adopted  in  1995,  tax 
+administrations and taxpayers had less experience in creating and using transfer 
+pricing documentation. The previous language in Chapter V of the Guidelines 
+put an emphasis on the need for reasonableness in the documentation process 
+from  the  perspective  of  both  taxpayers  and  tax  administrations,  as  well  as 
+on  the  desire  for  a  greater  level  of  co-operation  between  tax  administrations 
+and taxpayers in addressing documentation issues in order to avoid excessive 
+documentation  compliance  burdens  while  at  the  same  time  providing  for 
+adequate information to apply the arm’s length principle reliably. The previous 
+language of Chapter V did not provide for a list of documents to be included in 
+a transfer pricing documentation package nor did it provide clear guidance with 
+respect to the link between the process for documenting transfer pricing, the 
+administration of penalties and the burden of proof.
+
+Since  then,  many  jurisdictions  have  adopted  transfer  pricing 
+5.3. 
+documentation rules and the proliferation of these requirements, combined 
+with a sharp increase in the volume and complexity of international intra-
+group  trade  and  the  heightened  scrutiny  of  transfer  pricing  issues  by  tax 
+administrations, has resulted in a significant increase in compliance costs for 
+taxpayers. Nevertheless tax administrations have often found transfer pricing 
+documentation to be less than fully informative and not adequate for their tax 
+enforcement and risk assessment needs.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+228 – CHAPTER V: DOCUMENTATION
+
+5.4. 
+The following discussion identifies three objectives of transfer pricing 
+documentation rules. The discussion also provides guidance for the development 
+of  such  rules  so  that  transfer  pricing  compliance  is  more  straightforward 
+and  more  consistent  among  jurisdictions,  while  at  the  same  time  providing 
+tax  administrations  with  more  focused  and  useful  information  for  transfer 
+pricing  risk  assessments  and  audits.  An  important  overarching  consideration 
+in  developing  such  rules  is  to  balance  the  usefulness  of  the  data  to  tax 
+administrations for transfer pricing risk assessment and other purposes with any 
+increas

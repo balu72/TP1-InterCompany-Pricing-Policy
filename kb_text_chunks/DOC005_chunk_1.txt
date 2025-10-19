@@ -1,0 +1,118 @@
+
+
+ 
+ 
+     
+	
+	International Taxation > Transfer Pricing as contained in Chapter X of Income-tax Act, 1961
+
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=4UhLIF\u00252FezOvmGnh\u00252Fs0LLpA\u00253D\u00253DTAG0"); 
+ RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=k\u00252FSaOdWtcHDDvsb\u00252FUFykOA\u00253D\u00253DTAG0"); 
+ RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=9kCBQNkpbQYAoiVcZpdkJA\u00253D\u00253DTAG0");RegisterSodDep("core.js", "strings.js"); 
+ RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=8L\u00252BIY1hT\u00252BbaFStnW1t8DHA\u00253D\u00253DTAG0"); 
+ RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=G0XIYJI9ofOrcdJaLkhB7Q\u00253D\u00253DTAG0"); 
+ RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=abeY2vrdWuf5SFGyZz0ZIA\u00253D\u00253DTAG0");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js"); 
+ RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=bOK\u00252Bug\u00252FpfAotn0K8lTrAmw\u00253D\u00253DTAG0");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "core.js"); 
+ RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=oCuPrViEzAn0pDKB8CF8Zg\u00253D\u00253DTAG0"); 
+ RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=i\u00252BpkUadbMp0SRKzd7VVHng\u00253D\u00253DTAG0");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js"); 
+ RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=xrG\u00252BRjaI5OPo7vtJxP\u00252B73A\u00253D\u00253DTAG0");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js"); 
+ RegisterSod("sp.search.js", "\u002f_layouts\u002f15\u002fsp.search.js?rev=HAx1PXh3dmISREk3Xv5ClQ\u00253D\u00253DTAG0"); 
+ RegisterSod("clientrenderer.js", "\u002f_layouts\u002f15\u002fclientrenderer.js?rev=DnKoLK\u00252FbHhJeC9UWCtG1Cw\u00253D\u00253DTAG0"); 
+ RegisterSod("srch.resources.resx", "\u002f_layouts\u002f15\u002f1033\u002fsrch.resources.js?rev=YFZFsHKXct9hchZcv\u00252BUURA\u00253D\u00253DTAG0"); 
+ RegisterSod("search.clientcontrols.js", "\u002f_layouts\u002f15\u002fsearch.clientcontrols.js?rev=llkkoa8WzW2Akde91RvLUw\u00253D\u00253DTAG0");RegisterSodDep("search.clientcontrols.js", "clientrenderer.js");RegisterSodDep("search.clientcontrols.js", "srch.resources.resx"); 
+ RegisterSod("ajaxtoolkit.js", "\u002f_layouts\u002f15\u002fajaxtoolkit.js?rev=D\u00252BopWJT1QLPe7G8RdEG71A\u00253D\u00253DTAG0");RegisterSodDep("ajaxtoolkit.js", "search.clientcontrols.js"); 
+ RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=cx6U8sP\u00252ByP0OFLjk6ekyIg\u00253D\u00253DTAG0"); 
+ RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=5I9u4X\u00252BpRYuWUuY6Og2tLA\u00253D\u00253DTAG0");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js"); 
+ RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f1033\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\u00253D\u00253DTAG0"); 
+ RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=ex\u00252F9c\u00252BQRgevJOSeTAdF1EQ\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx"); 
+ RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=\u00252Fb6i0KWt6oXFKh8C\u00252FA5nsA\u00253D\u00253DTAG0");RegisterSodDep("browserScript", "strings.js"); 
+ RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=DyKtSizIeG1Okf5xG3fnOw\u00253D\u00253DTAG0");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "clienttemplates.js"); 
+ 
+            
+	
+	
+
+             
+            
+            
+         
+            
+         
+        
+         
+
+     
+     
+        
+         
+ 
+ 
+
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+
+var g_correlationId = '83cfd0a1-dbe6-e04c-4f2e-fddfe005bd89';
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaRUMEnabled = false;
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "https:\u002f\u002fincometaxindia.gov.in", siteAbsoluteUrl: "https:\u002f\u002fincometaxindia.gov.in", serverRequestPath: "\u002fpages\u002finternati

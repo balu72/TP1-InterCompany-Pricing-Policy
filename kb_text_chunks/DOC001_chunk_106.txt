@@ -1,0 +1,76 @@
+justment may be 
+made by a Contracting State either by recalculating the profits subject to tax 
+for  the  associated  enterprise  in  that  jurisdiction  using  the  relevant  revised 
+price or by letting the calculation stand and giving the associated enterprise 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+184 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+relief  against  its  own  tax  paid  in  that  State  for  the  additional  tax  charged 
+to the associated enterprise by the adjusting State as a consequence of the 
+revised transfer price. The former method is by far the more common among 
+OECD member countries.
+4.35. 
+In  the  absence  of  an  arbitration  decision  arrived  at  pursuant  to  an 
+arbitration procedure comparable to that provided for under paragraph 5 of 
+Article  25  which  provides  for  a  corresponding  adjustment,  corresponding 
+adjustments are not mandatory, mirroring the rule that tax administrations 
+are not obliged to reach agreement under the mutual agreement procedure. 
+Under  paragraph  2  of  Article  9,  a  tax  administration  should  make  a 
+corresponding adjustment only insofar as it considers the primary adjustment 
+to be justified both in principle and in amount. The non-mandatory nature of 
+corresponding adjustments is necessary so that one tax administration is not 
+forced to accept the consequences of an arbitrary or capricious adjustment 
+by another State. It also is important to maintaining the fiscal sovereignty of 
+each OECD member country.
+
+4.36.  Once  a  tax  administration  has  agreed  to  make  a  corresponding 
+adjustment  it  is  necessary  to  establish  whether  the  adjustment  is  to  be 
+attributed  to  the  year  in  which  the  controlled  transactions  giving  rise  to  the 
+adjustment took place or to an alternative year, such as the year in which the 
+primary  adjustment  is  determined.  This  issue  also  often  raises  the  question 
+of  a  taxpayer’s  entitlement  to  interest  on  the  overpayment  of  tax  in  the 
+jurisdiction which has agreed to make the corresponding adjustment (discussed 
+in  paragraphs  4.65-4.67).  The  first  approach  is  more  appropriate  because  it 
+achieves a matching of income and expenses and better reflects the economic 
+situation as it would have been if the controlled transactions had been at arm’s 
+length. However, in cases involving lengthy delays between the year covered 
+by  the  adjustment  and  the  year  of  its  acceptance  by  the  taxpayer  or  a  final 
+court decision, the tax administration should have the flexibility to agree to 
+make corresponding adjustments for the year of acceptance of or decision on 
+the primary adjustment. This approach would need to rely on domestic law for 
+implementation. While not ordinarily preferred, it could be appropriate as an 
+equitable measure in exceptional cases to facilitate implementation and to avoid 
+time limit barriers.
+4.37.  Corresponding adjustments can be a very effective means of obtaining 
+relief from double taxation resulting from transfer pricing adjustments. OECD 
+member countries generally strive in good faith to reach agreement whenever 
+the mutual agreement procedure is invoked. Through the mutual agreement 
+procedure,  tax  administrations  can  address  issues  in  a  non-adversarial 
+proceeding,  often  achieving  a  negotiated  settlement  in  the  interests  of  all 
+parties.  It  also  allows  tax  administrations  to  take  into  account  other  taxing 
+rights issues, such as withholding taxes.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 185
+
+4.38.  At least one OECD member country has a procedure that may reduce 
+the need for primary adjustments by allowing the taxpayer to report a transfer 
+price for tax purposes that is, in the taxpayer’s opinion, an arm’s length price 
+for a controlled transaction, even though this price differs from the amount 
+actually  charged  between  the  associated  enterprises.  This  adjustment, 
+sometimes known as a “compensating adjustment”, would be made before the 
+tax return is filed. Compensating adjustments may facilitate the reporting of 
+taxable income by taxpayers in accordance with the arm’s length principle, 
+recognising  that  information  about  comparable  uncontrolled  transactions 
+may not be available at the time associated enterprises establish the prices for 
+their controlled transactions. Thus, for the purpose of lodging a correct tax 
+return, a taxpayer would be permitted to make a compensating adjustment 
+that would record the difference between the arm’s length price and the actual 
+price recorded in its books and records.
+4.39.  However,  compensating  adjustments  are  not  recognised  by  most 
+OECD member countries, on the grounds that the tax return should reflect the 
+actual transactions. If compensating adjustments are permitted (or required) in 
+the jurisdiction of one associated enterprise but not permitted in the jurisdict

@@ -1,0 +1,82 @@
+ by the parties to the trans-
+actions. It is important to note that the indicators are not mutually exclusive 
+and on the contrary may often be found together in a single case.
+
+2.127.  At the other end of the spectrum, where the accurate delineation of 
+the transaction determines that one party to the transaction performs only 
+simple functions, does not assume economically significant risks in relation 
+to  the  transaction  and  does  not  otherwise  make  any  contribution  which  is 
+unique and valuable, a transactional profit split method typically would not 
+be appropriate since a share of profits (which may be impacted by the playing 
+out of the economically significant risks) would be unlikely to represent an 
+arm’s length outcome for such contributions or risk assumption.
+
+2.128.  A  lack  of  closely  comparable,  uncontrolled  transactions  which 
+would  otherwise  be  used  to  benchmark  an  arm’s  length  return  for  the 
+party  performing  the  less  complex  functions  should  not  per  se  lead  to  a 
+conclusion that the transactional profit split is the most appropriate method. 
+Depending on the facts of the case, an appropriate method using uncontrolled 
+transactions  that  are  sufficiently  comparable,  but  not  identical  to  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+132 – CHAPTER II: TRANSFER PRICING METHODS
+
+controlled  transaction  is  likely  to  be  more  reliable  than  an  inappropriate 
+use of the transactional profit split method. See paragraphs 3.38-3.39 for a 
+discussion of limitations in available comparables. See also Section C.2.3.
+
+2.129.  It may also be relevant to consider industry practices. For instance, 
+if information is available that independent parties do commonly use profit 
+splitting  approaches  in  similar  situations,  careful  consideration  should 
+be  given  to  whether  the  transactional  profit  split  method  may  be  the  most 
+appropriate method for the controlled transactions. Such industry practices 
+may  be  a  pointer  to  the  fact  that  each  party  makes  unique  and  valuable 
+contributions, and/or that the parties are highly inter-dependent upon each 
+other. Conversely, if independent parties engaged in comparable transactions 
+are found to make use of other pricing methods, this should also be taken into 
+account in determining the most appropriate transfer pricing method.
+
+C.2.2.1.  Unique and valuable contributions by each of the parties to 
+
+the transaction
+
+2.130.  Contributions  (for  instance  functions  performed,  or  assets  used  or 
+contributed)  will  be  “unique  and  valuable”  in  cases  where  (i)  they  are  not 
+comparable  to  contributions  made  by  uncontrolled  parties  in  comparable 
+circumstances,  and  (ii)  they  represent  a  key  source  of  actual  or  potential 
+economic benefits in the business operations. The two factors are often linked: 
+comparables for such contributions are seldom found because they are a key 
+source of economic advantage. It may be the case that in these situations, the 
+risks associated with the respective unique and valuable contributions cannot 
+be controlled by the other party or parties. This may impact the assumption 
+of risk under the accurate delineation of the actual transaction. For example, 
+the  developer  and  manufacturer  of  a  key  component  of  a  product  together 
+with the developer and manufacturer of another key component that together 
+with  the  first  component,  form  the  ready-to-sell  product,  may  both  make 
+unique and valuable contributions in terms of functions and intangibles that 
+represent a key source of economic benefits. (See also paragraphs 6.50 to 6.58 
+and 6.133.) In practice, neither of them may be able to control the development 
+risk  in  relation  to  the  product  as  a  whole,  but  instead  they  together  control 
+the  development  risks  and  share  in  the  relevant  profits  resulting  from  their 
+contributions. The principles of this section are illustrated by Examples 1, 2, 3 
+and 4 in Annex II to Chapter II of these Guidelines.
+
+Transactions involving unique and valuable intangibles
+
+2.131.  Where each party to the transaction legally owns unique and valuable 
+intangibles  that  are  relevant  to  the  transaction,  it  will  also  be  necessary  to 
+consider  whether,  under  the  accurate  delineation  of  the  transaction,  they 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 133
+
+each assume the economically significant risks relating to those intangibles, 
+e.g. risks related to development, obsolescence, infringement, product liability 
+and exploitation (see paragraphs 6.65 to 6.68).
+
+2.132.  As set out in paragraphs 6.148 to 6.149 and 6.152, in some cases, the 
+transactional profit split method may be the most appropriate method for a 
+transfer of fully developed intangibles (including rights in intangibles) where 
+it  is  not  possible  to  identify  reliable  com

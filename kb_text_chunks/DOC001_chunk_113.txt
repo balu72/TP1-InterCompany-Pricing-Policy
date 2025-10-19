@@ -1,0 +1,73 @@
+ngth basis originally. As noted above, the 
+Report  on  BEPS  Action  14  includes  as  best  practice  10  a  recommendation 
+that  jurisdictions’  published  mutual  agreement  procedure  guidance  should 
+provide  guidance  on  the  consideration  of  interest  in  the  mutual  agreement 
+procedure.  In  addition,  the  country  mutual  agreement  procedure  profiles 
+prepared  pursuant  to  element  2.2  of  the  Action  14  minimum  standard 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 195
+
+include information on how interest and penalties are dealt with by specific 
+jurisdictions in the context of the mutual agreement procedure.
+4.67. 
+The amount of interest (as distinct from the rate at which it is applied) 
+may  also  have  more  to  do  with  the  year  to  which  the  jurisdiction  making 
+the  corresponding  adjustment  attributes  the  corresponding  adjustment.  The 
+jurisdiction  making  the  corresponding  adjustment  may  decide  to  make  the 
+adjustment for the year in which the primary adjustment is determined, in which 
+case  relatively  little  interest  is  likely  to  be  payable  (regardless  of  the  rate  of 
+interest), whereas the jurisdiction making the primary adjustment may seek to 
+impose interest on the understated and uncollected tax liability from the year in 
+which the controlled transactions took place (notwithstanding that a relatively low 
+rate of interest may be imposed). The issue of the year to which a corresponding 
+adjustment  is  attributed  is  raised  in  paragraph  4.36.  It  may  be  appropriate  in 
+certain cases for both competent authorities to agree not to assess or pay interest 
+in connection with the adjustment at issue, but this may not be possible in the 
+absence  of  a  specific  provision  addressing  this  issue  in  the  relevant  bilateral 
+treaty. This approach would also reduce administrative complexities. However, as 
+the interest on the deficiency and the interest on the overpayment are attributable 
+to  different  taxpayers  in  different  jurisdictions,  there  would  be  no  assurance 
+under such an approach that a proper economic result would be achieved.
+
+C.5.  Secondary adjustments
+4.68.  Corresponding adjustments are not the only adjustments that may be 
+triggered by a primary transfer pricing adjustment. Primary transfer pricing 
+adjustments  and  their  corresponding  adjustments  change  the  allocation  of 
+taxable profits of an MNE group for tax purposes but they do not alter the 
+fact that the excess profits represented by the adjustment are not consistent 
+with the result that would have arisen if the controlled transactions had been 
+undertaken on an arm’s length basis. To make the actual allocation of profits 
+consistent with the primary transfer pricing adjustment, some jurisdictions 
+having proposed a transfer pricing adjustment will assert under their domestic 
+legislation a constructive transaction (a secondary transaction), whereby the 
+excess  profits  resulting  from  a  primary  adjustment  are  treated  as  having 
+been  transferred  in  some  other  form  and  taxed  accordingly.  Ordinarily, 
+the  secondary  transactions  will  take  the  form  of  constructive  dividends, 
+constructive  equity  contributions,  or  constructive  loans.  For  example,  a 
+jurisdiction making a primary adjustment to the income of a subsidiary of a 
+foreign parent may treat the excess profits in the hands of the foreign parent 
+as having been transferred as a dividend, in which case withholding tax may 
+apply.  It  may  be  that  the  subsidiary  paid  an  excessive  transfer  price  to  the 
+foreign parent as a means of avoiding that withholding tax. Thus, secondary 
+adjustments attempt to account for the difference between the re-determined 
+taxable profits and the originally booked profits. The subjecting to tax of a 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+196 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+secondary transaction gives rise to a secondary transfer pricing adjustment 
+(a secondary adjustment). Thus, secondary adjustments may serve to prevent 
+tax avoidance. The exact form that a secondary transaction takes and of the 
+consequent secondary adjustment will depend on the facts of the case and on 
+the tax laws of the jurisdiction that asserts the secondary adjustment.
+4.69.  Another example of a tax administration seeking to assert a secondary 
+transaction may be where the tax administration making a primary adjustment 
+treats  the  excess  profits  as  being  a  constructive  loan  from  one  associated 
+enterprise  to  the  other  associated  enterprise.  In  this  case,  an  obligation  to 
+repay  the  loan  would  be  deemed  to  arise.  The  tax  administration  making 
+the  primary  adjustment  may  then  seek  to  apply  the  arm’s  length  principle 
+to this secondary transaction to impute an arm’s length rate of interest. The 
+interest rate to be applied, the timing to

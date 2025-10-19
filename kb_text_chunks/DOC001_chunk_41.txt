@@ -1,0 +1,73 @@
+ been deduced from written contracts and the conduct of the 
+parties. Formal conditions recognised in contracts will have been clarified 
+and  supplemented  by  analysis  of  the  conduct  of  the  parties  and  the  other 
+economically relevant characteristics of the transaction (see Section D.1.1). 
+Where the characteristics of the transaction that are economically significant 
+are  inconsistent  with  the  written  contract,  then  the  actual  transaction  will 
+have been delineated in accordance with the characteristics of the transaction 
+reflected in the conduct of the parties. Contractual risk assumption and actual 
+conduct  with  respect  to  risk  assumption  will  have  been  examined  taking 
+into  account  control  over  the  risk  (as  defined  in  paragraphs  1.65-1.68)  and 
+the  financial  capacity  to  assume  risk  (as  defined  in  paragraph  1.64),  and 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 75
+
+consequently, risks assumed under the contract may have been allocated in 
+accordance with the conduct of the parties and the other facts on the basis of 
+steps 4 and 5 of the process for analysing risk in a controlled transaction as 
+reflected in Sections D.1.2.1.4 and D.1.2.1.5. Therefore, the analysis will have 
+set out the factual substance of the commercial or financial relations between 
+the parties and accurately delineated the actual transaction.
+
+1.141.  Every  effort  should  be  made  to  determine  pricing  for  the  actual 
+transaction  as  accurately  delineated  under  the  arm’s  length  principle.  The 
+various  tools  and  methods  available  to  tax  administrations  and  taxpayers 
+to  do  so  are  set  out  in  the  following  chapters  of  these  Guidelines.  A  tax 
+administration should not disregard the actual transaction or substitute other 
+transactions  for  it  unless  the  exceptional  circumstances  described  in  the 
+following paragraphs 1.142-1.145 apply.
+
+1.142.  This section sets out circumstances in which the transaction between 
+the  parties  as  accurately  delineated  can  be  disregarded  for  transfer  pricing 
+purposes.  Because  non-recognition  can  be  contentious  and  a  source  of 
+double taxation, every effort should be made to determine the actual nature 
+of the transaction and apply arm’s length pricing to the accurately delineated 
+transaction,  and  to  ensure  that  non-recognition  is  not  used  simply  because 
+determining an arm’s length price is difficult. Where the same transaction can 
+be seen between independent parties in comparable circumstances (i.e. where 
+all economically relevant characteristics are the same as those under which the 
+tested transaction occurs other than that the parties are associated enterprises) 
+non-recognition would not apply. Importantly, the mere fact that the transaction 
+may  not  be  seen  between  independent  parties  does  not  mean  that  it  should 
+not be recognised. Associated enterprises may have the ability to enter into a 
+much greater variety of arrangements than can independent enterprises, and 
+may  conclude  transactions  of  a  specific  nature  that  are  not  encountered,  or 
+are only very rarely encountered, between independent parties, and may do so 
+for sound business reasons. The transaction as accurately delineated may be 
+disregarded, and if appropriate, replaced by an alternative transaction, where 
+the arrangements made in relation to the transaction, viewed in their totality, 
+differ from those which would have been adopted by independent enterprises 
+behaving  in  a  commercially  rational  manner  in  comparable  circumstances, 
+thereby  preventing  determination  of  a  price  that  would  be  acceptable  to 
+both  of  the  parties  taking  into  account  their  respective  perspectives  and  the 
+options realistically available to each of them at the time of entering into the 
+transaction. It is also a relevant pointer to consider whether the MNE group 
+as a whole is left worse off on a pre-tax basis since this may be an indicator 
+that the transaction viewed in its entirety lacks the commercial rationality of 
+arrangements between unrelated parties.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+76 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+1.143.  The  key  question  in  the  analysis  is  whether  the  actual  transaction 
+possesses the commercial rationality of arrangements that would be agreed 
+between  unrelated  parties  under  comparable  economic  circumstances, 
+not  whether  the  same  transaction  can  be  observed  between  independent 
+parties. The non-recognition of a transaction that possesses the commercial 
+rationality of an arm’s length arrangement is not an appropriate application of 
+the arm’s length principle. Restructuring of legitimate business transactions 
+would  be  a  wholly  arbitrary  exercise  the  inequity  of  which  could  be 
+compounded by double taxation created where the other tax admini

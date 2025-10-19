@@ -1,0 +1,87 @@
+l  the  necessary  components,  know-how,  etc.  are  provided 
+by  company  E.  The  purchase  of  the  assembled  product  is  guaranteed  by 
+company E in case the television sets fail to meet a certain quality standard. 
+After the quality check, the television sets are brought – at the expense and risk 
+of company E – to distribution centres company E has in several countries. The 
+function of company C can be described as a purely contract manufacturing 
+function.  The  risks  company  C  could  bear  are  eventual  differences  in  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+112 – CHAPTER II: TRANSFER PRICING METHODS
+
+agreed quality and quantity. The basis for applying the cost plus method will 
+be formed by all the costs connected to the assembling activities.
+2.61.  Company A of an MNE group agrees with company B of the same 
+MNE group to carry out contract research for company B. All risks related 
+to the research are assumed by company B. This company also owns all the 
+intangibles developed through the research and therefore has also the profit 
+chances  resulting  from  the  research.  This  is  a  typical  setup  for  applying  a 
+cost plus method. All costs for the research, which the associated parties have 
+agreed upon, have to be compensated. The additional cost plus may reflect 
+how innovative and complex the research carried out is.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 113
+
+Part III: Transactional profit methods
+
+A. Introduction
+
+2.62.  This Part provides a discussion of transactional profit methods that 
+may be used to approximate arm’s length conditions where such methods are 
+the  most  appropriate  to  the  circumstances  of  the  case,  see  paragraphs  2.1-
+2.12.  Transactional  profit  methods  examine  the  profits  that  arise  from 
+particular transactions among associated enterprises. The only profit methods 
+that  satisfy  the  arm’s  length  principle  are  those  that  are  consistent  with 
+Article 9 of the OECD Model Tax Convention and follow the requirement 
+for a comparability analysis as described in these Guidelines. In particular, 
+so-called “comparable profits methods” or “modified cost plus/resale price 
+methods” are acceptable only to the extent that they are consistent with these 
+Guidelines.
+
+2.63.  A  transactional  profit  method  examines  the  profits  that  arise  from 
+particular  controlled  transactions.  The  transactional  profit  methods  for 
+purposes of these Guidelines are the transactional profit split method and the 
+transactional net margin method. Profit arising from a controlled transaction 
+can  be  a  relevant  indicator  of  whether  the  transaction  was  affected  by 
+conditions that differ from those that would have been made by independent 
+enterprises in otherwise comparable circumstances.
+
+B. Transactional net margin method
+
+B.1.  In general
+
+2.64.  The transactional net margin method examines the net profit relative 
+to an appropriate base (e.g. costs, sales, assets) that a taxpayer realises from 
+a  controlled  transaction  (or  transactions  that  are  appropriate  to  aggregate 
+under  the  principles  of  paragraphs  3.9-3.12).  Thus,  a  transactional  net 
+margin  method  operates  in  a  manner  similar  to  the  cost  plus  and  resale 
+price  methods.  This  similarity  means  that  in  order  to  be  applied  reliably, 
+the transactional net margin method must be applied in a manner consistent 
+with  the  manner  in  which  the  resale  price  or  cost  plus  method  is  applied. 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+114 – CHAPTER II: TRANSFER PRICING METHODS
+
+This  means  in  particular  that  the  net  profit  indicator  of  the  taxpayer  from 
+the  controlled  transaction  (or  transactions  that  are  appropriate  to  aggregate 
+under the principles of paragraphs 3.9-3.12) should ideally be established by 
+reference to the net profit indicator that the same taxpayer earns in comparable 
+uncontrolled  transactions,  i.e.  by  reference  to  “internal  comparables”  (see 
+paragraphs 3.27-3.28). Where this is not possible, the net margin that would 
+have  been  earned  in  comparable  transactions  by  an  independent  enterprise 
+(“external comparables”) may serve as a guide (see paragraphs 3.29-3.35). A 
+functional analysis of the controlled and uncontrolled transactions is required 
+to determine whether the transactions are comparable and what adjustments 
+may be necessary to obtain reliable results. Further, the other requirements 
+for  comparability,  and  in  particular  those  of  paragraphs  2.74-2.81,  must  be 
+applied.
+
+2.65.  A  transactional  net  margin  method  is  unlikely  to  be  reliable  if 
+each  party  to  a  transaction  makes  unique  and  valuable  contributions,  see 
+paragraph 2.4. In such a case, a transactional profit split method will generally 
+be the most appropriate method, see paragraph 2.119. However, a one-sided 
+metho

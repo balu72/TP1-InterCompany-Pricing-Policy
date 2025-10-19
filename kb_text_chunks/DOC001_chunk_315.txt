@@ -1,0 +1,107 @@
+NTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE – 563
+
+Model legislation related to Country-by-Country Reporting
+
+Article 1
+Definitions
+
+For  purposes  of  this  [title  of  the  law]  the  following  terms  have  the 
+
+following meanings:
+
+The term “Group” means a collection of enterprises related through 
+1. 
+ownership or control such that it is either required to prepare Consolidated 
+Financial  Statements  for  financial  reporting  purposes  under  applicable 
+accounting principles or would be so required if equity interests in any of the 
+enterprises were traded on a public securities exchange.
+
+2. 
+The term “MNE Group” means any Group that (i) includes two or 
+more enterprises the tax residence for which is in different jurisdictions, or 
+includes an enterprise that is resident for tax purposes in one jurisdiction and 
+is subject to tax with respect to the business carried out through a permanent 
+establishment in another jurisdiction, and (ii) is not an Excluded MNE Group.
+
+3. 
+The term “Excluded MNE Group” means, with respect to any Fiscal 
+year of the Group, a Group having total consolidated group revenue of less than 
+[750 million Euro]/[insert an amount in local currency approximately equivalent 
+to  750  million  Euro  as  of  January  2015]  during  the  Fiscal  year  immediately 
+preceding the Reporting Fiscal year as reflected in its Consolidated Financial 
+Statements for such preceding Fiscal year.
+
+The term “Constituent Entity” means (i) any separate business unit 
+4. 
+of an MNE Group that is included in the Consolidated Financial Statements 
+of the MNE Group for financial reporting purposes, or would be so included 
+if equity interests in such business unit of an MNE Group were traded on 
+a  public  securities  exchange;  (ii)  any  such  business  unit  that  is  excluded 
+from the MNE Group’s Consolidated Financial Statements solely on size or 
+materiality grounds; and (iii) any permanent establishment of any separate 
+business unit of the MNE Group included in (i) or (ii) above provided the 
+business  unit  prepares  a  separate  financial  statement  for  such  permanent 
+establishment  for  financial  reporting,  regulatory,  tax  reporting,  or  internal 
+management control purposes.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+564 – ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE
+
+5. 
+The  term  “Reporting  Entity”  means  the  Constituent  Entity  that  is 
+required to file a Country-by-Country Report conforming to the requirements 
+in Article 4 in its jurisdiction of tax residence on behalf of the MNE Group. 
+The Reporting Entity may be the Ultimate Parent Entity, the Surrogate Parent 
+Entity, or any entity described in paragraph 2 of Article 2.
+
+The term “Ultimate Parent Entity” means a Constituent Entity of an 
+
+6. 
+MNE Group that meets the following criteria:
+
+i) 
+
+it owns directly or indirectly a sufficient interest in one or more other 
+Constituent  Entities  of  such  MNE  Group  such  that  it  is  required 
+to  prepare  Consolidated  Financial  Statements  under  accounting 
+principles  generally  applied  in  its  jurisdiction  of  tax  residence,  or 
+would be so required if its equity interests were traded on a public 
+securities exchange in its jurisdiction of tax residence; and
+
+ii)  there is no other Constituent Entity of such MNE Group that owns 
+directly or indirectly an interest described in subsection (i) above in 
+the first mentioned Constituent Entity.
+
+7. 
+The  term  “Surrogate  Parent  Entity”  means  one  Constituent  Entity 
+of the MNE Group that has been appointed by such MNE Group, as a sole 
+substitute  for  the  Ultimate  Parent  Entity,  to  file  the  Country-by-Country 
+Report in that Constituent Entity’s jurisdiction of tax residence, on behalf of 
+such MNE Group, when one or more of the conditions set out in subsection (ii) 
+of paragraph 2 of Article 2 applies.
+
+8. 
+The  term  “Fiscal  year”  means  an  annual  accounting  period  with 
+respect to which the Ultimate Parent Entity of the MNE Group prepares its 
+financial statements.
+
+The term “Reporting Fiscal year” means that Fiscal year the financial 
+9. 
+and operational results of which are reflected in the Country-by-Country Report 
+defined in Article 4.
+
+The term “Qualifying Competent Authority Agreement” means an 
+10. 
+agreement (i) that is between authorised representatives of those jurisdictions 
+that  are  parties  to  an  International  Agreement  and  (ii)  that  requires  the 
+automatic  exchange  of  Country-by-Country  Reports  between  the  party 
+jurisdictions.
+
+11. 
+The  term  “International  Agreement”  shall  mean  the  Multilateral 
+Convention  for  Mutual  Administrative  Assistance  in  Tax  Matters,  any 
+bilateral or multilateral Tax Convention, or any Tax Information Exchange 
+Agreement to which [Jurisdiction] is a party, and that by its terms provides 
+legal  authority  for  the  exchange  of  tax  information  between  jurisdictions, 
+includ

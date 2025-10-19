@@ -1,0 +1,86 @@
+ enterprises. Taxpayers should be prepared 
+to show that the package deal reflects appropriate transfer pricing.
+
+A.3.2. Intentional set-offs
+
+3.13.  An intentional set-off is one that associated enterprises incorporate 
+knowingly into the terms of the controlled transactions. It occurs when one 
+associated enterprise has provided a benefit to another associated enterprise 
+within  the  group  that  is  balanced  to  some  degree  by  different  benefits 
+received from that enterprise in return. These enterprises may indicate that 
+the benefit each has received should be set off against the benefit each has 
+provided as full or part payment for those benefits so that only the net gain 
+or  loss  (if  any)  on  the  transactions  needs  to  be  considered  for  purposes  of 
+assessing  tax  liabilities.  For  example,  an  enterprise  may  license  another 
+enterprise to use a patent in return for the provision of know-how in another 
+connection  and  indicate  that  the  transactions  result  in  no  profit  or  loss  to 
+either  party.  Such  arrangements  may  sometimes  be  encountered  between 
+independent enterprises and should be assessed in accordance with the arm’s 
+length  principle  in  order  to  quantify  the  value  of  the  respective  benefits 
+presented as set-offs.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+154 – CHAPTER III: COMPARABILITy ANALySIS
+
+3.14. 
+Intentional set-offs may vary in size and complexity. Such set-offs 
+may range from a simple balance of two transactions (such as a favourable 
+selling  price  for  manufactured  goods  in  return  for  a  favourable  purchase 
+price for the raw material used in producing the goods) to an arrangement 
+for a general settlement balancing all benefits accruing to both parties over 
+a  period.  Independent  enterprises  would  be  very  unlikely  to  consider  the 
+latter type of arrangement unless the benefits could be sufficiently accurately 
+quantified  and  the  contract  is  created  in  advance.  Otherwise,  independent 
+enterprises normally would prefer to allow their receipts and disbursements 
+to flow independently of each other, taking any profit or loss resulting from 
+normal trading.
+
+3.15.  Recognition of intentional set-offs does not change the fundamental 
+requirement that for tax purposes the transfer prices for controlled transactions 
+must be consistent with the arm’s length principle. It would be a good practice 
+for  taxpayers  to  disclose  the  existence  of  set-offs  intentionally  built  into 
+two  or  more  transactions  between  associated  enterprises  and  demonstrate 
+(or  acknowledge  that  they  have  relevant  supporting  information  and  have 
+undertaken sufficient analysis to be able to show) that, after taking account of 
+the set-offs, the conditions governing the transactions are consistent with the 
+arm’s length principle.
+
+3.16. 
+It may be necessary to evaluate the transactions separately to determine 
+whether they each satisfy the arm’s length principle. If the transactions are to 
+be analysed together, care should be taken in selecting comparable transactions 
+and regard had to the discussion in paragraphs 3.9-3.12. The terms of set-offs 
+relating  to  international  transactions  between  associated  enterprises  may  not 
+be fully consistent with those relating to purely domestic transactions between 
+independent  enterprises  because  of  the  differences  in  tax  treatment  of  the 
+set-off under different national tax systems or differences in the treatment of 
+the payment under a bilateral tax treaty. For example, withholding tax would 
+complicate a set-off of royalties against sales receipts.
+
+3.17.  A taxpayer may seek on examination a reduction in a transfer pricing 
+adjustment based on an unintentional over-reporting of taxable income. Tax 
+administrations  in  their  discretion  may  or  may  not  grant  this  request.  Tax 
+administrations  may  also  consider  such  requests  in  the  context  of  mutual 
+agreement procedures and corresponding adjustments (see Chapter IV).
+
+A.3.3. Choice of the tested party
+
+3.18.  When applying a cost plus, resale price or transactional net margin 
+method as described in Chapter II, it is necessary to choose the party to the 
+transaction for which a financial indicator (mark-up on costs, gross margin, 
+or  net  profit  indicator)  is  tested.  The  choice  of  the  tested  party  should  be 
+consistent with the functional analysis of the transaction. As a general rule, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER III: COMPARABILITy ANALySIS – 155
+
+the tested party is the one to which a transfer pricing method can be applied 
+in the most reliable manner and for which the most reliable comparables can 
+be found, i.e. it will most often be the one that has the less complex functional 
+analysis.
+
+3.19. 
+This can be illustrated as follows. Assume that company A manufactures 
+two  types  of  products,  P1  and  P2,  that  it  sells  to  compa

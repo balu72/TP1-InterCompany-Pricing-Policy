@@ -1,0 +1,97 @@
+ of identifying comparables are discussed in Chapter V.
+
+A.6.  Comparability adjustments
+
+3.47.  The  need  to  adjust  comparables  and  the  requirement  for  accuracy 
+and reliability are pointed out in these Guidelines on several occasions, both 
+for the general application of the arm’s length principle and more specifically 
+in  the  context  of  each  method.  To  be  comparable  means  that  none  of  the 
+differences (if any) between the situations being compared could materially 
+affect the condition being examined in the methodology or that reasonably 
+accurate  adjustments  can  be  made  to  eliminate  the  effect  of  any  such 
+differences.  Whether  comparability  adjustments  should  be  performed  (and 
+if so, what adjustments should be performed) in a particular case is a matter 
+of judgment that should be evaluated in light of the discussion of costs and 
+compliance burden in Section C.
+
+A.6.1. Different types of comparability adjustments
+
+3.48.  Examples  of  comparability  adjustments  include  adjustments  for 
+accounting  consistency  designed  to  eliminate  differences  that  may  arise 
+from differing accounting practices between the controlled and uncontrolled 
+transactions;  segmentation  of  financial  data  to  eliminate  significant  non-
+comparable  transactions;  adjustments  for  differences  in  capital,  functions, 
+assets, risks.
+
+3.49.  An  example  of  a  working  capital  adjustment  designed  to  reflect 
+differing  levels  of  accounts  receivable,  accounts  payable  and  inventory  is 
+provided  in  the  Annex  to  Chapter  III.  The  fact  that  such  adjustments  are 
+found in practice does not mean that they should be performed on a routine or 
+mandatory basis. Rather, the improvement to comparability should be shown 
+when proposing these types of adjustments (as for any type of adjustment). 
+Further, a significantly different level of relative working capital between the 
+controlled and uncontrolled parties may result in further investigation of the 
+comparability characteristics of the potential comparable.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+164 – CHAPTER III: COMPARABILITy ANALySIS
+
+A.6.2. Purpose of comparability adjustments
+
+3.50.  Comparability adjustments should be considered if (and only if) they 
+are expected to increase the reliability of the results. Relevant considerations 
+in  this  regard  include  the  materiality  of  the  difference  for  which  an 
+adjustment is being considered, the quality of the data subject to adjustment, 
+the purpose of the adjustment and the reliability of the approach used to make 
+the adjustment.
+
+3.51. 
+It bears emphasis that comparability adjustments are only appropriate 
+for  differences  that  will  have  a  material  effect  on  the  comparison.  Some 
+differences will invariably exist between the taxpayer’s controlled transactions 
+and the third party comparables. A comparison may be appropriate despite an 
+unadjusted difference, provided that the difference does not have a material 
+effect  on  the  reliability  of  the  comparison.  On  the  other  hand,  the  need  to 
+perform  numerous  or  substantial  adjustments  to  key  comparability  factors 
+may  indicate  that  the  third  party  transactions  are  in  fact  not  sufficiently 
+comparable.
+
+3.52. 
+It is not always the case that adjustments are warranted. For instance, 
+an adjustment for differences in accounts receivable may not be particularly 
+useful  if  major  differences  in  accounting  standards  were  also  present  that 
+could  not  be  resolved.  Likewise,  sophisticated  adjustments  are  sometimes 
+applied to create the false impression that the outcome of the comparables 
+search is “scientific”, reliable and accurate.
+
+A.6.3. Reliability of the adjustment performed
+
+3.53. 
+It is not appropriate to view some comparability adjustments, such as 
+for differences in levels of working capital, as “routine” and uncontroversial, 
+and  to  view  certain  other  adjustments,  such  as  for  country  risk,  as  more 
+subjective  and  therefore  subject  to  additional  requirements  of  proof  and 
+reliability.  The  only  adjustments  that  should  be  made  are  those  that  are 
+expected to improve comparability.
+
+A.6.4. Documenting and testing comparability adjustments
+
+3.54.  Ensuring the needed level of transparency of comparability adjustments 
+may  depend  upon  the  availability  of  an  explanation  of  any  adjustments 
+performed, the reasons for the adjustments being considered appropriate, how 
+they  were  calculated,  how  they  changed  the  results  for  each  comparable  and 
+how the adjustment improves comparability. Issues regarding documentation of 
+comparability adjustments are discussed in Chapter V.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER III: COMPARABILITy ANALySIS – 165
+
+A.7. Arm’s length range
+
+A.7.1. In general
+
+3.55. 
+In some cases it will be possible to apply the arm’s length principle 
+to arr

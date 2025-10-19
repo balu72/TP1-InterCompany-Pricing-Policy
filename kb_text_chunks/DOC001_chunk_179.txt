@@ -1,0 +1,82 @@
+ the position that it was 
+not possible at the time of the transfer to predict the subsequent success of 
+the product with full certainty. The difference between the ex ante and ex 
+post value of the intangible would therefore be claimed by the taxpayer to be 
+attributable to more favourable developments than anticipated. The general 
+experience  of  tax  administrations  in  these  situations  is  that  they  may  not 
+have the specific business insights or access to the information to be able to 
+examine the taxpayer’s claim and to demonstrate that the difference between 
+the  ex  ante  and  ex  post  value  of  the  intangible  is  due  to  non-arm’s  length 
+pricing  assumptions  made  by  the  taxpayer.  Instead,  tax  administrations 
+seeking to examine the taxpayer’s claim are largely dependent on the insights 
+and information provided by that taxpayer. These situations associated with 
+information asymmetry between taxpayers and tax administrations can give 
+rise to transfer pricing risk. See paragraph 6.191.
+
+In these situations involving the transfer of an intangible or rights in 
+6.187. 
+an intangible ex post outcomes can provide a pointer to tax administrations 
+about the arm’s length nature of the ex ante pricing arrangement agreed upon 
+by the associated enterprises, and the existence of uncertainties at the time of 
+the transaction. If there are differences between the ex ante projections and 
+the ex post results which are not due to unforeseeable developments or events, 
+the differences may give an indication that the pricing arrangement agreed 
+upon  by  the  associated  enterprises  at  the  time  the  transaction  was  entered 
+into may not have adequately taken into account the relevant developments 
+or events that might have been expected to affect the value of the intangible 
+and the pricing arrangements adopted.
+
+6.188.  In  response  to  the  considerations  discussed  above,  this  section 
+contains  an  approach  consistent  with  the  arm’s  length  principle  that  tax 
+administrations can adopt to ensure that tax administrations can determine 
+in  which  situations  the  pricing  arrangements  as  set  by  the  taxpayers  are  at 
+arm’s  length  and  are  based  on  an  appropriate  weighting  of  the  foreseeable 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+304 – CHAPTER VI: INTANGIBLES
+
+developments  or  events  that  are  relevant  for  the  valuation  of  certain  hard-
+to-value  intangibles,  and  in  which  situations  this  is  not  the  case.  Under 
+this  approach,  ex  post  evidence  provides  presumptive  evidence  as  to  the 
+existence of uncertainties at the time of the transaction, whether the taxpayer 
+appropriately took into account reasonably foreseeable developments or events 
+at the time of the transaction, and the reliability of the information used ex 
+ante in determining the transfer price for the transfer of such intangibles or 
+rights in intangibles. Such presumptive evidence may be subject to rebuttal 
+as stated in paragraphs 6.193 and 6.194, if it can be demonstrated that it does 
+not affect the accurate determination of the arm’s length price. This situation 
+should be distinguished from the situation in which hindsight is used by taking 
+ex post results for tax assessment purposes without considering whether the 
+information on which the ex post results are based could or should reasonably 
+have been known and considered by the associated enterprises at the time the 
+transaction was entered into.
+
+6.189.  The  term  hard-to-value  intangibles  (HTVI)  covers  intangibles 
+or  rights  in  intangibles  for  which,  at  the  time  of  their  transfer  between 
+associated enterprises, (i) no reliable comparables exist, and (ii) at the time the 
+transactions was entered into, the projections of future cash flows or income 
+expected  to  be  derived  from  the  transferred  intangible,  or  the  assumptions 
+used  in  valuing  the  intangible  are  highly  uncertain,  making  it  difficult  to 
+predict the level of ultimate success of the intangible at the time of the transfer.
+
+6.190.  Transactions involving the transfer or the use of HTVI in paragraph 6.189 
+may exhibit one or more of the following features:
+
+•  The intangible is only partially developed at the time of the transfer.
+
+•  The  intangible  is  not  expected  to  be  exploited  commercially  until 
+
+several years following the transaction.
+
+•  The intangible does not itself fall within the definition of HTVI in 
+paragraph 6.189 but is integral to the development or enhancement of 
+other intangibles which fall within that definition of HTVI.
+
+•  The intangible is expected to be exploited in a manner that is novel 
+at  the  time  of  the  transfer  and  the  absence  of  a  track  record  of 
+development or exploitation of similar intangibles makes projections 
+highly uncertain.
+
+•  The intangible, meeting the definition of HTVI under paragraph 6.189, 
+has  been  transferred  to  an  asso

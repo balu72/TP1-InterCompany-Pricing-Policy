@@ -1,0 +1,91 @@
+s.
+4.164.  In addition to the foregoing concerns, there are a number of possible 
+pitfalls  as  described  below  that  could  arise  if  an  APA  programme  were 
+improperly  administered,  and  tax  administrations  who  use  APAs  should 
+make strong efforts to eliminate the occurrence of these problems as APA 
+practice evolves.
+4.165.  For example, an APA might seek more detailed industry and taxpayer 
+specific information than would be requested in a transfer pricing examination. 
+In principle, this should not be the case and the documentation required for an 
+APA should not be more onerous than for an examination, except for the fact 
+that in an APA the tax administration will need to have details of predictions 
+and the basis for those predictions, which may not be central issues in a transfer 
+pricing examination that focuses on completed transactions. In fact, an APA 
+should  seek  to  limit  the  documentation,  as  discussed  above,  and  focus  the 
+documentation more closely on the issues in light of the taxpayer’s business 
+practices. Tax administrations need to recognise that:
+
+a)  Publicly available information on competitors and comparables 
+
+is limited;
+
+b)  Not all taxpayers have the capacity to undertake in-depth market 
+
+analyses; and,
+
+c)  Only parent companies may be knowledgeable about group pricing 
+
+policies.
+
+4.166.  Another possible concern is that an APA may allow the tax administration 
+to  make  a  closer  study  of  the  transactions  at  issue  than  would  occur  in 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+222 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+the  context  of  a  transfer  pricing  examination,  depending  on  the  facts  and 
+circumstances.  The  taxpayer  must  provide  detailed  information  relating 
+to  its  transfer  pricing  and  satisfy  any  other  requirements  imposed  for  the 
+verification  of  compliance  with  the  terms  and  conditions  of  the  APA. 
+At  the  same  time,  the  taxpayer  is  not  sheltered  from  normal  and  routine 
+examinations by the tax administration on other issues. An APA also does 
+not shelter a taxpayer from examination of its transfer pricing activities. The 
+taxpayer may still have to establish that it has complied in good faith with 
+the terms and conditions of the APA, that the material representations in the 
+APA remain valid, that the supporting data used in applying the methodology 
+were correct, that the critical assumptions underlying the APA are still valid 
+and are applied consistently, and that the methodology is applied consistently. 
+Tax administrations should, therefore, seek to ensure that APA procedures 
+are not unnecessarily cumbersome and that they do not make more demand 
+of taxpayers than are strictly required by the scope of the APA application.
+
+4.167.  Problems could also develop if tax administrations misuse information 
+obtained in an APA in their examination practices. If the taxpayer withdraws 
+from its APA request or if the taxpayer’s application is rejected after consideration 
+of  all  of  the  facts,  any  nonfactual  information  provided  by  the  taxpayer  in 
+connection with the APA request, such as settlement offers, reasoning, opinions, 
+and judgments, cannot be treated as relevant in any respect to the examination. 
+In addition, the fact that a taxpayer has applied unsuccessfully for an APA should 
+not be taken into account by the tax administration in determining whether to 
+commence an examination of that taxpayer.
+
+4.168.  Tax administrations also should ensure the confidentiality of trade 
+secrets  and  other  sensitive  information  and  documentation  submitted 
+to  them  in  the  course  of  an  APA  proceeding.  Therefore,  domestic  rules 
+against disclosure should be applied. In a bilateral APA the confidentiality 
+requirements  on  treaty  partners  would  apply,  thereby  preventing  public 
+disclosure of confidential data.
+
+4.169.  An  APA  programme  cannot  be  used  by  all  taxpayers  because  the 
+procedure can be expensive and time-consuming and small taxpayers generally 
+may not be able to afford it. This is especially true if independent experts are 
+involved.  APAs  may  therefore  only  assist  in  resolving  mainly  large  transfer 
+pricing cases. In addition, the resource implications of an APA programme may 
+limit the number of requests a tax administration can entertain. In evaluating 
+APAs, tax administrations can alleviate these potential problems by ensuring 
+that the level of inquiry is adjusted to the size of the international transactions 
+involved.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 223
+
+F.5. Recommendations
+
+F.5.1. In general
+
+4.170.  Since the Guidelines were published in their original version in 1995, a 
+significant number of OECD member countries have acquired experience with 
+APAs. Those jurisdictions which do have some experience seem to be satisfied 
+so  far,  so  that  it  can  be  

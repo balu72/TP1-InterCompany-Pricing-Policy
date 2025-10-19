@@ -1,0 +1,88 @@
+ a  primary  level,  the  taxing  rights  that  each  jurisdiction  asserts 
+5. 
+depend on whether the jurisdiction uses a system of taxation that is residence-
+based, source-based, or both. In a residence-based tax system, a jurisdiction 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+12 – PREFACE
+
+will include in its tax base all or part of the income, including income from 
+sources outside that jurisdiction, of any person (including juridical persons 
+such  as  corporations)  who  is  considered  resident  in  that  jurisdiction.  In  a 
+source-based tax system, a jurisdiction will include in its tax base income 
+arising  within  its  tax  jurisdiction,  irrespective  of  the  residence  of  the 
+taxpayer. As applied to MNEs, these two bases, often used in conjunction, 
+generally treat each enterprise within the MNE group as a separate entity. 
+OECD member countries have chosen this separate entity approach as  the 
+most  reasonable  means  for  achieving  equitable  results  and  minimising  the 
+risk of unrelieved double taxation. Thus, each individual group member is 
+subject to tax on the income arising to it (on a residence or source basis).
+
+6. 
+In order to apply the separate entity approach to intra-group transactions, 
+individual group members must be taxed on the basis that they act at arm’s 
+length in their transactions with each other. However, the relationship among 
+members of an MNE group may permit the group members to establish special 
+conditions  in  their  intra-group  relations  that  differ  from  those  that  would 
+have  been  established  had  the  group  members  been  acting  as  independent 
+enterprises operating in open markets. To ensure the correct application of the 
+separate  entity  approach,  OECD  member  countries  have  adopted  the  arm’s 
+length principle, under which the effect of special conditions on the levels of 
+profits should be eliminated.
+
+7. 
+These international taxation principles have been chosen by OECD 
+member countries as serving the dual objectives of securing the appropriate 
+tax  base  in  each  jurisdiction  and  avoiding  double  taxation,  thereby 
+minimising conflict between tax administrations and promoting international 
+trade and investment. In a global economy, co-ordination among jurisdictions 
+is better placed to achieve these goals than tax competition. The OECD, with 
+its  mission  to  contribute  to  the  expansion  of  world  trade  on  a  multilateral, 
+non-discriminatory  basis  and  to  achieve  the  highest  sustainable  economic 
+growth in member countries, has continuously worked to build a consensus 
+on international taxation principles, thereby avoiding unilateral responses to 
+multilateral problems.
+
+8. 
+The  foregoing  principles  concerning  the  taxation  of  MNEs  are 
+incorporated in the OECD Model Tax Convention on Income and on Capital 
+(OECD  Model  Tax  Convention),  which  forms  the  basis  of  the  extensive 
+network  of  bilateral  income  tax  treaties  between  OECD  member  countries 
+and between OECD member and non-member countries. These principles also 
+are incorporated in the Model United Nations Double Taxation Convention 
+between Developed and Developing Nations.
+
+The  main  mechanisms  for  resolving  issues  that  arise  in  the 
+9. 
+application  of  international  tax  principles  to  MNEs  are  contained  in  these 
+bilateral treaties. The Articles that chiefly affect the taxation of MNEs are: 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+PREFACE – 13
+
+Article  4,  which  defines  residence;  Articles  5  and  7,  which  determine  the 
+taxation of permanent establishments; Article 9, which relates to the taxation 
+of the profits of associated enterprises and applies the arm’s length principle; 
+Articles 10, 11, and 12, which determine the taxation of dividends, interest, 
+and royalties, respectively; and Articles 24, 25, and 26, which contain special 
+provisions  relating  to  non-discrimination,  the  resolution  of  disputes,  and 
+exchange of information.
+
+10. 
+The Committee on Fiscal Affairs, which is the main tax policy body 
+of the OECD, has issued a number of reports relating to the application of 
+these Articles to MNEs and to others. The Committee has encouraged the 
+acceptance of common interpretations of these Articles, thereby reducing the 
+risk of inappropriate taxation and providing satisfactory means of resolving 
+problems arising from the interaction of the laws and practices of different 
+jurisdictions.
+
+In applying the foregoing principles to the taxation of MNEs, one of 
+11. 
+the most difficult issues that has arisen is the establishment for tax purposes 
+of  appropriate  transfer  prices.  Transfer  prices  are  the  prices  at  which  an 
+enterprise transfers physical goods and intangible property or provides services 
+to  associated  enterprises.  For  purposes  of  these  Guidelines,  an  “associated 
+enterprise” is an enterprise that satisfies the conditions set forth in 

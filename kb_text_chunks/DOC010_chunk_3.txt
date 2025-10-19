@@ -1,0 +1,129 @@
+he  documentation  requirements  as  per  Indian 
+
+transfer  pricing  regulations?
+
+1.3.1  TP  Documentation/Local  File:  Section  92D(1)  provides  that 
+every  person  who  has  undertaken  an  international  transaction 
+or  specified  domestic  transaction  shall  keep  and  maintain  such 
+information and documents in respect of such transactions as may 
+be prescribed. This information requirement is in line with the local 
+file  recommended  by  OECD  BEPS  Action  13. 
+
+1.3.2  Master File and Country by Country Reporting: Further Section 
+92D was amended to provide for maintaining of the Master File by 
+every constituent entity of an International Group (IG) and filing of 
+CbC report to align with OECD three-tiered documentation approach. 
+Section 92D(2) emphasize on the information and documents to be 
+maintained  by  the  constituent  entity3  of  an  international  group4  in 
+respect  of  an  international  group. 
+
+1.3.3  The  ensuing  chapter  first  discusses  the  documentation 
+requirements for local file i.e. TP Study Report. The Master file and 
+CbC documentation requirements have been discussed subsequently 
+in  this  chapter.
+
+A. 
+
+Transfer  Pricing  Documentation  (TP  Study/Local  File)
+
+1.3.4  The  documentation  to  be  maintained  has  been  prescribed 
+under Rule 10D. Rule 10D(1) enunciated different types of documents 
+and  information  to  be  maintained  by  the  taxpayer  in  respect  of 
+its  international  transactions  whereas  Rule  10D(3)  list  down  the 
+
+3 
+
+4 
+
+“constituent  entity”  means,—
+(i)  any  separate  entity  of  an  international  group  that  is  included  in  the  consolidated 
+financial  statement  of  the  said  group  for  financial  reporting  purposes,  or  may  be  so 
+included  for  the  said  purpose,  if  the  equity  share  of  any  entity  of  the  international 
+group  were  to  be  listed  on  a  stock  exchange;
+(ii)  any  such  entity  that  is  excluded  from  the  consolidated  financial  statement  of  the 
+international  group  solely  on  the  basis  of  size  or  materiality;  or
+(iii)  any  permanent  establishment  of  any  separate  business  entity  of  the  international 
+group  included  in  sub-clause  (i)  or  sub-clause  (ii),  if  such  business  unit  prepares  a 
+separate  financial  statement  for  such  permanent  establishment  for  financial  reporting, 
+regulatory,  tax  reporting  or  internal  management  control  purposes;
+“international  group”  means  any  group  that  includes,—
+(i) two or more enterprises which are resident of different countries or territories; or
+(ii)  an  enterprise,  being  a  resident  of  one  country  or  territory,  which  carries  on 
+any  business  through  a  permanent  establishment  in  other  countries  or  territories;
+
+I-100
+
+Transfer Pricing – A CompendiumTransfer Pricing Documentation and its Critical Importance in Practice
+
+documents  to  be  maintained  in  support  of  the  same.  In  summary, 
+the  Rule  10D  provides  for  13  items  of  mandatory  documentation 
+and  an  additional  7  items  of  supporting  documentation  to  be 
+maintained  by  the  taxpayer,  which  inter  alia  include:
+
+l  Ownership  structure  of  the  taxpayer;
+
+l  Profile  of  multinational  group;
+
+l  Broad  description  of  the  business/industry  profile; 
+
+l  Nature  and  terms  (including  price)  of  international 
+
+transactions;
+
+l  Description  of  functions  performed,  risks  assumed,  and 
+
+assets  employed;
+
+•  Records  of  economic  and  market  analysis  (economic 
+
+analysis),  forecasts,  budget  etc.;
+
+•  A  record  of  uncontrolled  transactions  for  analysing 
+
+comparability  with  international  transactions;
+
+•  A record of analysis performed to evaluate comparability of 
+uncontrolled transactions vis-à-vis international transaction;
+
+•  Description of method considered with reasons of rejection 
+
+of  other  methods;
+
+•  A  record  of  the  actual  working  carried  out  to  determine 
+arm’s  length  price,  most  appropriate  method,  and 
+adjustments,  if  any;
+
+•  The  assumptions,  policies,  and  price  negotiations  if  any;
+
+•  Details  of  assumptions,  policies,  negotiations,  etc.  that 
+have  affected  the  determination  of  arm’s  length  price;
+
+•  Details  of  adjustment  made  to  transfer  prices  to  align 
+
+with  arm’s  length  price.
+
+1.3.5  Diagrammatic  Representation:  Interdependency  between  the 
+various  aspects  of  the  mandatory  documentation  requirements 
+noted  above  is  presented  by  way  of  the  following  chart: 
+
+I-101
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.3.6  Supporting Documentation: The supporting documentation to be 
+maintained as per Rule 10D(3) includes information regarding official 
+publications, reports, studies, and data bases from the Government 
+of  the  country  of  residence  of  the  associated  enterprise,  reports  of 
+market research studies carried out and technical publications, price 
+publications,  published  accounts 

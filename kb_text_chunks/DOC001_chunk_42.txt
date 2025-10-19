@@ -1,0 +1,82 @@
+stration 
+does not share the same views as to how the transaction should be structured. 
+It  should  again  be  noted  that  the  mere  fact  that  the  transaction  may  not 
+be  seen  between  independent  parties  does  not  mean  that  it  does  not  have 
+characteristics of an arm’s length arrangement.
+
+1.144.  The structure that for transfer pricing purposes, replaces that actually 
+adopted  by  the  taxpayers  should  comport  as  closely  as  possible  with  the 
+facts of the actual transaction undertaken whilst achieving a commercially 
+rational expected result that would have enabled the parties to come to a price 
+acceptable to both of them at the time the arrangement was entered into.
+
+1.145.  The criterion for non-recognition may be illustrated by the following 
+examples.
+
+Example 1
+
+1.146.  Company S1 carries on a manufacturing business that involves holding 
+substantial  inventory  and  a  significant  investment  in  plant  and  machinery. 
+It  owns  commercial  property  situated  in  an  area  prone  to  increasingly 
+frequent flooding in recent years. Third-party insurers experience significant 
+uncertainty  over  the  exposure  to  large  claims,  with  the  result  that  there  is 
+no  active  market  for  the  insurance  of  properties  in  the  area.  Company  S2, 
+an  associated  enterprise,  provides  insurance  to  Company  S1,  and  an  annual 
+premium representing 80% of the value of the inventory, property and contents 
+is paid by Company S1. In this example S1 has entered into a commercially 
+irrational transaction since there is no market for insurance given the likelihood 
+of  significant  claims,  and  either  relocation  or  not  insuring  may  be  more 
+attractive realistic alternatives. Since the transaction is commercially irrational, 
+there is not a price that is acceptable to both S1 and S2 from their individual 
+perspectives.
+
+1.147.  Under  the  guidance  in  this  section,  the  transaction  should  not  be 
+recognised. S1 is treated as not purchasing insurance and its profits are not 
+reduced  by  the  payment  to  S2;  S2  is  treated  as  not  issuing  insurance  and 
+therefore not being liable for any claim.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 77
+
+Example 2
+
+1.148.  Company  S1  conducts  research  activities  to  develop  intangibles 
+that it uses to create new products that it can produce and sell. It agrees to 
+transfer to an associated company, Company S2, unlimited rights to all future 
+intangibles  which  may  arise  from  its  future  work  over  a  period  of  twenty 
+years for a lump sum payment. The arrangement is commercially irrational 
+for both parties since neither Company S1 nor Company S2 has any reliable 
+means to determine whether the payment reflects an appropriate valuation, 
+both because it is uncertain what range of development activities Company S1 
+might conduct over the period and also because valuing the potential outcomes 
+would  be  entirely  speculative.  Under  the  guidance  in  this  section,  the 
+structure of the arrangement adopted by the taxpayer, including the form of 
+payment, should be modified for the purposes of the transfer pricing analysis. 
+The  replacement  structure  should  be  guided  by  the  economically  relevant 
+characteristics,  including  the  functions  performed,  assets  used,  and  risks 
+assumed, of the commercial or financial relations of the associated enterprises. 
+Those facts would narrow the range of potential replacement structures to the 
+structure most consistent with the facts of the case (for example, depending 
+on those facts the arrangement could be recast as the provision of financing 
+by Company S2, or as the provision of research services by Company S1, or, 
+if specific intangibles can be identified, as a licence with contingent payments 
+terms for the development of those specific intangibles, taking into account 
+the guidance on hard-to-value intangibles as appropriate).
+
+D.3.  Losses
+
+1.149.  When an associated enterprise consistently realises losses while the 
+MNE  group  as  a  whole  is  profitable,  the  facts  could  trigger  some  special 
+scrutiny  of  transfer  pricing  issues.  Of  course,  associated  enterprises,  like 
+independent  enterprises,  can  sustain  genuine  losses,  whether  due  to  heavy 
+start-up  costs,  unfavourable  economic  conditions,  inefficiencies,  or  other 
+legitimate business reasons. However, an independent enterprise would not 
+be  prepared  to  tolerate  losses  that  continue  indefinitely.  An  independent 
+enterprise  that  experiences  recurring  losses  will  eventually  cease  to 
+undertake business on such terms. In contrast, an associated enterprise that 
+realises  losses  may  remain  in  business  if  the  business  is  beneficial  to  the 
+MNE group as a whole.
+
+1.150.  The  fact  that  there  is  an  enterprise  making  losses  that  is  doing 
+business  with  profitable  members  

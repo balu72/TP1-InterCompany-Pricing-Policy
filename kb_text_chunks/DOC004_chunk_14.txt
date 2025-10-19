@@ -1,0 +1,331 @@
+ntry C
+
+2
+Y
+/
+6
+0
+/
+0
+3
+
+1
+
+Source: OECD. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+ 
+ 
+28 |   
+
+Example 2.b. 
+
+A Co’s CbC report for the 6 month reporting fiscal year ending 30 June 20Y2 includes the following information in 
+Table 1: 
+
+For Country A, information on A Co for the 6 month fiscal year from 1 January 20Y2 to 30 June 20Y2. 
+For Country B, information on B Co for the 12 month fiscal year from 1 July 20Y1 to 30 June 20Y2. 
+C Co does not have a fiscal year ending within the reporting fiscal year. Country C is listed in Table 1 with the 
+remaining columns completed with zeros. C Co is included in Table 2. An explanation is provided in Table 3. 
+
+1
+Y
+/
+6
+0
+/
+0
+3
+
+1
+Y
+/
+2
+1
+/
+1
+3
+
+2
+Y
+/
+6
+0
+/
+0
+3
+
+2
+Y
+/
+2
+1
+/
+1
+3
+
+Country A
+
+Country B
+
+Country C (no information in Table 1)
+
+Source: OECD 
+
+3
+Y
+/
+6
+0
+/
+0
+3
+
+2
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+ 
+Example 2.c. 
+
+A Co’s CbC report for the 12 month reporting fiscal year ending 30 June 20Y3 includes the following information:  
+
+For Country A, information on A Co for the 12 month fiscal year from 1 July 20Y2 to 30 June 20Y3. 
+For Country B, information on B Co for the 12 month fiscal year from 1 July 20Y2 to 30 June 20Y3. 
+For Country C, information on C Co for the 12 month fiscal year from 1 January 20Y2 to 31 December 20Y2. 
+
+  | 29 
+
+1
+Y
+/
+2
+1
+/
+1
+3
+
+2
+Y
+/
+6
+0
+/
+0
+3
+
+3
+Y
+/
+6
+0
+/
+0
+3
+
+2
+Y
+/
+2
+1
+/
+1
+3
+
+Country A
+
+Country B
+
+Country C
+
+Source: OECD 
+
+3
+Y
+/
+2
+1
+/
+1
+3
+
+3
+
+Where a Reporting MNE chooses to include information for the fiscal year of Constituent Entities ending 
+on the same date as the fiscal year of the Reporting MNE, or ending within the fiscal year of the Reporting 
+MNE, it should include in Table 3 the following explanations, if applicable. 
+
+• 
+
+• 
+
+If Table 1 includes information that relates to the fiscal year(s) of one or more Constituent Entities 
+that cover a period that  is  longer or shorter than the  fiscal year of the Reporting MNE, Table 3 
+should include one or more statements that “Table 1 includes information on [name of Constituent 
+Entity/Entities and residence jurisdictions] for the fiscal year [start date to end date of relevant fiscal 
+year]”.  
+
+If Table 1 does not include information on one or more Constituent Entities that do not have a fiscal 
+year  ending  in  the  fiscal  year  of  the  Reporting  MNE,  Table  3  should  include  a  statement  that 
+“Table 1 does not contain information on the following Constituent [Entity/Entities], which do not 
+have  a  fiscal  year  ending  in  the  reporting  fiscal  year:  [list  of  names  of  Constituent  Entities  and 
+residence jurisdictions]”.  
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+ 
+ 
+ 
+30 |   
+
+Example 3.a. 
+
+A Co, the UPE of MNE A, is resident in Country A and prepares its consolidated financial statements for the 12 month 
+period ending 31 December 20Y1. A Co then changes its fiscal year end and prepares its next set of consolidated 
+financial statements for the 18 month period ending 30 June 20Y3. Going forward, A Co prepares annual consolidated 
+financial statements for each fiscal year ending 30 June.  
+
+MNE A includes two other Constituent Entities: B Co which is resident in Country B and prepares entity financial 
+statements with a fiscal year end of 30 June; and C Co which is resident in Country C and prepares entity financial 
+statements with a fiscal year end of 31 December. A Co has chosen to include in its CbC report information for the 
+fiscal year of Constituent Entities ending within its own fiscal year.  
+
+A Co’s CbC report for the 12 month reporting fiscal year ending 31 December 20Y1 includes the following information 
+in Table 1: 
+
+For Country A, information on A Co for the 12 month fiscal year from 1 January 20Y1 to 31 December 20Y1. 
+For Country B, information on B Co for the 12 month fiscal year from 1 July 20Y0 to 30 June 20Y1. 
+For Country C, information on C Co for the 12 month fiscal year from 1 January 20Y1 to 31 December 
+
+0
+Y
+/
+6
+0
+/
+0
+3
+
+0
+Y
+/
+2
+1
+/
+1
+3
+
+Country B
+
+1
+Y
+/
+2
+1
+/
+1
+3
+
+1
+Y
+/
+6
+0
+/
+0
+3
+
+Country A
+
+Country C
+
+2
+Y
+/
+6
+0
+/
+0
+3
+
+1
+
+Source: OECD 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+Example 3.b. 
+
+A Co’s CbC report for the 18 month reporting fiscal year ending 30 June 20Y3 includes the following information in 
+Table 1: 
+
+For Country A, information on A Co for the 18 month fiscal year from 1 January 20Y2 to 30 June 20Y3. 
+For Country B, information on B Co for the 24 month fiscal year from 1 July 20Y1 to 30 June 20Y3. 
+For Country C, information on C Co for the 12 month fiscal year from 1 January 20Y2 to 31 December 20Y2. 
+
+  | 31 
+
+1
+Y
+/
+6
+0
+/
+0
+3
+
+1
+Y
+/
+2
+1
+/
+1
+3
+
+2
+Y
+/
+6
+0
+/
+0
+3
+
+2
+Y
+/
+2
+1
+/
+1
+3
+
+Country A
+
+Country B
+
+Country C
+Country C (no information in Table 1)
+
+3
+Y
+/
+6
+0
+/
+0
+3
+
+4
+
+S

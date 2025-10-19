@@ -1,0 +1,149 @@
+D 2022
+
+ABBREVIATIONS AND ACRONyMS – 17
+
+Abbreviations and acronyms
+
+APA
+BEPS
+CCA
+CbC
+CFC
+CUP
+DTC
+G20
+HTVI
+MAP
+MAP APA
+
+MNE
+MOU
+OECD
+
+Report on 
+BEPS Action 14
+R&D
+TIEA
+TNMM
+
+Advance price arrangements
+Base erosion and profit shifting
+Cost contribution arrangement
+Country-by-Country
+Controlled foreign company
+Comparable uncontrolled price
+Double taxation convention
+Group of twenty
+Hard-to-value intangibles
+Mutual agreement procedure
+Advance pricing arrangement under the mutual 
+agreement procedure
+Multinational enterprise
+Memorandum of understanding
+Organisation  for  Economic  Co-operation  and 
+Development
+2015 BEPS Report on Action 14 Making Dispute 
+Resolution Mechanisms More Effective
+Research and development
+Tax Information Exchange Agreement
+Transactional net margin method
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+GLOSSARy – 19
+
+Glossary
+
+Advance pricing arrangement (APA)
+
+An arrangement that determines, in advance of controlled transactions, 
+an  appropriate  set  of  criteria  (e.g.  method,  comparables  and  appropriate 
+adjustments  thereto,  critical  assumptions  as  to  future  events)  for  the 
+determination  of  the  transfer  pricing  for  those  transactions  over  a  fixed 
+period of time. An advance pricing arrangement may be unilateral involving 
+one tax administration and a taxpayer or multilateral involving the agreement 
+of two or more tax administrations.
+
+Arm’s length principle
+
+The  international  standard  that  OECD  member  countries  have  agreed 
+should  be  used  for  determining  transfer  prices  for  tax  purposes.  It  is  set 
+forth  in  Article  9  of  the  OECD  Model  Tax  Convention  as  follows:  where 
+“conditions  are  made  or  imposed  between  the  two  enterprises  in  their 
+commercial or financial relations which differ from those which would be 
+made  between  independent  enterprises,  then  any  profits  which  would,  but 
+for those conditions, have accrued to one of the enterprises, but, by reason of 
+those conditions, have not so accrued, may be included in the profits of that 
+enterprise and taxed accordingly”.
+
+Arm’s length range
+
+A  range  of  figures  that  are  acceptable  for  establishing  whether  the 
+conditions of a controlled transaction are arm’s length and that are derived 
+either from applying the same transfer pricing method to multiple comparable 
+data or from applying different transfer pricing methods.
+
+Associated enterprises
+
+Two enterprises are associated enterprises with respect to each other if 
+one of the enterprises meets the conditions of Article 9, sub-paragraphs 1a) or 
+1b) of the OECD Model Tax Convention with respect to the other enterprise.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+20 – GLOSSARy
+
+Balancing payment
+
+A payment, normally from one or more participants to another, to adjust 
+participants’ proportionate shares of contributions, that increases the value of 
+the contributions of the payer and decreases the value of the contributions of 
+the payee by the amount of the payment.
+
+Buy-in payment
+
+A payment made by a new entrant to an already active CCA for obtaining 
+
+an interest in any results of prior CCA activity.
+
+Buy-out payment
+
+Compensation that a participant who withdraws from an already active 
+CCA may receive from the remaining participants for an effective transfer of 
+its interests in the results of past CCA activities.
+
+Comparability analysis
+
+A  comparison  of  a  controlled  transaction  with  an  uncontrolled 
+transaction  or  transactions.  Controlled  and  uncontrolled  transactions  are 
+comparable  if  none  of  the  differences  between  the  transactions  could 
+materially affect the factor being examined in the methodology (e.g. price or 
+margin), or if reasonably accurate adjustments can be made to eliminate the 
+material effects of any such differences.
+
+Comparable uncontrolled transaction
+
+A  comparable  uncontrolled  transaction  is  a  transaction  between  two 
+independent  parties  that  is  comparable  to  the  controlled  transaction  under 
+examination. It can be either a comparable transaction between one party to 
+the controlled transaction and an independent party (“internal comparable”) 
+or  between  two  independent  parties,  neither  of  which  is  a  party  to  the 
+controlled transaction (“external comparable”).
+
+Comparable uncontrolled price (CUP) method
+
+A  transfer  pricing  method  that  compares  the  price  for  property  or 
+services  transferred  in  a  controlled  transaction  to  the  price  charged  for 
+property or services transferred in a comparable uncontrolled transaction in 
+comparable circumstances.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+GLOSSARy – 21
+
+Compensating adjustment
+
+An  adjustment  in  which  the  taxpayer  reports  a  transfer  price  for  tax 
+purposes  that  is,  in  the  taxpayer’s  opinion,  an  arm’s  length  price  for  a 
+controlled  transaction,  even  though  this  price  differs  from  the  amount 
+actually char

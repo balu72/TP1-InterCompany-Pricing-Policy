@@ -1,0 +1,74 @@
+se to another 
+or which in an arm’s length arrangement would be charged by one associated 
+enterprise to another. For example, exchange controls may effectively prevent 
+an associated enterprise from transferring interest payments abroad on a loan 
+made by another associated enterprise located in a different jurisdiction. This 
+circumstance  may  be  treated  differently  by  the  two  jurisdictions  involved: 
+the  jurisdiction  of  the  borrower  may  or  may  not  regard  the  untransferred 
+interest as having been paid, and the jurisdiction of the lender may or may not 
+treat the lender as having received the interest. As a general rule, where the 
+government intervention applies equally to transactions between associated 
+enterprises  and  transactions  between  independent  enterprises  (both  in  law 
+and in fact), the approach to this problem where it occurs between associated 
+enterprises  should  be  the  same  for  tax  purposes  as  that  adopted  for  trans-
+actions between independent enterprises. Where the government intervention 
+applies only to transactions between associated enterprises, there is no simple 
+solution to the problem. Perhaps one way to deal with the issue is to apply the 
+arm’s length principle viewing the intervention as a condition affecting the 
+terms  of  the  transaction.  Treaties  may  specifically  address  the  approaches 
+available to the treaty partners where such circumstances exist.
+
+1.155.  A difficulty with this analysis is that often independent enterprises 
+simply would not enter into a transaction in which payments were blocked. 
+An  independent  enterprise  might  find  itself  in  such  an  arrangement  from 
+time to time, most likely because the government interventions were imposed 
+subsequent  to  the  time  that  the  arrangement  began.  But  it  seems  unlikely 
+that an independent enterprise would willingly subject itself to a substantial 
+risk  of  non-payment  for  products  or  services  rendered  by  entering  into  an 
+arrangement  when  severe  government  interventions  already  existed  unless 
+the profit projections or anticipated return from the independent enterprise’s 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+80 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+proposed  business  strategy  are  sufficient  to  yield  it  an  acceptable  rate  of 
+return notwithstanding the existence of the government intervention that may 
+affect payment.
+
+1.156.  Because  independent  enterprises  might  not  engage  in  a  transaction 
+subject  to  government  interventions,  it  is  unclear  how  the  arm’s  length 
+principle  should  apply.  One  possibility  is  to  treat  the  payment  as  having 
+been  made  between  the  associated  enterprises,  on  the  assumption  that  an 
+independent  enterprise  in  a  similar  circumstance  would  have  insisted  on 
+payment by some other means. This approach would treat the party to whom 
+the  blocked  payment  is  owed  as  performing  a  service  for  the  MNE  group. 
+An alternative approach that may be available in some jurisdictions would be 
+to defer both the income and the relevant expenses of the taxpayer. In other 
+words, the party to whom this blocked payment was due would not be allowed 
+to  deduct  expenses,  such  as  additional  financing  costs,  until  the  blocked 
+payment  was  made.  The  concern  of  tax  administrations  in  these  situations 
+is  mainly  their  respective  tax  bases.  If  an  associated  enterprise  claims  a 
+deduction in its tax computations for a blocked payment, then there should 
+be corresponding income to the other party. In any case, a taxpayer should 
+not be permitted to treat blocked payments due from an associated enterprise 
+differently from blocked payments due from an independent enterprise.
+
+D.5.  Use of customs valuations
+
+1.157.  The  arm’s  length  principle  is  applied,  broadly  speaking,  by  many 
+customs  administrations  as  a  principle  of  comparison  between  the  value 
+attributable  to  goods  imported  by  associated  enterprises,  which  may  be 
+affected by the special relationship between them, and the value for similar 
+goods imported by independent enterprises. Valuation methods for customs 
+purposes however may not be aligned with the OECD’s recognised transfer 
+pricing methods. That being said, customs valuations may be useful to tax 
+administrations  in  evaluating  the  arm’s  length  character  of  a  controlled 
+transaction transfer price and vice versa. In particular, customs officials may 
+have contemporaneous information regarding the transaction that could be 
+relevant for transfer pricing purposes, especially if prepared by the taxpayer, 
+while tax authorities may have transfer pricing documentation which provides 
+detailed information on the circumstances of the transaction.
+
+1.158.  Taxpayers  may  have  competing  incentives  in  setting  values  for 
+customs and tax purposes. In general, a taxpayer importing goods m

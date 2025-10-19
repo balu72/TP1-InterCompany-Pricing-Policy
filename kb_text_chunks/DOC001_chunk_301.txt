@@ -1,0 +1,99 @@
+sales volume.
+
+d)  Assumptions about the nature of the functions and risks of the 
+
+enterprises involved in the transactions.
+
+e)  Assumptions  about  exchange  rates,  interest  rates,  credit  rating 
+
+and capital structure.
+
+f)  Assumptions  about  management  or  financial  accounting  and 
+
+classification of income and expenses; and
+
+g)  Assumptions  about  the  enterprises  that  will  operate  in  each 
+
+jurisdiction and the form in which they will do so.
+
+It  may  also  be  helpful  to  set  parameters  for  an  acceptable  level 
+45. 
+of  divergence  for  some  assumptions  in  advance,  in  order  to  provide  the 
+necessary  flexibility.  These  parameters  would  need  to  be  set  individually 
+for  each  particular  MAP  APA  and  would  form  part  of  the  negotiations 
+between the competent authorities. Only if the divergence from the prediction 
+exceeded the parameter would the assumption become “critical” and action 
+considered. Any action to be taken might also depend on the nature of the 
+assumption and the level of divergence.
+
+46. 
+If the reliability of the proposed transfer pricing methodology is known 
+to be sensitive to exchange rate fluctuations, it would seem sensible to design a 
+methodology that was capable of accommodating a certain degree of expected 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+530 – ANNEX II TO CHAPTER IV: ADVANCE PRICING ARRANGEMENTS
+
+fluctuation, perhaps by providing for prices to be adjusted to take into account 
+exchange rate movements. Also it could be agreed in advance that movements 
+in  either  direction  of  up  to  X%  would  require  no  action,  that  movements 
+greater than X% but less than y% would trigger a prospective review of the 
+methodology to make sure it remained appropriate, whilst a movement of more 
+than y% would mean that a critical assumption had been breached and it would 
+be necessary to prospectively re-negotiate the MAP APA. These parameters 
+would  need  to  be  set  individually  for  each  particular  MAP  APA  and  would 
+form part of the negotiation between the competent authorities.
+
+C.3.7. Unexpected results
+47. 
+A problem may arise when the results of applying the transfer pricing 
+methodology agreed in the MAP APA do not fulfil the expectations of one 
+of the parties, as that party may question whether the critical assumptions, 
+and  the  methodology  which  they  support,  are  still  valid.  The  resolution  of 
+such questions may take a considerable amount of time and effort, thereby 
+negating  one  of  the  objectives  of  the  whole  process.  One  possible  solution 
+to this problem is to include enough flexibility in the proposal to cope with 
+likely changes in the facts and circumstances so that unexpected results are 
+less likely to occur so that there is less risk that the MAP APA agreement 
+based upon the proposal will need to be renegotiated. The proposal must still, 
+of course, conform to the arm’s length principle.
+
+One way of achieving the above objective is to design a methodology 
+48. 
+that appropriately takes into account likely changes in facts and circumstances; 
+for example, some variation between projected and actual sales volume can be 
+built in to the pricing methodology at the outset by including prospective price 
+adjustment clauses or allowing pricing to vary with volume. The allowable level 
+of deviation should be set by reference to what would have been accepted by 
+independent parties.
+
+49. 
+Another  possible  way  of  achieving  the  objective  of  increasing 
+certainty, is to agree an acceptable range of results from applying the method 
+of  the  MAP  APA.  In  order  to  conform  with  the  arm’s  length  principle,  the 
+range should be agreed by all affected parties in advance, thereby avoiding the 
+use of hindsight, and based on what independent parties would have agreed 
+to  in  comparable  circumstances  (see  paragraphs  3.55-3.66  for  discussion  of 
+the range concept). For example, the quantum of an item, such as a royalty, 
+would be accepted so long as it remained within a certain range expressed as 
+a proportion of the profits.
+
+50. 
+If  the  results  fall  outside  the  agreed  range,  the  action  to  be  taken 
+would depend on what had been negotiated in the proposal in accordance with 
+the wishes of the parties. Some parties may not wish to take the risk that the 
+results will be significantly different from what they expected. Accordingly, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER IV: ADVANCE PRICING ARRANGEMENTS – 531
+
+they would use the range concept simply as a means of determining whether 
+a critical assumption had been breached as described in paragraph 46. Other 
+parties may place more emphasis on certainty of treatment than on avoiding 
+unexpected  results  and  so  may  agree  that  the  MAP  APA  should  contain  a 
+mechanism for adjusting the results so that they fall within the range agreed 
+in advance.
+
+C.3.8. Duration of the MA

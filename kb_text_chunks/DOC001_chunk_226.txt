@@ -1,0 +1,78 @@
+l law supports rights to indemnification for 
+the restructured entity under the facts of the case as accurately 
+delineated
+
+9.80. 
+In  the  assessment  of  whether  the  conditions  of  the  termination 
+or  non-renewal  of  an  existing  arrangement  are  arm’s  length,  the  possible 
+recourse that may be offered by the applicable commercial law might provide 
+some  helpful  insights.  The  applicable  commercial  legislation  or  case  law 
+may  provide  useful  information  on  indemnification  rights  and  terms  and 
+conditions  that  could  be  expected  in  case  of  termination  of  specific  types 
+of  agreements,  e.g.  of  a  distributorship  agreement.  Under  such  rules,  it 
+may  be  that  the  terminated  party  has  the  right  to  claim  before  the  courts 
+an  indemnification  irrespective  of  whether  or  not  it  was  provided  for  in 
+the  contract.  Where  the  parties  belong  to  the  same  MNE  group,  however, 
+the terminated party is unlikely in practice to litigate against its associated 
+enterprise  in  order  to  seek  such  an  indemnification,  and  the  conditions  of 
+the termination may therefore differ from the conditions that would be made 
+between independent enterprises in similar circumstances.
+
+F.2.  Whether the existence or absence of an indemnification 
+
+clause or similar provisions (as well as the terms of such a 
+clause where it exists) under the terms of the arrangement, as 
+accurately delineated, is arm’s length.
+
+9.81.  The accurate delineation of the transaction will identify whether an 
+indemnification  clause  or  arrangement  is  in  place  upon  termination,  non-
+renewal or re-negotiation of the arrangements. In order to do so, the starting 
+point  should  be  a  review  of  whether  an  indemnification  clause  or  similar 
+provision for termination, non-renewal or renegotiation is provided for, and 
+of  whether  the  conditions  for  termination,  non-renewal  or  renegotiation  of 
+the contract were respected (e.g. with regard to any required notice period). 
+However, the examination of the terms of the contract between the associated 
+enterprises may not suffice from a transfer pricing perspective as the mere 
+fact  that  a  given  terminated,  non-renewed  or  renegotiated  contract  did  not 
+provide an indemnification or similar provision does not necessarily mean 
+that this is arm’s length, as discussed below.
+
+9.82.  As  noted  in  paragraph  1.46,  in  transactions  between  independent 
+enterprises,  the  divergence  of  interests  between  the  parties  ensures  that: 
+(i) contractual terms are concluded that reflect the interest of both parties, 
+(ii)  the  parties  will  ordinarily  seek  to  hold  each  other  to  the  terms  of  the 
+contract,  and  (iii)  that  contractual  terms  will  be  ignored  or  modified  after 
+the  fact  generally  only  if  it  is  in  the  interests  of  both  parties.  However, 
+this  same  divergence  of  interest  may  not  exist  in  the  case  of  associated 
+enterprises or any such divergences may be managed in ways facilitated by 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+386 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+the relationship between the associated enterprises and not solely or mainly 
+through  contractual  agreements.  For  this  reason,  when  the  facts  of  the 
+case differ from the written terms of the agreement between the parties or 
+when no written terms exist, the absence or existence (and its terms) of an 
+indemnification clause should be deduced from the conduct of the parties. For 
+instance, it may be that, on the basis of the facts of the case and of the actual 
+conduct  of  the associated enterprises, it  is determined  that the term of the 
+contract is longer than established in the written contract, which would entitle 
+the terminated party to some indemnification in case of early termination.
+
+9.83.  Once the existence or absence of an indemnification clause in favour 
+of  the  restructured  entity  upon  termination,  non-renewal  or  substantial 
+renegotiation  of  the  agreements  has  been  determined,  the  analysis  should 
+then focus on assessing whether such indemnification clause and its terms (or 
+absence thereof) are arm’s length. Where comparables data evidence a similar 
+indemnification clause (or absence thereof) in comparable circumstances, the 
+indemnification clause (or absence thereof) in a controlled transaction will be 
+regarded as arm’s length.
+
+9.84.  However, in those cases where such comparables data are not found, 
+the determination of whether the indemnification clause (or absence thereof) 
+is  arm’s  length  should  take  into  account  the  rights  and  other  assets  of  the 
+parties  at  the  time  of  entering  into  the  arrangement  and  of  its  termination 
+or renegotiation. This analysis might also be assisted by an examination of 
+the options realistically available to the parties, as in some situations, it may 
+be the case that, in

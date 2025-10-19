@@ -1,0 +1,83 @@
+is for administrative simplicity (as in Example 1 
+in Annex I to Chapter VI), or whether the restructuring changes the identity 
+of the parties performing or controlling functions related to the development, 
+enhancement, maintenance, protection, and exploitation of intangibles.
+
+9.59.  The arm’s length principle requires an evaluation of the conditions 
+made  or  imposed  between  associated  enterprises,  at  the  level  of  each  of 
+them. The fact that centralisation of legal ownership of intangibles may be 
+motivated by sound commercial reasons at the level of the MNE group does 
+not  answer  the  question  whether  the  conditions  of  the  transfer  are  arm’s 
+length from the perspectives of both the transferor and the transferee.
+
+9.60.  Also  in  the  case  where  a  local  operation  disposes  of  the  legal 
+ownership of its intangibles to a foreign associated enterprise and continues 
+to use the intangibles further to the disposal, but does so in a different legal 
+capacity (e.g. as a licensee), the conditions of the transfer should be assessed 
+from both the transferor’s and the transferee’s perspectives. The determination 
+of  an  arm’s  length  remuneration  for  the  subsequent  ownership,  control  and 
+exploitation  of  the  transferred  intangible  should  take  account  of  the  extent 
+of  the  functions  performed,  assets  used  and  risks  assumed  by  the  parties 
+in  relation  to  the  intangible  transferred,  and  in  particular  analysing  control 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 379
+
+of  risks  and  control  of  functions  performed  relating  to  the  development, 
+enhancement, maintenance, protection, or exploitation of the intangibles.
+
+9.61.  Where  the  business  restructuring  provides  for  a  transfer  of  an 
+intangible  followed  by  a  new  arrangement  whereby  the  transferor  will 
+continue  to  use  the  intangible  transferred,  the  entirety  of  the  commercial 
+arrangement between the parties should be examined in order to accurately 
+delineate  the  transaction.  If  an  independent  party  were  to  transfer  an  asset 
+that it intends to continue exploiting, it would be prudent for it to negotiate the 
+conditions of such a future use (e.g. in a license agreement) concomitantly with 
+the conditions of the transfer. In effect, there will generally be a relationship 
+between the determination of an arm’s length compensation for the transfer, 
+the determination of an arm’s length compensation for the post-restructuring 
+transactions in relation to the transferred intangible, such as future licence fees 
+that may be payable by the transferor to be able to continue using the asset, 
+and the expected future profitability of the transferor from its future use of 
+the asset. For instance, in an arrangement whereby a patent is transferred for 
+a price of 100 in year N and a licence agreement is concomitantly concluded 
+according to which the transferor will continue to use the patent transferred 
+in exchange for a royalty of 100 per year over a 10-year period, it is likely 
+that at least one of the two prices is not arm’s length or that the arrangement 
+should be delineated as something other than a sale and concomitant license 
+back. In some circumstances, the accurate delineation of the transaction might 
+conclude that the arrangements reflect the provision of financing, as illustrated 
+in Example 16 in Annex I to Chapter VI.
+
+E.2.2.  Intangible transferred at a point in time when its valuation is 
+
+highly uncertain
+
+9.62.  Difficulties can arise in the context of business restructuring where 
+the  valuation  of  an  intangible  or  rights  in  an  intangible  at  the  time  of  the 
+transaction is highly uncertain. In these cases, the question arises as to how 
+arm’s length pricing should be determined. The question should be resolved, 
+both by taxpayers and tax administrations, by reference to what independent 
+enterprises would have done in comparable circumstances to take account of 
+the valuation uncertainty in the pricing of the transaction. To this aim, the 
+guidance in Section D.3 of Chapter VI is relevant.
+
+9.63. 
+In  addition,  where  the  intangible  being  transferred  as  a  result  of 
+the  restructuring  meets  the  criteria  for  being  considered  a  hard-to  value-
+intangible in paragraph 6.189, then the guidance in Section D.4 of Chapter VI 
+is applicable.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+380 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+E.2.3. Local intangibles
+
+9.64.  Where  a  local  full-fledged  operation  is  converted  into  an  operation 
+assuming limited risk, using limited intangibles and receiving low remuneration, 
+the  questions  arise  of  whether  this  conversion  entails  the  transfer  by  the 
+restructured local entity to a foreign associated enterprise of valuable intangibles 
+or rights in intangibles and whether there are local intangibles that remain with 
+the 

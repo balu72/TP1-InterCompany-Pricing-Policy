@@ -1,0 +1,96 @@
+s of the Guidelines to 
+which they refer, those principles must be applied in each case according to the 
+specific facts and circumstances of that case.
+
+This example is provided for illustration purposes as it represents one way, but not 
+necessarily the only way, in which such an adjustment can be calculated.
+
+Furthermore,  the  comments  below  relate  to  the  application  of  a  transactional 
+net  margin  method  in  the  situations  where,  given  the  facts  and  circumstances 
+of  the  case  and  in  particular  the  comparability  (including  functional)  analysis 
+of  the  transaction  and  the  review  of  the  information  available  on  uncontrolled 
+comparables, such a method is found to be the most appropriate method to be used.
+
+Introduction
+
+1. 
+This simple example shows how to make an adjustment in recognition 
+of differences in levels of working capital between a tested party (TestCo) and 
+a  comparable  (CompCo).  See  paragraphs  3.47-3.54  of  these  Guidelines  for 
+general guidance on comparability adjustments. Working capital adjustments 
+may  be  warranted  when  applying  the  transactional  net  margin  method.  In 
+practice  they  are  usually  found  when  applying  a  transactional  net  margin 
+method,  although  they  might  also  be  applicable  in  cost  plus  or  resale  price 
+methods.  Working  capital  adjustments  should  only  be  considered  when  the 
+reliability  of  the  comparables  will  be  improved  and  reasonably  accurate 
+adjustments can be made. They should not be automatically made and would 
+not be automatically accepted by tax administrations.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+490 – ANNEX TO CHAPTER III: EXAMPLE ON WORKING CAPITAL ADJUSTMENT
+
+Why make a working capital adjustment?
+
+In a competitive environment, money has a time value. If a company 
+2. 
+provided,  say,  60  days  trade  terms  for  payment  of  accounts,  the  price  of  the 
+goods should equate to the price for immediate payment plus 60 days of interest 
+on  the  immediate  payment  price.  By  carrying  high  accounts  receivable  a 
+company is allowing its customers a relatively long period to pay their accounts. 
+It would need to borrow money to fund the credit terms and/or suffer a reduction 
+in the amount of cash surplus which it would otherwise have available to invest. 
+In a competitive environment, the price should therefore include an element to 
+reflect these payment terms and compensate for the timing effect.
+
+3. 
+The opposite applies to higher levels of accounts payable. By carrying 
+high accounts payable, a company is benefitting from a relatively long period 
+to pay its suppliers. It would need to borrow less money to fund its purchases 
+and/or  benefit  from  an  increase  in  the  amount  of  cash  surplus  available  to 
+invest. In a competitive environment, the cost of goods sold should include an 
+element to reflect these payment terms and compensate for the timing effect.
+
+4. 
+A  company  with  high  levels  of  inventory  would  similarly  need  to 
+either borrow to fund the purchase or reduce the amount of cash surplus which 
+the company is able to invest. Note that the interest rate might be affected by 
+the funding structure (e.g. where the purchase of inventory is partly funded 
+by equity) or by the risk associated with holding specific types of inventory.
+
+5. 
+Making a working capital adjustment is an attempt to adjust for the 
+differences  in  time  value  of  money  between  the  tested  party  and  potential 
+comparables with an assumption that the difference should be reflected in 
+profits. The underlying reasoning is that:
+
+6. 
+
+•  A company will need funding to cover the time gap between the time 
+it invests money (i.e. pays money to supplier) and the time it collects 
+the investment (i.e. collects money from customers)
+
+•  This time gap is calculated as: the period needed to sell inventories 
+to  customers  +  (plus)  the  period  needed  to  collect  money  from 
+customers – (less) the period granted to pay debts to suppliers.
+The process of calculating working capital adjustments:
+a)  Identify  differences  in  the  levels  of  working  capital.  Generally 
+trade  receivables,  inventory  and  trade  payables  are  the  three 
+accounts  considered.  The  transactional  net  margin  method  is 
+applied relative to an appropriate base, for example costs, sales or 
+assets (see paragraph 2.64 of the Guidelines). If the appropriate 
+base is sales, for example, then any differences in working capital 
+levels should be measured relative to sales.
+
+b)  Calculate  a  value  for  differences  in  levels  of  working  capital 
+between  the  tested  party  and  the  comparable  relative  to  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX TO CHAPTER III: EXAMPLE ON WORKING CAPITAL ADJUSTMENT – 491
+
+appropriate base and reflecting the time value of money by use 
+of an appropriate interest rate.
+
+c)  Adjust the result to reflect differe

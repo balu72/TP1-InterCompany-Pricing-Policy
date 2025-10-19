@@ -1,0 +1,82 @@
+ty until the discussions have been concluded.
+
+4.49.  The work on Action 14 of the BEPS Action Plan directly addresses 
+the obstacle that domestic law time limits may present to effective mutual 
+agreement  procedures.  Element  3.3  of  the  Action  14  minimum  standard 
+includes  a  recommendation  that  jurisdictions  should  include  the  second 
+sentence  of  paragraph  2  of  Article  25  in  their  tax  treaties  to  ensure  that 
+domestic law time limits (1) do not prevent the implementation of competent 
+authority mutual agreements and (2) do not thereby frustrate the objective of 
+resolving cases of taxation not in accordance with the Convention.
+
+4.50.  Where a jurisdiction cannot include the second sentence of paragraph 2 
+of Article 25 in its tax treaties, element 3.3 of the Action 14 minimum standard 
+states that it should be willing to accept an alternative treaty provision that 
+limits  the  time  during  which  a  Contracting  State  may  make  an  adjustment 
+pursuant to Article 9(1), in order to avoid late adjustments with respect to which 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 189
+
+mutual  agreement  procedure  relief  will  not  be  available.  Such  a  jurisdiction 
+would  satisfy  this  element  of  the  minimum  standard  where  the  alternative 
+treaty provision was drafted to reflect the time limits for adjustments provided 
+for in that country’s domestic law. That alternative provision, as presented in 
+the Report on BEPS Action 14, reads as follows:
+
+[In Article 9]:
+
+3. A Contracting State shall not include in the profits of an enterprise, 
+and tax accordingly, profits that would have accrued to the enterprise 
+but by reason of the conditions referred to in paragraph 1 have not so 
+accrued, after [bilaterally agreed period] from the end of the taxable 
+year in which the profits would have accrued to the enterprise. The 
+provisions of this paragraph shall not apply in the case of fraud, gross 
+negligence or wilful default.
+
+Element 3.3 of the Action 14 minimum standard also states that such a 
+jurisdiction accept a similar alternative provision in Article 7 with respect to 
+adjustments to the profits that are attributable to a permanent establishment.
+
+4.51.  While it is not possible to recommend generally a time limit on initial 
+assessments, tax administrations are encouraged to make these assessments 
+within their own domestic time limits without extension. If the complexity of 
+the case or lack of cooperation from the taxpayer necessitates an extension, 
+the  extension  should  be  made  for  a  minimum  and  specified  time  period. 
+Further, where domestic time limits can be extended with the agreement of 
+the  taxpayer,  such  an  extension  should  be  made  only  when  the  taxpayer’s 
+consent  is  truly  voluntary.  Tax  examiners  are  encouraged  to  indicate  to 
+taxpayers at an early stage their intent to make an assessment based on cross-
+border transfer pricing, so that the taxpayer can, if it so chooses, inform the 
+tax  administration  in  the  other  interested  State,  which  could  accordingly 
+begin  to  consider  the  relevant  issues  with  a  view  to  a  possible  mutual 
+agreement procedure.
+
+4.52.  Another  time  limit  that  must  be  considered  is  the  three-year  time 
+limit  within  which  a  taxpayer  must  invoke  the  mutual  agreement  procedure 
+under Article 25 of the OECD Model Tax Convention. The three-year period 
+begins to run from the first notification of the action resulting in taxation not in 
+accordance with the provisions of the Convention, which can be the time when 
+the tax administration first notifies the taxpayer of the proposed adjustment, 
+described as the “adjustment action” or “act of taxation”, or an earlier date as 
+discussed  in  paragraphs  21-24  of  the  Commentary  on  Article  25.  Although 
+some  jurisdictions  consider  three  years  too  short  a  period  for  invoking  the 
+procedure, other countries consider it too long and have entered reservations on 
+this point. The Commentary on Article 25 indicates that the time limit “must be 
+regarded as a minimum so that Contracting States are left free to agree in their 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+190 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+bilateral conventions upon a longer period in the interests of taxpayers”. In this 
+regard, it should be noted that element 1.1 of the Action 14 minimum standard 
+includes  a  recommendation  that  jurisdictions  include  in  their  tax  treaties 
+paragraphs 1 through 3 of Article 25, as interpreted in the Commentary.
+
+4.53.  The  three-year  time  limit  raises  the  issue  of  determining  its 
+starting  date,  which  is  addressed  in  paragraphs  21-24  of  the  Commentary 
+on  Article  25.  In  particular,  paragraph  21  states  that  the  three-year  time 
+period “should be interpreted in the way most favourable to the taxpayer”. 
+Paragraph 22 contains 

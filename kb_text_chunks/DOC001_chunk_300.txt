@@ -1,0 +1,91 @@
+ as being comparable. The taxpayer should also 
+include a presentation of comparable transactions along with adjustments to 
+account for material differences, if any, between controlled and uncontrolled 
+transactions. In cases where no comparables can be identified, the taxpayer 
+should  demonstrate,  by  reference  to  relevant  market  and  financial  data 
+(including  the  internal  data  of  the  taxpayer),  how  the  chosen  methodology 
+accurately reflects the arm’s length principle.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+528 – ANNEX II TO CHAPTER IV: ADVANCE PRICING ARRANGEMENTS
+
+C.3.5. Methodology
+
+The  MAP  APA  proposal  should  provide  a  full  description  of  the 
+41. 
+chosen  methodology.  In  cases  involving  associated  enterprises,  the  chosen 
+methodology  should  also  respect  the  guidance  found  in  the  Guidelines  on 
+applying  the  arm’s  length  principle  of  Article  9  of  the  OECD  Model  Tax 
+Convention.  It  is  stated  in  paragraph  2.11  of  the  Guidelines  that  “further, 
+any  method  should  be  permitted  where  its  application  is  agreeable  to  the 
+members  of  the  MNE  group  involved  with  the  transaction  or  transactions 
+to which the methodology applies and also to the tax administrations in the 
+jurisdictions of all those members.” That guidance on use of transfer pricing 
+methods is particularly relevant in the context of a MAP APA, because of 
+the opportunity to obtain advance agreement on the method to be used. The 
+application  of  the  methodology  should  be  supported  by  data  which  can  be 
+obtained  and  updated  over  the  period  of  the  MAP  APA  without  imposing 
+too great a burden on the taxpayer, and which can be reviewed and verified 
+effectively by the tax administrations.
+
+42. 
+The  taxpayer  should,  to  the  extent  possible,  provide  an  analysis  of 
+the  effect  of  applying  the  chosen  methodology  or  methodologies  during 
+the  proposed  period  of  the  agreement.  Such  an  analysis  necessarily  will 
+have to be based on projected results and so details of the assumptions on 
+which  those  projections  were  made  will  be  needed.  It  may  also  be  helpful 
+to illustrate the effect of applying the APA methodology or methodologies 
+to  the  periods  immediately  before  the  APA  period.  The  usefulness  of  this 
+analysis, even as an illustration, will depend on the facts and circumstances 
+surrounding the transactions in question being comparable to those applying 
+to the prospective transactions contemplated under the proposal.
+
+C.3.6. Critical assumptions
+
+43. 
+In entering into a MAP APA relating to the arm’s length pricing of 
+controlled  transactions  that  have  not  yet  occurred,  it  is  necessary  to  make 
+certain assumptions about the operational and economic conditions that will 
+affect those transactions when they take place. The taxpayer should describe 
+in the proposal the assumptions on which the ability of the methodology to 
+accurately  reflect  the  arm’s  length  pricing  of  future  transactions  is  based. 
+Additionally, the taxpayer should explain how the chosen methodology will 
+satisfactorily cope with any changes in those assumptions. The assumptions 
+are  defined  as  “critical”  if  the  actual  conditions  existing  at  the  time  the 
+transactions occur could diverge from those that were assumed to exist, to 
+the extent that the ability of the methodology reliably to reflect arm’s length 
+pricing is undermined. One example might be a fundamental change to the 
+market arising from new technology, government regulations, or widespread 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER IV: ADVANCE PRICING ARRANGEMENTS – 529
+
+loss of consumer acceptance. In such a case, the divergence may mean that 
+the agreement would need to be revised or cancelled.
+
+44. 
+To increase the reliability of the MAP APA methodology, taxpayers 
+and  tax  administrations  should  attempt  to  identify  critical  assumptions 
+that  are,  where  possible,  based  on  observable,  reliable  and  independent 
+data.  Such  assumptions  are  not  limited  to  items  within  the  control  of  the 
+taxpayer. Any set of critical assumptions needs to be tailored to the individual 
+circumstances of the taxpayer, the particular commercial environment, the 
+methodology, and the type of transactions covered. They should not be drawn 
+so tightly that certainty provided by the agreement is jeopardised, but should 
+encompass as wide a range of variation in the underlying facts as the parties 
+to the agreement feel comfortable with. In general, however, and by way of 
+example only, critical assumptions might include:
+
+a)  Assumptions  about  the  relevant  domestic  tax  law  and  treaty 
+
+provisions.
+
+b)  Assumptions  about  tariffs,  duties,  import  restrictions  and 
+
+government regulations.
+
+c)  Assumptions about economic conditions, market share, market 
+
+conditions, end-selling price, and 

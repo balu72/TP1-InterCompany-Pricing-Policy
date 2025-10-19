@@ -1,0 +1,76 @@
+nterprises to document their decisions and intentions regarding the allocation of 
+significant rights in intangibles. Documentation of such decisions and intentions, 
+including written agreements, should generally be in place at or before the time 
+that associated enterprises enter into transactions leading to the development, 
+enhancement, maintenance, protection, or exploitation of intangibles.
+
+6.37.  The  right  to  use  some  types  of  intangibles  may  be  protected  under 
+specific intellectual property laws and registration systems. Patents, trademarks 
+and copyrights are examples of such intangibles. Generally, the registered legal 
+owner of such intangibles has the exclusive legal and commercial right to use 
+the intangible, as well as the right to prevent others from using or otherwise 
+infringing the intangible. These rights may be granted for a specific geographic 
+area and/or for a specific period of time.
+
+6.38.  There  are  also  intangibles  that  are  not  protectable  under  specific 
+intellectual  property  registration  systems,  but  that  are  protected  against 
+unauthorised appropriation or imitation under unfair competition legislation 
+or other enforceable laws, or by contract. Trade dress, trade secrets, and know-
+how may fall under this category of intangibles.
+
+6.39.  The  extent  and  nature  of  the  available  protection  under  applicable 
+law  may  vary  from  jurisdiction  to  jurisdiction,  as  may  the  conditions  on 
+which  such  protection  is  provided.  Such  differences  can  arise  either  from 
+differences  in  substantive  intellectual  property  law  between  jurisdictions, 
+or  from  practical  differences  in  local  enforcement  of  such  laws.  For 
+example,  the  availability  of  legal  protection  for  some  intangibles  may  be 
+subject to conditions such as continued commercial use of the intangible or 
+timely  renewal  of  registrations.  This  means  that  in  some  circumstances  or 
+jurisdictions,  the  degree  of  protection  for  an  intangible  may  be  extremely 
+limited either legally or in practice.
+
+6.40.  The legal owner will be considered to be the owner of the intangible 
+for transfer pricing purposes. If no legal owner of the intangible is identified 
+under  applicable  law  or  governing  contracts,  then  the  member  of  the 
+MNE group that, based on the facts and circumstances, controls decisions 
+concerning the exploitation of the intangible and has the practical capacity to 
+restrict others from using the intangible will be considered the legal owner of 
+the intangible for transfer pricing purposes.
+
+In identifying the legal owner of intangibles, an intangible and any 
+6.41. 
+licence relating to that intangible are considered to be different intangibles for 
+transfer pricing purposes, each having a different owner. See paragraph 6.26. 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 259
+
+For  example,  Company  A,  the  legal  owner  of  a  trademark,  may  provide  an 
+exclusive licence to Company B to manufacture, market, and sell goods using 
+the trademark. One intangible, the trademark, is legally owned by Company A. 
+Another  intangible,  the  licence  to  use  the  trademark  in  connection  with 
+manufacturing, marketing and distribution of trademarked products, is legally 
+owned by Company B. Depending on the facts and circumstances, marketing 
+activities  undertaken  by  Company  B  pursuant  to  its  licence  may  potentially 
+affect the value of the underlying intangible legally owned by Company A, the 
+value of Company B’s licence, or both.
+
+6.42.  While determining legal ownership and contractual arrangements is 
+an important first step in the analysis, these determinations are separate and 
+distinct from the question of remuneration under the arm’s length principle. 
+For transfer pricing purposes, legal ownership of intangibles, by itself, does 
+not confer any right ultimately to retain returns derived by the MNE group 
+from exploiting the intangible, even though such returns may initially accrue 
+to the legal owner as a result of its legal or contractual right to exploit the 
+intangible. The return ultimately retained by or attributed to the legal owner 
+depends  upon  the  functions  it  performs,  the  assets  it  uses,  and  the  risks  it 
+assumes, and upon the contributions made by other  MNE group members 
+through  their  functions  performed,  assets  used,  and  risks  assumed.  For 
+example, in the case of an internally developed intangible, if the legal owner 
+performs  no  relevant  functions,  uses  no  relevant  assets,  and  assumes  no 
+relevant risks, but acts solely as a title holding entity, the legal owner will not 
+ultimately be entitled to any portion of the return derived by the MNE group 
+from the exploitation of the intangible other than arm’s length compensation, 
+if any, for holding title.
+6.43.  Legal  ownership  and  contractual  relationships  serve  simply  as

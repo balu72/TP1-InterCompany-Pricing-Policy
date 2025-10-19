@@ -1,0 +1,87 @@
+ot be identified, the arm’s length principle requires use of 
+another method to determine the price that uncontrolled parties would have 
+agreed under comparable circumstances. In making such determinations, it 
+is important to consider:
+
+•  The  functions,  assets  and  risks  of  the  respective  parties  to  the 
+
+transaction.
+
+•  The business reasons for engaging in the transaction.
+
+•  The perspectives of and options realistically available to each of the 
+
+parties to the transaction.
+
+•  The competitive advantages conferred by the intangibles including 
+especially  the  relative  profitability  of  products  and  services  or 
+potential products and services related to the intangibles.
+
+•  The expected future economic benefits from the transaction.
+
+•  Other comparability factors such as features of local markets, location 
+
+savings, assembled workforce, and MNE group synergies.
+
+6.140.  In  identifying  prices  and  other  conditions  that  would  have  been 
+agreed between independent enterprises under comparable circumstances, it 
+is often essential to carefully identify idiosyncratic aspects of the controlled 
+transaction that arise by virtue of the relationship between the parties. There 
+is  no  requirement  that  associated  enterprises  structure  their  transactions 
+in precisely the same manner as independent enterprises might have done. 
+However, where transactional structures are utilised by associated enterprises 
+that are not typical of transactions between independent parties, the effect of 
+those structures on prices and other conditions that would have been agreed 
+between  uncontrolled  parties  under  comparable  circumstances  should  be 
+taken into account in evaluating the profits that would have accrued to each 
+of the parties at arm’s length.
+
+6.141.  Care  should  be  used,  in  applying  certain  of  the  OECD  transfer 
+pricing methods in a matter involving the transfer of intangibles or rights in 
+intangibles.  One  sided  methods,  including  the  resale  price  method  and  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+290 – CHAPTER VI: INTANGIBLES
+
+TNMM, are generally not reliable methods for directly valuing intangibles. 
+In some circumstances such mechanisms can be utilised to indirectly value 
+intangibles  by  determining  values  for  some  functions  using  those  methods 
+and  deriving  a  residual  value  for  intangibles.  However,  the  principles  of 
+paragraph  6.133  are  important  when  following  such  approaches  and  care 
+should be exercised to ensure that all functions, risks, assets and other factors 
+contributing to the generation of income are properly identified and evaluated.
+
+6.142.  The use of transfer pricing methods that seek to estimate the value 
+of  intangibles  based  on  the  cost  of  intangible  development  is  generally 
+discouraged. There rarely is any correlation between the cost of developing 
+intangibles and their value or transfer price once developed. Hence, transfer 
+pricing methods based on the cost of intangible development should usually 
+be avoided.
+
+6.143.  However,  in  some  limited  circumstances,  transfer  pricing  methods 
+based on the estimated cost of reproducing or replacing the intangible may 
+be  utilised.  Such  approaches  may  sometimes  have  valid  application  with 
+regard to the development of intangibles used for internal business operations 
+(e.g.  internal  software  systems),  particularly  where  the  intangibles  in 
+question are not unique and valuable intangibles. Where intangibles relating 
+to products sold in the marketplace are at issue, however, replacement cost 
+valuation methods raise serious comparability issues. Among other concerns, 
+it is necessary to evaluate the effect of time delays associated with deferred 
+development on the value of the intangibles. Often, there may be a significant 
+first mover advantage in having a product on the market at an early date. As 
+a result, an identical product (and the supporting intangibles) developed in 
+future periods will not be as valuable as the same product (and the supporting 
+intangibles) available currently. In such a case, the estimated replacement cost 
+will not be a valid proxy for the value of an intangible transferred currently. 
+Similarly,  where  an  intangible  carries  legal  protections  or  exclusivity 
+characteristics,  the  value  of  being  able  to  exclude  competitors  from  using 
+the intangible will not be reflected in an analysis based on replacement cost. 
+Cost based valuations generally are not reliable when applied to determine 
+the arm’s length price for partially developed intangibles.
+
+6.144.  The  provisions  of  paragraph  2.10  related  to  the  use  of  rules  of 
+thumb apply to determinations of a correct transfer price in any controlled 
+transaction,  including  cases  involving  the  use  or  transfer  of  intangibles. 
+Accordingly,  a  rule  of  thumb  cannot  be  used  to  evidence  that  a  price 
+o

@@ -1,0 +1,83 @@
+  for 
+transfer  pricing  purposes  since  different  business  strategies  can  have  a 
+significant effect on the terms and conditions which would be agreed between 
+independent enterprises.
+
+10.35.  For example, independent lenders may be prepared to lend on terms 
+and conditions to an enterprise undertaking a merger or acquisition which 
+might otherwise not be acceptable to the lender for the same business if it 
+were in a steady state. In this kind of scenario, the lender may take a view 
+over  the  term  of  the  loan  and  consider  the  borrower’s  business  plans  and 
+forecasts,  effectively  acknowledging  that  there  will  be  temporary  changes 
+in the financial metrics of the business for a period as it undergoes changes. 
+Section D.1.5 of Chapter I gives other examples of business strategies that 
+must  be  examined  in  accurately  delineating  the  actual  transaction  and 
+determining comparability.
+
+10.36.  The analysis of the business strategies will also include consideration 
+of the MNE group’s global financing policy, and the identification of existing 
+relationships between the associated enterprises such as pre-existing loans 
+and shareholder interests (see Annex I to Chapter V of these Guidelines about 
+the information to be included in the master file).
+
+10.37.  For  example,  consider  that  Company  A,  a  member  of  AB  Group, 
+advances funds with a term of 10 years to an associated enterprise, Company B, 
+which  will  use  the  funding  for  short-term  working  capital  purposes.  This 
+advance is the only loan in Company B’s balance sheet. AB Group’s policy 
+and practices demonstrate that the MNE group uses a one-year revolving loan 
+to manage short-term working capital. In this scenario, under the prevailing 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 411
+
+facts and circumstances, the accurate delineation of the actual transaction may 
+conclude that an unrelated borrower under the same conditions of Company B 
+would not enter into a 10-year loan agreement to manage its short-term working 
+capital needs and the transaction would be accurately delineated as a one-year 
+revolving loan rather than a 10-year loan. The consequences of this delineation 
+would be that assuming the working capital requirements continue to exist, the 
+pricing approach would be to price a series of refreshed one-year revolver loans.
+
+10.38.  In  any  case,  the  reliability  of  results  is  generally  improved  to  the 
+extent comparable borrowers pursue similar business strategies to the tested 
+borrower involved in an intra-group transaction.
+
+C. Treasury function
+
+10.39.  For MNE groups, the management of group finances is an important 
+and  potentially  complex  activity  where  the  approach  adopted  by  individual 
+businesses  will  depend  on  the  structure  of  the  business  itself,  its  business 
+strategy, place in the business cycle, industry sector, currencies of operation, etc.
+
+10.40.  The  organisation  of  the  treasury  will  depend  on  the  structure 
+of  a  given  MNE  group  and  the  complexity  of  its  operations.  Different 
+treasury  structures  involve  different  degrees  of  centralisation.  In  the  most 
+decentralised  form,  each  MNE  within  the  MNE  group  has  full  autonomy 
+over  its  financial  transactions.  Decentralised  treasury  structures  may  be 
+present, for instance, in MNE groups with multiple operating divisions that 
+operate  in  discrete  industries  or  with  regional  hub  structures,  or  in  MNE 
+groups required to comply with specific local regulations. At the opposite end 
+of the scale, a centralised treasury has full control over the financial trans-
+actions of the MNE group, with entities within the MNE group responsible 
+for operational but not financial matters.
+
+10.41.  A  key  function  of  a  corporate  treasury  may  be,  for  example,  to 
+optimise  liquidity  across  the  MNE  group  to  ensure  that  the  business  has 
+sufficient  cash  available  and  that  it  is  in  the  right  place  when  it  is  needed 
+and in the right currency. In general, efficient management of MNE group 
+liquidity is driven by considerations above the level of individual entities, and 
+acts to help mitigate risk across a number of entities.
+
+10.42.  Whilst  the  treasury’s  cash  and  liquidity  management  function  is 
+concerned  with  day-to-day  operations,  corporate  financial  management 
+is  concerned  with  development  of  strategies  and  planning  for  investment 
+decisions in the longer term. Financial risk management requires identification 
+and analysis of, and responses to, the financial risks to which the business is 
+exposed. By identifying and taking action to address financial risk, treasury 
+can help to optimise the cost of capital to the advantage of the users of the 
+MNE group’s treasury services.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+412 – CHAPTER X: FINANCIAL TRANSACTIONS

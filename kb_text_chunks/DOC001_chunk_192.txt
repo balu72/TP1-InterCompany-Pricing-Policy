@@ -1,0 +1,129 @@
+ Section B.2 of Chapter VI.
+
+7.42.  Another  example  of  intra-group  services  is  the  administration  of 
+licences. The administration and enforcement of intangible property rights 
+should be distinguished from the exploitation of those rights for this purpose. 
+The  protection  of  a  licence  might  be  handled  by  a  group  service  centre 
+responsible for monitoring possible licence infringements and for enforcing 
+licence rights.
+
+D. Low value-adding intra-group services
+
+7.43.  This  section  provides  specific  guidance  relating  to  a  particular 
+category of intra-group services referred to as low value-adding intra-group 
+services.  Section  D.1  contains  the  definition  of  low  value-adding  intra-
+group  services.  Section  D.2  sets  out  an  elective,  simplified  approach  for 
+the determination of arm’s length charges for low value-adding intra-group 
+services, including a simplified benefits test. Section D.3 contains guidance 
+on  documentation  and  reporting  requirements  that  should  be  met  by  an 
+MNE group electing to apply this simplified approach. Finally, Section D.4 
+addresses  some  issues  with  regard  to  the  levying  of  withholding  taxes  on 
+charges for low value-adding intra-group services. In summary, the simplified 
+approach recognises that the arm’s length price for low value-adding intra-
+group  services  is  closely  related  to  costs,  allocates  the  costs  of  providing 
+each category of such services to those group companies which benefit from 
+using those services, and then applies the same mark-up to all categories of 
+services. MNE groups not electing to apply the simplified approach set out in 
+this section should address transfer pricing issues related to low-value-adding 
+services under the provisions of Sections A and B, above.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VII: INTRA-GROUP SERVICES – 327
+
+D.1. Definition of low value-adding intra-group services
+
+7.44.  This  section  discusses  the  definitional  issues  related  to  low  value-
+adding  intra-group  services  for  applying  the  elective,  simplified  approach 
+discussed  under  Section  D.2.  It  starts  by  indicating  the  characteristics  that 
+services  must  have  in  order  to  qualify  as  low-value-adding  intra-group 
+services  for  applying  the  elective,  simplified  approach.  It  then  identifies  a 
+series of activities that do not qualify as low value-adding intra-group services 
+for the elective, simplified approach. Finally it contains a list of examples of 
+services  that  likely  would  have  the  characteristics  to  qualify  as  low  value-
+adding intra-groups services for the application of the simplified approach.
+
+7.45. 
+Low  value-adding  intra-group  services  for  the  purposes  of  the 
+simplified approach are services performed by one member or more than one 
+member of an MNE group on behalf of one or more other group members which
+
+• 
+
+• 
+
+• 
+
+• 
+
+are of a supportive nature,
+
+are not part of the core business of the MNE group (i.e. not creating 
+the  profit-earning  activities  or  contributing 
+to  economically 
+significant activities of the MNE group),
+
+do not require the use of unique and valuable intangibles and do not 
+lead to the creation of unique and valuable intangibles, and
+
+do not involve the assumption or control of substantial or significant 
+risk by the service provider and do not give rise to the creation of 
+significant risk for the service provider.
+
+7.46.  The guidance in this section is not applicable to services that would 
+ordinarily  qualify  as  low  value-adding  intra-group  services  where  such 
+services  are  rendered  to  unrelated  customers  of  the  members  of  the  MNE 
+group.  In  such  cases  it  can  be  expected  that  reliable  internal  comparables 
+exist and can be used for determining the arm’s length price for the intra-
+group services.
+
+The following activities would not qualify for the simplified approach 
+
+7.47. 
+outlined in this section:
+
+• 
+
+• 
+
+services constituting the core business of the MNE group;
+
+research and development services (including software development 
+unless  falling  within  the  scope  of  information  technology  services 
+in 7.49);
+
+•  manufacturing and production services;
+
+• 
+
+purchasing activities relating to raw materials or other materials that 
+are used in the manufacturing or production process;
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+328 – CHAPTER VII: INTRA-GROUP SERVICES
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+sales, marketing and distribution activities;
+
+financial transactions;
+
+extraction, exploration, or processing of natural resources;
+
+insurance and reinsurance;
+
+services  of  corporate  senior  management  (other  than  management 
+supervision of services that qualify as low value-adding intra-group 
+services under the definition of paragraph 7.45).
+
+7.48.  The fact that an activity does not qualify for the simplified approach, 
+as defined under paragraph 7.4

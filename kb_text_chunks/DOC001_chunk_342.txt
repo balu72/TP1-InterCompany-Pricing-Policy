@@ -1,0 +1,92 @@
+ 
+group  maintains  two  R&D  centres,  one  operated  by  Shuyona  in  Country  X, 
+and the other operated by Company S, a subsidiary of Shuyona, operating in 
+Country y.
+
+50. 
+The  Shuyona  group  sells  two  lines  of  products.  All  R&D  with 
+respect to product line A is conducted by Shuyona. All R&D with respect 
+to product line B is conducted by the R&D centre operated by Company S. 
+Company  S  also  functions  as  the  regional  headquarters  of  the  Shuyona 
+group in North America and has global responsibility for the operation of the 
+business relating to product line B. However, all patents developed through 
+Company S research efforts are registered by Shuyona. Shuyona makes no or 
+only a nominal payment to Company S in relation to the patentable inventions 
+developed by the Company S R&D centre.
+
+The Shuyona and Company S R&D centres operate autonomously. 
+51. 
+Each  bears  its  own  operating  costs.  Under  the  general  policy  direction  of 
+Shuyona senior management, the Company S R&D centre develops its own 
+research  programmes,  establishes  its  own  budgets,  makes  determinations 
+as  to  when  R&D  projects  should  be  terminated  or  modified,  and  hires  its 
+own R&D staff. The Company S R&D centre reports to the product line B 
+management team in Company S, and does not report to the Shuyona R&D 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES – 617
+
+centre. Joint meetings between the Shuyona and Company S R&D teams are 
+sometimes held to discuss research methods and common issues.
+
+52. 
+The  transfer  pricing  analysis  of  this  fact  pattern  would  begin  by 
+recognising that Shuyona is the legal owner/registrant of intangibles developed 
+by Company S. Unlike the situation in Example 14, however, Shuyona neither 
+performs  nor  exercises  control  over  the  research  functions  carried  out  by 
+Company S, including the important functions related to management, design, 
+budgeting and funding that research. Accordingly, Shuyona’s legal ownership 
+of  the  intangibles  does  not  entitle  it  to  retain  or  be  attributed  any  income 
+related to the product line B intangibles. Tax administrations could arrive at an 
+appropriate transfer pricing outcome by recognising Shuyona’s legal ownership 
+of the intangibles but by noting that, because of the contributions of Company S 
+in  the  form  of  functions,  assets,  and  risks,  appropriate  compensation  to 
+Company  S  for  its  contributions  could  be  ensured  by  confirming  that 
+Company S should make no royalty or other payment to Shuyona for the right 
+to use any successfully developed Company S intangibles, so that the future 
+income derived from the exploitation of those intangibles by Company S would 
+be allocated to Company S and not to Shuyona.
+
+If Shuyona exploits the product line B intangibles by itself, Shuyona 
+53. 
+should  provide  appropriate  compensation  to  Company  S  for  its  functions 
+performed, assets used and risks assumed related to intangible development. 
+In determining the appropriate level of compensation for Company S, the fact 
+that Company S performs all of the important functions related to intangible 
+development would likely make it inappropriate to treat Company S as the 
+tested party in an R&D service arrangement.
+
+Example 16
+
+54. 
+Shuyona is the parent company of an MNE group. Shuyona is organised 
+in  and  operates  exclusively  in  Country  X.  The  Shuyona  group  is  involved 
+in the production and sale of consumer goods. In order to maintain and, if 
+possible, improve its market position, ongoing research is carried out by the 
+Shuyona group to improve existing products and develop new products. The 
+Shuyona  group  maintains  two  R&D  centres,  one  operated  by  Shuyona  in 
+Country X, and the other operated by Company S, a subsidiary of Shuyona, 
+operating in Country y. The relationships between the Shuyona R&D centre 
+and the Company S R&D centre are as described in Example 14.
+
+55. 
+In  year  1,  Shuyona  sells  all  rights  to  patents  and  other  technology 
+related  intangibles,  including  rights  to  use  those  intangibles  in  ongoing 
+research, to a new subsidiary, Company T, organised in Country Z. Company T 
+establishes a manufacturing facility in Country Z and begins to supply products 
+to  members  of  the  Shuyona  group  around  the  world.  For  purposes  of  this 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+618 – ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES
+
+example, it is assumed that the compensation paid by Company T in exchange 
+for the transferred patents and related intangibles is based on a valuation of 
+anticipated  future  cash  flows  generated  by  the  transferred  intangibles  at  the 
+time of the transfer.
+
+56. 
+At  the  same  time  as  the  transfer  of  patents  and  other  technology 
+related  intangibles,  Company  T  enters  into  a  contract  research  agreement 
+with Shuyona an

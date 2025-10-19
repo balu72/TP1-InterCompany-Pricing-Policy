@@ -1,0 +1,92 @@
+therefore important to follow 
+the guidance on internal comparables and on the sources of information on 
+external comparables, see paragraphs 3.24-3.39. In addition, the “deductive” 
+approach is not appropriate to all cases and all methods and the discussion in 
+this section should not be interpreted as affecting the criteria for selecting a 
+transfer pricing method set out in paragraphs 2.1-2.12.
+
+3.43. 
+In  practice,  both  quantitative  and  qualitative  criteria  are  used  to 
+include or reject potential comparables. Examples of qualitative criteria are 
+found  in  product  portfolios  and  business  strategies.  The  most  commonly 
+observed quantitative criteria are:
+
+•  Size  criteria  in  terms  of  Sales,  Assets  or  Number  of  Employees. 
+The size of the transaction in absolute value or in proportion to the 
+activities of the parties might affect the relative competitive positions 
+of the buyer and seller and therefore comparability.
+
+• 
+
+Intangible-related criteria such as ratio of Net Value of Intangibles/Total 
+Net Assets Value, or ratio of Research and Development (R&D)/Sales 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+162 – CHAPTER III: COMPARABILITy ANALySIS
+
+where available: they may be used for instance to exclude companies 
+with  valuable  intangibles  or  significant  R&D  activities  when  the 
+tested party does not use valuable intangible assets nor participate in 
+significant R&D activities.
+
+•  Criteria related to the importance of export sales (Foreign Sales/Total 
+
+Sales), where relevant.
+
+•  Criteria  related  to  inventories  in  absolute  or  relative  value,  where 
+
+relevant.
+
+•  Other  criteria  to  exclude  third  parties  that  are  in  particular  special 
+situations such as start-up companies, bankrupted companies, etc. when 
+such peculiar situations are obviously not appropriate comparisons.
+
+The choice and application of selection criteria depends on the facts and 
+circumstances of each particular case and the above list is neither limitative 
+nor prescriptive.
+
+3.44.  One  advantage  of  the  “deductive”  approach  is  that  it  is  more 
+reproducible  and  transparent  than  the  “additive”.  It  is  also  easier  to  verify 
+because the review concentrates on the process and on the relevance of the 
+selection  criteria  retained.  On  the  other  hand,  it  is  acknowledged  that  the 
+quality  of  the  outcome  of  a  “deductive”  approach  depends  on  the  quality 
+of  the  search  tools  on  which  it  relies  (e.g.  quality  of  the  database  where  a 
+database is used and possibility to obtain detailed enough information). This 
+can be a practical limitation in some jurisdictions where the reliability and 
+usefulness of databases in comparability analyses are questionable.
+
+3.45. 
+It  would  not  be  appropriate  to  give  systematic  preference  to  one 
+approach over the other because, depending on the circumstances of the case, 
+there could be value in either the “additive” or the “deductive” approach, or 
+in  a  combination  of  both.  The  “additive”  and  “deductive”  approaches  are 
+often not used exclusively. In a typical “deductive” approach, in addition to 
+searching public databases it is common to include third parties, for instance 
+known competitors (or third parties that are known to carry out transactions 
+potentially comparable to those of the taxpayer), which may otherwise not be 
+found following a purely deductive approach, e.g. because they are classified 
+under  a  different  industry  code.  In  such  cases,  the  “additive”  approach 
+operates as a tool to refine a search that is based on a “deductive” approach.
+
+3.46.  The  process  followed  to  identify  potential  comparables  is  one  of 
+the  most  critical  aspects  of  the  comparability  analysis  and  it  should  be 
+transparent,  systematic  and  verifiable.  In  particular,  the  choice  of  selection 
+criteria has a significant influence on the outcome of the analysis and should 
+reflect  the  most  meaningful  economic  characteristics  of  the  transactions 
+compared. Complete elimination of subjective judgments from the selection 
+of  comparables  would  not  be  feasible,  but  much  can  be  done  to  increase 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER III: COMPARABILITy ANALySIS – 163
+
+objectivity and ensure transparency in the application of subjective judgments. 
+Ensuring  transparency  of  the  process  may  depend  on  the  extent  to  which 
+the criteria used to select potential comparables are able to be disclosed and 
+the  reasons  for  excluding  some  of  the  potential  comparables  are  able  to  be 
+explained.  Increasing  objectivity  and  ensuring  transparency  of  the  process 
+may  also  depend  on  the  extent  to  which  the  person  reviewing  the  process 
+(whether taxpayer or tax administration) has access to information regarding 
+the process followed and to the same sources of data. Issues of documentation 
+of the process

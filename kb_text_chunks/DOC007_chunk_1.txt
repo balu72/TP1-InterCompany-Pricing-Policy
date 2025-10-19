@@ -1,0 +1,141 @@
+Circular No. 06 of 2017  
+
+F. No. 142/11/2015-TPL 
+Government of India 
+Ministry of Finance 
+Department of Revenue 
+Central Board of Direct Taxes 
+****** 
+
+Dated: 24th January, 2017 
+
+Subject:  Guiding  Principles 
+
+for  determination  of  Place  of  Effective  
+
+         Management (POEM) of a Company. 
+
+Section 6(3) of the Income-tax Act, 1961 (the Act), prior to  its amendment by the 
+Finance  Act,  2015,    provided  that  a  company  is  said  to  be  resident  in  India  in  any 
+previous  year,  if  it  is  an  Indian  company  or  if  during  that  year,  the  control  and 
+management  of  its  affairs  is  situated  wholly  in  India.  This  allowed  tax  avoidance 
+opportunities  for  companies  to  artificially  escape  the  residential  status  under  these 
+provisions  by  shifting  insignificant  or  isolated  events  related  with  control  and 
+management  outside  India.  To  address  these  concerns,  the  existing  provisions  of 
+section 6(3) of the Act were amended vide Finance Act, 2015, with effect from 1st April, 
+2016 to provide that a company is said to be resident in India in any previous year, if- 
+
+(i) it is an Indian company; or 
+(ii) its place of effective management in that year is in India . 
+
+"Place of effective management" is defined in the Act to mean a place where key 
+2. 
+management  and  commercial  decisions  that  are  necessary  for  the  conduct  of  the 
+business of an entity as a whole are, in substance, made. 
+
+3. 
+The  Finance  Act,  2016  has  changed  the  effectivity  of  the  said  amendment  to 
+section 6(3) of the Act.  Therefore, the amended provision would now be effective from 
+1st April 2017 and will apply to Assessment Year 2017-18 and subsequent assessment 
+years. 
+
+'Place of effective management' (POEM) is an internationally recognised test for 
+4. 
+determination of residence of a company incorporated in a foreign jurisdiction. Most of 
+the  tax  treaties  entered  into  by  India  recognises  the  concept  of  'place  of  effective 
+management'  for  determination  of  residence  of  a  company  as  a  tie-breaker  rule  for 
+avoidance of double taxation. The guiding principles to be followed for determination of 
+POEM are enumerated in the following paragraphs.  
+
+5. 
+
+For the purposes of these guidelines, - 
+
+Page 1 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(a)  A company shall be said to be engaged in  “active business outside India” if 
+the passive income is not more than 50% of its total income; and  
+
+(i) less than 50% of its total assets are situated in India; and 
+(ii) less than 50% of total number of employees are situated in India or are 
+resident in India; and 
+(iii) the payroll expenses  incurred on  such employees is less than 50% of 
+its total payroll expenditure. 
+Explanation: For the aforesaid purpose, -  
+
+(A) the income shall be, - 
+
+(a) as computed for tax purpose in accordance with the laws of the 
+
+country of incorporation; or 
+
+(b) as  per  books  of  account,  where  the  laws  of  the  country  of 
+
+incorporation does not require such a computation. 
+
+(B) the value of assets, -  
+
+(a) In  case  of  an  individually  depreciable  asset,  shall  be  the 
+average  of  its  value  for  tax  purposes  in  the  country  of 
+incorporation of the company at the beginning and at end of the 
+previous year; and 
+
+(b) In  case  of  pool  of  a  fixed  assets  being  treated  as  a  block  for 
+depreciation,  shall be the average  of  its  value for tax  purposes 
+in the country of incorporation of the company at the beginning 
+and at end of the year; 
+
+(c) In  case  of  any  other  asset,  shall  be  its  value  as  per  books  of 
+
+account; 
+
+(C) the  number  of  employees  shall  be  the  average  of  the  number  of 
+employees  as  at  the  beginning  and  at  the  end  of  the  year  and  shall 
+include  persons,  who  though  not  employed  directly  by  the  company, 
+perform tasks similar to those performed by the employees; 
+
+(D) the term “pay roll” shall include the cost of salaries, wages, bonus and 
+all other employee compensation including related pension and social 
+costs borne by the employer. 
+
+(b) “Head Office” of a company would be the place where the company's senior 
+management  and  their  direct  support  staff  are  located  or,  if  they  are  located  at 
+more  than  one  location,  the  place  where  they  are  primarily  or  predominantly 
+located. A company’s head office is not necessarily the same as the place where 
+the majority of its employees work or where its board typically meets; 
+
+(c) “Passive income” of a company shall be aggregate of, - 
+
+(i) 
+
+(ii) 
+
+income from the transactions where both the purchase and sale of 
+goods is from / to its associated enterprises;  and 
+income by way of royalty, dividend, capital gains, interest or rental 
+income; 
+
+However, any income by way of interest shall not be considered to 
+be passive income in case of a company which is engaged in the business 
+
+Page 2 
+
+  
+ 
+ 
+ 

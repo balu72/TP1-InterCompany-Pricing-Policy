@@ -1,0 +1,73 @@
+  unwilling  to  pay  for  the  provision  of  a  financial  guarantee,  and 
+the guarantor would be found as providing no more than an administrative 
+service to the borrower (see paragraph 10.164 and guidance in Chapter VII).
+
+D.1.1.2. Access to a larger amount of borrowing
+10.161.  Where  the  effect  of  a  guarantee  is  to  permit  a  borrower  to  borrow 
+a  greater  amount  of  debt  than  it  could  in  the  absence  of  the  guarantee,  the 
+guarantee is not simply supporting the credit rating of the borrower but could 
+be acting both to increase the borrowing capacity and to reduce the interest 
+rate on any existing borrowing capacity of the borrower. In such a situation 
+there may be two issues – whether a portion of the loan from the lender to the 
+borrower is accurately delineated as a loan from the lender to the guarantor 
+(followed by an equity contribution from the guarantor to the borrower), and 
+whether  the  guarantee  fee  paid  with  respect  to  the  portion  of  the  loan  that 
+is  respected  as  a  loan  from  the  lender  to  the  borrower  is  arm’s  length.  The 
+conclusion of an analysis of such transactions may be, taking into account the 
+full facts and circumstances, that the evaluation of the guarantee fee should be 
+limited to a fee on the portion that has been accurately delineated as a loan, and 
+the remainder of the loan granted should be regarded as effectively a loan to the 
+guarantor followed by an equity contribution by the guarantor to the borrower.
+
+D.1.2. Effect of group membership
+10.162.  This  section  elaborates  on  the  effect  of  group  membership  on 
+determining the arm’s length price of financial guarantees, building upon the 
+principles laid out in Section C.1.1.
+
+10.163.  By  providing  an  explicit  guarantee  the  guarantor  is  exposed  to 
+additional  risk  as  it  is  legally  committed  to  pay  if  the  borrower  defaults. 
+Anything less than a legally binding commitment, such as a “letter of comfort” 
+or other lesser form of credit support, involves no explicit assumption of risk. 
+Each case will be dependent on its own facts and circumstances but generally, 
+in the absence of an explicit guarantee, any expectation by any of the parties 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+436 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+that other members of the MNE group will provide support to an associated 
+enterprise in respect of its borrowings will be derived from the borrower’s status 
+as a member of the MNE group. For this purpose, whether a commitment from 
+one MNE group member to another MNE group member to provide funding to 
+meet its loan obligations, constitutes a letter of comfort or a guarantee depends 
+on all the facts and circumstances, including whether the commitment provides 
+the creditor relevant legal rights to enforce the commitment. The benefit of any 
+such support attributable to the borrower’s MNE group member status would 
+arise from passive association and not from the provision of a service for which 
+a fee would be payable. See paragraph 7.13 on passive association.
+
+10.164.  A  borrower  would  not  generally  be  prepared  to  pay  for  a  guarantee 
+if it did not expect to obtain an appropriate benefit in return. Even an explicit 
+guarantee will not necessarily confer a benefit on the borrower; for example, 
+banking covenants applicable to a parent or other MNE group member’s debt 
+facilities can include the default of another MNE group member as an event 
+that  may  cause  the  termination  of  a  facility  or  other  adverse  consequences. 
+Other legal, financial or operational ties may mean that it would not be possible 
+to  abandon  the  borrower  if  it  encounters  financial  difficulty  without  the 
+MNE group suffering a credit rating downgrade. Any of these circumstances 
+may  produce  the  practical  result  that  MNE  group  members  are  financially 
+interdependent  quite  apart  from  any  formal  guarantee  arrangement,  so  that 
+the economic risk of the guarantor may not change materially on it giving an 
+explicit guarantee. In other words, the formal guarantee may represent nothing 
+more than an acknowledgement that it would be detrimental to the interests 
+of the  MNE group not to support the performance of the borrower. In such 
+circumstances the guaranteed borrower is not benefitting beyond the level of 
+credit enhancement attributable to the implicit support of other MNE group 
+members and no guarantee fee would be due.
+
+10.165.  A similar issue arises in respect of cross-guarantees, where two or 
+more entities in an MNE group guarantee each other’s obligations. From the 
+lender’s perspective, it has access to the assets of every cross-guaranteeing 
+entity  in  the  event  of  a  default  by  a  guaranteed  borrower.  This  potentially 
+gives  the  lender  greater  comfort  than  a  single  guarantee  as  it  can  choose 
+where  within  the  cross-guaranteeing  MNE  group  it  seeks,  if  necessary, 

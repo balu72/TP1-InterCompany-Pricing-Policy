@@ -1,0 +1,80 @@
+tructural advantage or disadvantage exists, what the nature and source 
+of the synergistic benefit or burden may be, and whether the synergistic benefit 
+or  burden  arises  through  deliberate  concerted  group  actions  can  only  be 
+determined through a thorough functional and comparability analysis.3
+
+1.180.  For example, if a group takes affirmative steps to centralise purchasing 
+in  a  single  group  company  to  take  advantage  of  volume  discounts,  and  that 
+group  company  resells  the  items  it  purchases  to  other  group  members,  a 
+deliberate concerted group action occurs to take advantage of group purchasing 
+power.  Similarly,  if  a  central  purchasing  manager  at  the  parent  company  or 
+regional management centre performs a service by negotiating a group wide 
+discount with a supplier on the condition of achieving minimum group wide 
+purchasing  levels,  and  group  members  then  purchase  from  that  supplier 
+and  obtain  the  discount,  deliberate  concerted  group  action  has  occurred 
+notwithstanding the absence of specific purchase and sale transactions among 
+group members. Where a supplier unilaterally offers one member of a group a 
+favourable price in the hope of attracting business from other group members, 
+however, no deliberate concerted group action would have occurred.
+
+1.181.  Where corporate synergies arising from deliberate concerted group 
+actions do provide a member of an MNE group with material advantages or 
+burdens  not  typical  of  comparable  independent  companies,  it  is  necessary 
+to determine (i) the nature of the advantage or disadvantage, (ii) the amount 
+of the benefit or detriment provided, and (iii) how that benefit or detriment 
+should be divided among members of the MNE group.
+
+1.182. 
+If important group synergies exist and can be attributed to deliberate 
+concerted  group  actions,  the  benefits  of  such  synergies  should  generally  be 
+shared  by  members  of  the  group  in  proportion  to  their  contribution  to  the 
+creation of the synergy. For example, where members of the group take deliberate 
+concerted  actions  to  consolidate  purchasing  activities  to  take  advantage  of 
+economies of scale resulting from high volume purchasing, the benefits of those 
+large scale purchasing synergies, if any exist after an appropriate reward to the 
+party co-ordinating the purchasing activities, should typically be shared by the 
+members of the group in proportion to their purchase volumes.
+
+1.183.  Comparability adjustments may be warranted to account for group 
+synergies.
+
+3. 
+
+In  light  of  differences  in  local  law,  some  jurisdictions  consider  a  deliberate 
+concerted action to always constitute a transaction, while others do not. However, 
+the consensus view is that, in either scenario, a deliberate concerted action involves 
+one  associated  enterprise  performing  functions,  using  assets,  or  assuming  risks 
+for the benefit of one or more other associated enterprises, such that arm’s length 
+compensation is required. See, e.g. Example 5 in paragraphs 1.190-1.193.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+88 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+Example 1
+
+1.184.  P is the parent company of an MNE group engaging in a financial 
+services  business.  The  strength  of  the  group’s  consolidated  balance  sheet 
+makes  it  possible  for  P  to  maintain  an  AAA  credit  rating  on  a  consistent 
+basis. S is a member of the MNE group engaged in providing the same type 
+of financial services as other group members and does so on a large scale 
+in  an  important  market.  On  a  stand-alone  basis,  however,  the  strength  of 
+S’s  balance  sheet  would  support  a  credit  rating  of  only  Baa.  Nevertheless, 
+because  of  S’s  membership  in  the  P  group,  large  independent  lenders  are 
+willing  to  lend  to  it  at  interest  rates  that  would  be  charged  to  independent 
+borrowers with an A rating, i.e. a lower interest rate than would be charged if 
+S were an independent entity with its same balance sheet, but a higher interest 
+rate than would be available to the parent company of the MNE group.
+
+1.185.  Assume that S borrows EUR 50 million from an independent lender 
+at the market rate of interest for borrowers with an A credit rating. Assume 
+further  that  S  simultaneously  borrows  EUR  50  million  from  T,  another 
+subsidiary  of  P,  with  similar  characteristics  as  the  independent  lender,  on 
+the same terms and conditions and at the same interest rate charged by the 
+independent lender (i.e. an interest rate premised on the existence of an A 
+credit rating). Assume further that the independent lender, in setting its terms 
+and conditions, was aware of S’s other borrowings including the simultaneous 
+loan to S from T.
+
+1.186.  Under these circumstances the interest rate charged on the loan by T 
+to S is an arm’s length interest rate because (i) it is the same rate charged to S 

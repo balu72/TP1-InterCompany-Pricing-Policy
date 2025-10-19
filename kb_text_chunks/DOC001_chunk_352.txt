@@ -1,0 +1,88 @@
+ expertise  and  insight  into  the  business 
+environment in which the intangible is developed or exploited. The problem for 
+the tax administration is that the valuation is extremely difficult to objectively 
+evaluate  since  such  evaluation  may  be  wholly  based  on  the  information 
+provided by the taxpayer. Such information asymmetry restricts the ability of 
+tax administrations to establish or verify, at an early stage, the developments 
+or  events  that  might  be  considered  relevant  for  the  pricing  of  a  transaction 
+involving  the  transfer  of  intangibles  or  rights  in  intangibles,  as  well  as  the 
+extent to which the occurrence of such developments or events, or the direction 
+they take, might have been foreseen or reasonably foreseeable at the time the 
+transaction was entered into.
+
+The HTVI guidance aims at providing a tool for tax administrations 
+6. 
+to  address  this  problem.  In  the  case  of  intangibles  which  fall  within  the 
+definition of HTVI found in paragraph 6.189, and under certain conditions, 
+tax administrations are entitled to consider ex post outcomes as presumptive 
+evidence  about  the  appropriateness  of  the  ex  ante  pricing  arrangements. 
+Where, the actual income or cash flows are significantly higher or lower than 
+the anticipated income or cash flows on which the pricing was based, then 
+there is presumptive evidence (from the perspective of the tax administration) 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER VI: HARD-TO-VALUE INTANGIBLES – 635
+
+that the projected income or cash flows used in the original valuation should 
+have  been  higher  or  lower,  and  that  the  probability-weighting  of  such  an 
+outcome requires scrutiny, taking into account what was known and could 
+have been anticipated at the time of entering into the transaction involving 
+the HTVI. However, it would be incorrect to base the revised valuation on the 
+actual income or cash flows without also taking into account the probability, 
+at the time of the transaction, of the income or cash flows being achieved.
+
+7. 
+This  evaluation  of  the  ex  ante  pricing  arrangements  based  on  the 
+ex  post  outcomes  will  necessarily  consider  the  guidance  contained  in 
+Chapters  I-III  and,  in  particular,  the  guidance  in  Chapters  VI  and  VIII  of 
+these Guidelines.
+
+8. 
+In  performing  such  evaluation,  tax  administrations  may  consider 
+not  only  the  ex  post  outcomes  taken  as  presumptive  evidence  (within 
+the  limits  of  Section  D.4  of  Chapter  VI  of  these  Guidelines)  about  the 
+appropriateness of the ex ante pricing arrangement, but also any other relevant 
+information  related  to  the  HTVI  transaction  that  becomes  available  to  the 
+tax  administrations  and  that  could  or  should  reasonably  have  been  known 
+and considered by the associated enterprises at the time the transaction was 
+entered into (see Section B.5 of Chapter III).
+
+9. 
+Importantly even if the HTVI approach is not applicable to a particular 
+transaction, an adjustment may still be appropriate under other parts of these 
+Guidelines, including other sections of Chapter VI.
+
+10. 
+Any application of the HTVI approach should be done in a manner that 
+promotes tax certainty for taxpayers, and reduces the risk of double taxation 
+resulting from a primary adjustment, considering the jurisdiction’s domestic 
+law (for example, the applicable statute of limitations) and treaty framework. 
+Tax administrations should identify and act upon HTVI transactions as early 
+as possible.
+
+11. 
+The  nature  of  the  approach  to  HTVI  inevitably  requires  some 
+consideration  of  timing  issues.  In  some  cases,  the  elapsed  time  between  the 
+transfer of the HTVI and the emergence of ex post outcomes may not correspond 
+with  audit  cycles  or  with  administrative  and  statutory  time  periods.  This 
+problem  may  be  more  acute  where  an  adjustment  is  appropriate  under  the 
+HTVI approach in transactions involving intangibles qualifying as HTVI under 
+paragraph 6.189 that have a long incubation period – that is, the period after the 
+transfer and before the intangible can be exploited commercially and income 
+can be derived (see paragraph 6.190).
+
+12. 
+The  impact  of  timing  issues  should  not  be  overstated  since  there 
+is  already  a  time  lag  in  typical  audit  cycles.  For  example,  assume  an  audit 
+of years 1-3 is carried out in year 5; during the course of the audit, the tax 
+administration may identify not only a transfer of a hard-to-value intangible in 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+636 – ANNEX II TO CHAPTER VI: HARD-TO-VALUE INTANGIBLES
+
+year 1 but also ex post outcomes of that transfer that may be evaluated during 
+the audit process. Tax administrations are encouraged to identify transfers of 
+potential HTVI, to evaluate the assumptions made by the taxpayer in valuing 
+the intangible, and to seek informa

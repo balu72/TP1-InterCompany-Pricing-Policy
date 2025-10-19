@@ -1,0 +1,151 @@
+
+10
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD – 477
+
+b) Determine routine profit on manufacturing by A and B, and 
+calculate total residual profit
+
+55. 
+It is established, for both jurisdictions, that third-party comparable 
+manufacturers  without  unique  and  valuable  intangibles  earn  a  return  on 
+manufacturing costs (excluding purchases) of 10% (ratio of net profit to the 
+direct and indirect costs of manufacturing).1 A’s manufacturing costs are 15, 
+and so the return on costs would attribute to A a manufacturing profit of 1.5. 
+B’s equivalent costs are 20, and so the return on costs would attribute to B 
+a manufacturing profit of 2.0. The residual profit is therefore 6.5, arrived at 
+by deducting from the relevant net profit of 10 the combined manufacturing 
+profit of 3.5.
+
+c) Allocate residual profit
+
+The  initial  allocation  of  profit  (1.5  to  A  and  2.0  to  B)  rewards  the 
+56. 
+manufacturing  functions  of  A  and  B,  but  does  not  recognise  the  value  of 
+their  respective  unique  and  valuable  contributions  that  have  resulted  in  a 
+technologically  advanced  product.  Since  in  this  case  it  is  determined  that 
+the relative share of total R&D costs incurred by A and B in relation to the 
+product is a reliable proxy for the value of their respective unique and valuable 
+contributions,  the  residual  can  be  split  between  A  and  B  on  that  basis.  The 
+residual is 6.5 which may be allocated 15/25 to A and 10/25 to B, resulting in a 
+share of 3.9 and 2.6 respectively, as below:
+
+A’s share 6.5 × 15/25= 3.9
+
+B’s share 6.5 × 10/25= 2.6
+
+d) Recalculate profits
+
+57. 
+
+A’s net profits would thus become 1.5 + 3.9 = 5.4.
+
+B’s net profits would thus become 2.0 + 2.6 = 4.6.
+
+1. 
+
+This 10% return does not technically correspond to a cost plus mark-up in its 
+strictest  sense  because  it  yields  net  profit  rather  than  gross  profit.  But  neither 
+does  the  10%  return  correspond  to  a  TNMM  margin  in  its  strictest  sense, 
+since  the  cost  base  does  not  include  operating  expenses.  The  net  return  on 
+manufacturing  costs  is  being  used  as  a  convenient  and  practical  first  stage  of 
+the profit split method, because it simplifies the determination of the amount of 
+residual net profit attributable to the unique and valuable intangibles contributed 
+by A and B.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+478 – ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD
+
+The revised P & L for tax purposes would appear as:
+
+Sales
+
+Less:
+Purchases
+
+Manufacturing costs 
+
+Gross profit
+
+Less: 
+
+R& D
+
+Operating expenses
+Net profit
+
+A
+
+B
+
+55.4
+
+(10)
+
+(15)
+
+30.4
+
+(25)
+
+5.4
+
+100
+
+(55.4)
+
+(20)
+
+24.6
+
+(20)
+
+4.6
+
+10
+
+10
+
+15
+
+10
+
+Note:  The  example  is  intended  to  exemplify  in  a  simple  manner  the  mechanisms  of  a 
+residual  profit  split  and  should  not  be  interpreted  as  providing  general  guidance  as  to 
+how  the  arm’s  length  principle  should  apply  in  identifying  arm’s  length  comparables 
+and determining an appropriate split. It is important that the principles that it seeks to 
+illustrate are applied in each case taking into account the specific facts and circumstances 
+of the case. In particular, it should be noted that the allocation of the residual profit may 
+need considerable refinement in practice in order to identify and quantify the appropriate 
+basis  for  the  split.  Where  R&D  expenditure  is  used,  differences  in  the  types  of  R&D 
+conducted may need to be taken into account, e.g. because different types of R&D may 
+have different levels of risk associated with them, which would lead to different levels of 
+expected returns at arm’s length. Relative levels of current R&D expenditure also may 
+not adequately reflect the contribution to the earning of current profits that is attributable 
+to intangible property developed or acquired in the past. See Section C.5.3.2 of Chapter II 
+of these Guidelines.
+
+Example 12
+
+Company  A,  resident  in  Country  A,  Company  B,  resident  in 
+58. 
+Country B, and Company C, resident in Country C, are members of an MNE 
+group.  Companies  A  and  B  undertake  the  design  and  manufacturing  of 
+products and their activities in this regard are highly integrated. Additionally, 
+Company A and Company B are responsible for the marketing and distribution 
+of  the  products  to  unrelated  customers  in  Country  A  and  in  Country  B, 
+respectively.  Company  C  is  responsible  for  the  benchmarkable  marketing 
+and distribution of products purchased from Company A and Company B to 
+unrelated customers in Country C.
+
+Company  A  and  Company  B  enter  into  an  agreement  to  buy  and 
+59. 
+sell pieces, moulds and components to manufacture the different models of 
+the  products.  These  transactions  may  also  relate  to  semi-finished  products 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHA

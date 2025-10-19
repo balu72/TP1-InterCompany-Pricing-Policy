@@ -1,0 +1,88 @@
+inions
+
+10.107.  In  some  circumstances  taxpayers  may  seek  to  evidence  the  arm’s 
+length rate of interest on an intra-group loan by producing written opinions 
+from independent banks, sometimes referred to as a “bankability” opinion, 
+stating what interest rate the bank would apply were it to make a comparable 
+loan to that particular enterprise.
+
+10.108.  Such an approach would represent a departure from an arm’s length 
+approach based on comparability since it is not based on comparison of actual 
+transactions. Furthermore, it is also important to bear in mind the fact that 
+such letters do not constitute an actual offer to lend. Before proceeding to 
+make a loan, a commercial lender will undertake the relevant due diligence 
+and approval processes that would precede a formal loan offer. Such letters 
+would  not  therefore  generally  be  regarded  as  providing  evidence  of  arm’s 
+length terms and conditions.
+
+C.2. Cash pooling
+
+C.2.1. Cash pooling structures
+
+10.109.  The use of a cash pool is popular among multinational enterprises 
+as a way of achieving more efficient cash management by bringing together, 
+either  physically  or  notionally,  the  balances  on  a  number  of  separate  bank 
+accounts.  Depending  on  the  particular  arrangements  in  place,  a  cash  pool 
+can help to achieve more effective liquidity management, whereby reliance 
+on external borrowing can be reduced or, where there is a cash surplus, an 
+enhanced return may be earned on any aggregated cash balance. Financing 
+costs may also be reduced by eliminating the bank spread embedded in the 
+interest which would be payable or receivable on a number of separate debit 
+or credit account balances and by reducing banking transaction costs.
+
+10.110.  In  the  context  of  this  section,  cash  pooling  is  the  pooling  of  cash 
+balances  as  part  of  a  short-term  liquidity  management  arrangement.  Cash 
+pool  arrangements  are  complex  contracts  which  may  involve  controlled  and 
+uncontrolled  transactions.  For  instance,  one  common  structure  is  that  the 
+participating members of the MNE group conclude a contract with an unrelated 
+bank that renders cash pooling services, and each participating member opens 
+a bank account with that bank.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+426 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+10.111.  Although there are two basic types of cash pooling arrangements – 
+physical and notional – other variations and combinations may be arranged to 
+meet specific business needs. For example, a number of physical pools might 
+be held, one for each currency in which the business operates, along with a 
+notional pool which then combines those individual currency pools.
+
+C.2.1.1. Physical pooling
+
+10.112.  In a typical physical pooling arrangement, the bank account balances 
+of all the pool members are transferred daily to a single central bank account 
+owned by the cash pool leader. Any account in deficit is brought to a target 
+balance (usually zero) by a transfer from the master account to the relevant 
+sub account. Depending on whether there is a surplus or a deficit after the 
+members’ accounts have been adjusted to the target balance, the cash pool 
+leader may borrow from the bank to meet the net funding requirement of the 
+pool or deposit any surplus as appropriate.
+
+C.2.1.2. Notional pooling
+
+10.113.  In a notional cash pool, some of the benefits of combining credit and 
+debit balances of several accounts are achieved without any physical transfer 
+of balances between the participating members’ accounts although the bank 
+will  usually  require  cross-guarantees  from  pool  participants  to  enable  the 
+right to set off between accounts if necessary. The bank notionally aggregates 
+the various balances of the individual accounts of participating members and 
+pays or charges interest according to the net balance, either to a designated 
+master account or to all participating accounts under a formula determined 
+in the cash pooling agreement.
+
+10.114.  With no physical transfers of funds, the transactional costs of operating 
+a  notional  pool  are  likely  to  be  less  than  transactional  costs  of  operating  a 
+physical pool. Functions carried out by the bank would be accounted for in 
+the charges or interest rate of the bank. With minimal functions carried out 
+by the pool leader (because functions are primarily performed by the bank), 
+there will be little, if any, value added by the pool leader to be reflected in 
+the intra-group pricing. An appropriate allocation of the benefit created as a 
+result of the elimination of the bank spread and/or the optimisation of a single 
+debit or credit position would need to consider the contribution or burden of 
+each pool participant.
+
+C.2.2. Accurate delineation of cash pooling transactions
+
+10.115.  The accurate delineation of the cash pooling transactions will depend 
+on the particular facts and circumstances of each case.

@@ -1,0 +1,89 @@
+reflected in its Consolidated Financial Statements for such preceding Fiscal Year.
+
+4. 
+The  term  “Constituent  Entity”  means  (i)  any  separate  business  unit  of  an  MNE 
+Group that is included in the Consolidated Financial Statements of the MNE Group for 
+financial reporting purposes, or would be so included if equity interests in such business 
+unit of an MNE Group were traded on a public securities exchange; (ii) any such business 
+unit that is excluded from the MNE Group’s Consolidated Financial Statements solely on 
+size or materiality grounds; and (iii) any permanent establishment of any separate business 
+unit of the MNE Group included in (i) or (ii) above provided the business unit prepares 
+a separate financial statement for such permanent establishment for financial reporting, 
+regulatory, tax reporting, or internal management control purposes.
+
+5. 
+The  term  “Reporting  Entity”  means  the  Constituent  Entity  that  is  required  to  file 
+a country-by-report conforming to the requirements in Article 4 in its jurisdiction of tax 
+residence on behalf of the MNE Group. The Reporting Entity may be the Ultimate Parent 
+Entity, the Surrogate Parent Entity, or any entity described in paragraph 2 of Article 2.
+
+The term “Ultimate Parent Entity” means a Constituent Entity of an MNE Group that 
+
+6. 
+meets the following criteria:
+
+(i)  it owns directly or indirectly a sufficient interest in one or more other Constituent 
+Entities  of  such  MNE  Group  such  that  it  is  required  to  prepare  Consolidated 
+Financial Statements under accounting principles generally applied in its jurisdiction 
+of  tax  residence,  or  would  be  so  required  if  its  equity  interests  were  traded  on  a 
+public securities exchange in its jurisdiction of tax residence; and
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+40 – ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE
+
+(ii)  there  is  no  other  Constituent  Entity  of  such  MNE  Group  that  owns  directly  or 
+indirectly  an  interest  described  in  subsection  (i)  above  in  the  first  mentioned 
+Constituent Entity.
+
+The term “Surrogate Parent Entity” means one Constituent Entity of the MNE Group 
+7. 
+that has been appointed by such MNE Group, as a sole substitute for the Ultimate Parent 
+Entity, to file the Country-by-Country Report in that Constituent Entity’s jurisdiction of 
+tax residence, on behalf of such MNE Group, when one or more of the conditions set out 
+in subsection (ii) of paragraph 2 of Article 2 applies.
+
+The term “Fiscal Year” means an annual accounting period with respect to which the 
+
+8. 
+Ultimate Parent Entity of the MNE Group prepares its financial statements.
+
+The  term  “Reporting  Fiscal  Year”  means  that  Fiscal  Year  the  financial  and 
+9. 
+operational  results  of  which  are  reflected  in  the  Country-by-Country  Report  defined  in 
+Article 4.
+
+10.  The  term  “Qualifying  Competent  Authority  Agreement”  means  an  agreement 
+(i) that is between authorised representatives of those jurisdictions that are parties to an 
+International  Agreement  and  (ii)  that  requires  the  automatic  exchange  of  Country-by-
+Country Reports between the party jurisdictions.
+
+11.  The  term  “International  Agreement”  shall  mean  the  Multilateral  Convention  for 
+Mutual  Administrative  Assistance  in  Tax  Matters,  any  bilateral  or  multilateral  Tax 
+Convention, or any Tax Information Exchange Agreement to which [Country] is a party, 
+and that by its terms provides legal authority for the exchange of tax information between 
+jurisdictions, including automatic exchange of such information.
+
+12.  The  term  “Consolidated  Financial  Statements”  means  the  financial  statements  of 
+an MNE Group in which the assets, liabilities, income, expenses and cash flows of the 
+Ultimate  Parent  Entity  and  the  Constituent  Entities  are  presented  as  those  of  a  single 
+economic entity.
+
+13.  The term “Systemic Failure” with respect to a jurisdiction means that a jurisdiction 
+has  a  Qualifying  Competent  Authority  Agreement  in  effect  with  [Country],  but  has 
+suspended automatic exchange (for reasons other than those that are in accordance with 
+the  terms  of  that  Agreement)  or  otherwise  persistently  failed  to  automatically  provide 
+to  [Country]  Country-by-Country  Reports  in  its  possession  of  MNE  Groups  that  have 
+Constituent Entities in [Country].
+
+Article 2
+Filing Obligation
+
+Each  Ultimate  Parent  Entity  of  an  MNE  Group  that  is  resident  for  tax  purposes 
+1. 
+in [Country] shall file a Country-by-Country Report conforming to the requirements of 
+Article 4 with the [Country Tax Administration] with respect to its Reporting Fiscal Year 
+on or before the date specified in Article 5.
+
+2.  A  Constituent  Entity  which  is  not  the  Ultimate  Parent  Entity  of  an  MNE  Group 
+shall file a Country-by-Country Report conforming t

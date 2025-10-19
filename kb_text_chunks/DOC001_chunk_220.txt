@@ -1,0 +1,83 @@
+er” and “limited risk distributor”. As 
+part of the restructuring, a foreign associated enterprise is established that 
+acquires various intangibles from various affiliates including the taxpayer. 
+Further to the restructuring, raw materials are to be acquired by the foreign 
+associated enterprise, put in consignment in the premises of the taxpayer for 
+manufacturing in exchange for a manufacturing fee. The stock of finished 
+products will belong to the foreign associated enterprise and be acquired by 
+the taxpayer for immediate re-sale to third party customers (i.e. the taxpayer 
+will only purchase the finished products once it has concluded a sale with a 
+customer). Under this new business model, the foreign associated enterprise 
+contractually assumes the inventory risks that were previously borne by the 
+taxpayer, and meets the requirements of control over the risk and financial 
+capacity to assume the risk.
+
+9.52.  Assume that in order to migrate from the pre-existing arrangement 
+to the restructured one, the raw materials and finished products that are on 
+the balance sheet of the taxpayer at the time the new arrangement is put in 
+place are transferred to the foreign associated enterprise. The question arises 
+how to determine the arm’s length transfer price for the inventories upon the 
+conversion. This is an issue that can typically be encountered where there is 
+a transition from one business model to another. The arm’s length principle 
+applies  to  transfers  of  inventory  among  associated  enterprises  situated  in 
+different  tax  jurisdictions.  The  choice  of  the  appropriate  transfer  pricing 
+method  depends  upon  the  comparability  (including  functional)  analysis  of 
+the parties. The functional analysis may have to cover a transition period over 
+which the transfer is being implemented. For instance, in the above example:
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+376 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+•  One  possibility  could  be  to  determine  the  arm’s  length  price  for 
+the raw material and finished products by reference to comparable 
+uncontrolled  prices,  to  the  extent  the  comparability  factors  can  be 
+met by such comparable uncontrolled prices, i.e. that the conditions 
+of the uncontrolled transaction are comparable to the conditions of 
+the transfer that takes place in the context of the restructuring.
+
+•  Another possibility could be to determine the transfer price for the 
+finished  products  as  the  resale  price  to  customers  minus  an  arm’s 
+length remuneration for the marketing and distribution functions that 
+still remain to be performed.
+
+•  A further possibility would be to start from the manufacturing costs 
+and  add  an  arm’s  length  mark-up  to  remunerate  the  manufacturer 
+for  the  functions  it  performed,  assets  it  used  and  risks  it  assumed 
+with respect to these inventories. There are however cases where the 
+market value of the inventories is too low for a profit element to be 
+added on costs at arm’s length.
+
+9.53.  The choice of the appropriate transfer pricing method depends in part 
+on which part of the transaction is the less complex and can be evaluated with 
+the greater certainty (the functions performed, assets used and risks assumed 
+by the manufacturer, or the marketing and sales functions that remain to be 
+performed taking account of the assets to be used and risks to be assumed to 
+perform these functions). See paragraphs 3.18-3.19 on the choice of the tested 
+party.
+
+9.54. 
+In practice, what to do about inventory at the time of the restructuring 
+would likely be taken into account by unrelated parties in agreeing the terms 
+of the total deal, and inventory should be analysed as part of delineating the 
+actual transactions comprising the business restructuring. A key consideration 
+is how to deal with the risks inherent in the inventory, and how to avoid double 
+counting – i.e. the party reducing its risks should not receive a price that takes 
+into account risks it has given up, and cannot exploit. If raw materials costing 
+100 now have a market price of 80 or 120, then a transfer would crystallise 
+a loss or gain which could be a significant impediment to one of the parties 
+to the restructuring. The matter is likely to be resolved as part of the overall 
+terms  of  the  restructuring  and  should  be  analysed  accordingly.  In  practice 
+there may be a transition period where inventory is run down before starting 
+the  new  arrangements,  and  thus  avoiding  transfer  of  inventory,  particularly 
+when there may be several complications beyond transfer pricing involved in 
+transferring legal ownership of inventory cross-border.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 377
+
+E.2. Intangibles
+
+9.55.  Transfers  of  intangibles  or  rights  in  intangibles  raise  difficult 
+questions  both  as  to  the  identification  of  the  intangibles  transferred  and

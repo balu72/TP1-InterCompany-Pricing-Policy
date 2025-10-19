@@ -1,0 +1,76 @@
+ty data can provide reliable comparables for a taxpayer’s controlled 
+transactions (or set of transactions aggregated consistently with the guidance in 
+paragraphs 3.9-3.12). In practice, available third party data are often aggregated 
+data,  at  a  company-wide  or  segment  level,  depending  on  the  applicable 
+accounting  standards.  Whether  such  non-transactional  third  party  data  can 
+provide reliable comparables for the taxpayer’s controlled transaction or set of 
+transactions aggregated consistently with the guidance in paragraphs 3.9-3.12 
+depends in particular on whether the third party performs a range of materially 
+different transactions. Where segmented data are available, they can provide 
+better  comparables  than  company-wide,  non-segmented  data,  because  of  a 
+more  transactional  focus,  although  it  is  recognised  that  segmented  data  can 
+raise  issues  in  relation  to  the  allocation  of  expenses  to  various  segments. 
+Similarly,  company-wide  third  party  data  may  provide  better  comparables 
+than third party segmented data in certain circumstances, such as where the 
+activities  reflected  in  the  comparables  correspond  to  the  set  of  controlled 
+transactions of the taxpayer.
+
+A.4.5. Limitations in available comparables
+
+3.38.  The identification of potential comparables has to be made with the 
+objective  of  finding  the  most  reliable  data,  recognising  that  they  will  not 
+always be perfect. For instance, independent transactions may be scarce in 
+certain markets and industries. A pragmatic solution may need to be found, 
+on a case-by-case basis, such as broadening the search and using information 
+on  uncontrolled  transactions  taking  place  in  the  same  industry  and  a 
+comparable  geographical  market,  but  performed  by  third  parties  that  may 
+have different business strategies, business models or other slightly different 
+economic  circumstances;  information  on  uncontrolled  transactions  taking 
+place in the same industry but in other geographical markets; or information 
+on uncontrolled transactions taking place in the same geographical market 
+but  in  other  industries.  The  choice  among  these  various  options  will 
+depend on the facts and circumstances of the case, and in particular on the 
+significance of the expected effects of comparability defects on the reliability 
+of the analysis.
+
+3.39.  A transactional profit split method might in appropriate circumstances 
+be considered without comparable data, e.g. where the absence of comparable 
+data is due to the presence of unique and valuable intangibles contributed by 
+each party to the transaction (see paragraph 2.119). However, even in cases 
+where comparable data are scarce and imperfect, the selection of the most 
+appropriate transfer pricing method should be consistent with the functional 
+analysis of the parties, see paragraph 2.2.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER III: COMPARABILITy ANALySIS – 161
+
+A.5.  Selecting or rejecting potential comparables
+
+3.40.  There are basically two ways in which the identification of potentially 
+comparable third party transactions can be conducted.
+
+3.41.  The  first  one,  which  can  be  qualified  as  the  “additive”  approach, 
+consists of the person making the search drawing up a list of third parties that 
+are believed to carry out potentially comparable transactions. Information is 
+then  collected  on  transactions  conducted  by  these  third  parties  to  confirm 
+whether  they  are  in  effect  acceptable  comparables,  based  on  the  pre-
+determined comparability criteria. This approach arguably gives well-focused 
+results – all the transactions retained in the analysis are carried out by well-
+known players in the taxpayer’s market. As indicated above, in order to ensure 
+a sufficient degree of objectivity it is important that the process followed be 
+transparent, systematic and verifiable. The “additive” approach may be used 
+as the sole approach where the person making the search has knowledge of 
+a  few  third  parties  that  are  engaged  in  transactions  that  are  comparable  to 
+the  examined  controlled  transaction.  It  is  worth  noting  that  the  “additive” 
+approach presents similarities with the approach followed when identifying 
+internal comparables. In practice, an “additive” approach may encompass both 
+internal and external comparables.
+
+3.42.  The  second  possibility,  the  “deductive”  approach,  starts  with  a 
+wide  set  of  companies  that  operate  in  the  same  sector  of  activity,  perform 
+similar  broad  functions  and  do  not  present  economic  characteristics  that 
+are obviously different. The list is then refined using selection criteria and 
+publicly available information (e.g. from databases, Internet sites, information 
+on known competitors of the taxpayer). In practice, the “deductive” approach 
+typically starts with a search on a database. It is 

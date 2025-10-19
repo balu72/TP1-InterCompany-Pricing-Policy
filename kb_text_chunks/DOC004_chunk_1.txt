@@ -1,0 +1,249 @@
+Guidance on the Implementation of 
+Country-by-Country Reporting
+
+BEPS ACTION 13
+
+May 2024
+
+OECD/G20 Base Erosion and Profit Shifting Project 
+
+  | 1 
+
+Guidance on the Implementation of 
+Country-by-Country Reporting: 
+BEPS Action 13 
+
+Updated May 2024 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+PUBE 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 |   
+
+This document, as well as any data and any map included herein, are without prejudice to the status of or sovereignty 
+over any territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city or 
+area. This document was approved by the Committee on Fiscal Affairs on 24 May 2024 and prepared for publication 
+by the OECD Secretariat.  
+
+Please cite this publication as: 
+
+OECD  (2024),  Guidance  on  the  Implementation  of  Country-by-Country  Reporting:  BEPS  Action  13,  OECD,  Paris, 
+
+https://www.oecd.org/ctp/guidance-on-the-implementation-of-country-by-country-reporting-beps-action-13.pdf. 
+
+© OECD 2024 
+
+The use of this work, whether digital or print, is governed by the Terms and Conditions to be found at www.oecd.org/termsandconditions 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of contents 
+
+Abbreviations and acronyms 
+
+1 Introduction 
+
+2 Issues relating to the definition of items reported in the template for the CbC report 
+
+1.           Definition of revenues (April 2017, September 2017) 
+2.           Definition of related parties (April 2017) 
+3.           Aggregated data or consolidated data to be reported per jurisdiction (July 2017) 
+4.           Amount of Income Tax Accrued and Income Tax Paid (September 2017) 
+5.           Fair value accounting (November 2017) (cf. question 1 on definition of revenues) 
+6.           Positive and negative figures in completing Table 1 (November 2017; October 2022) 
+7.           Treatment of dividends for purposes of “profit (loss) before income tax”, “income tax 
+accrued (current year)” and “income tax paid (on cash basis)” in Table 1 (September 2018; 
+November 2019; May 2024 (NEW)) 
+8.           The use of shortened or rounded amounts in preparing Table 1 (September 2018, 
+November 2019) 
+Notes 
+
+3 Issues relating to the entities to be reported in the CbC report 
+1.            Application of CbC reporting to investment funds (June 2016) 
+2.            Application of CbC reporting to partnerships (June 2016) 
+3.            Accounting principles/standards for determining the existence of and membership of a 
+group (April 2017) 
+4.            Treatment of major shareholdings (April 2017; updated September 2018) 
+5.            Treatment of an entity owned and/or operated by more than one unrelated MNE 
+Groups (July 2017) 
+6.            Deemed listing provision (November 2017, November 2019) 
+7.            Reporting permanent establishment information (October 2022) 
+
+4 Issues relating to the filing obligation for the CbC report 
+
+1.            Impact of currency fluctuations on the agreed EUR 750 million filing threshold (June 
+2016) 
+2.            Definition of total consolidated group revenue (April 2017; updated November 2017, 
+February 2018) 
+3.            Short accounting periods / long accounting periods (September 2017, November 
+2017, November 2019, October 2022) 
+4.            Information with respect to the sources of data in Table 3 (November 2019) 
+5.            Common errors made by MNE groups in preparing CbC reports (November 2019) 
+Note 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  | 3 
+
+5 
+
+6 
+
+7 
+7 
+7 
+8 
+9 
+9 
+10 
+
+12 
+
+14 
+15 
+
+16 
+16 
+17 
+
+18 
+19 
+
+20 
+21 
+22 
+
+23 
+
+23 
+
+23 
+
+24 
+32 
+33 
+34 
+
+  
+4 |   
+
+5 Issues relating to the sharing mechanism for the CbC report (EOI, surrogate filing 
+
+and local filing) 
+1.            Transitional filing options for MNEs (“parent surrogate filing”) (June 2016; updated July 
+2017) 
+2.            CbC reporting notification requirements for MNE Groups during transitional phase 
+(December 2016) 
+3.            Non-compliance with the confidentiality, appropriate use and consistency conditions 
+and Systemic Failure (February 2018) 
+4.            Local filing (November 2019; updated December 2019) 
+5.            Lodging a unilateral declaration for the purposes of exchanging CbC reports 
+(November 2019) 
+Notes 
+
+35 
+
+35 
+
+37 
+
+38 
+39 
+
+42 
+44 
+
+6 Issues relating to Mergers/Acquisitions/Demergers 
+
+1.           Treatment in case of Mergers/Acquisitions/Demergers (November 2017) 
+2.           Table summarising the interpretation on Mergers/Demergers/Acquisitions (September 
+2018) 
+
+45 
+45 
+
+50 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+ 
+ 
+Abbreviations and acronyms 
+
+  | 5 
+
+BEPS    
+
+Base erosion and profit 

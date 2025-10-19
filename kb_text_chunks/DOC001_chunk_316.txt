@@ -1,0 +1,114 @@
+ing automatic exchange of such information.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE – 565
+
+12. 
+The  term  “Consolidated  Financial  Statements”  means  the  financial 
+statements of an MNE Group in which the assets, liabilities, income, expenses 
+and cash flows of the Ultimate Parent Entity and the Constituent Entities are 
+presented as those of a single economic entity.
+
+13. 
+The  term  “Systemic  Failure”  with  respect  to  a  jurisdiction  means 
+that  a  jurisdiction  has  a  Qualifying  Competent  Authority  Agreement  in 
+effect with [Jurisdiction], but has suspended automatic exchange (for reasons 
+other  than  those  that  are  in  accordance  with  the  terms  of  that  Agreement) 
+or  otherwise  persistently  failed  to  automatically  provide  to  [Jurisdiction] 
+Country-by-Country  Reports  in  its  possession  of  MNE  Groups  that  have 
+Constituent Entities in [Jurisdiction].
+
+Article 2
+Filing Obligation
+
+1. 
+Each Ultimate Parent Entity of an MNE Group that is resident for tax 
+purposes in [Jurisdiction] shall file a Country-by-Country Report conforming 
+to the requirements of Article 4 with the [Jurisdiction Tax Administration] 
+with respect to its Reporting Fiscal year on or before the date specified in 
+Article 5.
+
+2. 
+A  Constituent  Entity  which  is  not  the  Ultimate  Parent  Entity  of 
+an  MNE  Group  shall  file  a  Country-by-Country  Report  conforming  to 
+the  requirements  of  Article  4  with  the  [Jurisdiction  Tax  Administration] 
+with  respect  to  the  Reporting  Fiscal  year  of  an  MNE  Group  of  which  it 
+is  a  Constituent  Entity,  on  or  before  the  date  specified  in  Article  5,  if  the 
+following criteria are satisfied:
+
+i) 
+
+the entity is resident for tax purposes in [Jurisdiction]; and
+
+ii)  one of the following conditions applies:
+
+a) 
+
+b) 
+
+the  Ultimate  Parent  Entity  of  the  MNE  Group  is  not  obligated 
+to  file  a  Country-by-Country  Report  in  its  jurisdiction  of  tax 
+residence; or,
+
+the  jurisdiction  in  which  the  Ultimate  Parent  Entity  is  resident 
+for tax purposes has a current International Agreement to which 
+[Jurisdiction] is a party but does not have a Qualifying Competent 
+Authority Agreement in effect to which [Jurisdiction] is a party by 
+the time specified in Article 5 for filing the Country-by-Country 
+Report for the Reporting Fiscal year; or,
+
+c) 
+
+there  has  been  a  Systemic  Failure  of  the  jurisdiction  of  tax 
+residence of the Ultimate Parent Entity that has been notified by 
+the  [Jurisdiction  Tax  Administration]  to  the  Constituent  Entity 
+resident for tax purposes in [Jurisdiction].
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+566 – ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE
+
+Where there are more than one Constituent Entities of the same MNE 
+Group that are resident for tax purposes in [Jurisdiction] and one or more of 
+the conditions set out in subsection (ii) above apply, the MNE Group may 
+designate  one  of  such  Constituent  Entities  to  file  the  Country-by-Country 
+Report conforming to the requirements of Article 4 with [Jurisdiction Tax 
+Administration] with respect to any Reporting Fiscal year on or before the 
+date specified in Article 5 and to notify the [Jurisdiction Tax Administration] 
+that  the  filing  is  intended  to  satisfy  the  filing  requirement  of  all  the 
+Constituent Entities of such MNE Group that are resident for tax purposes 
+in [Jurisdiction].
+
+Notwithstanding  the  provisions  of  paragraph  2  of  this  Article  2, 
+3. 
+when one or more of the conditions set out in subsection (ii) of paragraph 2 
+of Article 2 apply, an entity described in paragraph 2 of this Article 2 shall 
+not be required to file a Country-by-Country Report with [Jurisdiction Tax 
+Administration] with respect to any Reporting Fiscal year if the MNE Group 
+of which it is a Constituent Entity has made available a Country-by-Country 
+Report  conforming  to  the  requirements  of  Article  4  with  respect  to  such 
+Fiscal  year  through  a  Surrogate  Parent  Entity  that  files  that  Country-by-
+Country  Report  with  the  tax  authority  of  its  jurisdiction  of  tax  residence 
+on or before the date specified in Article 5 and that satisfies the following 
+conditions:
+
+a) 
+
+b) 
+
+the  jurisdiction  of  tax  residence  of  the  Surrogate  Parent  Entity 
+requires filing of Country-by-Country Reports conforming to the 
+requirements of Article 4;
+
+the  jurisdiction  of  tax  residence  of  the  Surrogate  Parent  Entity 
+has  a  Qualifying  Competent  Authority  Agreement  in  effect  to 
+which [Jurisdiction] is a party by the time specified in Article 5 
+for  filing  the  Country-by-Country  Report  for  the  Reporting 
+Fiscal year;
+
+c) 
+
+the jurisdiction of tax residence of the Surrogate Parent Entity has 
+not notified the [Jurisdiction Tax Administration] of a Systemic 
+Fail

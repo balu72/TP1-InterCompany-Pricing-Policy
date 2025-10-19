@@ -1,0 +1,87 @@
+lled  transactions,  one  important 
+issue  is  to  assess  whether  a  risk  is  economically  significant,  i.e.  it  carries 
+significant  profit  potential,  and,  as  a  consequence,  whether  that  risk  may 
+explain  a  significant  reallocation  of  profit  potential.  The  significance  of  a 
+risk will depend on the likelihood of the risk materialising and the size of the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+366 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+potential  profits  or  losses  arising  from  the  risk.  Accounting  statements  may 
+provide  useful  information  on  the  probability  and  quantum  of  certain  risks 
+(e.g.  bad  debt  risks,  inventory  risks),  if  past  performance  is  an  indicator  of 
+current risks, but there are also economically significant risks that may not be 
+separately recorded as such in the financial accounts (e.g. market risks). If a risk 
+is assessed to be economically insignificant for the entity, then that risk would 
+not explain a substantial amount of the entity’s profit potential. At arm’s length 
+a party would not be expected to lay off a risk that is perceived as economically 
+insignificant in exchange for a substantial decrease in its profit potential.
+
+9.23.  For  instance,  where  a  full-fledged  distributor  is  converted  into  a 
+limited-risk  distributor  or  commissionnaire  resulting  in  the  reduction  or 
+elimination  of  risks  relating  to  inventory  in  the  restructured  enterprise,  in 
+order  to  determine  whether  such  risk  is  economically  significant  the  tax 
+administration may want to analyse:
+
+•  The role of inventory in the business model (for example, speed to 
+
+market, comprehensive range),
+
+•  The nature of the inventory (for example, spare parts, fresh flowers),
+
+•  The level of investment in inventory,
+
+•  The  factors  giving  rise  to  inventory  write-downs  or  obsolescence 
+(for  example,  perishability,  pricing  pressures,  speed  of  technical 
+improvements, market conditions),
+
+•  The history of write-down and stock obsolescence, and whether any 
+commercial changes affect the reliability of historic performance as 
+an indicator of current risk,
+
+•  The cost of insuring against damage or loss of inventory, and
+
+•  The history of damage or loss (if uninsured).
+
+B.2.  Understanding the business reasons for and the expected 
+
+benefits from the restructuring, including the role of synergies
+
+9.24.  Some  businesses  have  indicated  that  multinational  businesses, 
+regardless  of  their  products  or  sectors,  have  reorganised  their  structures  to 
+provide more centralised control and management of manufacturing, research 
+and  distribution  functions.  The  pressure  of  competition  in  a  globalised 
+economy,  savings  from  economies  of  scale,  the  need  for  specialisation  and 
+the  need  to  increase  efficiency  and  lower  costs  have  all  been  described  as 
+important  in  driving  business  restructurings.  Where  anticipated  synergies 
+are  put  forward  by  a  taxpayer  as  an  important  business  reason  for  the 
+restructuring, it would be a good practice for the taxpayer to document, at the 
+time the restructuring is decided upon or implemented, what these anticipated 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 367
+
+synergies  are  and  on  what  assumptions  they  are  anticipated.  This  is  a  type 
+of documentation that is likely to be produced at the group level for non-tax 
+purposes,  to  support  the  decision-making  process  of  the  restructuring.  For 
+Article 9 purposes, it would be a good practice for the taxpayer to document 
+the  source  of  these  synergies  and  how  these  anticipated  synergies  impact 
+at the entity level in applying the arm’s length principle (see Section D.8 of 
+Chapter I). Care should be taken to ensure that, where deliberate concerted 
+group  actions  are  taken  through  a  business  restructuring,  the  associated 
+enterprises  contributing  to  the  synergistic  benefit  after  the  restructuring 
+are appropriately remunerated (see the example in the following paragraph). 
+Furthermore, while anticipated synergies may be relevant to the understanding 
+of a business restructuring, care must be taken to avoid the use of hindsight in 
+ex post analyses (see paragraph 3.74).
+
+9.25.  For  example,  a  business  restructuring  may  involve  the  setting  up 
+by  an  MNE  group  of  a  central  procurement  operation  that  replaces  the 
+procurement  activities  of  several  associated  enterprises.  Similar  to  the 
+guidance in paragraph 1.180 the MNE group has taken affirmative steps to 
+centralise purchasing in a single group company to take advantage of volume 
+discounts and potential savings in administrative costs. In accordance with 
+the  guidance  in  Chapter  I,  the  benefits  due  to  deliberate  concerted  group 
+action should be allocated to the associated enterprises whose contribu

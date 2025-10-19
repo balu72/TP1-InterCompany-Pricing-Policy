@@ -1,0 +1,74 @@
+ant 
+functions  may  include,  among  others,  design  and  control  of  research  and 
+marketing  programmes,  direction  of  and  establishing  priorities  for  creative 
+undertakings including determining the course of “blue-sky” research, control 
+over  strategic  decisions  regarding  intangible  development  programmes, 
+and  management  and  control  of  budgets.  For  any  intangible  (i.e.  for  either 
+self-developed  or  acquired  intangibles)  other  important  functions  may  also 
+include important decisions regarding defence and protection of intangibles, 
+and  ongoing  quality  control  over  functions  performed  by  independent  or 
+associated  enterprises  that  may  have  a  material  effect  on  the  value  of  the 
+intangible. Those important functions usually make a significant contribution 
+to  intangible  value  and,  if  those  important  functions  are  outsourced  by  the 
+legal owner in transactions between associated enterprises, the performance 
+of  those  functions  should  be  compensated  with  an  appropriate  share  of  the 
+returns derived by the MNE group from the exploitation of intangibles.
+
+6.57.  Because it may be difficult to find comparable transactions involving 
+the outsourcing of such important functions, it may be necessary to utilise 
+transfer  pricing  methods  not  directly  based  on  comparables,  including 
+transactional  profit  split  methods  and  ex  ante  valuation  techniques,  to 
+appropriately reward the performance of those important functions. Where 
+the legal owner outsources most or all of such important functions to other 
+group members, attribution to the legal owner of any material portion of the 
+return  derived  from  the  exploitation  of  the  intangibles  after  compensating 
+other  group  members  for  their  functions  should  be  carefully  considered 
+taking into account the functions it actually performs, the assets it actually 
+uses and the risks it actually assumes under the guidance in Section D.1.2 
+of  Chapter  I.  Examples  16  and  17  in  Annex  I  to  Chapter  VI  illustrate  the 
+principles contained in this paragraph.
+6.58.  Because  the  important  functions  described  in  paragraph  6.56 
+are  often  instrumental  in  managing  the  different  functions  performed, 
+assets used, and risks assumed that are key to the successful development, 
+enhancement,  maintenance,  protection,  or  exploitation  of  intangibles,  and 
+are therefore essential to the creation of intangible value, it is necessary to 
+carefully evaluate transactions between parties performing these important 
+functions and other associated enterprises. In particular, the reliability of a 
+one-sided transfer pricing method will be substantially reduced if the party or 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 265
+
+parties performing significant portions of the important functions are treated 
+as the tested party or parties. See Example 6.
+
+B.2.2. Use of assets
+
+6.59.  Group  members  that  use  assets  in  the  development,  enhancement, 
+maintenance,  protection,  and  exploitation  of  an  intangible  should  receive 
+appropriate  compensation  for  doing  so.  Such  assets  may  include,  without 
+limitation, intangibles used in research, development or marketing (e.g. know-
+how, customer relationships, etc.), physical assets, or funding. One member 
+of an MNE group may fund some or all of the development, enhancement, 
+maintenance,  and  protection  of  an  intangible,  while  one  or  more  other 
+members perform all of the relevant functions. When assessing the appropriate 
+anticipated return to funding in such circumstances, it should be recognised 
+that in arm’s length transactions, a party that provides funding, but does not 
+control the risks or perform other functions associated with the funded activity 
+or  asset,  generally  does  not  receive  anticipated  returns  equivalent  to  those 
+received by an otherwise similarly-situated investor who also performs and 
+controls important functions and controls important risks associated with the 
+funded  activity.  The  nature  and  amount  of  compensation  attributable  to  an 
+entity that bears intangible-related costs, without more, must be determined on 
+the basis of all the relevant facts, and should be consistent with similar funding 
+arrangements  among  independent  entities  where  such  arrangements  can  be 
+identified. See the guidance in Section D.1.2.1.6 of Chapter I, and in particular 
+Example 3 in paragraphs 1.85 and 1.103, which illustrate a situation where the 
+party providing funding does not control the financial risk associated with the 
+funding.
+
+6.60.  Funding  and  risk-taking  are  integrally  related  in  the  sense  that 
+funding  often  coincides  with  the  taking  of  certain  risks  (e.g.  the  funding 
+party contractually assuming the risk of loss of its funds). The nature and 
+extent of the risk assumed, however, will vary depen

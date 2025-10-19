@@ -1,0 +1,77 @@
+chieve risk diversification by insuring not 
+only internal risks of its MNE group, but also including within its portfolio a 
+significant proportion of external, non-group risks (while still staying within 
+the definition of captive insurance in paragraph 10.190).
+
+10.206.  Alternatively,  risk  diversification  may  be  achieved  by  covering 
+internal risks when the breadth and depth of the MNE group allows the captive 
+insurance to cover non-correlated or less than fully correlated risks and varied 
+geographical  exposures.  Situations  where  a  captive  insurance  only  covers 
+internal risks require a thorough analysis under Chapter I guidance to determine 
+whether risk diversification actually occurred, i.e. whether a sufficient quantum 
+and  variety  of  risks  are  covered  by  the  captive  insurance.  In  this  context, 
+determining whether risk diversification occurred is a question of threshold and 
+the conclusion of the analysis would be dependent upon the specific facts and 
+circumstances.
+
+10.207.  Notably,  internal  risk  diversification  might  generate  lower  capital 
+efficiencies than those achieved through external risk diversification. Therefore, 
+the  remuneration  of  a  captive  insurance  that  exclusively  covers  internal 
+risks might be lower than when risk diversification is achieved by insuring 
+external,  non-group  risks,  or  by  reinsuring  a  significant  proportion  of  the 
+MNE  group’s  risks  outside  of  the  group.  In  addition,  when  the  accurate 
+delineation  of  the  actual  transaction  indicates  that  the  capital  efficiencies 
+achieved through the pooling of internal risks in the captive insurance arise 
+from the result of group synergies created through deliberate concerted group 
+actions,  the  benefits  of  such  synergies  should  generally  be  shared  by  the 
+MNEs that contributed to the creation of those synergies (see Section D.8 of 
+Chapter I and paragraphs 10.222 and 10.223).
+
+10.208. In situations where the captive insurance lacks the scale to achieve 
+significant risk diversification or lacks sufficient reserves to meet additional 
+risks  represented  by  the  relatively  less  diversified  portfolio  of  the  MNE 
+group,  the  accurate  delineation  of  the  actual  transaction  may  indicate  that 
+the captive insurance is operating a business other than an insurance one (see 
+guidance in Chapter VII).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+446 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+E.2.2. The assumption of the economically significant risks
+
+10.209.  In  the  process  of  accurately  delineating  the  actual  transaction 
+involving  a  captive  insurance,  the  economically  relevant  risks  associated 
+with  issuing  insurance  policies,  i.e.  underwriting,  must  be  identified  with 
+specificity. Part IV of the Report on the Attribution of Profits to Permanent 
+Establishments7 provides a description of those risks that include, inter alia, 
+insurance risk, commercial risk or investment risk. These descriptions remain 
+valid for the purpose of this guidance.
+
+10.210.  The  accurate  delineation  of  the  actual  transaction  in  scenarios 
+involving captive insurance requires identifying whether the captive insurance 
+is performing control functions regarding the economically significant risks 
+associated to the underwriting function – in particular the insurance risk – to 
+determine whether those risks should be allocated to the captive.
+
+10.211.  Part  IV  of  the  Report  on  the  Attribution  of  Profits  to  Permanent 
+Establishments  describes  the  activities  that  form  part  of  the  underwriting 
+function such as setting the underwriting policies, classifying and selecting 
+the insured risk, setting the premiums (pricing), the analysis of risk retention 
+and the acceptance of the insured risk. These activities would imply, inter alia, 
+deciding to underwrite a risk or not and under what terms and conditions, or 
+whether reinsurance protection should be purchased or not. On prevailing facts 
+and  circumstances,  those  activities  may  be  considered  as  control  functions 
+as  described  in  paragraph  1.65  of  Chapter  I  and,  if  exercised  by  a  captive 
+insurance that possesses the financial capacity to assume the risk, would lead 
+to  the  allocation  of  risk  to  the  captive  insurance  under  Chapter  I  analysis. 
+Notably, the mere setting of parameters or the policy environment for the risk 
+would not qualify as control functions for this purpose (see paragraph 1.66 
+of Chapter I, and paragraph 94 of Part IV of the Report on the Attribution of 
+Profits to Permanent Establishments).
+
+10.212.  When the captive insurance does not have access to the appropriate 
+skills, expertise and resources and, therefore, the captive insurance is not found 
+to exercise control functions related to the risks associated to the underwriting, 
+an analysis under Chapter I, based on facts and circumstances, may conclude 
+tha

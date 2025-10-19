@@ -1,0 +1,89 @@
+evant enterprise would be required to prepare if it was listed on a public securities exchange. In applying 
+the deemed listing provision, it is irrelevant whether or not a particular type of entity is in fact able to be 
+listed, taking into account, among other things, the jurisdiction’s company law and/or regulations governing 
+the relevant public securities exchange.  
+
+For  instance,  some  jurisdictions  differentiate  between  public  entities  and  non-public  entities  (or  private 
+entities) in determining whether Consolidated Financial Statements are required to be prepared (e.g. the 
+United States and Canada). In this case, the deemed listing provision would be relevant in determining the 
+Constituent Entities in an MNE Group where the UPE is a non-public entity. The term “public entities” refers 
+to entities which have instruments listed on a public securities exchange and the expression “non-public 
+entities”  refers  to  entities  which  have  no  instruments  traded  on  a  public  securities  exchange.  The  term 
+“public entity” does not refer to an entity held by public sector bodies. 
+
+In accordance with paragraph  55 of  the Action 13 Report,  neither the deemed  listing  provision  nor this 
+guidance should be interpreted as giving rise to any exemption from the obligation to file the CbC report 
+other than as set out in paragraph 52 of the Action 13 Report and Article 1.3 of the Model Legislation. 
+
+6.2 How does the “deemed listing provision” set out in Article 1, paragraph 6 of the CbC 
+reporting model legislation operate where the parent entity of an MNE Group is tax 
+resident in a jurisdiction that does not have a securities exchange?  
+
+Paragraph 51 of the BEPS Action 13 report requires that all MNE groups be required to file a CbC report, 
+subject to the consolidated group revenue threshold in paragraph 52. The model legislation contained in 
+the CbC Reporting Implementation Package includes an example of how this could be done. 
+
+Article 1, paragraph 6 of the model legislation provides that the UPE of an MNE is an entity that is required 
+to prepare consolidated financial statements, or would be required to do so if its equity instruments were 
+traded on a securities exchange in its jurisdiction of tax residence. A question has arisen as to how this 
+test is to be applied or adapted in cases where there is no securities exchange in the jurisdiction where an 
+entity is tax resident. 
+
+In these cases, an entity will be the UPE of an MNE group if it would be required to prepare consolidated 
+financial  statements  if  its  equity  instruments  were  traded  on  a  securities  exchange  upon  which  equity 
+instruments  of  entities  tax  resident  in  the  same  jurisdiction  are  commonly  traded.  To  provide  greater 
+certainty  for  MNEs  and  for  other  jurisdictions,  jurisdictions  that  do  not  have  a  securities  exchange  are 
+encouraged  to  specify  one  or  more  jurisdictions  with  a  securities  exchange  that  would  be  considered 
+acceptable for these purposes. 
+
+If the equity instruments of an entity that would be the UPE of an MNE group under Article 1, paragraph 6 
+are not traded on a public securities exchange, question 3.1 in part III of this guidance will also apply, to 
+identify the applicable accounting standards that should be used to determine membership of the MNE 
+group. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+22 |   
+
+Reporting permanent establishment information (October 2022) 
+
+7.1 In completing Table 2, how should Constituent Entities that are permanent 
+establishments be described? 
+
+As described in the Template for CbC report – Specific Instructions, a Constituent Entity that is a permanent 
+establishment should be listed in Table 2 by reference to the tax jurisdiction in which it is situated and the 
+legal  entity  of  which  it  is  a  permanent  establishment  should  be  noted.  For  example,  if  an  MNE  group 
+includes  a  Constituent  Entity,  XYZ  Corp,  which  is  resident  in  Tax  jurisdiction  A  and  has  a  permanent 
+establishment in Tax jurisdiction B, the following descriptions should be used in Table 2: 
+
+Tax Jurisdiction 
+
+Constituent Entities Resident in the Tax Jurisdiction 
+
+Tax jurisdiction A 
+
+Tax jurisdiction B 
+
+XYZ Corp 
+
+XYZ Corp – Tax jurisdiction A PE 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+  | 23 
+
+4 Issues relating to the filing 
+
+obligation for the CbC report 
+
+Impact of currency fluctuations on the agreed EUR 750 million filing threshold 
+(June 2016) 
+
+1.1 If Country A is using a domestic currency equivalent of EUR 750 million for its filing 
+threshold, Country B is using EUR 750 million for its filing threshold, and as a result of 
+currency fluctuations Country A's threshold is in excess of EUR 750 million, can Country 
+B impose its local filing requirement on a Constituent Entity of an M

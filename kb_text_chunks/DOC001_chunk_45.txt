@@ -1,0 +1,84 @@
+ay be 
+interested  in  setting  a  low  price  for  the  transaction  for  customs  purposes 
+so  that  the  customs  duty  imposed  will  be  low.  (There  could  be  similar 
+considerations  arising  with  respect  to  value  added  taxes,  sales  taxes,  and 
+excise taxes.) For tax purposes, however, a higher price paid for those same 
+goods  would  increase  the  deductible  costs  in  the  importing  jurisdiction 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 81
+
+(although  this  would  also  increase  the  sales  revenue  of  the  seller  in  the 
+jurisdiction  of  export).  Co-operation  between  income  tax  and  customs 
+administrations  within  a  jurisdiction  in  evaluating  transfer  prices  is 
+becoming more common and this should help to reduce the number of cases 
+where customs valuations are found unacceptable for tax purposes or vice 
+versa.  Greater  co-operation  in  the  area  of  exchange  of  information  would 
+be particularly useful, and should not be difficult to achieve in jurisdictions 
+that already have integrated administrations for income taxes and customs 
+duties. Jurisdictions that have separate administrations may wish to consider 
+modifying the exchange of information rules so that the information can flow 
+more easily between the different administrations.
+
+D.6.  Location savings and other local market features
+
+1.159.  Paragraphs  1.130,  1.132  and  6.120  indicate  that  features  of  the 
+geographic market in which business operations occur can affect comparability 
+and  arm’s  length  prices.  Difficult  issues  can  arise  in  evaluating  differences 
+between  geographic  markets  and  in  determining  appropriate  comparability 
+adjustments.  Such  issues  may  arise  in  connection  with  the  consideration  of 
+cost savings attributable to operating in a particular market. Such savings are 
+sometimes  referred  to  as  location  savings.  In  other  situations  comparability 
+issues can arise in connection with the consideration of local market advantages 
+or disadvantages that may not be directly related to location savings.
+
+D.6.1. Location savings
+
+1.160.  Paragraphs 9.126-9.131 discuss the treatment of location savings in 
+the  context  of  a  business  restructuring.  The  principles  described  in  those 
+paragraphs  apply  generally  to  all  situations  where  location  savings  are 
+present, not just in the case of a business restructuring.
+
+1.161.  Pursuant to the guidance in paragraphs 9.126 – 9.131, in determining 
+how  location  savings  are  to  be  shared  between  two  or  more  associated 
+enterprises, it is necessary to consider (i) whether location savings exist; (ii) the 
+amount of any location savings; (iii) the extent to which location savings are 
+either retained by a member or members of the MNE group or are passed on 
+to independent customers or suppliers; and (iv) where location savings are not 
+fully passed on to independent customers or suppliers, the manner in which 
+independent enterprises operating under similar circumstances would allocate 
+any retained net location savings.
+
+1.162.  Where  the  functional  analysis  shows  that  location  savings  exist 
+that  are  not  passed  on  to  customers  or  suppliers,  and  where  comparable 
+entities  and  transactions  in  the  local  market  can  be  identified,  those  local 
+market comparables will provide the most reliable indication regarding how 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+82 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+the net location savings should be allocated amongst two or more associated 
+enterprises. Thus, where reliable local market comparables are available and 
+can be used to identify arm’s length prices, specific comparability adjustments 
+for location savings should not be required.
+
+1.163.  When reliable local market comparables are not present, determinations 
+regarding  the  existence  and  allocation  of  location  savings  among  members 
+of  an  MNE  group,  and  any  comparability  adjustments  required  to  take  into 
+account location savings, should be based on an analysis of all of the relevant 
+facts and circumstances, including the functions performed, risks assumed, and 
+assets used of the relevant associated enterprises, in the manner described in 
+paragraphs 9.126-9.131.
+
+D.6.2. Other local market features
+
+1.164.  Features  of  the  local  market  in  which  business  operations  occur 
+may  affect  the  arm’s  length  price  with  respect  to  transactions  between 
+associated enterprises. While some such features may give rise to location 
+savings, others may give rise to comparability concerns not directly related 
+to  such  savings.  For  example,  the  comparability  and  functional  analysis 
+conducted  in  connection  with  a  particular  matter  may  suggest  that  the 
+relevant  characteristics  of  the  geographic  market  in  which  products  are 
+manufactured  or  sold,  the  purc

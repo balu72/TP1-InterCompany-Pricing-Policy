@@ -1,0 +1,75 @@
+ in  Sections  D.3  and 
+D.4  of  Chapter  VI  on  hard-to-value  intangibles  is  applicable  to  value  the 
+contributions of each of the participants to the CCA.
+
+8.21. 
+If an arrangement covers multiple activities, it will be important to 
+take  this  into  account  in  choosing  an  allocation  method,  so  that  the  value 
+of contributions made by each participant is properly related to the relative 
+benefits  expected  by  the  participants.  One  approach  (though  not  the  only 
+one)  is  to  use  more  than  one  allocation  key.  For  example,  if  there  are  five 
+participants  in  a  CCA,  one  of  which  cannot  benefit  from  certain  services 
+activities undertaken within the CCA, then in the absence of some form of 
+set-off or reduction in contribution, the contributions associated with those 
+activities might be allocated only to the other four participants. In this case, 
+two allocation keys might be used to allocate the contributions. Whether any 
+particular allocation key or keys are appropriate depends on the exact nature 
+of the CCA activity and the relationship between the allocation key(s) and 
+the  expected  benefits.  The  guidance  in  Chapter  VII  on  the  use  of  indirect 
+methods of determining an arm’s length charge for services (paragraphs 7.23-
+7.26)  may  be  helpful  in  this  regard.  In  contrast,  the  three  enterprises 
+operating production sites in the illustration of a CCA in paragraph 8.8 are 
+all  anticipated  to  benefit  from  the  multiple  projects  to  improve  production 
+processes, and may adopt an allocation key based on, for example, relative 
+size of production capacity. If one of the enterprises chooses not to implement 
+the outcome of a particular project, this should not affect the relative share 
+of  benefits  or  the  allocation  key  used.  However,  in  such  circumstances 
+careful consideration should be given to the reason the enterprise chose not 
+to implement the outcome, whether it ever had any reasonable intention of so 
+doing, whether the expected benefits should have been adapted as the CCA 
+arrangement developed and when its intention changed.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+346 – CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS
+
+8.22.  Whatever  the  method  used  to  evaluate  participants’  relative  shares 
+of expected benefits, adjustments to the measure used may be necessary to 
+account for differences between the respective shares of expected and actual 
+benefits  received  by  the  participants.  The  CCA  should  require  periodic 
+reassess ment  of  contributions  vis-à-vis  the  revised  share  of  benefits  to 
+determine whether the future contributions of participants should be adjusted 
+accordingly. Thus, the allocation key(s) most relevant to any particular CCA 
+may change over time leading to prospective adjustments. Such adjustments 
+may reflect either the fact that the parties will have more reliable information 
+about foreseeable (but uncertain) events as time passes, or the occurrence of 
+unforeseeable events.
+
+C.4. The value of each participant’s contribution
+
+8.23.  For  the  purpose  of  determining  whether  a  CCA  satisfies  the  arm’s 
+length  principle  –  i.e.  whether  each  participant’s  proportionate  share  of 
+the  overall  contributions  to  the  CCA  is  consistent  with  the  participant’s 
+proportionate  share  of  the  overall  expected  benefits  –  it  is  necessary  to 
+measure the value of each participant’s contributions to the arrangement.
+
+8.24.  Contributions  to  a  CCA  may  take  many  forms.  For  services  CCAs, 
+contributions  primarily  consist  of  the  performance  of  the  services.  For 
+development  CCAs,  contributions  typically  include  the  performance  of 
+development  activities  (e.g.  R&D,  marketing),  and  often  include  additional 
+contributions  relevant  to  the  development  CCA  such  as  pre-existing  tangible 
+assets or intangibles. Irrespective of the type of CCA, all contributions of current 
+or  pre-existing  value  must  be  identified  and  accounted  for  appropriately  in 
+accordance with the arm’s length principle. Since the value of each participant’s 
+relative share of contributions should accord with its share of expected benefits, 
+balancing  payments  may  be  required  to  ensure  this  consistency.  The  term 
+“contributions”  as  used  in  this  Chapter  includes  contributions  of  both  pre-
+existing and current value made by participants to a CCA.
+
+8.25.  Under  the  arm’s  length  principle,  the  value  of  each  participant’s 
+contribution should be consistent with the value that independent enterprises 
+in comparable circumstances would have assigned to that contribution. That 
+is, contributions must generally be assessed based on their value at the time 
+they  are  contributed,  bearing  in  mind  the  mutual  sharing  of  risks,  as  well 
+as the nature and extent of the associated expected benefits to participants 
+in

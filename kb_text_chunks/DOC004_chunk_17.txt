@@ -1,0 +1,79 @@
+ laws in place to require CbC reporting (even if filing of a CbC report for the Reporting 
+Fiscal Year in question is not required under those laws); and  
+
+3.  by the first filing deadline of the CbC report, a Qualifying Competent Authority Agreement must 
+be in effect between the jurisdiction of tax residence of the UPE and the Local Jurisdiction;2 and  
+
+4. 
+
+5. 
+
+the  jurisdiction  of  tax  residence  of  the  UPE  has  not  notified  the  Local  Jurisdiction’s  tax 
+administration of a Systemic Failure; and  
+the following notifications have been provided:3  
+‒ 
+
+the jurisdiction of tax residence of the UPE has been notified by the UPE, no later than [the 
+last day of the Reporting Fiscal Year of such MNE Group]; and 
+
+‒ 
+
+the Local Jurisdiction’s tax administration has been notified by a Constituent Entity of the 
+MNE Group that is resident for tax purposes in the Local Jurisdiction that it is not the UPE 
+nor the SPE, stating the identity and tax residence of the Reporting Entity, no later than [the 
+last day of the Reporting Fiscal Year of such MNE Group].  
+
+The jurisdictions which have confirmed they will have parent surrogate filing available consistent with the 
+framework  outlined  above  for  UPE  that  are  resident  in  their  jurisdiction,  with  respect  to  fiscal  periods 
+commencing on or from 1 January 2016, are listed here: www.oecd.org/tax/automatic-exchange/country-
+specific-information-on-country-by-country-reporting-implementation.htm. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+  | 37 
+
+CbC reporting notification requirements for MNE Groups during transitional 
+phase (December 2016) 
+
+2.1 Article 3 of the Action 13 model legislation for CbC reporting includes an option for 
+jurisdictions to require notifications to be sent to the country tax administration 
+identifying the Reporting Entity for the MNE Group. Where a Constituent Entity of an 
+MNE Group is required to notify its tax administration of the identity and tax residence of 
+the Reporting Entity (including the Surrogate Parent Entity) of the MNE Group by 31 
+December 2016 (with respect to the 2016 fiscal year), would it be consistent with the 
+Action 13 minimum standard for jurisdictions to provide some transitional relief during 
+the period in which domestic CbC legal frameworks and Qualifying Competent Authority 
+Agreements are still being put in place?  
+
+A  practical  issue  may  arise  for  a  number  of  MNE  Groups  around  the  world  which  are  currently  in  the 
+process of identifying the reporting entity and considering whether to proceed with surrogate filing where 
+local  filing  obligations  would  otherwise  be  applicable.  This  issue  relates  to  the  domestic  notification 
+requirements that Constituent Entities of MNE Groups may be subject to, requiring them to inform their tax 
+administration about the identity of the Reporting Entity that will be filing the CbC report. In a number of 
+cases these notifications will need to be submitted by 31 December 2016 with respect to the 2016 fiscal 
+year.  
+
+However, the identity of the appropriate reporting entity may not be known by that time. This is because 
+the identity of the reporting entity will depend on the domestic CbC legal frameworks and the international 
+exchange of information relationships that are formed through QCAAs. Domestic legal frameworks are still 
+being  finalised,  and  Qualifying  Competent  Authority  Agreements  may  not  be  in  place  by  31  December 
+2016. 
+
+MNE Groups that are seeking to comply with their legal obligations to provide notifications, where such 
+obligations exist, therefore face a practical difficulty in doing so because necessary information will not be 
+available.  To  address  this  issue,  jurisdictions  may  provide  some  flexibility  regarding  the  date  for  the 
+notification requirement if applicable, as neither the Action 13 standard nor the model legislation requires 
+the notification to be at the end of the reporting fiscal year. For example, jurisdictions which are introducing 
+notification requirements may choose another date for notifications, such as the date for filing a CbC report 
+or the date for filing a corporate tax return.  
+
+Jurisdictions which require notifications may also provide administrative guidance to allow transitional relief 
+in  respect  of  these  requirements.  For  example,  Constituent  Entities  could  be  authorised  to  provide  a 
+notification based on a preliminary assessment of the identity and tax residence of the Reporting Entity. 
+An updated notification based on new information could be provided by the Constituent Entity by the date 
+for filing the CbC report. Jurisdictions which require notifications could also provide transitional relief from 
+penalties in connection with MNE Groups updating their notification.  
+
+Transitional  relief  in  these  circumstances  would  not  be  frustrating  the  policy  

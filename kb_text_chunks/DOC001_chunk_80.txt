@@ -1,0 +1,82 @@
+e circumstances be 
+extremely complex, and the method of identifying the profits relevant to the 
+transaction and any assumptions made in doing so need to be documented.
+
+C.4.1. Transactional profit splits of actual or anticipated profits
+
+2.158.  The determination of the profits to be split, including whether those 
+profits are actual profits or anticipated profits, or some combination thereof, 
+should be aligned with the accurately delineated transaction. Example 13 in 
+Annex II to Chapter II illustrates the principles of this section.
+
+2.159.  Where the transactional profit split method is found to be the most 
+appropriate,  the  splitting  of  actual  profits,  i.e.  profits  which  have  been 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+140 – CHAPTER II: TRANSFER PRICING METHODS
+
+affected by the playing out of economically significant risks, would only be 
+appropriate where the accurate delineation of the transaction shows that the 
+parties either share the assumption of the same economically significant risks 
+associated with the business opportunity or separately assume closely related, 
+economically significant risks associated with the business opportunity and 
+consequently should share in the resulting profits or losses. These kinds of 
+risk  assumption  may  occur  in  scenarios  where  the  business  operations  are 
+highly integrated and/or each party makes unique and valuable contributions.
+
+2.160.  Alternatively, if the transactional profit split is found to be the most 
+appropriate method (e.g. because each party to the transaction makes unique 
+and  valuable  contributions)  but  one  of  the  parties  does  not  share  in  the 
+assumption of the economically significant risks which might play out after 
+entering  into  the  transaction,  a  split  of  anticipated  profits  would  be  more 
+appropriate. See scenario 1 of Example 13 in Annex II to Chapter II of this 
+guidance.
+
+2.161. 
+In  any  application  of  a  transactional  profit  split,  care  should  be 
+exercised  to  ensure  that  the  method  is  applied  without  hindsight.  See 
+paragraph  3.74.  That  is,  irrespective  of  whether  a  transactional  profit  split 
+of  anticipated  or  actual  profits  is  used,  unless  there  are  major  unforeseen 
+developments which would have resulted in a renegotiation of the agreement 
+had  it  occurred  between  independent  parties,  the  basis  upon  which  those 
+profits are to be split between the associated enterprises, including the profit 
+splitting  factors,  the  way  in  which  relevant  profits  are  calculated,  and  any 
+adjustments or contingencies, must be determined on the basis of information 
+known or reasonably foreseeable by the parties at the time the transactions 
+were entered into. This is so notwithstanding the fact that in many cases, the 
+actual calculations can necessarily only be performed some time afterwards, 
+where, for example they apply profit splitting factors determined at the outset 
+to the actual profits. Additionally, it should be remembered that the starting 
+point  in  the  accurate  delineation  of  any  transaction  will  generally  be  the 
+written contracts which may reflect the intention of the parties at the time the 
+contract was concluded. See paragraph 1.42.
+
+C.4.2. Different measures of profits
+
+2.162.  Most commonly, the relevant profits to be split under the transactional 
+profit split method are operating profits. Applying the transactional profit split 
+method in this manner ensures that both income and expenses of the MNE 
+are  attributed  to  the  relevant  associated  enterprise  on  a  consistent  basis. 
+However,  depending  on  the  accurate  delineation  of  the  transaction,  it  may 
+be  appropriate  to  split  a  different  measure  of  profits  such  as  gross  profits, 
+and  then  deduct  the  expenses  incurred  by  or  attributable  to  each  relevant 
+enterprise  (excluding  expenses  already  taken  into  account).  In  such  cases, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 141
+
+care  must  be  taken  to  ensure  that  the  expenses  incurred  by  or  attributable 
+to each enterprise are consistent with the accurate delineation of the trans-
+action, particularly the activities and risks undertaken by each party, and that 
+the allocation of profits is likewise consistent with the contributions of the 
+parties.
+
+2.163.  That is, the measure of profits to be split will depend on the accurate 
+delineation  of  the  transaction.  For  instance,  if  the  accurate  delineation  of 
+the transaction determines that the parties share the assumption of not only 
+market risk, which affects the volume of sales and prices charged, but also 
+risks associated with producing or otherwise acquiring goods and services, 
+which  affect  the  level  of  gross  profit,  it  would  be  most  appropriate  to  use 
+gross  profits  as  the  basis  of  the  split.  In  such  a  scenario,  the  p

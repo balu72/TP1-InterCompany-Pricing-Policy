@@ -1,0 +1,85 @@
+D 2022
+
+ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES – 605
+
+is  the  legal  owner  of  the  intangibles,  its  contribution  to  the  arrangement  is 
+solely  the  provision  of  funding  for  the  development  of  an  intangible.  This 
+analysis shows that Company A contractually assumes the financial risk, has 
+the financial capacity to assume that risk, and exercises control over that risk 
+in accordance with the principles outlined in paragraphs 6.63 and 6.64. Taking 
+into account Company A’s contributions, as well as the realistic alternatives of 
+Company A and Company B, it is determined that Company A’s anticipated 
+remuneration  should  be  a  risk-adjusted  return  on  its  funding  commitment. 
+Assume that this is determined to be USD 110 million per year (for years 6 
+to  15),  which  equates  to  an  11%  risk-adjusted  anticipated  financial  return.1 
+Company B, accordingly, would be entitled to all remaining anticipated income 
+after accounting for Company A’s anticipated return, or USD 440 million per 
+year (USD 550 million minus USD 110 million), rather than USD 200 million 
+per year as claimed by the taxpayer. (Based on the detailed functional analysis 
+and application of the most appropriate method, the taxpayer incorrectly chose 
+Company B as the tested party rather than Company A).
+
+Example 7
+
+Primero  is  the  parent  company  of  an  MNE  group  engaged  in  the 
+16. 
+pharmaceutical business and does business in Country M. Primero develops 
+patents and other intangibles relating to Product X and registers those patents 
+in countries around the world.
+
+17. 
+Primero retains its wholly owned Country N subsidiary, Company S, to 
+distribute Product X throughout Europe and the Middle East on a limited risk 
+basis. The distribution agreement provides that Primero, and not Company S, 
+is to bear product recall and product liability risk, and provides further that 
+Primero  will  be  entitled  to  all  profit  or  loss  from  selling  Product  X  in  the 
+territory after providing Company S with the agreed level of compensation for 
+its distribution functions. Operating under the contract, Company S purchases 
+Product  X  from  Primero  and  resells  Product  X  to  independent  customers 
+in  countries  throughout  its  geographical  area  of  operation.  In  performing 
+its  distribution  functions,  Company  S  follows  all  applicable  regulatory 
+requirements.
+
+18. 
+In  the  first  three  years  of  operations,  Company  S  earns  returns 
+from  its  distribution  functions  that  are  consistent  with  its  limited  risk 
+
+1. 
+
+For  purposes  of  this  example,  it  is  not  necessary  to  derive  these  results.  The 
+example assumes that making a funding “investment” of USD 100 million per 
+year for five years in a project with this level of risk should earn at arm’s length 
+anticipated profits of USD 110 million per year for the following ten years. This 
+corresponds to an 11% return on funding.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+606 – ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES
+
+characterisation and the terms of the distribution contract. Its returns reflect 
+the fact that Primero, and not Company S, is entitled to retain income derived 
+from exploitation of the intangibles with respect to Product X. After three 
+years of operation, it becomes apparent that Product X causes serious side 
+effects in a significant percentage of those patients that use the product and 
+it becomes necessary to recall the product and remove it from the market. 
+Company S incurs substantial costs in connection with the recall. Primero 
+does  not  reimburse  Company  S  for  these  recall  related  costs  or  for  the 
+resulting product liability claims.
+
+19. 
+Under  these  circumstances,  there  is  an  inconsistency  between 
+Primero’s  asserted  entitlement  to  returns  derived  from  exploiting  the 
+Product  X  intangibles  and  its  failure  to  bear  the  costs  associated  with  the 
+risks  supporting  that  assertion.  A  transfer  pricing  adjustment  would  be 
+appropriate  to  remedy  the  inconsistency.  In  determining  the  appropriate 
+adjustment, it would be necessary to determine the true transaction between 
+the parties by applying the provisions of Section D.1 of Chapter I. In doing 
+so,  it  would  be  appropriate  to  consider  the  risks  assumed  by  each  of  the 
+parties  on  the  basis  of  the  course  of  conduct  followed  by  the  parties  over 
+the  term  of  the  agreement,  the  control  over  risk  exercised  by  Primero  and 
+Company S, and other relevant facts. If it is determined that the true nature 
+of the relationship between the parties is that of a limited risk distribution 
+arrangement,  then  the  most  appropriate  adjustment  would  likely  take  the 
+form  of  an  allocation  of  the  recall  and  product  liability  related  costs  from 
+Company S to Primero. Alternatively, although unlikely, if it is determined 
+on the basis of all the re

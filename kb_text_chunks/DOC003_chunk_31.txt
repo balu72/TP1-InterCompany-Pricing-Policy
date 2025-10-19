@@ -1,0 +1,101 @@
+party providers of information systems process, 
+
+store, and transmit confidential information in accordance with computer security 
+requirements
+
+What process does your tax administration maintain to ensure third-party providers are applying appropriate 
+security controls that are consistent with computer security requirements for confidential information? Are the 
+processes publicly available? If so, please provide a reference. If not, please provide a summary.
+
+2.15 Media Protection
+
+Primary Check-list Areas
+
+•  Processes to protect information in printed or digital form
+•  Security measures used to limit media information access to authorized users only
+•  Methods for sanitizing or destroying digital media prior to disposal or reuse
+
+What processes does your tax administration maintain to securely store and limit access to confidential 
+information in printed or digital form upon receipt from any source? How does your tax administration securely 
+destroy confidential media information prior to its disposal? Are the processes available publicly? If so, please 
+provide a reference. If not, please provide a summary.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE – 57
+
+2.16 Protection of Treaty-Exchanged data (formerly Prevention of Data Commingling)
+
+Primary Check-list Areas
+
+•  Procedures to ensure treaty-exchanged files are safeguarded and clearly labeled
+•  Classification methods of treaty-exchanged files
+
+What policies and processes does your tax administration maintain to store confidential information and clearly 
+label it as treaty-exchanged after receipt from foreign Competent Authorities? Are these policies and processes 
+publicly available? If so, please provide a reference. If not, please provide a summary.
+
+2.17 Information Disposal Policies
+
+Primary Check-list Areas
+
+•  Procedures for properly disposing paper and electronic files
+
+What procedures does your tax administration maintain for the disposal of confidential information? Do these 
+procedures extend to exchanged information from foreign Competent Authorities? Are the procedures publicly 
+available? If so, please provide a reference. If not, please provide a summary.
+
+3. Monitoring and Enforcement
+
+In addition to keeping treaty-exchanged information confidential, tax administrations 
+must be able to ensure that its use will be limited to the purposes defined by the applicable 
+information  exchange  agreement.  Thus,  compliance  with  an  acceptable  information 
+security framework alone is not sufficient to protect treaty-exchanged tax data. In addition, 
+domestic law must impose penalties or sanctions for improper disclosure or use of taxpayer 
+information.  To  ensure  implementation,  such  laws  must  be  reinforced  by  adequate 
+administrative resources and procedures.
+
+3.1 Penalties and Sanctions
+
+Primary Check-list Areas
+
+•  Penalties imposed for unauthorized disclosures
+•  Risk mitigation practices
+
+Does your tax administration have the ability to impose penalties for unauthorized disclosures of confidential 
+information? Do the penalties extend to unauthorized disclosure of confidential information exchanged with a 
+treaty or TIEA partner? Are the penalties publicly available? If so, please provide a reference. If not, please provide 
+a summary.
+
+3.2.1 Policing Unauthorized Access and Disclosure
+
+Primary Check-list Areas
+
+•  Monitoring to detect breaches
+•  Reporting of breaches
+
+What procedures does your tax administration have to monitor confidentiality breaches? What policies and 
+procedures does your tax administration have that require employees and contractors to report actual or potential 
+breaches of confidentiality? What reports does your tax administration prepare when a breach of confidentiality 
+occurs? Are these policies and procedures publicly available? If so, please provide a reference. If not, please 
+provide a summary.
+
+3.2.2 Sanctions and Prior Experience
+
+Primary Check-list Areas
+
+•  Prior unauthorized disclosures
+•  Policy/process modifications to prevent future breaches
+
+Have there been any cases in your jurisdiction where confidential information has been improperly disclosed? 
+Have there been any cases in your jurisdiction where confidential information received by the Competent 
+Authority from an exchange of information partner has been disclosed other than in accordance with the terms of 
+the instrument under which it was provided? Does your tax administration or Inspector General make available to 
+the public descriptions of any breaches, any penalties/sanctions imposed, and changes put in place to mitigate 
+risk and prevent future breaches? If so, please provide a reference. If not, please provide a summary.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE – 59
+
+Competent Authority Agreeme

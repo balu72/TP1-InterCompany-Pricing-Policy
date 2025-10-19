@@ -1,0 +1,90 @@
+e 9 of the 2017 OECD Model Tax Convention and also with the Commentary 
+as  it  would  read  with  proposed  changes  that  have  been  agreed  by  Working 
+Party No. 1. The guidance might be revised in the event that those proposals are 
+materially changed at any stage.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+404 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+circumstances.  This  situation  may  affect  the  amount  of  interest  payable 
+by  the  borrowing  entity  and  so  may  affect  the  profits  accruing  in  a  given 
+jurisdiction.
+
+10.5.  Commentary to Article 9 of the OECD Model Tax Convention notes 
+in paragraph 3(b) that Article 9 is relevant “not only in determining whether 
+the  rate  of  interest  provided  for  in  a  loan  contract  is  an  arm’s  length  rate, 
+but also whether a prima facie loan can be regarded as a loan or should be 
+regarded as some other kind of payment, in particular a contribution to equity 
+capital.”2
+
+In the context of the preceding paragraphs, this subsection elaborates 
+10.6. 
+on how the concepts of Chapter I, in particular the accurate delineation of the 
+actual transaction under Section D.1, may relate to the balance of debt and 
+equity funding of an entity within an MNE group.
+
+10.7.  Where  it  is  considered  that  the  arrangements  made  in  relation  to 
+the  transaction,  viewed  in  their  totality,  differ  from  those  which  would 
+have been adopted by independent enterprises behaving in a commercially 
+rational manner in comparable circumstances, the guidance in Section D.2 of 
+Chapter I may also be relevant.
+
+10.8.  Although this guidance reflects an approach of accurate delineation 
+of  the  actual  transaction  in  accordance  with  Chapter  I  to  determine  the 
+amount of debt to be priced, it is acknowledged that other approaches may 
+be taken to address the issue of the balance of debt and equity funding of 
+an entity under domestic legislation before pricing the interest on the debt 
+so determined. These approaches may include a multi-factor analysis of the 
+characteristics of the instrument and the issuer.
+
+10.9.  Accordingly,  this  guidance  is  not  intended  to  prevent  jurisdictions 
+from  implementing  approaches  to  address  the  balance  of  debt  and  equity 
+funding  of  an  entity  and  interest  deductibility  under  domestic  legislation, 
+nor does it seek to mandate accurate delineation under Chapter I as the only 
+approach for determining whether purported debt should be respected as debt.
+
+10.10.  Although jurisdictions may have different views on the application 
+of Article 9 to determine the balance of debt and equity funding of an entity 
+within an MNE group, the purpose of this section is to provide guidance for 
+jurisdictions that use the accurate delineation under Chapter I to determine 
+whether  a  purported  loan  should  be  regarded  as  a  loan  for  tax  purposes 
+(or  should  be  regarded  as  some  other  kind  of  payment,  in  particular  a 
+contribution to equity capital).
+
+2. 
+
+As discussed in the Committee on Fiscal Affairs’ Report on “Thin Capitalisation” 
+adopted by the Council of the OECD on 26 November 1986 and reproduced in 
+Volume II of the full version of the OECD MTC at page R (4)-1.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 405
+
+10.11.  Particular labels or descriptions assigned to financial transactions do 
+not constrain the transfer pricing analysis. Each situation must be examined 
+on  its  own  merits,  and  subject  to  the  prefatory  language  in  the  previous 
+paragraph, accurate delineation of the actual transaction under Chapter I will 
+precede any pricing attempt.
+
+In accurately delineating an advance of funds, the following economically 
+10.12. 
+relevant  characteristics  may  be  useful  indicators,  depending  on  the  facts 
+and circumstances: the presence or absence of a fixed repayment date; the 
+obligation  to  pay  interest;  the  right  to  enforce  payment  of  principal  and 
+interest; the status of the funder in comparison to regular corporate creditors; 
+the  existence  of  financial  covenants  and  security;  the  source  of  interest 
+payments;  the  ability  of  the  recipient  of  the  funds  to  obtain  loans  from 
+unrelated  lending  institutions;  the  extent  to  which  the  advance  is  used  to 
+acquire capital assets; and the failure of the purported debtor to repay on the 
+due date or to seek a postponement.
+
+10.13.  For example, consider a situation in which Company B, a member of 
+an MNE group, needs additional funding for its business activities. In this 
+scenario, Company B receives an advance of funds from related Company C, 
+which is denominated as a loan with a term of 10 years. Assume that, in light 
+of all good-faith financial projections of Company B for the next 10 years, it 
+is clear that Company B would be unable to service a loan of such an amount. 
+Based  on  facts  and  circumstances,  it  can  be  

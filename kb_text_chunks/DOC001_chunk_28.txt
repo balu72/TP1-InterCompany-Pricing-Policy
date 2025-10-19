@@ -1,0 +1,88 @@
+e ability of a company to face, respond to and 
+mitigate  externally  driven  risks  is  likely  to  be  a  necessary  condition  for  a 
+business to remain competitive. Importantly, guidance on the possible range 
+of risk should assist in identifying material risks with specificity. Risks which 
+are  vaguely  described  or  undifferentiated  will  not  serve  the  purposes  of  a 
+transfer pricing analysis seeking to delineate the actual transaction and the 
+actual allocation of risk between the parties.
+
+a)  Strategic  risks  or  marketplace  risks.  These  are  largely  external 
+risks  caused  by  the  economic  environment,  political  and 
+regulatory events, competition, technological advance, or social 
+and environmental changes. The assessment of such uncertainties 
+may  define  the  products  and  markets  the  company  decides  to 
+target,  and  the  capabilities  it  requires,  including  investment  in 
+intangibles  and  tangible  assets,  as  well  as  in  the  talent  of  its 
+human capital. There is considerable potential downside, but the 
+upside  is  also  considerable  if  the  company  identifies  correctly 
+the  impact  of  external  risks,  and  differentiates  its  products  and 
+secures and continues to protect competitive advantage. Examples 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 55
+
+of such risks may include marketplace trends, new geographical 
+markets, and concentration of development investment.
+
+b)  Infrastructure or operational risks. These are likely to include the 
+uncertainties  associated  with  the  company’s  business  execution 
+and  may  include  the  effectiveness  of  processes  and  operations. 
+The impact of such risks is highly dependent on the nature of the 
+activities and the uncertainties the company chooses to assume. 
+In some circumstances breakdowns can have a crippling effect on 
+the company’s operations or reputation and threaten its existence; 
+whereas  successful  management  of  such  risks  can  enhance 
+reputation. In other circumstances, the failure to bring a product 
+to market on time, to meet demand, to meet specifications, or to 
+produce to high standards, can affect competitive and reputational 
+position, and give advantage to companies which bring competing 
+products to market more quickly, better exploit periods of market 
+protection  provided  by,  for  example,  patents,  better  manage 
+supply chain risks and quality control. Some infrastructure risks 
+are  externally  driven  and  may  involve  transport  links,  political 
+and  social  situations,  laws  and  regulations,  whereas  others  are 
+internally  driven  and  may  involve  capability  and  availability 
+of  assets,  employee  capability,  process  design  and  execution, 
+outsourcing arrangements, and IT systems.
+
+c)  Financial  risks.  All  risks  are  likely  to  affect  a  company’s 
+financial  performance,  but  there  are  specific  financial  risks 
+related  to  the  company’s  ability  to  manage  liquidity  and  cash 
+flow, financial capacity, and creditworthiness. The uncertainty 
+can  be  externally  driven,  for  example  by  economic  shock  or 
+credit crisis, but can also be internally driven through controls, 
+investment  decisions,  credit  terms,  and  through  outcomes  of 
+infrastructure or operational risks.
+
+d)  Transactional  risks.  These  are  likely  to  include  pricing  and 
+payment  terms  in  a  commercial  transaction  for  the  supply  of 
+goods, property, or services.
+
+e)  Hazard  risks.  These  are  likely  to  include  adverse  external 
+events  that  may  cause  damages  or  losses,  including  accidents 
+and natural disasters. Such risks can often be mitigated through 
+insurance,  but  insurance  may  not  cover  all  the  potential  loss, 
+particularly where there are significant impacts on operations or 
+reputation.
+
+1.73.  Determining  the  economic  significance  of  risk  and  how  risk  may 
+affect the pricing of a transaction between associated enterprises is part of the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+56 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+broader functional analysis of how value is created by the MNE group, the 
+activities that allow the MNE group to sustain profits, and the economically 
+relevant characteristics of the transaction. The analysis of risk also helps to 
+determine comparability under the guidance in Chapter III. Where potential 
+comparables are identified, it is relevant to determine whether they include 
+the same level of risks and management of risks. The economic significance 
+of risk may be illustrated by the following two situations.
+
+1.74. 
+In  the  first  situation  the  MNE  group  distributes  heating  oil  to 
+consumers. Analysis of the economically relevant characteristics establishes 
+that  the  product  is  undifferentiated,  the  market  is  competitive,  the  market 
+size is predictable, and players are price-takers. In such circumstance

@@ -1,0 +1,85 @@
+ial  statements  and  other  financial 
+information that may be relevant for the country-by-country data described in 
+Annex III may not be finalised until after the due date for tax returns in some 
+jurisdictions for a given fiscal year. Under the given circumstances, the date 
+for completion of the Country-by-Country Report described in Annex III to 
+Chapter V of these Guidelines may be extended to one year following the last 
+day of the fiscal year of the ultimate parent of the MNE group.
+
+D.3. Materiality
+
+5.32.  Not  all  transactions  that  occur  between  associated  enterprises  are 
+sufficiently  material  to  require  full  documentation  in  the  local  file.  Tax 
+administrations  have  an  interest  in  seeing  the  most  important  information 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER V: DOCUMENTATION – 235
+
+while at the same time they also have an interest in seeing that MNE groups 
+are not so overwhelmed with compliance demands that they fail to consider 
+and  document  the  most  important  items.  Thus,  jurisdictional  transfer 
+pricing  documentation  requirements  based  on  Annex  II  to  Chapter  V  of 
+these  Guidelines  should  include  specific  materiality  thresholds  that  take 
+into account the size and the nature of the local economy, the importance of 
+the MNE group in that economy, and the size and nature of local operating 
+entities,  in  addition  to  the  overall  size  and  nature  of  the  MNE  group. 
+Measures of materiality may be considered in relative terms (e.g. transactions 
+not exceeding a percentage of revenue or a percentage of cost measure) or 
+in  absolute  amount  terms  (e.g.  transactions  not  exceeding  a  certain  fixed 
+amount).  Individual  jurisdictions  should  establish  their  own  materiality 
+standards for local file purposes, based on local conditions. The materiality 
+standards should be objective standards that are commonly understood and 
+accepted  in  commercial  practice.  See  paragraph  5.18  for  the  materiality 
+standards applicable in completing the master file.
+
+5.33.  A  number  of  jurisdictions  have  introduced  in  their  transfer  pricing 
+documentation rules simplification measures which exempt small and medium-
+sized  enterprises  (SMEs)  from  transfer  pricing  documentation  requirements 
+or  limit  the  information  required  to  be  provided  by  such  enterprises.  In 
+order  not  to  impose  on  taxpayers  costs  and  burdens  disproportionate  to 
+the  circumstances,  it  is  recommended  to  not  require  SMEs  to  produce  the 
+amount  of  documentation  that  might  be  expected  from  larger  enterprises. 
+However,  SMEs  should  be  obliged  to  provide  information  and  documents 
+about their material cross-border transactions upon a specific request of the tax 
+administration in the course of a tax examination or for transfer pricing risk 
+assessment purposes.
+
+5.34.  For  purposes  of  Annex  III  to  Chapter  V  of  these  Guidelines,  the 
+Country-by-Country Report should include all tax jurisdictions in which the 
+MNE group has an entity resident for tax purposes, regardless of the size of 
+business operations in that tax jurisdiction.
+
+D.4. Retention of documents
+
+5.35.  Taxpayers  should  not  be  obliged  to  retain  documents  beyond  a 
+reasonable period consistent with the requirements of domestic law at either 
+the  parent  company  or  local  entity  level.  However,  at  times  materials  and 
+information required in the documentation package (master file, local file and 
+Country-by-Country  Report)  may  be  relevant  to  a  transfer  pricing  enquiry 
+for  a  subsequent  year  that  is  not  time  barred,  for  example  where  taxpayers 
+voluntarily keep such records in relation to long-term contracts, or to determine 
+whether comparability standards relating to the application of a transfer pricing 
+method in that subsequent year are satisfied. Tax administrations should bear in 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+236 – CHAPTER V: DOCUMENTATION
+
+mind the difficulties in locating documents for prior years and should restrict 
+such requests to instances where they have good reason in connection with the 
+transaction under examination for reviewing the documents in question.
+
+5.36.  Because the tax administration’s ultimate interest would be satisfied 
+if  the  necessary  documents  were  submitted  in  a  timely  manner  when 
+requested  by  the  tax  administration  in  the  course  of  an  examination,  the 
+way that documentation is stored – whether in paper, electronic form, or in 
+any other system – should be at the discretion of the taxpayer provided that 
+relevant information can promptly be made available to the tax administration 
+in the form specified by the local rules and practices in each jurisdiction.
+
+D.5. Frequency of documentation updates
+
+5.37. 
+It is recommended that transfer pricing documentation be periodically 
+reviewed  in  order  to  determine 

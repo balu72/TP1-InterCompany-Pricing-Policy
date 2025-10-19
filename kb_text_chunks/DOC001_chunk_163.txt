@@ -1,0 +1,75 @@
+ill be an important factor in considering whether 
+transactions should be combined or segregated. In particular, it is important 
+to  consider  whether  available  comparables  permit  accurate  evaluation  of 
+interactions between transactions.
+6.100.  One  situation  where  transactions  involving  transfers  of  intangibles 
+or rights in intangibles may be combined with other transactions involves a 
+business franchise arrangement. Under such an arrangement, one member of 
+an MNE group may agree to provide a combination of services and intangibles 
+to an associated enterprise in exchange for a single fee. If the services and 
+intangibles made available under such an arrangement are sufficiently unique 
+that reliable comparables cannot be identified for the entire service/intangible 
+package, it may be necessary to segregate the various parts of the package of 
+services and intangibles for separate transfer pricing consideration. It should 
+be kept in mind, however, that the interactions between various intangibles 
+and services may enhance the value of both.
+In other situations, the provision of a service and the transfer of one or 
+6.101. 
+more intangibles may be so closely intertwined that it is difficult to separate 
+the transactions for purposes of a transfer pricing analysis. For example, some 
+transfers of rights in software may be combined with an undertaking by the 
+transferor  to  provide  ongoing  software  maintenance  services,  which  may 
+include  periodic  updates  to  the  software.  In  situations  where  services  and 
+transfers of intangibles are intertwined, determining arm’s length prices on 
+an aggregate basis may be necessary.
+6.102.  It  should  be  emphasised  that  delineating  the  transaction  as  the 
+provision of products or services or the transfer of intangibles or a combination 
+of  both  does  not  necessarily  dictate  the  use  of  a  particular  transfer  pricing 
+method.  For  example,  a  cost  plus  approach  will  not  be  appropriate  for  all 
+service  transactions,  and  not  all  intangibles  transactions  require  complex 
+valuations or the application of profit split methods. The facts of each specific 
+situation,  and  the  results  of  the  required  functional  analysis,  will  guide  the 
+manner  in  which  transactions  are  combined,  delineated  and  analysed  for 
+transfer  pricing  purposes,  as  well  as  the  selection  of  the  most  appropriate 
+transfer  pricing  method  in  a  particular  case.  The  ultimate  objective  is  to 
+identify  the  prices  and  other  relevant  conditions  that  would  be  established 
+between independent enterprises in comparable transactions.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 279
+
+6.103.  Moreover,  it  should  also  be  emphasised  that  determinations  as  to 
+whether transactions should be aggregated or segregated for analysis usually 
+involve the delineation of the actual transaction undertaken, by reference to 
+written  agreements  and  the  actual  conduct  of  the  parties.  Determinations 
+regarding the actual transaction undertaken constitute one necessary element 
+in determining the most appropriate transfer pricing method in the particular 
+case.
+
+C.2.  Transactions involving the use of intangibles in connection 
+
+with sales of goods or performance of services
+
+6.104.  Intangibles  may  be  used  in  connection  with  controlled  transactions 
+in  situations  where  there  is  no  transfer  of  the  intangible  or  of  rights  in  the 
+intangible. For example, intangibles may be used by one or both parties to a 
+controlled transaction in connection with the manufacture of goods sold to an 
+associated enterprise, in connection with the marketing of goods purchased 
+from  an  associated  enterprise,  or  in  connection  with  the  performance  of 
+services on behalf of an associated enterprise. The nature of such a transaction 
+should be clearly specified, and any relevant intangibles used by either of the 
+parties in connection with such a controlled transaction should be identified 
+and  taken  into  account  in  the  comparability  analysis,  in  the  selection  and 
+application  of  the  most  appropriate  transfer  pricing  method  for  that  trans-
+action, and in the choice of the tested party. Supplemental guidance regarding 
+the determination of arm’s length conditions for transactions involving the use 
+of intangibles in connection with the sale of goods or the provision of services 
+is contained in Sections D.1 and D.4 of this chapter.
+
+6.105.  The need to consider the use of intangibles by a party to a controlled 
+transaction involving a sale of goods can be illustrated as follows. Assume 
+that  a  car  manufacturer  uses  valuable  proprietary  patents  to  manufacture 
+the cars that it then sells to associated distributors. Assume that the patents 
+significantly contribute to the value of the cars. The patents and the value they 
+contribute should be i

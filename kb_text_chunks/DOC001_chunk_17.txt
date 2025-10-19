@@ -1,0 +1,76 @@
+ differences, 
+separate  company  efficiencies,  and  other  factors  specific  to  one  company 
+or  sub-grouping  within  the  MNE  group  that  may  legitimately  play  a  role 
+in  determining  the  division  of  profits  between  enterprises  in  different  tax 
+jurisdictions.  The  arm’s  length  principle,  in  contrast,  recognises  that  an 
+associated enterprise may be a separate profit or loss centre with individual 
+characteristics and economically may be earning a profit even when the rest 
+of the MNE group is incurring a loss. Global formulary apportionment does 
+not have the flexibility to account properly for this possibility.
+
+1.30.  By  disregarding  intra-group  transactions  for  the  purpose  of 
+computing consolidated profits, global formulary apportionment would raise 
+questions about the relevance of imposing withholding taxes on cross-border 
+payments between group members and would involve a rejection of a number 
+of rules incorporated in bilateral tax treaties.
+
+1.31.  Unless  global  formulary  apportionment  includes  every  member  of 
+an MNE group, it must retain a separate entity rule for the interface between 
+that part of the group subject to global formulary apportionment and the rest 
+of  the  MNE  group.  Global  formulary  apportionment  could  not  be  used  to 
+value  the  transactions  between  the  global  formulary  apportionment  group 
+and  the  rest  of  the  MNE  group.  Thus,  a  clear  disadvantage  with  global 
+formulary apportionment is that it does not provide a complete solution to the 
+allocation of profits of an MNE group unless global formulary apportionment 
+is  applied  on  the  basis  of  the  whole  MNE  group.  This  exercise  would  be  a 
+serious undertaking for a single tax administration given the size and scale of 
+operations of major MNE groups and the information that would be required. 
+The MNE group would also be required, in any event, to maintain separate 
+accounting for corporations that are not members of the MNE group for global 
+formulary apportionment tax purposes but that are still associated enterprises 
+of  one  or  more  members  of  the  MNE  group.  In  fact,  many  domestic 
+commercial and accountancy rules would still require the use of arm’s length 
+prices (e.g. customs rules), so that irrespective of the tax provisions a taxpayer 
+would have to book properly every transaction at arm’s length prices.
+
+C.3.  Rejection of non-arm’s-length methods
+
+1.32.  For  the  foregoing  reasons,  OECD  member  countries  reiterate  their 
+support for the consensus on the use of the arm’s length principle that has 
+emerged over the years among member and non-member countries and agree 
+that the theoretical alternative to the arm’s length principle represented by 
+global formulary apportionment should be rejected.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+D. Guidance for applying the arm’s length principle
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 39
+
+D.1.  Identifying the commercial or financial relations
+1.33.  As stated in paragraph 1.6 a “comparability analysis” is at the heart 
+of  the  application  of  the  arm’s  length  principle.  Application  of  the  arm’s 
+length  principle  is  based  on  a  comparison  of  the  conditions  in  a  controlled 
+transaction  with  the  conditions  that  would  have  been  made  had  the  parties 
+been independent and undertaking a comparable transaction under comparable 
+circumstances. There are two key aspects in such an analysis: the first aspect 
+is  to  identify  the  commercial  or  financial  relations  between  the  associated 
+enterprises  and  the  conditions  and  economically  relevant  circumstances 
+attaching to those relations in order that the controlled transaction is accurately 
+delineated; the second aspect is to compare the conditions and the economically 
+relevant circumstances of the controlled transaction as accurately delineated 
+with the conditions and the economically relevant circumstances of comparable 
+transactions between independent enterprises. This section of Chapter I provides 
+guidance  on  identifying  the  commercial  or  financial  relations  between  the 
+associated enterprises and on accurately delineating the controlled transaction. 
+This first aspect of the analysis is distinct from the second aspect of considering 
+the  pricing  of  that  controlled  transaction  under  the  arm’s  length  principle. 
+Chapters II and III provide guidance on the second aspect of the analysis. The 
+information about the controlled transaction determined under the guidance in 
+this section is especially relevant for steps 2 and 3 of the typical process of a 
+comparability analysis set out in paragraph 3.4.
+
+1.34.  The typical process of identifying the commercial or financial relations 
+between  the  associated  enterprises  and  the  conditions  and  economically 
+relevant  circumstances  attaching  to  those  relations  requires  a  broad-based 
+understanding  of  t

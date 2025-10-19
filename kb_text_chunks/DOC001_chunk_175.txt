@@ -1,0 +1,84 @@
+ accuracy  of  the 
+projections of future cash flows or income on which the valuation is based. 
+However,  because  the  accuracy  of  financial  projections  is  contingent  on 
+developments in the marketplace that are both unknown and unknowable at 
+the time the valuation is undertaken, and to this extent such projections are 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 297
+
+speculative, it is essential for taxpayers and tax administrations to examine 
+carefully the assumptions underlying the projections of both future revenue 
+and future expense.
+
+6.164.  In  evaluating  financial  projections,  the  source  and  purpose  of  the 
+projections  can  be  particularly  important.  In  some  cases,  taxpayers  will 
+regularly  prepare  financial  projections  for  business  planning  purposes.  It 
+can be that such analyses are used by management of the business in making 
+business  and  investment  decisions.  It  is  usually  the  case  that  projections 
+prepared  for  non-tax  business  planning  purposes  are  more  reliable  than 
+projections prepared exclusively for tax purposes, or exclusively for purposes 
+of a transfer pricing analysis.
+
+6.165.  The  length  of  time  covered  by  the  projections  should  also  be 
+considered  in  evaluating  the  reliability  of  the  projections.  The  further  into 
+the future the intangible in question can be expected to produce positive cash 
+flows, the less reliable projections of income and expense are likely to be.
+
+6.166.  A  further  consideration  in  evaluating  the  reliability  of  projections 
+involves whether the intangibles and the products or services to which they 
+relate  have  an  established  track  record  of  financial  performance.  Caution 
+should always be used in assuming that past performance is a reliable guide 
+to the future, as many factors are subject to change. However, past operating 
+results  can  provide  some  useful  guidance  as  to  likely  future  performance 
+of products or services that rely on intangibles. Projections with respect to 
+products or services that have not been introduced to the market or that are 
+still in development are inherently less reliable than those with some track 
+record.
+
+6.167.  When  deciding  whether  to  include  development  costs  in  the  cash 
+flow  projections  it  is  important  to  consider  the  nature  of  the  transferred 
+intangible.  Some  intangibles  may  have  indefinite  useful  lives  and  may  be 
+continually developed. In these situations it is appropriate to include future 
+development costs in the cash flow forecasts. Others, for example a specific 
+patent, may already be fully developed and, in addition not provide a platform 
+for the development of other intangibles. In these situations no development 
+costs  should  be  included  in  the  cash  flow  forecasts  for  the  transferred 
+intangible.
+
+6.168.  Where, for the foregoing reasons, or any other reason, there is a basis 
+to believe that the projections behind the valuation are unreliable or speculative, 
+attention should be given to the guidance in Section D.3 and D.4.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+298 – CHAPTER VI: INTANGIBLES
+
+D.2.6.4.2. Assumptions regarding growth rates
+
+6.169.  A key element of some cash flow projections that should be carefully 
+examined is the projected growth rate. Often projections of future cash flows 
+are based on current cash flows (or assumed initial cash flows after product 
+introduction  in  the  case  of  partially  developed  intangibles)  expanded  by 
+reference to a percentage growth rate. Where that is the case, the basis for 
+the  assumed  growth  rate  should  be  considered.  In  particular,  it  is  unusual 
+for revenues derived from a particular product to grow at a steady rate over 
+a long period of time. Caution should therefore be exercised in too readily 
+accepting simple models containing linear growth rates not justified on the 
+basis of either experience with similar products and markets or a reasonable 
+evaluation of likely future market conditions. It would generally be expected 
+that a reliable application of a valuation technique based on projected future 
+cash flows would examine the likely pattern of revenue and expense growth 
+based on industry and company experience with similar products.
+
+D.2.6.4.3. Discount rates
+
+6.170.  The discount rate or rates used in converting a stream of projected cash 
+flows into a present value is a critical element of a valuation model. The discount 
+rate takes into account the time value of money and the risk or uncertainty of 
+the anticipated cash flows. As small variations in selected discount rates can 
+generate  large  variations  in  the  calculated  value  of  intangibles  using  these 
+techniques,  it  is  essential  for  taxpayers  and  tax  administrations  to  give  close 
+attention to the analysis performed and the assumptions made in selecting the 
+discount rate or ra

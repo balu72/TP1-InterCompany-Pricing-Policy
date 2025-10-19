@@ -1,0 +1,101 @@
+o the requirements of Article 4 with 
+the [Country Tax Administration] with respect to the Reporting Fiscal Year of an MNE 
+Group of which it is a Constituent Entity, on or before the date specified in Article 5, if the 
+following criteria are satisfied:
+
+(i)  the entity is resident for tax purposes in [Country]; and
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE – 41
+
+(ii)  one of the following conditions applies:
+
+a) 
+
+the  Ultimate  Parent  Entity  of  the  MNE  Group  is  not  obligated  to  file  a 
+Country-by-Country Report in its jurisdiction of tax residence; or,
+
+b)  the  jurisdiction  in  which  the  Ultimate  Parent  Entity  is  resident  for  tax 
+purposes  has  a  current  International  Agreement  to  which  [Country]  is  a 
+party but does not have a Qualifying Competent Authority Agreement in 
+effect to which [Country] is a party by the time specified in Article 5 for 
+filing the Country-by-Country Report for the Reporting Fiscal Year; or,
+
+c) 
+
+there  has  been  a  Systemic  Failure  of  the  jurisdiction  of  tax  residence  of 
+the  Ultimate  Parent  Entity  that  has  been  notified  by  the  [Country  Tax 
+Administration]  to  the  Constituent  Entity  resident  for  tax  purposes  in 
+[Country].
+
+where  there  are  more  than  one  Constituent  Entities  of  the  same  MNE  Group  that 
+are  resident  for  tax  purposes  in  [Country]  and  one  or  more  of  the  conditions  set  out  in 
+subsection (ii) above apply, the MNE Group may designate one of such Constituent Entities 
+to file the Country-by-Country Report conforming to the requirements of Article 4 with 
+[Country Tax Administration] with respect to any Reporting Fiscal Year on or before the 
+date specified in Article 5 and to notify the [Country Tax Administration] that the filing 
+is intended to satisfy the filing requirement of all the Constituent Entities of such MNE 
+Group that are resident for tax purposes in [Country].
+
+3.  Notwithstanding the provisions of paragraph 2 of this Article 2, when one or more 
+of  the  conditions  set  out  in  subsection  (ii)  of  paragraph  2  of  Article  2  apply,  an  entity 
+described  in  paragraph  2  of  this  Article  2  shall  not  be  required  to  file  a  Country-by-
+Country Report with [Country Tax Administration] with respect to any Reporting Fiscal 
+Year if the MNE Group of which it is a Constituent Entity has made available a Country-
+by-Country Report conforming to the requirements of Article 4 with respect to such Fiscal 
+Year through a Surrogate Parent Entity that files that Country-by-Country Report with the 
+tax authority of its jurisdiction of tax residence on or before the date specified in Article 5 
+and that satisfies the following conditions:
+
+a) 
+
+the jurisdiction of tax residence of the Surrogate Parent Entity requires filing of 
+Country-by-Country Reports conforming to the requirements of Article 4;
+
+b)  the jurisdiction of tax residence of the Surrogate Parent Entity has a Qualifying 
+Competent Authority Agreement in effect to which [Country] is a party by the time 
+specified in Article 5 for filing the Country-by-Country Report for the Reporting 
+Fiscal Year;
+
+c) 
+
+the jurisdiction of tax residence of the Surrogate Parent Entity has not notified the 
+[Country Tax Administration] of a Systemic Failure;
+
+d)  the jurisdiction of tax residence of the Surrogate Parent Entity has been notified in 
+accordance with paragraph 1 of Article 3 by the Constituent Entity resident for tax 
+purposes in its jurisdiction that it is the Surrogate Parent Entity; and
+
+e)  a notification has been provided to [Country Tax Administration] in accordance 
+
+with paragraph 2 of Article 3.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+42 – ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE
+
+Article 3
+Notification
+
+1.  Any  Constituent  Entity  of  an  MNE  Group  that  is  resident  for  tax  purposes  in 
+[Country] shall notify the [Country Tax Administration] whether it is the Ultimate Parent 
+Entity or the Surrogate Parent Entity, no later than [the last day of the Reporting Fiscal Year 
+of such MNE Group].
+
+2.  where a Constituent Entity of an MNE Group that is resident for tax purposes in 
+[Country] is not the Ultimate Parent Entity nor the Surrogate Parent Entity, it shall notify 
+the [Country Tax Administration] of the identity and tax residence of the Reporting Entity, 
+no later than [the last day of the Reporting Fiscal Year of such MNE Group].
+
+Article 4
+Country-by-Country Report
+
+For purposes of this [title of the law], a Country-by-Country Report with respect to 
+
+1. 
+an MNE Group is a report containing:
+
+(i)  Aggregate information relating to the amount of revenue, profit (loss) before income 
+tax,  income  tax  paid,  income  tax  accrued,  stated  capital,  accumulated  earnings, 
+number of employees, and tang

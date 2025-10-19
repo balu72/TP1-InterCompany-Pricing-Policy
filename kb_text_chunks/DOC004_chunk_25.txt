@@ -1,0 +1,161 @@
+revenue 
+of Group S is equal to or greater than 
+750 million Euros. 
+
+Fact Pattern #2 
+Merger 
+
+The total consolidated group revenue 
+of  Group  B  and  Group  E 
+is 
+respectively  less  than  750  million 
+Euros. 
+
+Fact Pattern #3 
+Merger 
+
+The total consolidated group revenue 
+is 
+of  Group  B  and  Group  E 
+respectively  equal  to  or  greater  than 
+750 million Euros. 
+
+Reporting Year (Y1) 
+Group S sells a sub-group of its own 
+entities.  
+of 
+The 
+subsequently 
+becomes 
+independent Group, Group E. 
+
+entities 
+an 
+
+sub-group 
+
+turns  out 
+
+that  combined 
+
+Both Group B and Group E qualify as 
+an Excluded MNE Group.  
+Group B acquires 100% of Group E. 
+total 
+It 
+consolidated group revenues of Group 
+B  and  Group  E  for  Y0  was  equal  or 
+greater than 750 million Euros. 
+Neither Group B nor Group E qualifies 
+as an Excluded MNE Group. 
+On 30 June, Group B acquires 100% 
+of Group E. 
+
+Fact Pattern #4 
+Selling/Buying 
+group 
+
+  sub-
+
+The total consolidated group revenue 
+of  Group  B  is  less  than  750  million 
+Euros. 
+
+Group  S  sells  a  sub-group  of  its 
+entities to Group B. 
+Group B is an Excluded MNE Group. 
+
+Table 1 
+The period for which the financial data 
+of the sub-group should be reported in 
+CbC reports of Group S should follow 
+the  rule  applied  to  the  Consolidated 
+Financial Statements of Group S.  
+
+N.A. 
+
+The period for which the financial data 
+should  be  reported  in  CbC  reports 
+should  follow  the  rule  applied  to  the 
+Consolidated  Financial  Statements  of 
+Group B (and E, if it is the case). 
+
+N.A. 
+
+Threshold 
+Group  S  remains  a  non-Excluded 
+MNE Group. 
+Whether  Group  E  qualifies  as  an 
+Excluded  MNE  Group  or  not 
+depends  on  the  legislation  of  each 
+jurisdiction. 
+However,  where  Group  E  follows 
+the rule of the jurisdiction of its UPE, 
+local filing should not be applied to 
+the Constituent Entities of Group E 
+in any other jurisdiction. 
+Group  B  qualifies  as  an  Excluded 
+MNE Group.   
+
+Whether  Group  E  is  obliged  to  file 
+the  last  CbC  reports  before  the 
+merger  depends  on  the  financial 
+reporting rules in the jurisdiction  of 
+Group E. 
+Group  B  remains  a  non-Excluded 
+MNE Group. 
+Group  B  qualifies  as  an  Excluded 
+MNE Group.   
+Whether  Group  S  qualifies  as  an 
+Excluded MNE Group or not follows 
+its total consolidated group revenue 
+in Y0. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+ 
+ 
+ 
+  | 51 
+
+The period for which the financial data 
+of the sub-group should be reported in 
+CbC  reports  of  Group  S/B  should 
+follow 
+the 
+Consolidated  Financial  Statements  of 
+Group S/B.  
+
+rule  applied 
+
+the 
+
+to 
+
+Fact Pattern #5 
+Selling/Buying 
+group 
+
+sub-
+
+The total consolidated group revenue 
+of  Group  B  and  Group  S 
+is 
+respectively  equal  to  or  greater  than 
+750 million Euros. 
+
+Group S sells a sub-group of entities 
+to Group B. 
+Both Group B and  Group S are non-
+Excluded MNE Groups. 
+
+Both Group B and Group S remain 
+non-Excluded MNE Groups. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+

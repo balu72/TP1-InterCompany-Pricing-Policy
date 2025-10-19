@@ -1,0 +1,95 @@
+usly performed by 
+B), or another party in the MNE group benefitting from the restructuring. The 
+analysis should start from the accurate delineation of the actual transactions 
+comprising  the  business  restructuring,  and  take  into  account  economically 
+related transactions with other enterprises in the MNE group that may help to 
+delineate the controlled transaction (see paragraphs 1.36-1.38).
+
+9.95.  There  can  be  situations  where  A  would  be  willing  to  bear  the 
+indemnification  costs  at  arm’s  length,  for  instance  because  it  expects  that 
+the termination of its agreement with B will make it possible for it to derive 
+costs savings through its new manufacturing agreement with C, and that the 
+present value of these expected costs savings is greater than the amount of 
+the indemnification.
+
+9.96.  There can be situations where C would be willing to pay an up-front 
+fee  to  obtain  the  rights  to  the  manufacturing  contract  from  A,  e.g.  if  the 
+present value of the expected profits to be derived from its new manufacturing 
+contract makes it worth the investment for C. In such situations, the payment 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+390 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+by C might be organised in a variety of ways, for instance it might be that C 
+would be paying A, or that C would be constructively paying A by meeting 
+A’s indemnification obligation to B. It is also possible that C would pay B, for 
+example, in the circumstances where B had certain rights and C would pay B 
+for the transfer of those rights.
+
+9.97.  There can be cases where at arm’s length A and C would be willing 
+to share the indemnification costs. In cases where the benefits arising from 
+the restructuring accrue to another party in the MNE group, then that other 
+party may bear the costs of indemnification, either directly or indirectly.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 391
+
+Part II: Remuneration of post-restructuring 
+controlled transactions
+
+A. Business restructurings versus “structuring”
+
+A.1.  General principle: no different application of the arm’s length 
+
+principle
+
+9.98.  The arm’s length principle and these Guidelines do not and should not 
+apply differently to post-restructuring transactions as opposed to transactions 
+that  were  structured  as  such  from  the  beginning.  Doing  otherwise  would 
+create a competitive distortion between existing players who restructure their 
+activities and new entrants who implement the same business model without 
+having to restructure their business.
+
+9.99.  Comparable situations must be treated in the same way, regardless of 
+whether or not they came into existence as a result of a business restructuring 
+of a previously existing structure. The selection and practical application of 
+an appropriate transfer pricing method must be based on the economically 
+relevant characteristics of the transaction leading to the accurate delineation 
+of the actual transaction.
+
+9.100.  However, business restructuring situations involve change, and the 
+arm’s  length  principle  must  be  applied  not  only  to  the  post-restructuring 
+transactions,  but  also  to  additional  transactions  that  comprise  the  business 
+restructuring. The application of the arm’s length principle to those additional 
+transactions is discussed in Part I of this chapter.
+
+9.101. 
+In  addition,  the  comparability  analysis  of  an  arrangement  that 
+results from a business restructuring might reveal some factual differences 
+compared to the one of an arrangement that was structured as such from the 
+beginning,  as  discussed  below.  These  factual  differences  do  not  affect  the 
+arm’s length principle or the way the guidance in these Guidelines should be 
+interpreted and applied, but they may affect the comparability analysis and 
+therefore the outcome of this application. See Section D on comparing the 
+pre- and post-restructuring situations.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+392 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+A.2.  Possible factual differences between situations that result from 
+a restructuring and situations that were structured as such 
+from the beginning
+
+9.102.  Where  an  arrangement  between  associated  enterprises  replaces  an 
+existing  arrangement  (restructuring),  there  may  be  factual  differences  in 
+the  starting  position  of  the  restructured  entity  compared  to  the  position  of 
+a newly set up operation. Sometimes, the post-restructuring arrangement is 
+negotiated  between  parties  that  have  had  prior  contractual  and  commercial 
+relationships. In such a situation, depending on the facts and circumstances 
+of  the  case  and  in  particular  on  the  rights  and  obligations  derived  by  the 
+parties from these prior arrangements, this may affect the options realistically 
+available to the parties in negotiating the terms of the new arrangement and 
+t

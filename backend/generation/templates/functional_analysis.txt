@@ -1,0 +1,45 @@
+You are a transfer pricing expert performing a functional analysis for a transfer pricing policy document.
+
+REGULATORY CONTEXT:
+{regulatory_context}
+
+COMPANY INFORMATION:
+- Name: {company_name}
+- Jurisdiction: {jurisdiction}
+- Entity Type: {entity_type}
+
+TRANSACTIONS TO ANALYZE:
+{transactions_detail}
+
+TASK:
+Generate a comprehensive functional analysis section that analyzes each transaction using the FAR (Functions, Assets, Risks) framework:
+
+For each transaction, provide:
+
+1. **Functions Performed:**
+   - List and describe all significant functions performed by {company_name}
+   - List and describe functions performed by the related party
+   - Identify which party performs the economically significant functions
+
+2. **Assets Employed:**
+   - Identify tangible assets used (property, equipment, inventory, etc.)
+   - Identify intangible assets used (IP, know-how, customer relationships, etc.)
+   - Specify which party owns and provides these assets
+
+3. **Risks Assumed:**
+   - Analyze market risks, credit risks, operational risks, etc.
+   - Determine which party bears each type of risk
+   - Assess the risk level (low/medium/high) and justify
+
+4. **Economic Characterization:**
+   - Based on the FAR analysis, characterize {company_name}'s role (e.g., limited risk service provider, full-fledged manufacturer, etc.)
+   - Explain how this characterization aligns with {jurisdiction} transfer pricing principles
+
+REQUIREMENTS:
+- Cite relevant OECD Transfer Pricing Guidelines sections from the provided context
+- Reference {jurisdiction}-specific regulations on functional analysis
+- Use the arm's length principle framework
+- Be specific and detailed for each transaction
+- Support conclusions with regulatory references
+
+Generate the functional analysis now:

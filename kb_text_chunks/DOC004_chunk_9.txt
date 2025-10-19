@@ -1,0 +1,71 @@
+ require a Constituent Entity, the 
+minority interests of which are held by unrelated parties, to be fully consolidated, 100 percent of the entity’s 
+revenue should be included for the purpose of applying the 750 million Euro threshold (or near equivalent 
+amount in local currency as of January 2015). In such a case, the entity’s financial data that is included in 
+the CbC report should represent the full 100 percent amount and should not be pro-rated. In contrast, if 
+the  accounting  rules  require  proportionate  consolidation  in  the  presence  of  minority  interests,  then  the 
+jurisdiction may allow the entity's revenue to be pro-rated for the purpose of applying the 750 million Euro 
+threshold and may also allow its financial data that is included in the CbC report to be pro-rated. 
+
+Where the financial data of a Constituent Entity is reported on a pro-rata basis, the number of employees 
+of the Constituent Entity should also be reported on a pro-rata basis. Where this is the case, the taxpayer 
+should  insert  the  following  statement  in  Table  3  of  the  CbC  Report:  "The  number  of  employees  of  the 
+Constituent Entity A (specified) in Jurisdiction X (specified) is reported on a pro-rata basis in accordance 
+with the pro-rata reporting of the financial data of A". Inclusive Framework members are encouraged to 
+require their taxpayers to provide the above information in Table 3 as soon as possible, taking into account 
+the specific domestic circumstances. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+20 |   
+
+Treatment of an entity owned and/or operated by more than one unrelated MNE 
+Groups (July 2017) 
+
+5.1 Where an entity owned and/or operated by more than one unrelated MNE Groups 
+(e.g. a joint venture entity) is consolidated in the consolidated financial statements of 
+one or more of these MNE Groups, including under a pro rata consolidation rule, is such 
+an entity considered a Constituent Entity of those unrelated MNE Groups (i.e. should it 
+be included in Table 2)? If so, where a pro rata consolidation rule is applied to the entity 
+under the applicable accounting rules, should Table 1 include the pro rata data of the 
+entity, and should the entity's revenue be included pro rata for the purpose of applying 
+the 750 million Euro threshold?  
+
+The treatment of an entity for CbC reporting purposes should follow the accounting treatment. In the case 
+of an entity which is owned and/or operated by more than one unrelated MNE Groups, the treatment of 
+the entity for CbC reporting purposes should be determined under the accounting rules applicable to each 
+of  the  unrelated  MNE  Groups  separately.  If  the  applicable  accounting  rules  require  an  entity  to  be 
+consolidated into the consolidated financial statements of an MNE Group, the entity would be considered 
+as a Constituent Entity of that group under Article 1.4 of the Model Legislation. Accordingly, the financial 
+data of such an entity should be reported in the CbC report of the MNE Group. This applies to entities 
+included in the MNE Group's consolidated financial statements using either full consolidation or pro rata 
+consolidation. If an entity is not required to be consolidated under applicable accounting rules, the entity 
+would not be considered a Constituent Entity and, accordingly, the financial data of such an entity would 
+not be reported in the CbC Report. Therefore an entity included in the MNE Group's consolidated financial 
+statements under equity accounting rules would not be a constituent entity. 
+
+Where pro rata consolidation is applied to an entity in an MNE Group in preparing the group's consolidated 
+financial statements, jurisdictions may allow a pro rata share of the entity’s total revenue to be taken into 
+account for the purpose of applying the 750 million Euro threshold, instead of the full amount of the entity's 
+total revenue. Jurisdictions may also allow an MNE group to include a pro rata share of the entity's financial 
+data  in  its  CbC  report,  in  line  with  the  information  included  in  the  MNE  Group’s  consolidated  financial 
+statements, instead of the full amount of this financial data.  
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+  | 21 
+
+Deemed listing provision (November 2017, November 2019) 
+
+6.1 What is the purpose of the deemed listing provision in the definition of the term 
+"Group" in Article 1.1 of the Model Legislation?  
+
+The deemed listing provision in the definition of the term "Group" in Article 1.1 of the Model Legislation is 
+only  relevant  where  an  enterprise  would  otherwise  be  the  UPE,  but  it  is  not  required  to  prepare 
+Consolidated Financial Statements in the jurisdiction where it is a resident for tax purposes. In this case, 
+the Group includes all entities that would be included in the Consolidated Financial Statements that the 
+rel

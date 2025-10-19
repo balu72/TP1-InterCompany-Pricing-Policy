@@ -1,0 +1,99 @@
+ to its distribution affiliates, but 
+title to the products passes to Company S, which reinvoices the distribution 
+affiliates for the products.
+
+75. 
+Beginning in year 2, Company S undertakes to reimburse the distribution 
+affiliates for a portion of their advertising costs. Prices for Product y from 
+Company  S  to  the  distribution  affiliates  are  adjusted  upward  so  that  the 
+distribution affiliate operating profit margins remain constant notwithstanding 
+the shift of advertising cost to Company S. Assume that the operating profit 
+margins  earned  by  the  distribution  affiliates  are  arm’s  length  both  before 
+and  after  year  2  given  the  concurrent  changes  in  product  pricing  and  the 
+reimbursement of advertising costs. Company S performs no functions with 
+regard  to  advertising  nor  does  it  control  any  risk  related  to  marketing  the 
+products.
+
+76. 
+In year 3, the prices charged by Första to Company S are reduced. 
+Första and Company S claim such a reduction in price is justified because 
+Company S is now entitled to income related to intangibles. It asserts that 
+such  income  is  attributable  to  intangibles  in  respect  of  Product  y  created 
+through the advertising costs it has borne.
+
+77. 
+In  substance,  Company  S  has  no  claim  to  income  derived  from 
+the  exploitation  of  intangibles  with  respect  to  Product  y.  It  performs  no 
+functions,  assumes  no  risk,  and  in  substance  bears  no  costs  related  to  the 
+development,  enhancement,  maintenance  or  protection  of  intangibles. 
+Transfer pricing adjustments to increase the income of Första in year 3 and 
+thereafter would be appropriate.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+624 – ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES
+
+Example 22
+
+Company A owns a government licence for a mining activity and a 
+78. 
+government licence for the exploitation of a railway. The mining licence has 
+a standalone market value of 20. The railway licence has a standalone market 
+value of 10. Company A has no other net assets.
+
+79. 
+Birincil,  an  entity  which  is  independent  of  Company  A,  acquires 
+100% of the equity interests in Company A for 100. Birincil’s purchase price 
+allocation performed for accounting purposes with respect to the acquisition 
+attributes 20 of the purchase price to the mining licence; 10 to the railway 
+licence;  and  70  to  goodwill  based  on  the  synergies  created  between  the 
+mining and railway licences.
+
+80. 
+Immediately following the acquisition, Birincil causes Company A 
+to  transfer  its  mining  and  railway  licences  to  Company  S,  a  subsidiary  of 
+Birincil.
+
+81. 
+In conducting a transfer pricing analysis of the arm’s length price to 
+be paid by Company S for the transaction with Company A, it is important 
+to identify with specificity the intangibles transferred. As was the case with 
+Birincil’s  arm’s  length  acquisition  of  Company  A,  the  goodwill  associated 
+with the licences transferred to Company S would need to be considered, as it 
+should generally be assumed that value does not disappear, nor is it destroyed 
+as part of an internal business restructuring.
+
+82. 
+As  such,  the  arm’s  length  price  for  the  transaction  between 
+Companies A and S should take account of the mining licence, the railway 
+licence, and the value ascribed to goodwill for accounting purposes. The 100 
+paid by Birincil for the shares of Company A represents an arm’s length price 
+for  those  shares  and  provides  useful  information  regarding  the  combined 
+value of the intangibles.
+
+Example 23
+
+83. 
+Birincil  acquires  100%  of  the  equity  interests  in  an  independent 
+enterprise,  Company  T  for  100.  Company  T  is  a  company  that  engages  in 
+research  and  development  and  has  partially  developed  several  promising 
+technologies  but  has  only  minimal  sales.  The  purchase  price  is  justified 
+primarily by the value of the promising, but only partly developed, technologies 
+and  by  the  potential  of  Company  T  personnel  to  develop  further  new 
+technologies  in  the  future.  Birincil’s  purchase  price  allocation  performed 
+for  accounting  purposes  with  respect  to  the  acquisition  attributes  20  of  the 
+purchase  price  to  tangible  property  and  identified  intangibles,  including 
+patents, and 80 to goodwill.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES – 625
+
+84. 
+Immediately  following  the  acquisition,  Birincil  causes  Company  T 
+to transfer all of its rights in developed and partially developed technologies, 
+including  patents,  trade  secrets  and  technical  know-how  to  Company  S, 
+a  subsidiary  of  Birincil.  Company  S  simultaneously  enters  into  a  contract 
+research  agreement  with  Company  T,  pursuant  to  which  the  Company  T 
+workforce  will  continue  to  work  exclusively  on  the  development  of  the 
+transferred technologie

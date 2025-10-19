@@ -1,0 +1,75 @@
+my,  the  compensation  for  performing  similar 
+2.30. 
+functions would tend to be equalised across different activities. In contrast, 
+prices for different products would tend to equalise only to the extent that 
+those products were substitutes for one another. Because gross profit margins 
+represent gross compensation, after the cost of sales for specific functions 
+performed  (taking  into  account  assets  used  and  risks  assumed),  product 
+differences  are  less  significant.  For  example,  the  facts  may  indicate  that  a 
+distribution company performs the same functions (taking into account assets 
+used  and  risks  assumed)  selling  toasters  as  it  would  selling  blenders,  and 
+hence in a market economy there should be a similar level of compensation 
+for the two activities. However, consumers would not consider toasters and 
+blenders  to  be  particularly  close  substitutes,  and  hence  there  would  be  no 
+reason to expect their prices to be the same.
+
+2.31.  Although  broader  product  differences  can  be  allowed  in  the  resale 
+price  method,  the  property  transferred  in  the  controlled  transaction  must 
+still be compared to that being transferred in the uncontrolled transaction. 
+Broader  differences  are  more  likely  to  be  reflected  in  differences  in 
+functions performed between the parties to the controlled and uncontrolled 
+transactions. While less product comparability may be required in using the 
+resale price method, it remains the case that closer comparability of products 
+will produce a better result. For example, where there is a valuable or unique 
+intangible involved in the transaction, product similarity may assume greater 
+importance  and  particular  attention  should  be  paid  to  it  to  ensure  that  the 
+comparison is valid.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 103
+
+2.32. 
+It  may  be  appropriate  to  give  more  weight  to  other  attributes  of 
+comparability  discussed  in  Chapter  I  (i.e.  functions  performed,  economic 
+circumstances, etc.) when the profit margin relates primarily to those other 
+attributes and only secondarily to the particular product being transferred. 
+This circumstance will usually exist where the profit margin is determined 
+for an associated enterprise that has not used unique assets (such as valuable, 
+unique intangibles) to add significant value to the product being transferred. 
+Thus, where uncontrolled and controlled transactions are comparable in all 
+characteristics  other  than  the  product  itself,  the  resale  price  method  might 
+produce  a  more  reliable  measure  of  arm’s  length  conditions  than  the  CUP 
+method, unless reasonably accurate adjustments could be made to account 
+for differences in the products transferred. The same point is true for the cost 
+plus method, discussed below.
+
+2.33.  When the resale price margin used is that of an independent enterprise 
+in a comparable transaction, the reliability of the resale price method may be 
+affected if there are material differences in the ways the associated enterprises 
+and  independent  enterprises  carry  out  their  businesses.  Such  differences 
+could include those that affect the level of costs taken into account (e.g. the 
+differences could include the effect of management efficiency on levels and 
+ranges  of  inventory  maintenance),  which  may  well  have  an  impact  on  the 
+profitability of an enterprise but which may not necessarily affect the price 
+at which it buys or sells its goods or services in the open market. These types 
+of characteristics should be analysed in determining whether an uncontrolled 
+transaction is comparable for purposes of applying the resale price method.
+
+2.34.  The resale price method also depends on comparability of functions 
+performed  (taking  into  account  assets  used  and  risks  assumed).  It  may 
+become  less  reliable  when  there  are  differences  between  the  controlled 
+and  uncontrolled  transactions  and  the  parties  to  the  transactions,  and  those 
+differences have a material effect on the attribute being used to measure arm’s 
+length conditions, in this case the resale price margin realised. Where there 
+are material differences that affect the gross margins earned in the controlled 
+and  uncontrolled  transactions  (e.g.  in  the  nature  of  the  functions  performed 
+by the parties to the transactions), adjustments should be made to account for 
+such differences. The extent and reliability of those adjustments will affect the 
+relative reliability of the analysis under the resale price method in any particular 
+case.
+
+2.35.  An appropriate resale price margin is easiest to determine where the 
+reseller  does  not  add  substantially  to  the  value  of  the  product.  In  contrast, 
+it  may  be  more  difficult  to  use  the  resale  price  method  to  arrive  at  an 
+arm’s  length  price  where,  before  resale,  the

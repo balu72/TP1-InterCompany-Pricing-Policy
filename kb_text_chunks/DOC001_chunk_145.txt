@@ -1,0 +1,82 @@
+ subjected to tax at the time of the 
+transfer  in  the  transferor’s  jurisdiction.  It  is  recognised  that  inconsistencies 
+between individual jurisdictional laws regarding such matters can sometimes 
+give rise to either double taxation or double non-taxation.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+250 – CHAPTER VI: INTANGIBLES
+
+A.3. Categories of intangibles
+
+In discussions of transfer pricing issues related to intangibles, it is 
+6.15. 
+sometimes the case that various categories of intangibles are described and 
+labels applied. Distinctions are sometimes made between trade intangibles 
+and marketing intangibles, between “soft” intangibles and “hard” intangibles, 
+between  routine  and  non-routine  intangibles,  and  between  other  classes 
+and  categories  of  intangibles.  The  approach  contained  in  this  chapter  for 
+determining arm’s length prices in cases involving intangibles does not turn 
+on these categorisations. Accordingly, no attempt is made in these Guidelines 
+to delineate with precision various classes or categories of intangibles or to 
+prescribe outcomes that turn on such categories.
+6.16.  Certain  categories  of  intangibles  are,  however,  commonly  referred 
+to  in  discussions  of  transfer  pricing  matters.  To  facilitate  discussions, 
+definitions of two such commonly used terms, “marketing intangibles” and 
+“trade intangibles” are contained in the Glossary and referred to from time 
+to time in the discussion in these Guidelines. It should be emphasised that 
+generic references to marketing or trade intangibles do not relieve taxpayers 
+or tax administrations from their obligation in a transfer pricing analysis to 
+identify relevant intangibles with specificity, nor does the use of those terms 
+suggest  that  a  different  approach  should  be  applied  in  determining  arm’s 
+length conditions for transactions that involve either marketing intangibles 
+or trade intangibles.
+In certain instances these Guidelines refer to “unique and valuable” 
+6.17. 
+intangibles.  “Unique  and  valuable”  intangibles  are  those  intangibles 
+(i) that are not comparable to intangibles used by or available to parties to 
+potentially comparable transactions, and (ii) whose use in business operations 
+(e.g. manufacturing, provision of services, marketing, sales or administration) 
+is expected to yield greater future economic benefits than would be expected 
+in the absence of the intangible.
+
+A.4. Illustrations
+
+6.18.  This section provides illustrations of items often considered in transfer 
+pricing analyses involving intangibles. The illustrations are intended to clarify 
+the provisions of Section A.1, but this listing should not be used as a substitute 
+for a detailed analysis. The illustrations are not intended to be comprehensive 
+or  to  provide  a  complete  listing  of  items  that  may  or  may  not  constitute 
+intangibles. Numerous items not included in this listing of illustrations may 
+be intangibles for transfer pricing purposes. The illustrations in this section 
+should  be  adapted  to  the  specific  legal  and  regulatory  environment  that 
+prevails  in  each  jurisdiction.  Furthermore,  the  illustrations  in  this  section 
+should  be  considered  and  evaluated  in  the  context  of  the  comparability 
+analysis (including the functional analysis) of the controlled transaction with 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 251
+
+the objective of better understanding how specific intangibles and items not 
+treated as intangibles contribute to the creation of value in the context of the 
+MNE’s global business. It should be emphasised that a generic reference to 
+an item included in the list of illustrations does not relieve taxpayers or tax 
+administrations from their obligation in a transfer pricing analysis to identify 
+relevant intangibles with specificity based on the guidance of Section A.1.
+
+A.4.1. Patents
+
+6.19.  A patent is a legal instrument that grants an exclusive right to its owner 
+to use a given invention for a limited period of time within a specific geography. 
+A patent may relate to a physical object or to a process. Patentable inventions are 
+often developed through risky and costly research and development activities. In 
+some circumstances, however, small research and development expenditures can 
+lead to highly valuable patentable inventions. The developer of a patent may try 
+to recover its development costs (and earn a return) through the sale of products 
+covered by the patent, by licensing others to use the patented invention, or by an 
+outright sale of the patent. The exclusivity granted by a patent may, under some 
+circumstances, allow the patent owner to earn premium returns from the use of 
+its invention. In other cases, a patented invention may provide cost advantages 
+to the owner that are not available to competitors. In still other situations, patents 
+may  not  provide  a  significant  commercia

@@ -1,0 +1,86 @@
+ere Company A is resident, identifies three securities issued in 
+Company A’s functional currency by the governments of Country X, Country y 
+and  Country  Z  with  a  term  of  one  year.  The  credit  ratings  of  the  issuing 
+governments are A for Country X, B for Country y and AA for Country Z. In 
+specifying a minimum credit rating for the issuing government to consider the 
+issued security as a risk-free investment comparable to the controlled financial 
+transaction, the tax administration of Country X may select the security issued 
+by Country Z as a reference for the risk-free rate of return since it represents the 
+lowest rate of return available at the time of the provision of the funding on all 
+outstanding government bonds in the relevant currency with a term of one year.
+
+1.115.  To  approximate  risk-free  rate  of  returns,  highly  rated  government 
+issued  securities  are  not  the  only  reference,  and  other  alternatives  may  be 
+considered on prevailing facts and circumstances of each case, for instance 
+interbank rates, interest rate swap rates or repurchase agreements of highly 
+rated government issued securities.
+
+1.116.  The  risk-free  rate  of  return  may  be  relevant,  for  example,  as  a 
+component in calculating a risk-adjusted rate of return on an investment or 
+as the return allocable to an investor who has provided funding but has not 
+assumed any of the risks related to the funding.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 69
+
+D.1.2.2.2. Determining a risk-adjusted rate of return
+
+1.117.  As  stated  in  paragraph  6.61,  “where  a  party  providing  funding 
+exercises  control  over  the  financial  risk  associated  with  the  provision  of 
+funding,  without  the  assumption  of,  including  the  control  over,  any  other 
+specific risk, it could generally only expect a risk-adjusted rate of return on 
+its funding.” (See paragraphs 1.85 and 1.103).
+
+1.118.  Therefore,  in  determining  the  risk-adjusted  rate,  it  is  important  to 
+identify and differentiate the financial risk which is assumed by the funder in 
+carrying on its financing activity, and the operational risk that is assumed by 
+the funded party and is connected to the use of the funds, e.g. for developing 
+an intangible asset. Guidance on the relationship between risk assumption in 
+relation to the provision of funding and the operational activities for which 
+the funds are used is given in paragraphs 6.60-6.64.
+
+1.119.  For instance, consider a situation where Company F advances a loan 
+to an associated enterprise, Company D, which undertakes the development 
+of an intangible. Consider further that, under the guidance in this chapter, 
+it is determined that Company F controls and consequently is allocated the 
+financial  risk  associated  with  funding  the  development  of  the  intangible, 
+including the potential risk of Company D failing to develop the intangible 
+and  therefore  being  unable  to  repay  the  loan.  However,  Company  F  does 
+not assume the risk of developing the intangible, which is entirely assumed 
+by  Company  D  under  the  accurate  delineation  of  the  actual  transaction. 
+Accordingly, in the event that the ex post results derived from the exploitation 
+of the developed intangible were higher (or lower) than the results calculated 
+on an ex ante basis, Company F would not be entitled to that difference but to 
+a risk-adjusted rate of return as described in this section.
+
+1.120.  In  general,  the  expected  risk-adjusted  rate  of  return  on  a  funding 
+transaction can be considered to have two components, i.e. the risk-free rate 
+and a premium reflecting the risks assumed by the funder.
+
+1.121.  When the funder is assuming the financial risk under the guidance in 
+this chapter and is therefore exposed to the potential playing out of that risk, 
+it will encounter the upside and downside consequences of that risk outcome. 
+Therefore, the assumption of that risk will warrant an expected remuneration 
+higher than a risk-free rate of return.
+
+1.122.  A  risk-adjusted  rate  of  return  can  be  determined  under  different 
+approaches,  for  example,  based  on  the  return  of  a  realistic  alternative 
+investment  with  comparable  economic  characteristics  or  the  cost  of  funds 
+(see Section C.1.2 in Chapter X).
+
+1.123. 
+It may be possible to find a reasonable indicator of a risk-adjusted 
+rate of return from comparable uncontrolled transactions or by considering 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+70 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+realistically  available  alternative  investments  reflecting  the  same  risk 
+profile. Depending on the facts and circumstances, realistic alternatives to 
+an intra-group loan could be bond issuances or loans which are uncontrolled 
+transactions (see paragraph 10.93).
+
+1.124.  Another  approach  to  determining  the  risk-adjusted  rate  of  return 
+would  be 

@@ -1,0 +1,88 @@
+Country Reports, respectively based on the 1) 
+Convention on Mutual Administrative Assistance in Tax Matters, 2) bilateral 
+tax conventions and 3) Tax Information Exchange Agreements (TIEAs). It is 
+recognised  that  developing  countries  may  require  support  for  the  effective 
+implementation of Country-by-Country Reporting.
+
+Model legislation
+
+The  model  legislation  contained  in  the  Country-by-Country  Reporting 
+Implementation  Package  takes  into  account  neither  the  constitutional  law 
+and  legal  system,  nor  the  structure  and  wording  of  the  tax  legislation  of 
+any  particular  jurisdiction.  Jurisdictions  will  be  able  to  adapt  this  model 
+legislation to their own legal systems, where changes to current legislation 
+are required.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+560 – ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE
+
+Competent Authority Agreements
+
+The Convention on Mutual Administrative Assistance in Tax Matters (the 
+“Convention’), by virtue of its Article 6, requires the Competent Authorities 
+of  the  Parties  to  the  Convention  to  mutually  agree  on  the  scope  of  the 
+automatic exchange of information and the procedure to be complied with. 
+In  the  context  of  the  Common  Reporting  Standard,  this  requirement  has 
+been translated into a Multilateral Competent Authority Agreement, which 
+defines the scope, timing, procedures and safeguards according to which the 
+automatic exchange should take place.
+
+As  the  implementation  of  the  automatic  exchange  of  information  by 
+means of a Multilateral Competent Authority Agreement in the context of the 
+Common Reporting Standard has proven both time- and resource-efficient, 
+the  same  approach  could  be  used  for  the  purpose  of  putting  the  automatic 
+exchange of information in relation to Country-by-Country Reports in place. 
+Therefore, the Multilateral Competent Authority Agreement on the Exchange 
+of  Country-by-Country  Reports  (the  “CbC  MCAA”)  has  been  developed, 
+based  on  the  Convention  and  inspired  by  the  Multilateral  Competent 
+Authority Agreement concluded in the context of the implementation of the 
+Common  Reporting  Standard.  In  addition,  two  further  model  competent 
+authority  agreements  have  been  developed  for  exchanges  of  Country-by-
+Country Reports, one for exchanges under Double Tax Conventions and one 
+for exchanges under Tax Information Exchange Agreements.
+
+In line with paragraph 5 of Chapter V of these Guidelines, one of the three 
+objectives of transfer pricing documentation is to provide tax administrations 
+with the information necessary to conduct an informed transfer pricing risk 
+assessment, while paragraph 10 of Chapter V of these Guidelines states that 
+effective risk identification and assessment constitute an essential early stage 
+in  the  process  of  selecting  appropriate  cases  for  transfer  pricing  audit.  The 
+Country-by-Country Reports exchanged on the basis of the model competent 
+authority agreements contained in the present Country-by-Country Reporting 
+Implementation Package, represent one of the three tiers of the transfer pricing 
+documentation  and  will,  in  accordance  with  paragraphs  16,  17  and  25  of 
+Chapter V of these Guidelines, provide tax administrations with relevant and 
+reliable information to perform an efficient and robust transfer pricing risk 
+assessment analysis. Against that background, the model competent authority 
+agreements aim to provide the framework to make the information contained 
+in the Country-by-Country Report available to concerned tax authorities, such 
+information being foreseeably relevant for the administration and enforcement 
+of their tax laws through the automatic exchange of information.
+
+The purpose of the CbC MCAA is to set forth rules and procedures as 
+may be necessary for Competent Authorities of jurisdictions implementing 
+BEPS  Action  13  to  automatically  exchange  Country-by-Country  Reports 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE – 561
+
+prepared by the Reporting Entity of an MNE Group and filed on an annual 
+basis with the tax authorities of the jurisdiction of tax residence of that entity 
+with the tax authorities of all jurisdictions in which the MNE Group operates.
+
+For most provisions, the wording is substantially the same as the text of 
+the Multilateral Competent Authority Agreement for the purpose of exchanges 
+under  the  Common  Reporting  Standard.  Where  appropriate,  the  wording 
+has been complemented or amended to reflect the Guidance on Country-by-
+Country Reporting set out in Chapter V of these Guidelines.
+
+An  XML  Schema  and  a  related  User  Guide  has  also  been  developed  to 
+
+accommodate the electronic exchange of Country-by-Country Reports.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX IV TO CHAPTER V: COU

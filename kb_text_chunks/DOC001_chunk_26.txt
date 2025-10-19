@@ -1,0 +1,77 @@
+ess.  In  doing 
+so, they require capability to determine the objectives of the gathering and 
+analysis of the information, to hire the party gathering the information and 
+making the analyses, to assess whether the right information is gathered and 
+the analyses are adequately made, and, where necessary, to decide to adapt 
+or terminate the contract with that provider, together with the performance 
+of such assessment and decision-making. Neither a mere formalising of the 
+outcome of decision-making in the form of, for example, meetings organised 
+for formal approval of decisions that were made in other locations, minutes of 
+a board meeting and signing of the documents relating to the decision, nor the 
+setting of the policy environment relevant for the risk (see paragraph 1.76), 
+qualifies  as  the  exercise  of  a  decision-making  function  sufficient  to 
+demonstrate control over a risk.
+
+1.67.  References to control over risk should not necessarily be taken to mean 
+that the risk itself can be influenced or that the uncertainty can be nullified. 
+Some risks cannot be influenced, and are a general condition of commercial 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+52 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+activity affecting all businesses undertaking that activity. For example, risks 
+associated  with  general  economic  conditions  or  commodity  price  cycles  are 
+typically beyond the scope of an MNE group to influence. Instead control over 
+risk should be understood as the capability and authority to decide to take on 
+the risk, and to decide whether and how to respond to the risk, for example 
+through the timing of investments, the nature of development programmes, the 
+design of marketing strategies, or the setting of production levels.
+
+1.68.  Risk mitigation refers to measures taken that are expected to affect risk 
+outcomes. Such measures may include measures that reduce the uncertainty or 
+measures that reduce the consequences in the event that the downside impact 
+of risk occurs. Control should not be interpreted as requiring risk mitigation 
+measures  to  be  adopted,  since  in  assessing  risks  businesses  may  decide 
+that the uncertainty associated with some risks, including risks that may be 
+fundamental to their core business operations, after being evaluated, should be 
+taken on and faced in order to create and maximise opportunities.
+
+1.69.  The  concept  of  control  may  be  illustrated  by  the  following 
+examples.  Company  A  appoints  a  specialist  manufacturer,  Company  B  to 
+manufacture products on its behalf. The contractual arrangements indicate 
+that Company B undertakes to perform manufacturing services, but that the 
+product  specifications  and  designs  are  provided  by  Company  A,  and  that 
+Company  A  determines  production  scheduling,  including  the  volumes  and 
+timing of product delivery. The contractual relations imply that Company A 
+bears  the  inventory  risk  and  the  product  recall  risk.  Company  A  hires 
+Company  C  to  perform  regular  quality  controls  of  the  production  process. 
+Company  A  specifies  the  objectives  of  the  quality  control  audits  and  the 
+information that Company C should gather on its behalf. Company C reports 
+directly to Company A. Analysis of the economically relevant characteristics 
+shows  that  Company  A  controls  its  product  recall  and  inventory  risks 
+by  exercising  its  capability  and  authority  to  make  a  number  of  relevant 
+decisions  about  whether  and  how  to  take  on  risk  and  how  to  respond  to 
+the  risks.  Besides  that  Company  A  has  the  capability  to  assess  and  take 
+decisions  relating  to  the  risk  mitigation  functions  and  actually  performs 
+these functions. These include determining the objectives of the outsourced 
+activities,  the  decision  to  hire  the  particular  manufacturer  and  the  party 
+performing the quality checks, the assessment of whether the objectives are 
+adequately  met,  and,  where  necessary,  to  decide  to  adapt  or  terminate  the   
+contracts.
+
+1.70.  Assume  that  an  investor  hires  a  fund  manager  to  invest  funds  on 
+its account. Depending on the agreement between the investor and the fund 
+manager, the latter may be given the authority to make portfolio investments 
+on behalf of the investor on a day-to-day basis in a way that reflects the risk 
+preferences of the investor, although the risk of loss in value of the investment 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 53
+
+would be borne by the investor. In such an example, the investor is controlling 
+its risks through four relevant decisions: the decision about its risk preference 
+and therefore about the required diversification of the risks attached to the 
+different  investments  that  are  part  of  the  portfolio,  the  decision  to  hire  (or 
+terminate the contract with) that particular fund manager, 

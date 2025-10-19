@@ -1,0 +1,81 @@
+e transactions are 
+between enterprises that happen to be associated.
+
+B.2.2.  Identifying actual arrangements for charging for intra-group 
+
+services
+
+7.20.  To  identify  the  amount,  if  any,  that  has  actually  been  charged  for 
+services,  a  tax  administration  will  need  to  identify  what  arrangements,  if 
+any,  have  actually  been  put  in  place  between  the  associated  enterprises  to 
+facilitate charges being made for the provision of services between them.
+
+B.2.2.1. Direct-charge methods
+
+7.21. 
+In certain cases, the arrangements made for charging for intra-group 
+services  can  be  readily  identified.  These  cases  are  where  the  MNE  group 
+uses a direct-charge method, i.e. where the associated enterprises are charged 
+for specific services. In general, the direct-charge method is of great practical 
+convenience to tax administrations because it allows the service performed 
+and the basis for the payment to be clearly identified. Thus, the direct-charge 
+method facilitates the determination of whether the charge is consistent with 
+the arm’s length principle.
+
+7.22.  An MNE group may be able to adopt direct charging arrangements, 
+particularly where services similar to those rendered to associated enterprises 
+are  also  rendered  to  independent  parties.  If  specific  services  are  provided 
+not  only  to  associated  enterprises  but  also  to  independent  enterprises  in 
+a  comparable  manner  and  as  a  significant  part  of  its  business,  it  could  be 
+presumed that the MNE has the ability to demonstrate a separate basis for 
+the charge (e.g. by recording the work done, the fee basis, or costs expended 
+in fulfilling its third party contracts). As a result, MNEs in such a case are 
+encouraged to adopt the direct-charge method in relation to their transactions 
+with associated enterprises. It is accepted, however, that this approach may 
+not always be appropriate if, for example, the services to independent parties 
+are merely occasional or marginal.
+
+B.2.2.2. Indirect-charge methods
+
+7.23.  A  direct-charge  method  for  charging  for  intra-group  services  can 
+be  difficult  to  apply  in  practice.  Consequently,  some  MNE  groups  have 
+developed  other  methods  for  charging  for  services  provided  by  parent 
+companies or group service centres. In such cases, MNE groups may find they 
+have few alternatives but to use cost allocation and apportionment methods 
+which often necessitate some degree of estimation or approximation, as a basis 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VII: INTRA-GROUP SERVICES – 321
+
+for calculating an arm’s length charge following the principles in Section B.2.3 
+below. Such methods are generally referred to as indirect-charge methods and 
+should  be  allowable  provided  sufficient  regard  has  been  given  to  the  value 
+of the services to recipients and the extent to which comparable services are 
+provided  between  independent  enterprises.  These  methods  of  calculating 
+charges would generally not be acceptable where specific services that form 
+a main business activity of the enterprise are provided not only to associated 
+enterprises  but  also  to  independent  parties.  While  every  attempt  should 
+be  made  to  charge  fairly  for  the  service  provided,  any  charging  has  to  be 
+supported by an identifiable and reasonably foreseeable benefit. Any indirect-
+charge method should be sensitive to the commercial features of the individual 
+case (e.g. the allocation key makes sense under the circumstances), contain 
+safeguards against manipulation and follow sound accounting principles, and 
+be capable of producing charges or allocations of costs that are commensurate 
+with the actual or reasonably expected benefits to the recipient of the service.
+
+7.24. 
+In  some  cases,  an  indirect-charge  method  may  be  necessary  due  to 
+the nature of the service being provided. One example is where the proportion 
+of the value of the services rendered to the various relevant entities cannot be 
+quantified  except  on  an  approximate  or  estimated  basis.  This  problem  may 
+occur, for example, where sales promotion activities carried on centrally (e.g. at 
+international  fairs,  in  the  international  press,  or  through  other  centralised 
+advertising  campaigns)  may  affect  the  quantity  of  goods  manufactured  or 
+sold by a number of affiliates. Another case is where a separate recording and 
+analysis of the relevant services for each beneficiary would involve a burden 
+of administrative work that would be disproportionately heavy in relation to 
+the  activities  themselves.  In  such  cases,  the  charge  could  be  determined  by 
+reference  to  an  allocation  among  all  potential  beneficiaries  of  the  costs  that 
+cannot be allocated directly, i.e. costs that cannot be specifically assigned to 
+the  actual  beneficiaries  of  the  various  services.  To  satisfy  the  arm’s  length

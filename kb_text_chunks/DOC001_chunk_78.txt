@@ -1,0 +1,98 @@
+ion of the method will depend on the facts and circumstances of the 
+case and the information available, but the overriding objective should be to 
+approximate as closely as possible the split of profits that would have been 
+realised had the parties been independent enterprises.
+
+2.147.  Under the transactional profit split method, the relevant profits are 
+to be split between the associated enterprises on an economically valid basis 
+that approximates the division of profits that would have been anticipated and 
+reflected in an agreement made at arm’s length. In general, the determination 
+of the relevant profits to be split and of the profit splitting factors should be:
+
+• 
+
+consistent  with  the  functional  analysis  of  the  controlled  trans-
+action under review, and in particular reflect the assumption of the 
+economically significant risks by the parties, and
+
+• 
+
+capable of being measured in a reliable manner.
+
+2.148.  In addition,
+
+• 
+
+If the transactional profit split method is used to set transfer pricing 
+in  controlled  transactions  at  the  outset,  it  would  be  reasonable  to 
+expect  the  life-time  of  the  arrangement  and  the  criteria  or  profit 
+splitting factors to be agreed in advance of the transaction,
+
+•  The person using the transactional profit split method (taxpayer or 
+tax administration) should be prepared to explain why it is regarded 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 137
+
+as the most appropriate method in the circumstances of the case, as 
+well  as  the  way  it  is  implemented,  and  in  particular  the  criteria  or 
+profit splitting factors used to split the relevant profits, and
+
+•  The determination of the relevant profits to be split and of the profit 
+splitting  factors  should  generally  be  used  consistently  over  the 
+life-time  of  the  arrangement,  including  during  loss  years,  unless 
+the  rationale  for  using  differing  relevant  profits  or  profit  splitting 
+factors over time is supported by the facts and circumstances and is 
+documented.
+
+C.3.1. Approaches to splitting profits
+
+2.149.  There are a number of approaches to the application of the transactional 
+profit  split  method,  depending  on  the  characteristics  of  the  controlled 
+transactions, and the information available. As has been described above, the 
+method  seeks  to  split  the  relevant  profits  from  controlled  transactions  on  an 
+economically valid basis, in order to approximate the results that would have 
+been achieved between independent enterprises in comparable circumstances. 
+This  may  be  done  by  considering  the  relative  contributions  of  each  party  (a 
+“contribution  analysis”).  Where  the  transactional  profit  split  method  is  the 
+most appropriate method but at least one party also makes some less complex 
+contributions  which  are  capable  of  being  benchmarked  by  reference  to 
+comparable, uncontrolled transactions, a two-stage “residual analysis” may be 
+appropriate.
+
+C.3.1.1. Contribution analysis
+
+2.150.  Under a contribution analysis, the relevant profits, which are the total 
+profits from the controlled transactions under examination, are divided between 
+the associated enterprises in order to arrive at a reasonable approximation of 
+the division that independent enterprises would have achieved from engaging 
+in  comparable  transactions.  This  division  can  be  supported  by  comparables 
+data where available. In the absence thereof, it should be based on the relative 
+value of the contributions by each of the associated enterprises participating 
+in  the  controlled  transactions,  determined  using  information  internal  to  the 
+MNE  group,  as  a  proxy  for  the  division  that  independent  enterprises  would 
+have  achieved  (see  Section  C.5.2).  In  cases  where  the  relative  value  of  the 
+contributions can be measured, it may not be necessary to estimate the actual 
+market value of each party’s contributions.
+
+2.151. 
+It can be difficult to determine the relative value of the contribution 
+that  each  of  the  associated  enterprises  makes  to  the  relevant  profits,  and 
+the  approach  will  depend  on  the  facts  and  circumstances  of  each  case.  The 
+determination  might  be  made  by  comparing  the  nature  and  degree  of  each 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+138 – CHAPTER II: TRANSFER PRICING METHODS
+
+party’s  contribution  of  differing  types  (for  example,  provision  of  services, 
+development expenses incurred, assets used or contributed, capital invested) 
+and assigning a percentage based upon the relative comparison and external 
+market data. See Section C.5 for a discussion of how to split the relevant profits.
+
+C.3.1.2. Residual analysis
+
+2.152.  Where  the  contributions  of  the  parties  are  such  that  some  can  be 
+reliably valued by reference to a one-sided method and benchmarked using 
+comparables, while others

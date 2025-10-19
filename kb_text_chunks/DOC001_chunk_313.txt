@@ -1,0 +1,122 @@
+ permanent 
+establishment tax jurisdiction for regulatory purposes.
+
+Accumulated Earnings
+
+In the ninth column of the template, the Reporting MNE should report 
+the  sum  of  the  total  accumulated  earnings  of  all  the  Constituent  Entities 
+resident for tax purposes in the relevant tax jurisdiction as of the end of the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX III TO CHAPTER V: C. TEMPLATE FOR THE COUNTRy-By-COUNTRy REPORT – SPECIFIC INSTRUCTIONS – 557
+
+year. With regard to permanent establishments, accumulated earnings should 
+be reported by the legal entity of which it is a permanent establishment.
+
+Number of Employees
+
+In the tenth column of the template, the Reporting MNE should report 
+the total number of employees on a full-time equivalent (FTE) basis of all the 
+Constituent Entities resident for tax purposes in the relevant tax jurisdiction. 
+The number of employees may be reported as of the year-end, on the basis 
+of average employment levels for the year, or on any other basis consistently 
+applied  across  tax  jurisdictions  and  from  year  to  year.  For  this  purpose, 
+independent contractors participating in the ordinary operating activities of 
+the Constituent Entity may be reported as employees. Reasonable rounding or 
+approximation of the number of employees is permissible, providing that such 
+rounding or approximation does not materially distort the relative distribution 
+of  employees  across  the  various  tax  jurisdictions.  Consistent  approaches 
+should be applied from year to year and across entities.
+
+Tangible Assets other than Cash and Cash Equivalents
+
+In  the  eleventh  column  of  the  template,  the  Reporting  MNE  should 
+report the sum of the net book values of tangible assets of all the Constituent 
+Entities resident for tax purposes in the relevant tax jurisdiction. With regard 
+to permanent establishments, assets should be reported by reference to the 
+tax jurisdiction in which the permanent establishment is situated. Tangible 
+assets for this purpose do not include cash or cash equivalents, intangibles, 
+or financial assets.
+
+List of all the Constituent Entities of the MNE group included in 
+each aggregation per tax jurisdiction (Table 2)
+
+Constituent Entities Resident in the Tax Jurisdiction
+
+The Reporting MNE should list, on a tax jurisdiction-by-tax jurisdiction 
+basis and by legal entity name, all the Constituent Entities of the MNE group 
+which are resident for tax purposes in the relevant tax jurisdiction. As stated 
+above  with  regard  to  permanent  establishments,  however,  the  permanent 
+establishment should be listed by reference to the tax jurisdiction in which it 
+is situated. The legal entity of which it is a permanent establishment should 
+be noted (e.g. XyZ Corp – Tax Jurisdiction A permanent establishment).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+558 – ANNEX III TO CHAPTER V: C. TEMPLATE FOR THE COUNTRy-By-COUNTRy REPORT – SPECIFIC INSTRUCTIONS
+
+Tax Jurisdiction of Organisation or Incorporation if Different from 
+Tax Jurisdiction of Residence
+
+The Reporting MNE should report the name of the tax jurisdiction under 
+whose laws the Constituent Entity of the MNE is organised or incorporated 
+if it is different from the tax jurisdiction of residence.
+
+Main Business Activity(ies)
+
+The  Reporting  MNE  should  determine  the  nature  of  the  main  business 
+activity(ies) carried out by the Constituent Entity in the relevant tax jurisdiction, 
+by ticking one or more of the appropriate boxes.
+
+Business Activities
+
+Research and Development
+
+Holding or Managing Intellectual Property
+
+Purchasing or Procurement
+
+Manufacturing or Production
+
+Sales, Marketing or Distribution
+
+Administrative, Management or Support Services
+
+Provision of Services to Unrelated Parties
+
+Internal Group Finance
+
+Regulated Financial Services
+
+Insurance
+
+Holding Shares or Other Equity Instruments
+
+Dormant
+
+Other 1
+
+1. Please specify the nature of the activity of the Constituent Entity in the “Additional 
+Information” section.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE – 559
+
+Annex IV to Chapter V 
+
+Country-by-Country Reporting Implementation Package
+
+Introduction
+
+In  order  to  facilitate  a  consistent  and  swift  implementation  of  the 
+Country-by-Country  Reporting  developed  under  Action  13  of  the  Base 
+Erosion and Profit Shifting Action Plan (BEPS Action Plan, OECD, 2013), a 
+Country-by-Country Reporting Implementation Package has been developed. 
+This implementation package consists of (i) model legislation which could 
+be  used  by  jurisdictions  to  require  the  ultimate  parent  entity  of  an  MNE 
+group to file the Country-by-Country Report in its jurisdiction of residence 
+including  backup  filing  requirements  and  (ii)  three  model  Competent 
+Authority  Agreements  that  are  to  be  used  to  facilitate  implementation  of 
+the exchange of Country-by-

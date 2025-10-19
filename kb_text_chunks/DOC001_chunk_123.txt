@@ -1,0 +1,81 @@
+  appropriate  situations 
+for  common  classes  of  transfer  pricing  cases.  The  use  of  these  sample 
+memoranda of understanding should not be considered as either mandatory 
+or prescriptive in establishing bilateral or multilateral safe harbours. Rather, 
+they  are  intended  to  provide  a  possible  framework  for  adaptation  to  the 
+particular needs of the tax authorities of the jurisdictions concerned.
+
+E.4.3. Possibility of opening avenues for tax planning
+
+4.122.  Safe  harbours  may  also  provide  taxpayers  with  tax  planning 
+opportunities. Enterprises may have an incentive to modify their transfer prices 
+in order to shift taxable income to other jurisdictions. This may also possibly 
+induce tax avoidance, to the extent that artificial arrangements are entered into 
+for the purpose of exploiting the safe harbour provisions. For instance, if safe 
+harbours apply to “simple” or “small” transactions, taxpayers may be tempted to 
+break transactions up into parts to make them seem simple or small.
+
+4.123.  If  a  safe  harbour  were  based  on  an  industry  average,  tax  planning 
+opportunities might exist for taxpayers with better than average profitability. 
+For example, a cost-efficient company selling at the arm’s length price may 
+be earning a mark-up of 15% on controlled sales. If a jurisdiction adopts a 
+safe harbour requiring a 10% mark-up, the company might have an incentive 
+to  comply  with  the  safe  harbour  and  shift  the  remaining  5%  to  a  lower 
+tax  jurisdiction.  Consequently,  taxable  income  would  be  shifted  out  of  the 
+jurisdiction.  When  applied  on  a  large  scale,  this  could  mean  significant 
+revenue loss for the jurisdiction offering the safe harbour.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 211
+
+4.124.  This  concern  may  largely  be  avoided  by  the  solution  noted  in 
+paragraph  4.119  of  adopting  safe  harbours  on  a  bilateral  or  multilateral 
+basis,  thus  limiting  application  of  safe  harbours  to  transactions  involving 
+jurisdictions  with  similar  transfer  pricing  concerns.  In  adopting  bilateral 
+and multilateral safe harbours, tax administrations would need to be aware 
+that  the  establishment  of  an  extensive  network  of  such  arrangements  could 
+potentially encourage “safe harbour shopping” via the routing of transactions 
+through territories with more favourable safe harbours and take appropriate 
+steps to avoid that possibility. Similarly, jurisdictions adopting bilateral safe 
+harbours would be well advised to target fairly narrow ranges of acceptable 
+results and to require consistent reporting of income in each jurisdiction that 
+is a party to the safe harbour arrangement. Treaty exchange of information 
+provisions could be used by jurisdictions where necessary to confirm the use 
+of consistent reporting under such a bilateral safe harbour.
+
+4.125.  Whether  a  jurisdiction  is  prepared  to  possibly  suffer  some  erosion 
+of  its  own  tax  base  in  implementing  a  safe  harbour  is  for  that  jurisdiction 
+to decide. The basic trade-off in making such a policy decision is between 
+the certainty and administrative simplicity of the safe harbour for taxpayers 
+and tax administrations on the one hand, and the possibility of tax revenue 
+erosion on the other.
+
+E.4.4. Equity and uniformity issues
+
+issues.  By 
+4.126.  Safe  harbours  may  raise  equity  and  uniformity 
+implementing  a  safe  harbour,  one  would  create  two  distinct  sets  of  rules  in 
+the transfer pricing area. Clearly and carefully designed criteria are required 
+to differentiate those taxpayers or transactions eligible for the safe harbour to 
+minimise the possibility of similar and possibly competing taxpayers finding 
+themselves on opposite sides of the safe harbour threshold or, conversely, of 
+allowing  application  of  the  safe  harbour  to  unintended  taxpayers  or  trans-
+actions.  Insufficiently  precise  criteria  could  result  in  similar  taxpayers 
+receiving  different  tax  treatment:  one  being  permitted  to  meet  the  safe 
+harbour rules and thus to be relieved from general transfer pricing compliance 
+provisions, and the other being obliged to price its transactions in conformity 
+with  the  general  transfer  pricing  compliance  provisions.  Preferential  tax 
+treatment under safe harbour regimes for a specific category of taxpayers could 
+potentially entail discrimination and competitive distortions. The adoption of 
+bilateral or multilateral safe harbours could, in some circumstances, increase 
+the potential of a divergence in tax treatment, not merely between different but 
+similar taxpayers but also between similar transactions carried out by the same 
+taxpayer with associated enterprises in different jurisdictions.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+212 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+E.5.  Recommendations on use of safe harbours
+

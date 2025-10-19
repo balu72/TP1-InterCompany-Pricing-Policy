@@ -1,0 +1,86 @@
+ons,  Company  S’s  return  is  arm’s 
+length  and  its  marketing  activities,  including  its  marketing  expenses,  are 
+not  significantly  different  than  those  performed  by  independent  marketers 
+and  distributors  in  comparable  uncontrolled  transactions.  The  information 
+on comparable uncontrolled arrangements provides the best measure of the 
+arm’s length return earned by Company S for the contribution to intangible 
+value provided by its functions, risks, and costs. That return therefore reflects 
+arm’s  length  compensation  for  Company  S’s  contributions  and  accurately 
+measures its share of the income derived from exploitation of the trademark 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+610 – ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES
+
+and  trade  name  in  Country  y.  No  separate  or  additional  compensation  is 
+required to be provided to Company S.
+
+Example 10
+
+The  facts  in  this  example  are  the  same  as  in  Example  9,  except 
+30. 
+that  the  market  development  functions  undertaken  by  Company  S  in  this 
+Example 10 are far more extensive than those undertaken by Company S in 
+Example 9.
+
+31.  Where the marketer/distributor actually bears the costs and assumes 
+the  risks  of  its  marketing  activities,  the  issue  is  the  extent  to  which  the 
+marketer/distributor can share in the potential benefits from those activities. 
+A thorough comparability analysis identifies several uncontrolled companies 
+engaged  in  marketing  and  distribution  functions  under  similar  long-term 
+marketing and distribution arrangements. Assume, however, that the level of 
+marketing expense Company S incurred in years 1 through 5 far exceeds that 
+incurred by the identified comparable independent marketers and distributors. 
+Assume further that the high level of expense incurred by Company S reflects 
+its performance of additional or more intensive functions than those performed 
+by the potential comparables and that Primair and Company S expect those 
+additional functions to generate higher margins or increased sales volume for 
+the products. Given the extent of the market development activities undertaken 
+by  Company  S,  it  is  evident  that  Company  S  has  made  a  larger  functional 
+contribution to development of the market and the marketing intangibles and 
+has  assumed  significantly  greater  costs  and  assumed  greater  risks  than  the 
+identified potentially comparable independent enterprises (and substantially 
+higher costs and risks than in Example 9). There is also evidence to support 
+the conclusion that the profits realised by Company S are significantly lower 
+than the profit margins of the identified potentially comparable independent 
+marketers and distributors during the corresponding years of similar long-term 
+marketing and distribution agreements.
+
+As in Example 9, Company S bears the costs and associated risks of 
+32. 
+its  marketing  activities  under  a  long-term  contract  of  exclusive  marketing 
+and distribution rights for the R watches, and therefore expects to have an 
+opportunity to benefit (or suffer a loss) from the marketing and distribution 
+activities  it  undertakes.  However,  in  this  case  Company  S  has  performed 
+functions  and  borne  marketing  expenditures  beyond  what  independent 
+enterprises in potentially comparable transactions with similar rights incur 
+for  their  own  benefit,  resulting  in  significantly  lower  profit  margins  for 
+Company S than are made by such enterprises.
+
+33. 
+Based on these facts, it is evident that by performing functions and 
+incurring  marketing  expenditure  substantially  in  excess  of  the  levels  of 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES – 611
+
+function and expenditure of independent marketer/distributors in comparable 
+transactions, Company S has not been adequately compensated by the margins 
+it  earns  on  the  resale  of  R  watches.  Under  such  circumstances  it  would  be 
+appropriate for the Country y tax administration to propose a transfer pricing 
+adjustment based on compensating Company S for the marketing activities 
+performed (taking account of the risks assumed and the expenditure incurred) 
+on  a  basis  that  is  consistent  with  what  independent  enterprises  would  have 
+earned in comparable transactions. Depending on the facts and circumstances 
+reflected  in  a  detailed  comparability  analysis,  such  an  adjustment  could  be 
+based on:
+
+•  Reducing  the  price  paid  by  Company  S  for  the  R  brand  watches 
+purchased  from  Primair.  Such  an  adjustment  could  be  based  on 
+applying a resale price method or transactional net margin method 
+using available data about profits made by comparable marketers and 
+distributors  with  a  comparable  level  of  marketing  and  distribution 
+expenditure if such comparables can be identified.
+
+•  An  alternative  approach  might  apply 

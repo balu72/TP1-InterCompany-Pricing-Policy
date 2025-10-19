@@ -1,0 +1,77 @@
+t of a 
+dividend exemption in an exemption system) and a credit for withholding tax 
+that had been allowed on the dividend.
+4.76.  When  the  repatriation  involves  establishing  an  account  receivable, 
+the  adjustments  to  actual  cash  flow  will  be  made  over  time,  although 
+domestic law may limit the time within which the account can be satisfied. 
+This  approach  is  identical  to  using  a  constructive  loan  as  a  secondary 
+transaction to account for excess profits in the hands of one of the parties to 
+the controlled transaction. The accrual of interest on the account could have 
+its  own  tax  consequences,  however,  and  this  may  complicate  the  process, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+198 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+depending  upon  when  interest  begins  to  accrue  under  domestic  law  (as 
+discussed in paragraph 4.69). Some jurisdictions may be willing to waive the 
+interest charge on these accounts as part of a competent authority agreement.
+4.77.  Where  a  repatriation  is  sought,  a  question  arises  about  how  such 
+payments or arrangements should be recorded in the accounts of the taxpayer 
+repatriating the payment to its associated enterprise so that both it and the tax 
+administration  of  that  jurisdiction  are  aware  that  a  repatriation  has  occurred 
+or has been set up. The actual recording of the repatriation in the accounts of 
+the enterprise from whom the repatriation is sought will ultimately depend on 
+the form the repatriation takes. For example, where a dividend receipt is to be 
+regarded  by  the  tax  administration  making  the  primary  adjustment  and  the 
+taxpayer receiving the dividend as the repatriation, then this type of arrangement 
+may not need to be specially recorded in the accounts of the associated enterprise 
+paying  the  dividend,  as  such  an  arrangement  may  not  affect  the  amount  or 
+characterisation of the dividend in its hands. On the other hand, where an account 
+payable is set up, both the taxpayer recording the account payable and the tax 
+administration of that jurisdiction will need to be aware that the account payable 
+relates to a repatriation so that any repayments from the account or of interest on 
+the outstanding balance in the account are clearly able to be identified and treated 
+according to the domestic laws of that jurisdiction. In addition, issues may be 
+presented in relation to currency exchange gains and losses.
+4.78.  As  most  OECD  member  countries  at  this  time  have  not  had  much 
+experience with the use of repatriation, it is recommended that agreements 
+between taxpayers and tax administrations for a repatriation to take place be 
+discussed in the mutual agreement proceeding where it has been initiated for 
+the related primary adjustment.
+
+D. Simultaneous tax examinations
+
+D.1.  Definition and background
+4.79.  A simultaneous tax examination is a form of mutual assistance, used 
+in a wide range of international issues, that allows two or more jurisdictions 
+to  co-operate  in  tax  investigations.  Simultaneous  tax  examinations  can  be 
+particularly useful where information based in a third jurisdiction is a key to a 
+tax investigation, since they generally lead to more timely and more effective 
+exchanges  of  information.  Historically,  simultaneous  tax  examinations  of 
+transfer pricing issues have focused on cases where the true nature of trans-
+actions was obscured by the interposition of tax havens. However, in complex 
+transfer pricing cases, it is suggested that simultaneous examinations could 
+serve a broader role since they may improve the adequacy of data available 
+to  the  participating  tax  administrations  for  transfer  pricing  analyses.  It  has 
+also  been  suggested  that  simultaneous  examinations  could  help  reduce 
+the  possibilities  for  economic  double  taxation,  reduce  the  compliance 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 199
+
+cost  to  taxpayers,  and  speed  up  the  resolution  of  issues.  In  a  simultaneous 
+examination,  if  a  reassessment  is  made,  both  jurisdictions  involved  should 
+endeavour to reach a result that avoids double taxation for the MNE group.
+
+4.80.  Simultaneous tax examinations are defined in Part A of the OECD 
+Model  Agreement  for  the  Undertaking  of  Simultaneous  Tax  Examinations 
+(OECD Model Agreement). According to this agreement, a simultaneous tax 
+examination means an “arrangement between two or more parties to examine 
+simultaneously and independently, each on its own territory, the tax affairs of 
+(a) taxpayer(s) in which they have a common or related interest with a view 
+to exchanging any relevant information which they so obtain”. This form of 
+mutual assistance is not meant to be a substitute for the mutual agreement 
+procedure. Any exchange of information as a result of the simultaneous tax 
+examination continues to be ex

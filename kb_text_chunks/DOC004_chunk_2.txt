@@ -1,0 +1,132 @@
+shifting 
+
+CAA 
+
+CbC 
+
+GAAP 
+
+G20 
+
+IFRS 
+
+Component authority agreement 
+
+Country-by-Country 
+
+Generally accepted accounting principles 
+
+Group of twenty 
+
+International financial reporting standards 
+
+MCAA   
+
+Multilateral component authority agreement 
+
+MNE 
+
+OECD    
+
+QCAA 
+
+SPE 
+
+TIEA 
+
+UPE 
+
+Multinational enterprise 
+
+Organisation for Economic Co-operation and Development 
+
+Qualifying competent authority agreement 
+
+Surrogate parent entity 
+
+Tax information exchange agreement 
+
+Ultimate parent entity
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 |   
+
+1 Introduction 
+
+All OECD and G20 countries have committed to implementing Country-by-Country reporting, as set out in 
+the Action 13 Report “Transfer Pricing Documentation and Country-by-Country Reporting”. Recognising 
+the  significant  benefits  that  CbC  reporting  can  offer  a  tax  administration  in  undertaking  high  level  risk 
+assessment of transfer pricing and other BEPS related tax risks, a number of other jurisdictions have also 
+committed to implementing CbC reporting (which with OECD members form the “Inclusive Framework”), 
+including developing countries.  
+
+Jurisdictions have agreed that implementing CbC reporting is a key priority in addressing BEPS risks, and 
+the Action 13 Report recommended that reporting take place with respect to fiscal periods commencing 
+from  1  January  2016.  Swift  progress  has  been  made  in  order  to  meet  this  timeline,  including  the 
+introduction  of  domestic  legal  frameworks  and  the  entry  into  competent  authority  agreements  for  the 
+international exchange of CbC reports. MNE Groups have likewise made preparations for CbC reporting, 
+and  dialogue  between  governments  and  business  is  a  critical  aspect  of  ensuring  that  CbC  reporting  is 
+implemented consistently across the globe. Consistent implementation will not only ensure a level playing 
+field,  but  also  provide  certainty  for  taxpayers  and  improve  the  ability  of  tax  administrations  to  use  CbC 
+reports in their risk assessment work.  
+
+The  OECD  will  continue  to  support  the  consistent  and  swift  implementation  of  CbC  reporting.  Where 
+questions of interpretation have arisen and would be best addressed through common public guidance, 
+the OECD will endeavour to make this available. The guidance in this document is intended to assist in 
+this regard.  
+
+Some questions and answers refer to articles of the Model Legislation related to Country-
+by-Country  Reporting  contained  in  the  Action  13  Report  ("Model  Legislation").  Such 
+references do not mean that countries' domestic legislation should follow word-for-word the 
+provisions in the Model Legislation. As indicated in paragraph 61 of the Action 13 Report 
+"jurisdictions will be able to adapt this model legislation to their own legal systems, where 
+changes to current legislation are required". Countries' domestic legal framework should 
+however, be substantively consistent with the Model Legislation. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+  | 7 
+
+2 Issues relating to the definition of 
+
+items reported in the template for 
+the CbC report 
+
+Definition of revenues (April 2017, September 2017) 
+
+1.1 Should extraordinary income and gains from investment activities be included in the 
+column "Revenues" in the CbC report? 
+
+Extraordinary income and gains from investment activities are to be included in "Revenues." 
+
+1.2 When financial statements are used as the source of the data to complete the CbC 
+template, which items shown in the financial statements should be reported as 
+Revenues in Table 1? (cf. question 5 on fair value accounting). 
+
+All revenue, gains, income, or other inflows shown in the financial statement prepared in accordance with 
+the applicable accounting rules relating to profit and loss, such as the income statement or profit and loss 
+statement, should be reported as Revenues in Table 1. For example, if the income statement prepared in 
+accordance  with  the  applicable  accounting  rules  shows  sales  revenue,  net  capital  gains  from  sales  of 
+assets, unrealized gains, interest received, and extraordinary income, the amount of those items reported 
+in  the  income  statement  should  be  aggregated  and  reported  as  Revenues  in  Table  1.  Comprehensive 
+income/earnings, revaluations, and/or unrealized gains reflected in net assets and the equity section of the 
+balance sheet should not be reported as Revenues in Table 1. The amount of any income items shown on 
+the income statement need not be adjusted from a net amount. 
+
+Inclusive Framework members are expected to implement the above guidance as soon as possible, taking 
+into  account  their  specific  domestic  circumstances.  It  is  recognised  that  time  may  be  needed  for  MNE 
+Groups  to  take  this  guidance  into 

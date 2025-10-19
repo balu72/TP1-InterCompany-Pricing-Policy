@@ -1,0 +1,90 @@
+ar the costs of creating a new product.
+
+1.96. 
+If it is established that the associated enterprise assuming the risk as 
+analysed under step 4(i) either does not control the risk or does not have the 
+financial capacity to assume the risk, then the analysis described under step 5 
+needs to be performed.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+64 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+1.97. 
+In  light  of  the  potential  complexity  that  may  arise  in  some 
+circumstances when determining whether an associated enterprise assuming 
+a  risk  controls  that  risk,  the  test  of  control  should  be  regarded  as  being 
+met  where  comparable  risk  assumptions  can  be  identified  in  a  comparable 
+uncontrolled transaction. To be comparable those risk assumptions require that 
+the economically relevant characteristics of the transactions are comparable. 
+If such a comparison is made, it is particularly relevant to establish that the 
+enterprise assuming comparable risk in the uncontrolled transaction performs 
+comparable  risk  management  functions  relating  to  control  of  that  risk  to 
+those performed by the associated enterprise assuming risk in the controlled 
+transaction. The purpose of the comparison is to establish that an independent 
+party assuming a comparable risk to that assumed by the associated enterprise 
+also performs comparable risk management functions to those performed by 
+the associated enterprise.
+
+D.1.2.1.5. Step 5: Allocation of risk
+
+1.98. 
+If it is established in step 4(ii) that the associated enterprise assuming 
+the risk based on steps 1-4(i) does not exercise control over the risk or does 
+not  have  the  financial  capacity  to  assume  the  risk,  then  the  risk  should 
+be  allocated  to  the  enterprise  exercising  control  and  having  the  financial 
+capacity to assume the risk. If multiple associated enterprises are identified 
+that  both  exercise  control  and  have  the  financial  capacity  to  assume  the 
+risk, then the risk should be allocated to the associated enterprise or group 
+of  associated  enterprises  exercising  the  most  control.  The  other  parties 
+performing  control  activities  should  be  remunerated  appropriately,  taking 
+into account the importance of the control activities performed.
+
+In exceptional circumstances, it may be the case that no associated 
+1.99. 
+enterprise can be identified that both exercises control over the risk and has 
+the  financial  capacity  to  assume  the  risk.  As  such  a  situation  is  not  likely 
+to  occur  in  transactions  between  third  parties,  a  rigorous  analysis  of  the 
+facts and circumstances of the case will need to be performed, in order to 
+identify the underlying reasons and actions that led to this situation. Based 
+on that assessment, the tax administrations will determine what adjustments 
+to the transaction are needed for the transaction to result in an arm’s length 
+outcome.  An  assessment  of  the  commercial  rationality  of  the  transaction 
+based on Section D.2 may be necessary.
+
+D.1.2.1.6.  Step 6: Pricing of the transaction, taking account of the 
+
+consequences of risk allocation
+
+1.100.  Following  the  guidance  in  this  section,  the  accurately  delineated 
+transaction should then be priced in accordance with the tools and methods 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 65
+
+available  to  taxpayers  and  tax  administrations  set  out  in  the  following 
+chapters of these Guidelines and taking into account the financial and other 
+consequences of risk-assumption, and the remuneration for risk management. 
+The  assumption  of  a  risk  should  be  compensated  with  an  appropriate 
+anticipated return, and risk mitigation should be appropriately remunerated. 
+Thus, a taxpayer that both assumes and mitigates a risk will be entitled to 
+greater anticipated remuneration than a taxpayer that only assumes a risk, or 
+only mitigates, but does not do both.
+
+1.101. 
+In the circumstances of Example 1 in paragraph 1.83, Company A 
+assumes  and  controls  the  development  risk  and  should  bear  the  financial 
+consequences  of  failure  and  enjoy  the  financial  consequences  of  success. 
+Company  B  should  be  appropriately  rewarded  for  the  carrying  out  of  its 
+development services, incorporating the risk that it fails to do so competently.
+
+1.102. 
+In the circumstances of Example 2 in paragraph 1.84, the significant 
+risks associated with generating a return from the manufacturing activities are 
+controlled by Company A, and the upside and downside consequences of those 
+risks should therefore be allocated to Company A. Company B controls the 
+risk that it fails to competently deliver services, and its remuneration should 
+take into account that risk, as well as its funding costs for the acquisition of 
+the manufacturing plant. Since the risks in relation to the capacity utilisation 
+of the asset are co

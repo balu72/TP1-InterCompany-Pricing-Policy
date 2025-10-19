@@ -1,0 +1,88 @@
+ and  financial  statements  relating 
+to the business affairs of the associated enterprises, agreements and 
+contracts entered into with associated enterprises or with unrelated 
+enterprises  in  respect  of  transactions  similar  to  the  international 
+transactions,  letters  and  other  correspondence  between  taxpayer 
+and  the  associated  enterprise,  etc.
+
+1.3.7  Aggregate  Value  Limit  of  `  1  Crore:  The  Rules  [Rule  10D(2)] 
+specify  that  every  person  who  has  entered  into  an  international 
+transaction,  the  aggregate  value  of  which  exceeds  `  1  crore,  is 
+required  to  keep,  and  maintain  information  and  documents  as 
+prescribed. In a case where the aggregate value as recorded in the 
+books  of  account,  of  international  transactions  entered  into  by  the 
+taxpayer does not exceed ` 1 crore, the information, and documents 
+as specified are not required to be maintained. However, the taxpayer 
+shall be required to substantiate, on the basis of material available 
+with him, that income arising from international transactions entered 
+into  by  him  has  been  computed  in  accordance  with  section  92,  i.e. 
+it  is  at  arm’s  length  price.
+
+1.3.8  Time  Limit  for  Maintenance:  The  Rules  further  specify  that 
+the  information  and  documents  maintained  under  the  Act  should 
+be  contemporaneous  and  should  exist  latest  by  the  specified  date 
+
+I-102
+
+Transfer Pricing – A Compendium 
+Transfer Pricing Documentation and its Critical Importance in Practice
+
+referred  to  in  clause  (iv)  of  section  92F  i.e.  one  month  before  due 
+date  for  furnishing  of  return  of  income  under  section  139(1)  for 
+the  relevant  assessment  year.  Further  the  documentation  should 
+be kept and maintained for a period of 8 years as per Rule 10D(5) 
+from  the  end  of  the  assessment  year  to  which  the  Documentation 
+relates. 
+
+1.3.9  Obtaining  and  filing  Accountant’s  report  by  the  due  date:  The 
+need  to  maintain  Documentation  on  a  contemporaneous  basis  is 
+underscored  by  the  requirement  under  the  Regulations  to  obtain 
+and file an Accountant’s Report in Form 3CEB5. The Form inter alia 
+requires an opinion to be expressed by the signing Accountant as to 
+whether the prescribed Documentation is maintained and whether 
+it  is  appropriate  and  complete.
+
+1.3.10  Accountant:  The  Accountant  shall  have  the  same  meaning 
+as  in  the  Explanation  below  sub-section  (2)  of  Section  288  [Section 
+92F(i)]  and  it  is  not  necessary  that  the  Accountant’s  Report  to  be 
+issued under the Act is to be issued by the statutory auditor of the 
+taxpayer.  However,  Form  3CEB  mentions  that  the  report  from  an 
+accountant to be furnished under section 92E relating international 
+transaction(s) and specified domestic transaction(s) has to be signed 
+by;  (i)  a  chartered  accountant;  or  (ii)  any  person  who,  in  relation 
+to  any  State,  is,  by  virtue  of  the  provisions  in  sub-section  (2)  of 
+section  226  of  the  Companies  Act,  1956  (1  of  1956),  entitled  to  be 
+appointed to act as an auditor of companies registered in that State.
+
+1.3.11  Onus  to  demonstrate  ‘arm’s  length  nature’:  The  onus  is  on 
+the  taxpayer  to  determine  an  arm’s  length  price  in  accordance 
+with  the  Rules,  and  to  substantiate  the  same  with  the  prescribed 
+documentation. Where such an onus is discharged by the taxpayer 
+and the data used for determining the arm’s length price is reliable 
+and  correct,  there  can  normally  be  no  intervention  by  the  TPO. 
+Apart  from  mandatory  requirements,  the  taxpayer  should  bear 
+in  mind  that  once  the  taxpayer  has  fulfilled  its  responsibility  of 
+maintaining  and  furnishing  the  transfer  pricing  documentation  in 
+respect of the international transactions entered into by it, the TPO 
+will then examine the appropriateness of the documentation as well 
+as  the  determination  of  the  arm’s  length  price  of  the  international 
+transactions.  Therefore,  to  avoid  any  difference  in  opinion  by  the 
+TPO  on  the  determination  of  the  arm’s  length  price,  the  taxpayer 
+should  follow  adequate  record  keeping  practices  and  voluntary 
+
+5 
+
+Rule  10E  read  with  Section  92E
+
+I-103
+
+production  of  documents.  This  approach  would  also  increase  the 
+persuasiveness of its case before the TPOs. Further, it is important 
+to  note  that,  greater  the  complexity  of  the  taxpayer’s  case,  greater 
+is  the  significance  of  adequate  and  robust  Documentation.
+
+1.3.12  During  the  course  of  any  proceedings  under  the  Act,  the 
+TPO may require any person who has undertaken an international 
+transaction to furnish any of the information and documents specified 
+under  the  said  Rule  within  a  period  of  thirty  days  from  the  date 
+of  receipt  of  notice  issued  in  this  regard,  and  such  period  may  be 

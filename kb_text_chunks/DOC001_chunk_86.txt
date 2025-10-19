@@ -1,0 +1,108 @@
+comparables used. See paragraph 3.36 for a discussion of 
+information available to tax administrations that is not disclosed to taxpayers. 
+General guidance on documentation requirements is found at Chapter V of these 
+Guidelines. See also Annex II to Chapter IV “Guidelines for conducting Advance 
+Pricing Arrangements under the Mutual Agreement Procedure (MAP APAs)”.
+
+A.1.  Typical process
+
+3.4. 
+Below is a description of a typical process that can be followed when 
+performing a comparability analysis. This process is considered an accepted 
+good practice but it is not a compulsory one, and any other search process 
+leading  to  the  identification  of  reliable  comparables  may  be  acceptable  as 
+reliability of the outcome is more important than process (i.e. going through 
+the process does not provide any guarantee that the outcome will be arm’s 
+length, and not going through the process does not imply that the outcome 
+will not be arm’s length).
+
+Step 1:  Determination of years to be covered.
+
+Step 2:  Broad-based analysis of the taxpayer’s circumstances.
+
+Step 3:  Understanding the controlled transaction(s) under examination, 
+based  in  particular  on  a  functional  analysis,  in  order  to 
+choose the tested party (where needed), the most appropriate 
+transfer  pricing  method  to  the  circumstances  of  the  case, 
+the  financial  indicator  that  will  be  tested  (in  the  case  of  a 
+transactional profit method), and to identify the significant 
+comparability factors that should be taken into account.
+
+Step 4:  Review of existing internal comparables, if any.
+
+Step 5:  Determination  of  available  sources  of  information  on 
+external comparables where such external comparables are 
+needed taking into account their relative reliability.
+
+Step 6:  Selection  of  the  most  appropriate  transfer  pricing  method 
+and, depending on the method, determination of the relevant 
+financial  indicator  (e.g.  determination  of  the  relevant  net 
+profit indicator in case of a transactional net margin method).
+
+Step 7:  Identification of potential comparables: determining the key 
+characteristics to be met by any uncontrolled transaction in 
+order to be regarded as potentially comparable, based on the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER III: COMPARABILITy ANALySIS – 151
+
+relevant factors identified in Step 3 and in accordance with 
+the comparability factors set out in Section D.1 of Chapter I.
+
+Step 8:  Determination  of  and  making  comparability  adjustments 
+
+where appropriate.
+
+Step 9:  Interpretation and use of data collected, determination of the 
+
+arm’s length remuneration.
+
+3.5. 
+In practice, this process is not a linear one. Steps 5 to 7 in particular 
+might  need  to  be  carried  out  repeatedly  until  a  satisfactory  conclusion  is 
+reached,  i.e.  the  most  appropriate  method  is  selected,  especially  because 
+the examination of available sources of information may in some instances 
+influence the selection of the transfer pricing method. For instance, in cases 
+where  it  is  not  possible  to  find  information  on  comparable  transactions 
+(step 7) and/or to make reasonably accurate adjustments (step 8), taxpayers 
+might have to select another transfer pricing method and repeat the process 
+starting from step 4.
+
+See paragraph 3.82 for a discussion of a process to establish, monitor 
+
+3.6. 
+and review transfer prices.
+
+A.2.  Broad-based analysis of the taxpayer’s circumstances
+
+3.7. 
+The “broad-based analysis” is an essential step in the comparability 
+analysis.  It  can  be  defined  as  an  analysis  of  the  industry,  competition, 
+economic and regulatory factors and other elements that affect the taxpayer 
+and its environment, but not yet within the context of looking at the specific 
+transactions  in  question.  This  step  helps  understand  the  conditions  in 
+the  taxpayer’s  controlled  transaction  as  well  as  those  in  the  uncontrolled 
+transactions to be compared, in particular the economic circumstances of the 
+transaction (see paragraphs 1.130-1.133).
+
+A.3.  Review of the controlled transaction and choice of the tested party
+
+3.8. 
+The review of the controlled transaction(s) under examination aims at 
+identifying the relevant factors that will influence the selection of the tested 
+party  (where  needed),  the  selection  and  application  of  the  most  appropriate 
+transfer pricing method to the circumstances of the case, the financial indicator 
+that will be tested (in the case of a transactional profit method), the selection 
+of  comparables  and  where  relevant  the  determination  of  comparability 
+adjustments.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+152 – CHAPTER III: COMPARABILITy ANALySIS
+
+A.3.1. Evaluation of a taxpayer’s separate and combined transactions
+
+Ideally,  in  order  to  arrive  at  the  most  precise  approximation  of 
+3.9. 
+arm’s  length  conditions,  the  arm’s  length  principle  should  be  applied 

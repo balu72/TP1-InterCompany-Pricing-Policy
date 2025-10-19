@@ -1,0 +1,84 @@
+od  is 
+considered to be the most appropriate transfer pricing method, but also has 
+importance in applying other methods that rely on comparables. In the case of 
+a transfer of an intangible or rights in an intangible that provides the enterprise 
+with a unique competitive advantage in the market, purportedly comparable 
+intangibles  or  transactions  should  be  carefully  scrutinised.  It  is  critical  to 
+assess whether potential comparables in fact exhibit similar profit potential.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 283
+
+6.117.  Set  out  below  is  a  description  of  some  of  the  specific  features  of 
+intangibles that may prove important in a comparability analysis involving 
+transfers  of  intangibles  or  rights  in  intangibles.  The  following  list  is  not 
+exhaustive  and  in  a  specific  case  consideration  of  additional  or  different 
+factors may be an essential part of a comparability analysis.
+
+D.2.1.1. Exclusivity
+
+6.118.  Whether the rights in intangibles relevant to a particular transaction 
+involving  the  transfer  of  intangibles  or  rights  in  intangibles  are  exclusive 
+or  non-exclusive  can  be  an  important  comparability  consideration.  Some 
+intangibles  allow  the  legal  owner  of  the  intangible  to  exclude  others  from 
+using the intangible. A patent, for example, grants an exclusive right to use the 
+invention covered by the patent for a period of years. If the party controlling 
+intangible  rights  can  exclude  other  enterprises  from  the  market,  or  exclude 
+them  from  using  intangibles  that  provide  a  market  advantage,  that  party 
+may enjoy a high degree of market power or market influence. A party with 
+non-exclusive rights to intangibles will not be able to exclude all competitors 
+and will generally not have the same degree of market power or influence. 
+Accordingly,  the  exclusive  or  non-exclusive  nature  of  intangibles  or  rights 
+in  intangibles  should  be  considered  in  connection  with  the  comparability 
+analysis.
+
+D.2.1.2. Extent and duration of legal protection
+
+6.119.  The extent and duration of legal protection of the intangibles relevant 
+to  a  particular  transfer  can  be  an  important  comparability  consideration. 
+Legal protections associated with some intangibles can prevent competitors 
+from entering a particular market. For other intangibles, such as know-how 
+or trade secrets, available legal protections may have a different nature and 
+not  be  as  strong  or  last  as  long.  For  intangibles  with  limited  useful  lives, 
+the duration of legal protections can be important since the duration of the 
+intangible  rights  will  affect  the  expectation  of  the  parties  to  a  transaction 
+with regard to the future benefits from the exploitation of the intangible. For 
+example, two otherwise comparable patents will not have equivalent value if 
+one expires at the end of one year while the other expires only after ten years.
+
+D.2.1.3. Geographic scope
+
+6.120.  The  geographic  scope  of  the  intangibles  or  rights  in  intangibles 
+will  be  an  important  comparability  consideration.  A  global  grant  of  rights 
+to  intangibles  may  be  more  valuable  than  a  grant  limited  to  one  or  a  few 
+jurisdictions,  depending  on  the  nature  of  the  product,  the  nature  of  the 
+intangible, and the nature of the markets in question.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+284 – CHAPTER VI: INTANGIBLES
+
+D.2.1.4. Useful life
+6.121.  Many intangibles have a limited useful life. The useful life of a particular 
+intangible  can  be  affected  by  the  nature  and  duration  of  the  legal  protections 
+afforded to the intangible, as noted above. The useful life of some intangibles 
+can also be affected by the rate of technological change in an industry and by the 
+development of new and potentially improved products. It may also be the case 
+that the useful life of particular intangibles can be extended.
+6.122.  In conducting a comparability analysis, it will therefore be important 
+to consider the expected useful life of the intangibles in question. In general, 
+intangibles expected to provide market advantages for a longer period of time 
+will be more valuable than similar intangibles providing such advantages for 
+a shorter period of time, other things being equal. In evaluating the useful 
+life of intangibles it is also important to consider the use being made of the 
+intangible.  The  useful  life  of  an  intangible  that  forms  a  base  for  ongoing 
+research  and  development  may  extend  beyond  the  commercial  life  of  the 
+current generation product line based on that intangible.
+
+D.2.1.5. Stage of development
+
+6.123. 
+In conducting a comparability analysis, it may be important to consider 
+the stage of development of particular intangibles. It is often the case that an 
+intangible  is  transferred  in  a  controlled  transaction  at  a  po

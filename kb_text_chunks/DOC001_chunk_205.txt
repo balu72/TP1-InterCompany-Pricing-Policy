@@ -1,0 +1,74 @@
+r valuing current contributions 
+is  permitted,  the  analysis  should  initially  be  based  on  budgeted  costs.  This 
+does not necessarily mean fixing the costs, since the budget framework may 
+accommodate variability arising from factors such as varying demand levels 
+(for instance budgeted costs may be expressed as a fixed percentage of actual 
+sales). Additionally, there are likely to be differences between budgeted costs 
+and actual costs during the term of the CCA. In an arm’s length situation, the 
+terms agreed between the parties are likely to set out how such differences 
+should be treated since, as stated in paragraph 2.96, independent parties are 
+not likely to use budgeted costs without agreeing what factors are taken into 
+account  in  setting  the  budget  and  how  unforeseen  circumstances  are  to  be 
+treated. Attention should be paid to the reason for any significant differences 
+between budgeted costs and actual costs, since the difference may point to 
+changes in the scope of activities which may not benefit all the participants 
+in  the  same  way  as  the  activities  originally  scoped.  In  general  terms, 
+however, where cost is found to be an appropriate basis for measuring current 
+contributions, it is likely to be sufficient to use actual costs as the basis for so 
+doing.
+
+It is important that the evaluation process recognises all contributions 
+8.30. 
+made by participants to the arrangement. This includes contributions made 
+by one or more parties at the inception of the CCA (such as contributions of 
+pre-existing intangibles) as well as contributions made on an ongoing basis 
+during the term of the CCA. Contributions to be considered include property 
+or  services  that  are  used  solely  in  the  CCA  activity,  but  also  property  or 
+services  (i.e.  shared  property  or  services)  that  are  used  partly  in  the  CCA 
+activity  and  also  partly  in  the  participant’s  separate  business  activities.  It 
+can  be  difficult  to  measure  contributions  that  involve  shared  property  or 
+services, for example where a participant contributes the partial use of assets 
+such  as  office  buildings  and  IT  systems  or  performs  supervisory,  clerical, 
+and  administrative  functions  for  the  CCA  and  for  its  own  business.  It  will 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS – 349
+
+be necessary to determine the proportion of the assets used or services that 
+relate to the CCA activity in a commercially justifiable way with regard to 
+recognised  accounting  principles  and  the  actual  facts,  and  adjustments,  if 
+material, may be necessary to achieve consistency when different jurisdictions 
+are  involved.  Once  the  proportion  is  determined,  the  contribution  can  be 
+measured in accordance with the principles in the rest of this chapter.
+
+8.31. 
+For  development  CCAs,  contributions  in  the  form  of  controlling 
+and  managing  the  CCA,  its  activities  and  risks,  are  likely  to  be  important 
+functions,  as  described  in  paragraph  6.56,  in  relation  to  the  development, 
+production, or obtaining of the intangibles or tangible assets and should be 
+valued in accordance with the principles set out in Chapter VI.
+
+8.32.  The  following  scenario  illustrates  the  guidance  on  determining 
+participants, the share of benefits, and the value of contributions.
+
+8.33.  Company A based in Country A and Company B based in Country B 
+are  members  of  an  MNE  group  and  have  concluded  a  CCA  to  develop 
+intangibles.  Company  B  has  entitlement  under  the  CCA  to  exploit  the 
+intangibles in Country B, and Company A has entitlement under the CCA 
+to exploit the intangibles in the rest of the world. The parties anticipate that 
+Company A will have 75% of total sales and Company B 25% of total sales, 
+and that their share of expected benefits from the CCA is 75:25. Both A and 
+B  have  experience  of  developing  intangibles  and  have  their  own  research 
+and development personnel. They each control their development risk under 
+the  CCA  within  the  terms  set  out  in  paragraphs  8.14  to  8.16.  Company  A 
+contributes pre-existing intangibles to the CCA that it has recently acquired 
+from a third-party. Company B contributes proprietary analytical techniques 
+that it has developed to improve efficiency and speed to market. Both of these 
+pre-existing  contributions  should  be  valued  under  the  guidance  provided 
+in  Chapters  I-III  and  VI.  Current  contributions  in  the  form  of  day-to-day 
+research  will  be  performed  80%  by  Company  B  and  20%  by  Company  A 
+under  the  guidance  of  a  leadership  team  made  up  of  personnel  from  both 
+companies in the ratio 90:10 in favour of Company A. These two kinds of 
+current  contributions  should  separately  be  analysed  and  valued  under  the 
+guidance provided in Chapters I-III and VI. When the expected b

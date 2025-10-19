@@ -1,0 +1,98 @@
+s regard are 
+highly integrated. Additionally, Company A and Company B are responsible 
+for the marketing and distribution of the products to unrelated customers in 
+Country A and in Country B, respectively.
+
+79. 
+Company A and Company B enter into an agreement to buy and sell 
+pieces,  moulds  and  different  components  to  manufacture  various  different 
+models  of  products.  These  transactions  may  also  relate  to  semi-finished 
+products to effectively meet customers’ demands in a timely fashion. As a 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+486 – ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD
+
+result of their broad experience in the sector, Company A and Company B 
+have each developed unique and valuable know-how and other intangibles in 
+their respective design and manufacturing processes.
+
+80. 
+The functional analysis shows the economically significant risks are 
+the strategic and operational risks in relation to the design and manufacturing 
+functions and that Company A and Company B are engaged in a complex web 
+of intragroup transactions where the performance of each company heavily 
+depends  on  the  capacity  of  the  other  to  provide  the  different  components 
+and  other  inputs.  The  manufacturing  and  design  activities  of  Company  A 
+and  Company  B  are  highly  interdependent  and  the  entities  both  perform 
+relevant  control  functions  in  relation  to  the  economically  significant  risks. 
+In accordance with the risk analysis framework described in Section D.1.2.1 
+of  Chapter  I  of  these  Guidelines,  it  is  determined  that  Company  A  and 
+Company  B  share  the  assumption  of  the  risks  relating  to  design  and 
+manufacturing.  Both  Companies  A  and  B  make  unique  and  valuable 
+contributions to the design and manufacturing processes.
+
+81. 
+Under  these  circumstances,  the  transactional  profit  split  method  is 
+likely to be the most appropriate method for determining the compensation 
+for Companies A and B in relation to their intra-group transactions
+
+82. 
+In  the  absence  of  comparable  uncontrolled  transactions  or  direct 
+evidence of how independent parties would have split the profits in comparable 
+circumstances, the profit split can be applied based on the relative value of the 
+contributions  of  Company  A  and  Company  B.  In  particular,  an  asset-based 
+splitting  factor  may  be  appropriate,  provided  that  the  functional  analysis 
+concludes that there is a strong correlation between the assets of Company A 
+and  Company  B  and  the  creation  of  value  in  the  context  of  their  controlled 
+transactions.
+
+Example 16
+
+Company  A,  Company  B  and  Company  C,  members  of  the  same 
+83. 
+MNE  group,  jointly  agree  to  share  the  “greenfield”  development  of  a  new 
+product.  In  this  regard,  none  of  the  entities  brings  existing  contributions 
+of  value  such  as  pre-existing  intangibles  to  the  project.  Each  associated 
+enterprise will be responsible for developing and manufacturing one of the 
+three key components of the product.
+
+84. 
+In this case, assume that the transactional profit split is found to be the 
+most appropriate method for determining the profits of the three companies 
+from  the  sale  of  the  new  product.  The  functional  analysis  concludes  that 
+the  relative  contributions  of  the  parties  may  be  measured  by  reference  to 
+the  relative  expenses  incurred  by  each  company  in  the  development  of  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD – 487
+
+components as there is a direct correlation between these relative expenses 
+and the relative value contributed by each company. Accordingly, the relevant 
+profits (losses) in relation to the sales of the new product can be split based on 
+the relative development costs incurred by each of the parties.
+
+85. 
+In this example, the splitting of profits based on relative development 
+costs will yield results similar to those which would have resulted under an 
+analogous cost contribution arrangement, since parties performing activities 
+with  similar  economic  characteristics  should  receive  similar  expected 
+returns, irrespective of whether the contractual arrangement in a particular 
+case is termed as a CCA or not (see paragraph 8.4).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX TO CHAPTER III: EXAMPLE ON WORKING CAPITAL ADJUSTMENT – 489
+
+Annex to Chapter III 
+
+Example of a working capital adjustment
+
+See  Chapter  III,  Section  A.6  of  these  Guidelines  for  general  guidance  on 
+comparability adjustments.
+
+The assumptions about arm’s length arrangements in the following examples are 
+intended  for  illustrative  purposes  only  and  should  not  be  taken  as  prescribing 
+adjustments and arm’s length arrangements in actual cases of particular industries. 
+While they seek to demonstrate the principles of the section

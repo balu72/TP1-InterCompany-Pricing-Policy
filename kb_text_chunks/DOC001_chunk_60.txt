@@ -1,0 +1,75 @@
+ction 
+should ideally be established by reference to the cost plus mark-up that the 
+same  supplier  earns  in  comparable  uncontrolled  transactions  (“internal 
+comparable”). In addition, the cost plus mark-up that would have been earned 
+in comparable transactions by an independent enterprise may serve as a guide 
+(“external comparable”).
+
+2.47. 
+Following the principles in Chapter I, an uncontrolled transaction is 
+comparable  to  a  controlled  transaction  (i.e.  it  is  a  comparable  uncontrolled 
+transaction)  for  purposes  of  the  cost  plus  method  if  one  of  two  conditions 
+is  met:  a)  none  of  the  differences  (if  any)  between  the  transactions  being 
+compared  or  between  the  enterprises  undertaking  those  transactions 
+materially affect the cost plus mark up in the open market; or, b) reasonably 
+accurate adjustments can be made to eliminate the material effects of such 
+differences. In determining whether a transaction is a comparable uncontrolled 
+transaction for the purposes of the cost plus method, the same principles apply 
+as described in paragraphs 2.29-2.34 for the resale price method. Thus, fewer 
+adjustments may be necessary to account for product differences under the 
+cost  plus  method  than  the  CUP  method,  and  it  may  be  appropriate  to  give 
+more weight to other factors of comparability described in Chapter I, some of 
+which may have a more significant effect on the cost plus mark-up than they 
+do  on  price.  As  under  the  resale  price  method  (see  paragraph  2.34),  where 
+there are differences that materially affect the cost plus mark ups earned in 
+the controlled and uncontrolled transactions (for example in the nature of the 
+functions performed by the parties to the transactions), reasonably accurate 
+adjustments should be made to account for such differences. The extent and 
+reliability of those adjustments will affect the relative reliability of the analysis 
+under the cost plus method in particular cases.
+
+2.48.  For example, assume that Company A manufactures and sells toasters 
+to a distributor that is an associated enterprise, that Company B manufactures 
+and sells irons to a distributor that is an independent enterprise, and that the 
+profit margins on the manufacture of basic toasters and irons are generally 
+the same in the small household appliance industry. (The use of the cost plus 
+method  here  presumes  that  there  are  no  highly  similar  independent  toaster 
+manufacturers).  If  the  cost  plus  method  were  being  applied,  the  mark  ups 
+being compared in the controlled and uncontrolled transactions would be the 
+difference between the selling price by the manufacturer to the distributor and 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+108 – CHAPTER II: TRANSFER PRICING METHODS
+
+the costs of manufacturing the product, divided by the costs of manufacturing 
+the  product.  However,  Company  A  may  be  much  more  efficient  in  its 
+manufacturing processes than Company B thereby enabling it to have lower 
+costs. As a result, even if Company A were making irons instead of toasters 
+and  charging  the  same  price  as  Company  B  is  charging  for  irons  (i.e.  no 
+special condition were to exist), it would be appropriate for Company A’s profit 
+level to be higher than that of Company B. Thus, unless it is possible to adjust 
+for the effect of this difference on the profit, the application of the cost plus 
+method would not be wholly reliable in this context.
+
+2.49.  The cost plus method presents some difficulties in proper application, 
+particularly in the determination of costs. Although it is true that an enterprise 
+must cover its costs over a period of time to remain in business, those costs 
+may  not  be  the  determinant  of  the  appropriate  profit  in  a  specific  case  for 
+any one year. While in many cases companies are driven by competition to 
+scale down prices by reference to the cost of creating the relevant goods or 
+providing the relevant service, there are other circumstances where there is 
+no  discernible  link  between  the  level  of  costs  incurred  and  a  market  price 
+(e.g. where a valuable discovery has been made and the owner has incurred 
+only small research costs in making it).
+
+2.50. 
+In  addition,  when  applying  the  cost  plus  method  one  should  pay 
+attention  to  apply  a  comparable  mark  up  to  a  comparable  cost  basis.  For 
+instance,  if  the  supplier  to  which  reference  is  made  in  applying  the  cost 
+plus  method  in  carrying  out  its  activities  employs  leased  business  assets, 
+the  cost  basis  might  not  be  comparable  without  adjustment  if  the  supplier 
+in the controlled transaction owns its business assets. The cost plus method 
+relies  upon  a  comparison  of  the  mark  up  on  costs  achieved  in  a  controlled 
+transaction  and  the  mark  up  on  costs  achieved  in  one  or  more  comparable 
+uncontrolled transactions. Therefore, 

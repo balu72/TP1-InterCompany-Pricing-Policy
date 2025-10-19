@@ -1,0 +1,90 @@
+e transferred or used without separate compensation, even though 
+such use or transfer would give rise to compensation in transactions between 
+independent enterprises. If too broad a definition is applied, either taxpayers 
+or governments may argue that the use or transfer of an item in transactions 
+
+1. 
+
+The  assumption  of  risks  refers  to  the  outcome  of  the  determination  of  which 
+associated  enterprise  assumes  a  specific  risk  under  the  guidance  provided  in 
+Section D.1.2.1 of Chapter I, taking into account control over risk and financial 
+capacity  to  assume  the  risk.  Contractual  assumption  of  risk  refers  to  the 
+allocation of risk in contracts between the parties.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 247
+
+between associated enterprises should require compensation in circumstances 
+where  no  such  compensation  would  be  provided  in  transactions  between 
+independent enterprises.
+
+6.6. 
+In these Guidelines, therefore, the word “intangible” is intended to 
+address something which is not a physical asset or a financial asset,2 which 
+is capable of being owned or controlled for use in commercial activities, and 
+whose use or transfer would be compensated had it occurred in a transaction 
+between  independent  parties  in  comparable  circumstances.  Rather  than 
+focusing on accounting or legal definitions, the thrust of a transfer pricing 
+analysis in a case involving intangibles should be the determination of the 
+conditions  that  would  be  agreed  upon  between  independent  parties  for  a 
+comparable transaction.
+
+6.7. 
+Intangibles that are important to consider for transfer pricing purposes 
+are not always recognised as intangible assets for accounting purposes. For 
+example,  costs  associated  with  developing  intangibles  internally  through 
+expenditures such as research and development and advertising are sometimes 
+expensed rather than capitalised for accounting purposes and the intangibles 
+resulting  from  such  expenditures  therefore  are  not  always  reflected  on 
+the  balance  sheet.  Such  intangibles  may  nevertheless  be  used  to  generate 
+significant economic value and may need to be considered for transfer pricing 
+purposes.  Furthermore,  the  enhancement  to  value  that  may  arise  from  the 
+complementary nature of a collection of intangibles when exploited together is 
+not always reflected on the balance sheet. Accordingly, whether an item should 
+be considered to be an intangible for transfer pricing purposes under Article 9 
+of the OECD Model Tax Convention can be informed by its characterisation 
+for accounting purposes, but will not be determined by such characterisation 
+only. Furthermore, the determination that an item should be regarded as an 
+intangible for transfer pricing purposes does not determine or follow from its 
+characterisation for general tax purposes, as, for example, an expense or an 
+amortisable asset.
+
+6.8. 
+The  availability  and  extent  of  legal,  contractual,  or  other  forms  of 
+protection  may  affect  the  value  of  an  item  and  the  returns  that  should  be 
+attributed to it. The existence of such protection is not, however, a necessary 
+condition for an item to be characterised as an intangible for transfer pricing 
+purposes. Similarly, while some intangibles may be identified separately and 
+transferred on a segregated basis, other intangibles may be transferred only 
+
+2. 
+
+As  used  in  this  paragraph,  a  financial  asset  is  any  asset  that  is  cash,  an  equity 
+instrument, a contractual right or obligation to receive cash or another financial 
+asset or to exchange financial assets or liabilities, or a derivative. Examples include 
+bonds,  bank  deposits,  stocks,  shares,  forward  contracts,  futures  contracts  and 
+swaps.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+248 – CHAPTER VI: INTANGIBLES
+
+in combination with other business assets. Therefore, separate transferability 
+is not a necessary condition for an item to be characterised as an intangible 
+for transfer pricing purposes.
+
+6.9. 
+It is important to distinguish intangibles from market conditions or local 
+market circumstances. Features of a local market, such as the level of disposable 
+income  of  households  in  that  market  or  the  size  or  relative  competitiveness 
+of  the  market  are  not  capable  of  being  owned  or  controlled.  While  in  some 
+circumstances they may affect the determination of an arm’s length price for 
+a  particular  transaction  and  should  be  taken  into  account  in  a  comparability 
+analysis, they are not intangibles for the purposes of Chapter VI. See Section D.6 
+of Chapter I.
+
+6.10.  The identification of an item as an intangible is separate and distinct 
+from the process for determining the price for the use or transfer of the item 
+under the facts and circumstances of a given case. Depending on the industry 
+sector and other facts specific to

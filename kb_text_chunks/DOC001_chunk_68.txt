@@ -1,0 +1,79 @@
+working  capital  within  the  calculation  of  the  net 
+profit  indicator  and/or  to  proceed  with  a  working  capital  adjustment,  see 
+paragraphs  3.47-3.54.  An  example  would  be  where  a  large  retail  business 
+benefits from long credit terms with its suppliers and from short credit terms 
+with its customers, thus making it possible to derive excess cash that in turn 
+may  make  it  possible  to  have  lower  sales  prices  to  customers  than  if  such 
+advantageous credit terms were not available.
+
+2.88.  Whether  foreign  exchange  gains  and  losses  should  be  included  or 
+excluded from the determination of the net profit indicator raises a number 
+of difficult comparability issues. First, it needs to be considered whether the 
+foreign exchange gains and losses are of a trading nature (e.g. exchange gain 
+or loss on a trade receivable or payable) and whether or not the tested party is 
+responsible for them. Second, any hedging of the foreign currency exposure 
+on  the  underlying  trade  receivable  or  payable  also  needs  to  be  considered 
+and  treated  in  the  same  way  in  determining  the  net  profit.  In  effect,  if  a 
+transactional  net  margin  is  applied  to  a  transaction  in  which  the  foreign 
+exchange risk is borne by the tested party, foreign exchange gains or losses 
+should be consistently accounted for (either in the calculation of the net profit 
+indicator or separately).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 121
+
+2.89. 
+For  financial  activities  where  the  making  and  receiving  of  advances 
+constitutes the ordinary business of the taxpayer, it will generally be appropriate 
+to  consider  the  effect  of  interest  and  amounts  in  the  nature  of  interest  when 
+determining the net profit indicator.
+
+2.90.  Difficult comparability issues can arise where the accounting treatment 
+of some items by potential third party comparables is unclear or does not allow 
+reliable measurement or adjustment (see paragraph 2.81). This can be the case 
+in particular for depreciation, amortisation, stock option and pension costs. The 
+decision whether or not to include such items in the determination of the net 
+profit indicator for applying the transactional net margin method will depend 
+on a weighing of their expected effects on the appropriate ness of the net profit 
+indicator  to the circumstances of the transaction and on the reliability  of the 
+comparison (see paragraph 3.50).
+
+2.91.  Whether  start-up  costs  and  termination  costs  should  be  included 
+in  the  determination  of  the  net  profit  indicator  depends  on  the  facts  and 
+circumstances  of  the  case  and  on  whether  in  comparable  circumstances, 
+independent parties would have agreed either for the party performing the 
+functions to bear the start-up costs and possible termination costs; or for part 
+or all of these costs to be recharged with no mark-up, e.g. to the customer or 
+a principal; or for part or all of these costs to be recharged with a mark-up, 
+e.g. by including them in the calculation of the net profit indicator of the party 
+performing the functions. See Chapter IX, Part I, Section F for a discussion 
+of termination costs in the context of a business restructuring.
+
+B.3.4. Weighting the net profit
+
+2.92.  The  selection  of  the  denominator  should  be  consistent  with  the 
+comparability  (including  functional)  analysis  of  the  controlled  transaction, 
+and in particular it should reflect the allocation of risks between the parties 
+(provided  said  allocation  of  risks  is  arm’s  length,  see  Section  D.1.2.1 
+in  Chapter  I).  For  instance,  capital-intensive  activities  such  as  certain 
+manufacturing  activities  may  involve  significant  investment  risk,  even  in 
+those  cases  where  the  operational  risks  (such  as  market  risks  or  inventory 
+risks) might be limited. Where a transactional net margin method is applied 
+to  such  cases,  the  investment-related  risks  are  reflected  in  the  net  profit 
+indicator if the latter is a return on investment (e.g. return on assets or return 
+on capital employed). Such indicator might need to be adjusted (or a different 
+net  profit  indicator  selected)  depending  on  what  party  to  the  controlled 
+transaction bears that risk, as well as on the degree of differences in risk that 
+may  be  found in the taxpayer’s controlled  transaction and in  comparables. 
+See paragraphs 3.47-3.54 for a discussion of comparability adjustments.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+122 – CHAPTER II: TRANSFER PRICING METHODS
+
+2.93.  The denominator should be focussed on the relevant indicator(s) of 
+the value of the functions performed by the tested party in the transaction 
+under review, taking account of its assets used and risks assumed. Typically, 
+and subject to a review of the facts and circumstances of the case, sales or 
+distribution operating e

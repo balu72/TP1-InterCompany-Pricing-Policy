@@ -1,0 +1,77 @@
+d (traditional transaction method or transactional net margin method) 
+may be applicable in cases where one of the parties makes all the unique and 
+valuable contributions involved in the controlled transaction, while the other 
+party does not make any unique and valuable contribution. In such a case, the 
+tested party should be the less complex one. See paragraphs 3.18-3.19 for a 
+discussion of the notion of tested party.
+
+2.66.  There  are  also  many  cases  where  a  party  to  a  transaction  makes 
+contributions that are not unique – e.g. uses non-unique intangibles such as 
+non-unique  business  processes  or  non-unique  market  knowledge.  In  such 
+cases, it may be possible to meet the comparability requirements to apply a 
+traditional transaction method or a transactional net margin method because 
+the  comparables  would  also  be  expected  to  use  a  comparable  mix  of  non-
+unique contributions.
+
+2.67.  Finally, the lack of unique and valuable contributions involved in a 
+particular transaction does not automatically imply that the transactional net 
+margin method is the most appropriate method.
+
+B.2.  Strengths and weaknesses1
+
+2.68.  One strength of the transactional net margin method is that net profit 
+indicators (e.g. return on assets, operating income to sales, and possibly other 
+measures of net profit) are less affected by transactional differences than is 
+
+1. 
+
+An example illustrating the sensitivity of gross and net profit margin indicators 
+is found in Annex I to Chapter II.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 115
+
+the case with price, as used in the CUP method. Net profit indicators also 
+may be more tolerant to some functional differences between the controlled 
+and uncontrolled transactions than gross profit margins. Differences in the 
+functions  performed  between  enterprises  are  often  reflected  in  variations 
+in  operating  expenses.  Consequently,  this  may  lead  to  a  wide  range  of 
+gross  profit  margins  but  still  broadly  similar  levels  of  net  operating  profit 
+indicators. In addition, in some jurisdictions the lack of clarity in the public 
+data with respect to the classification of expenses in the gross or operating 
+profits may make it difficult to evaluate the comparability of gross margins, 
+while the use of net profit indicators may avoid the problem.
+2.69.  Another  practical  strength  of  the  transactional  net  margin  method 
+is that, as  with any one-sided method, it is necessary to examine a financial 
+indicator for only one of the associated enterprises (the “tested” party). Similarly, 
+it is often not necessary to state the books and records of all participants in the 
+business activity on a common basis or to allocate costs for all participants as 
+is  the  case  with  the  transactional  profit  split  method.  This  can  be  practically 
+advantageous  when  one  of  the  parties  to  the  transaction  is  complex  and  has 
+many interrelated activities or when it is difficult to obtain reliable information 
+about  one  of  the  parties.  However,  a  comparability  (including  functional) 
+analysis must always be performed in order to appropriately characterise the 
+transaction between the parties and choose the most appropriate transfer pricing 
+method, and this analysis generally necessitates that some information on the 
+five comparability factors in relation to the controlled transaction be collected 
+on both the tested and the non-tested parties. See paragraphs 3.20-3.23.
+2.70.  There  are  also  a  number  of  weaknesses  to  the  transactional  net 
+margin method. The net profit indicator of a taxpayer can be influenced by 
+some factors that would either not have an effect, or have a less substantial or 
+direct effect, on price or gross margins between independent parties. These 
+aspects may make accurate and reliable determinations of arm’s length net 
+profit  indicators  difficult.  Thus,  it  is  important  to  provide  some  detailed 
+guidance  on  establishing  comparability  for  the  transactional  net  margin 
+method, as set forth in paragraphs 2.74-2.81 below.
+2.71.  Application  of  any  arm’s  length  method  requires  information 
+on  uncontrolled  transactions  that  may  not  be  available  at  the  time  of  the 
+controlled transactions. This may make it particularly difficult for taxpayers 
+that attempt to apply the transactional net margin method at the time of the 
+controlled  transactions  (although  use  of  multiple  year  data  as  discussed  in 
+paragraphs 3.75-3.79 may mitigate this concern). In addition, taxpayers may 
+not  have  access  to  enough  specific  information  on  the  profits  attributable 
+to comparable uncontrolled transactions to make a valid application of the 
+method. It also may be difficult to ascertain revenue and operating expenses 
+related to the controlled transactions to establish the net profit indicator used 
+as the profit 

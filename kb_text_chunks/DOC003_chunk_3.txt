@@ -1,0 +1,136 @@
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Model legislation related to Country-by-Country Reporting  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Multilateral Competent Authority Agreement on the Exchange of Country-by-Country Reports . . . . 45
+Competent Authority Agreement on the Exchange of Country-by-Country Reports on the basis of 
+a Double Tax Convention (“DTC CAA”). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+Competent Authority Agreement on the Exchange of Country-by-Country Reports on the basis of 
+a Tax Information Exchange Agreement (“TIEA CAA”)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+
+Bibliography . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ ABBREvIATIONS AND ACRONYMS – 7
+
+Abbreviations and acronyms
+
+APA 
+
+BEPS 
+
+CAA 
+
+CbC 
+
+DTC 
+
+FTE 
+
+G20 
+
+MAP 
+
+Advance pricing agreement
+
+Base erosion and profit shifting
+
+Competent authority agreement
+
+Country-by-Country
+
+Double tax convention
+
+Full-time equivalent
+
+Group of twenty
+
+Mutual agreement procedure
+
+MCAA 
+
+Multilateral competent authority agreement
+
+MNE 
+
+OECD 
+
+PE 
+
+R&D 
+
+SME 
+
+TIEA 
+
+XML 
+
+Multinational enterprise
+
+Organisation for Economic Co-operation and Development
+
+Permanent establishment
+
+Research and development
+
+Small and medium-sized enterprise
+
+Tax information exchange agreement
+
+Extensible markup language
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ ExECUTIvE SUMMARY – 9
+
+Executive summary
+
+This  report  contains  revised  standards  for  transfer  pricing  documentation  and  a 
+template for Country-by-Country Reporting of income, taxes paid and certain measures of 
+economic activity.
+
+Action 13 of the Action Plan on Base Erosion and Profit Shifting (BEPS Action Plan, 
+OECD, 2013) requires the development of “rules regarding transfer pricing documentation 
+to enhance transparency for tax administration, taking into consideration the compliance 
+costs for business. The rules to be developed will include a requirement that MNEs provide 
+all relevant governments with needed information on their global allocation of the income, 
+economic activity and taxes paid among countries according to a common template”.
+
+In response to this requirement, a three-tiered standardised approach to transfer pricing 
+
+documentation has been developed.
+
+First, the guidance on transfer pricing documentation requires multinational enterprises 
+(MNEs) to provide tax administrations with high-level information regarding their global 
+business operations and transfer pricing policies in a “master file” that is to be available to 
+all relevant tax administrations.
+
+Second,  it  requires  that  detailed  transactional  transfer  pricing  documentation  be 
+provided  in  a  “local  file”  specific  to  each  country,  identifying  material  related  party 
+transactions, the amounts involved in those transactions, and the company’s analysis of the 
+transfer pricing determinations they have made with regard to those transactions.
+
+Third, large MNEs are required to file a Country-by-Country Report that will provide 
+annually and for each tax jurisdiction in which they do business the amount of revenue, 
+profit  before  income  tax  and  income  tax  paid  and  accrued.  It  also  requires  MNEs  to 
+report their number of employees, stated capital, retained earnings and tangible assets in 
+each tax jurisdiction. Finally, it requires MNEs to identify each entity within the group 
+doing business in a particular tax jurisdiction and to provide an indication of the business 
+activities each entity engages in.
+
+Taken together, these three documents (master file, local file and Country-by-Country 
+Report) will require taxpayers to articulate consistent transfer pricing positions and will 
+provide tax administrations with useful information to assess transfer pricing risks, make 
+determinations about where audit resources can most effectively be deployed, and, in the 
+event audits are called for, provide information to commence and target audit enquiries. 
+This  information  should  make  it  easier  for  tax  administrations  to  identify  whether 
+companies  have  engaged  in  transfer  pricing  and  other  practices  that  have  the  effect  of 
+artificially shifting substantial amounts of income into tax-advantaged environments. The 
+countries participating in the BEPS project agree that these new reporting provisions, and 
+the transparency they will encourage, will contribute to the objective of understanding, 
+controlling, and tackling BEPS behaviours.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+10 –  ExECUTIvE SUMMARY
+
+The specific content of the various documents reflects 

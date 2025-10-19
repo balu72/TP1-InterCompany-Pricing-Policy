@@ -1,0 +1,92 @@
+ 
+8-10  Aligning  Transfer  Pricing  Outcomes  with  Value  Creation  and 
+the  Report  on  BEPS  Action  13,  Transfer  Pricing  Documentation 
+and  Country-by-Country  Reporting,  endorsed  by  the  Council  on 
+1 October 2015 [C(2015)125/ADD8 and C(2015)125/ADD11].
+
+•  By  a  revision  of  Chapter  IX  adopted  by  the  Committee  on  Fiscal 
+Affairs  on  31  December  2016  [CTPA/CFA/NOE2(2016)76]  and 
+approved by the Council on 3 April 2017 [C(2017)37].
+
+•  By  an  update  of  the  Foreword,  of  the  Preface,  of  the  Glossary,  of 
+Chapters  I-IV  and  of  the  annexes,  adopted  by  the  Committee  on 
+Fiscal Affairs on 19 May 2017 [CTPA/CFA/NOE2(2017)21];
+
+•  By a revision of Section C on the transactional profit split method in 
+Part III of Chapter II and of the annexes, adopted by the Committee 
+on Fiscal Affairs on 4 June 2018 [CTPA/CFA/NOE2(2018)24].
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+FOREWORD – 5
+
+•  By  an  update  of  the  Foreword,  of  the  Preface,  of  the  Glossary,  of 
+Chapters  I-IX  and  of  the  annexes,  adopted  by  the  Committee  on 
+Fiscal Affairs on 7 January 2022 [CTPA/CFA/NOE2(2021)52].
+
+These  Guidelines  will  continue  to  be  supplemented  with  additional 
+guidance addressing other aspects of transfer pricing and will be periodically 
+reviewed and revised on an ongoing basis.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+TABLE OF CONTENTS – 7
+
+Table of contents
+
+Preface. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+
+Abbreviations and acronyms  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+
+Glossary  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+
+Chapter I.  The arm’s length principle  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .29
+
+A. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .29
+B. Statement of the arm’s length principle . . . . . . . . . . . . . . . . . . . . . . . . . . . . .31
+C. A non-arm’s-length approach: global formulary apportionment. . . . . . . . . .34
+D. Guidance for applying the arm’s length principle . . . . . . . . . . . . . . . . . . . . .39
+
+Chapter II.  Transfer pricing methods  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .93
+
+Part I: Selection of the transfer pricing method  . . . . . . . . . . . . . . . . . . . . . . . .93
+
+A.  Selection of the most appropriate transfer pricing method to the 
+
+circumstances of the case  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .93
+B. Use of more than one method  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .96
+
+Part II: Traditional transaction methods. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .97
+
+A. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .97
+B. Comparable uncontrolled price method. . . . . . . . . . . . . . . . . . . . . . . . . . . . .97
+C. Resale price method. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+D. Cost plus method  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .106
+
+Part III: Transactional profit methods  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+
+A. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+B. Transactional net margin method  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+C. Transactional profit split method . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .128
+D. Conclusions on transactional profit methods. . . . . . . . . . . . . . . . . . . . . . . . 147
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+8 – TABLE OF CONTENTS
+
+Chapter III.  Comparability analysis  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149
+
+A. Performing a comparability analysis. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149
+B. Timing issues in comparability  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167
+C. Compliance issues  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170
+
+Chapter IV.  Administrative approaches to avoiding and resolving transfer 
+
+pricing disputes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 173
+
+A. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 173
+B. Transfer pricing compliance practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 174
+C.  Corresponding adjustments and the mutual agreement procedure: 
+
+Articles 9 and 25 of the OECD Model Tax Convention  . . . . . . . . . . . . . . . 181
+D. Simultaneous tax examinations . . 

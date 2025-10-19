@@ -1,0 +1,78 @@
+a  shoe  manufacturer 
+and wholesale distributor of shoes in the North-West region. Its 
+wholly-owned subsidiary B, situated in Country B, is a wholesale 
+distributor in the South-East region of the shoes manufactured 
+by A. As part of its operations, A routinely performs a credit risk 
+analysis on its customers on the basis of reports purchased from 
+a credit reporting agency. A performs, on behalf of B, the same 
+credit risk analysis with respect to B’s customers, using the same 
+methods and approaches. Under the facts and circumstances, it 
+could be reasonably concluded that the service A performs for B 
+is a low value-adding intra-group service.
+
+b)  Company X is a subsidiary of a worldwide investment banking 
+group.  Company  X  performs  credit  risk  analysis  with  respect 
+to  potential  counterparties  for  transactions  involving  financial 
+derivatives contracts and prepares credit reports for the worldwide 
+investment  banking  group.  The  credit  analyses  performed  by 
+Company X are utilised by the group in establishing the prices 
+of financial derivatives for the group’s clients. The personnel of 
+Company  X  have  developed  special  expertise  and  make  use  of 
+internally  developed,  confidential  credit  risk  analysis  models, 
+algorithms  and  software.  Under  the  facts  and  circumstances  of 
+this case, it could not be concluded that the service Company X 
+performs  for  the  worldwide  investment  banking  group  is  a  low 
+value-adding intra-group service.
+
+7.51.  The definition of low value-adding intra-group services refers to the 
+supportive  nature  of  such  services,  which  are  not  part  of  the  core  business 
+of the MNE group. The provision of low value-adding intra-group services 
+may, in fact, be the principal business activity of the legal entity providing 
+the service, e.g. a shared service centre, provided these services do not relate 
+to  the  core  business  of  the  group.  As  an  example,  assume  that  an  MNE  is 
+engaged in the development, production, sale and marketing of dairy products 
+worldwide. The group established a shared services company, the only activity 
+of which is to act as a global IT support service centre. From the perspective 
+of  the  IT  support  service  provider,  the  rendering  of  the  IT  services  is  the 
+company’s principal business activity. However, from the perspective of the 
+service recipients, and from the perspective of the MNE group as a whole, 
+the service is not a core business activity and may therefore qualify as a low 
+value-adding intra-group service.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VII: INTRA-GROUP SERVICES – 331
+
+D.2.  Simplified determination of arm’s length charges for low 
+
+value-adding intra-group services
+
+7.52.  This subsection sets out the elements of a simplified charge mechanism 
+for low value-adding intra-group services. This simplified method is premised 
+on  the  proposition  that  all  low  value-adding  service  costs  incurred  in 
+supporting  the  business  of  MNE  group  members  should  be  allocated  to 
+those members. The basic benefits of using the simplified approach include: 
+(1)  reducing  the  compliance  effort  of  meeting  the  benefits  test  and  in 
+demonstrating arm’s length charges; (2) providing greater certainty for MNE 
+groups  that  the  price  charged  for  the  qualifying  activities  will  be  accepted 
+by  the  tax  administrations  that  have  adopted  the  simplified  approach  when 
+the conditions of the simplified approach mentioned in paragraph 7.45 have 
+been met; and (3) providing tax administrations with targeted documentation 
+enabling  efficient  review  of  compliance  risks.  An  MNE  group  electing 
+to  adopt  this  simplified  method  would  as  far  as  practicable  apply  it  on  a 
+consistent, group wide basis in all jurisdictions in which it operates.
+
+7.53.  Where a tax administration has not adopted the simplified approach, 
+and as a consequence the MNE group complies with the local requirements in 
+that jurisdiction, such compliance would not disqualify the MNE group from 
+the application of the simplified approach to other jurisdictions. In addition, 
+not all MNE groups are vertically integrated and may instead have regional 
+or divisional sub-groups with their own management and support structures. 
+Therefore,  MNE  groups  may  elect  to  adopt  the  simplified  method  at  the 
+level of a sub-holding company and apply it on a consistent basis across all 
+subsidiaries  of  that  sub-holding  company.  When  the  MNE  group  elects  for 
+and applies the simplified approach, charges for low value-adding intra-group 
+services that are or have been determined in conformity with the guidance 
+in this subsection are determined to be in accordance with the arm’s length 
+principle. A possible alternative approach for dealing with the issues discussed 
+in this subsection would be the use of cost contribution arrangements, co

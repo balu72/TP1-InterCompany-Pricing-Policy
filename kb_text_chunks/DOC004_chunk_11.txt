@@ -1,0 +1,72 @@
+NE Group 
+headquartered in Country A which is not filing a CbC report in Country A because its 
+revenues, while in excess of EUR 750 million, are below the threshold in Country A?  
+
+As set out in the Action 13 Report, the agreed threshold is EUR 750 million or a near equivalent amount 
+in  domestic currency as of January  2015.  Provided that the jurisdiction of the  UPE has implemented a 
+reporting threshold that is a near equivalent of EUR 750 million in domestic currency as it was at January 
+2015, an MNE Group that complies with this local threshold should not be exposed to local filing in any 
+other jurisdiction that is using a threshold denominated in a different currency.  
+
+There is no requirement for a jurisdiction using a threshold denominated other than in euros to periodically 
+revise this in order to reflect currency fluctuations. The appropriateness of the EUR 750 million threshold 
+(and near equivalent amounts in domestic currency as of January 2015) may be included in the review of 
+the CbC reporting minimum standard to occur in 2020. 
+
+Definition of total consolidated group revenue (April 2017; updated November 
+2017, February 2018)  
+
+2.1 For the purpose of determining whether an MNE Group is an Excluded MNE Group, 
+are extraordinary income and gains from investment activities included in total 
+consolidated group revenue?  
+
+In determining whether the total consolidated group revenue  of an MNE Group is less than 750 million 
+Euro (or near equivalent amount in local currency as of January 2015), all of the revenue that is (or would 
+be) reflected in the consolidated financial statements should be used. A jurisdiction where the UPE resides 
+is  allowed  to  require  inclusion  of  extraordinary  income  and  gains  from  investment  activities  in  total 
+consolidated group revenue if those items are presented in the consolidated financial statements under 
+applicable accounting rules. 
+
+For financial entities, which may not record gross amounts from transactions in their financial statements 
+with respect to certain items, the item(s) considered similar to revenue under the applicable accounting 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+24 |   
+
+rules should be used in the context of financial activities. Those items could be labelled as ‘net banking 
+product’, ‘net revenues’ or others depending on accounting rules. For example, if the income or gains from 
+a  financial  transaction,  such  as  an  interest  rate  swap,  is  appropriately  reported  on  a  net  basis  under 
+applicable accounting rules, the term ‘revenue’ means the net amount from the transaction.  
+
+An MNE Group that complies with the rules of the jurisdiction of the UPE or the SPE on the calculation of 
+consolidated group revenue for purposes of determining its CbC filing obligations, should not be exposed 
+to local filing in any other jurisdiction provided the rules of the jurisdiction where the UPE/SPE is resident 
+for  tax  purposes  are  consistent  with  the  Action  13  minimum  standard,  as  supplemented  by  the 
+implementation guidance. 
+
+2.2 To calculate total consolidated group revenue under Article 1.3 of the Model 
+Legislation, can an MNE Group which does not have equity interests traded on a public 
+securities exchange use consolidated financial statements based on accounting 
+principles/standards different from those that are used to determine the existence of and 
+membership of a group under Article 1.1 of the Model Legislation?  
+
+An  MNE  Group  which  is  not  required  to  prepare  Consolidated  Financial  Statements  in  its  residence 
+jurisdiction,  for  example  because  it  does  not  have  its  equity  interests  traded  on  a  public  securities 
+exchange, may still prepare Consolidated Financial Statements. These may be, for example, for use by 
+investors  and  lenders.  In  some  cases,  these  may  be  prepared  using  generally  accepted  accounting 
+principles  other  than  those  that  must  be  used  for  the  purposes  of  determining  the  existence  and 
+membership of a group under Article 1.1. of the Model Legislation. In these cases, the MNE Group is still 
+required  to  calculate  total  consolidated  group  revenue  for  the  purposes  of  Article  1.3  based  on  the 
+accounting standards to be used for identifying a group under Article 1.1. 
+
+Short accounting periods / long accounting periods (September 2017, November 
+2017, November 2019, October 2022)  
+
+3.1 Is transitional relief available for MNE Groups with a short accounting period that 
+starts on or after 1 January 2016 and that ends before 31 December 2016?  
+
+As  a  transitional  measure,  jurisdictions  may  allow  the  Reporting  Entity  of  an  MNE  Group  with  a  short 
+accounting period beginning on or after 1 January 2016 and ending before 31 December 2016 to file the 
+required CbC report in accordance with the same timelines as for MNE Groups with a fis

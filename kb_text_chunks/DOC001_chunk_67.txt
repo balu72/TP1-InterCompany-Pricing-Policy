@@ -1,0 +1,80 @@
+ut  making  adjustments  for  such 
+differences.  The  extent  and  reliability  of  those  adjustments  will  affect  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 119
+
+relative reliability of the analysis under the transactional net margin method. 
+See discussion of comparability adjustments in paragraphs 3.47-3.54.
+2.81.  Another important aspect of comparability is measurement consistency. 
+The  net  profit  indicators  must  be  measured  consistently  between  the 
+associated enterprise and the independent enterprise. In addition, there may 
+be differences in the treatment across enterprises of operating expenses and 
+non-operating  expenses  affecting  the  net  profits  such  as  depreciation  and 
+reserves or provisions that would need to be accounted for in order to achieve 
+reliable comparability.
+
+B.3.2. Selection of the net profit indicator
+2.82. 
+In  applying  the  transactional  net  margin  method,  the  selection 
+of  the  most  appropriate  net  profit  indicator  should  follow  the  guidance  in 
+paragraphs  2.2  and  2.8  in  relation  to  the  selection  of  the  most  appropriate 
+method to the circumstances of the case. It should take account of the respective 
+strengths and weaknesses of the various possible indicators; the appropriateness 
+of the indicator considered in view of the nature of the controlled transaction, 
+determined  in  particular  through  a  functional  analysis;  the  availability  of 
+reliable  information  (in  particular  on  uncontrolled  comparables)  needed  to 
+apply  the  transactional  net  margin  method  based  on  that  indicator;  and  the 
+degree  of  comparability  between  controlled  and  uncontrolled  transactions, 
+including  the  reliability  of  comparability  adjustments  that  may  be  needed 
+to  eliminate  differences  between  them,  when  applying  the  transactional  net 
+margin method based on that indicator. These factors are discussed below in 
+relation to both the determination of the net profit and its weighting.
+
+B.3.3. Determination of the net profit
+2.83.  As a matter of principle, only those items that (a) directly or indirectly 
+relate to the controlled transaction at hand and (b) are of an operating nature 
+should be taken into account in the determination of the net profit indicator 
+for the application of the transactional net margin method.
+2.84.  Costs and revenues that are not related to the controlled transaction 
+under review should be excluded where they materially affect comparability 
+with  uncontrolled  transactions.  An  appropriate  level  of  segmentation  of 
+the taxpayer’s financial data is needed when determining or testing the net 
+profit  it  earns  from  a  controlled  transaction  (or  from  transactions  that  are 
+appropriately aggregated according to the guidance in paragraphs 3.9-3.12). 
+Therefore,  it  would  be  inappropriate  to  apply  the  transactional  net  margin 
+method  on  a  company-wide  basis  if  the  company  engages  in  a  variety  of 
+different controlled transactions that cannot be appropriately compared on an 
+aggregate basis with those of an independent enterprise.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+120 – CHAPTER II: TRANSFER PRICING METHODS
+
+2.85.  Similarly, when analysing the transactions between the independent 
+enterprises to the extent they are needed, profits attributable to transactions 
+that are not similar to the controlled transactions under examination should 
+be excluded from the comparison. Finally, when net profit indicators of an 
+independent enterprise are used, the profits attributable to the transactions of 
+the independent enterprise must not be distorted by controlled transactions 
+of that enterprise. See paragraphs 3.9-3.12 on the evaluation of a taxpayer’s 
+separate and combined transactions and paragraph 3.37 on the use of non-
+transactional third party data.
+
+2.86.  Non-operating  items  such  as  interest  income  and  expenses  and 
+income  taxes  should  be  excluded  from  the  determination  of  the  net  profit 
+indicator.  Exceptional  and  extraordinary  items  of  a  non-recurring  nature 
+should  generally  also  be  excluded.  This  however  is  not  always  the  case 
+as  there  may  be  situations  where  it  would  be  appropriate  to  include  them, 
+depending  on  the  circumstances  of  the  case  and  on  the  functions  being 
+undertaken and risks assumed by the tested party. Even where exceptional 
+and extraordinary items are not taken into account in the determination of the 
+net profit indicator, it may be useful to review them because they can provide 
+valuable information for the purpose of comparability analysis (for instance 
+by reflecting that the tested party bears a given risk).
+
+2.87. 
+In those cases where there is a correlation between the credit terms 
+and  the  sales  prices,  it  could  be  appropriate  to  reflect  interest  income  in 
+respect  of  short-term  

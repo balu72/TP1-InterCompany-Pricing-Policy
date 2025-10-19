@@ -1,0 +1,73 @@
+ared assumption of economically significant 
+risks by all parties (or the separate assumption of closely related economically 
+significant risks), the flexibility of the transactional profit split method can 
+allow for the determination of arm’s length profits for each party that vary 
+with the actual outcomes of the risks associated with the transaction.
+
+2.122.  A further strength of the transactional profit split method is that all 
+relevant parties to the transaction are directly evaluated as part of the pricing 
+of the transaction, that is, the contributions of each party to the transaction are 
+specifically identified and their relative values measured in order to determine 
+an arm’s length compensation for each party in relation to the transaction.
+
+2.123.  A weakness of the transactional profit split method relates to difficulties 
+in  its  application.  On  first  review,  the  transactional  profit  split  method  may 
+appear  readily  accessible  to  both  taxpayers  and  tax  administrations  because 
+it  tends  to  rely  less  on  information  about  independent  enterprises.  However, 
+associated  enterprises  and  tax  administrations  alike  may  have  difficulty 
+accessing the detailed information required to apply a transactional profit split 
+method reliably. It may be difficult to measure the relevant revenue and costs 
+for  all  the  associated  enterprises  participating  in  the  controlled  transactions, 
+which  could  require  stating  books  and  records  on  a  common  basis  and 
+making adjustments in accounting practices and currencies. Further, when the 
+transactional profit split method is applied to operating profit, it may be difficult 
+to identify the appropriate operating expenses associated with the transactions 
+and to allocate costs between the transactions and the associated enterprises’ 
+other activities. Identifying the appropriate profit splitting factors can also be 
+challenging.  Given  the  necessity  of  applying  judgement  in  determining  each 
+of the parameters for the application of the transactional profit split method, it 
+will be particularly important to document how the method has been applied, 
+including the determination of the relevant profits to be split, and how the profit 
+splitting factors were arrived at. See Sections C.4 and C.5.
+
+2.124.  It is sometimes argued that a transactional profit split method is rarely 
+used  among  independent  enterprises,  and  thus  its  application  in  controlled 
+transactions  should  be  similarly  rare.  Where  such  a  method  is  determined 
+to be the most appropriate, this should not be a factor since transfer pricing 
+methods  are  not  necessarily  intended  to  replicate  arm’s  length  behaviour, 
+but rather to serve as a means of establishing and/or verifying arm’s length 
+outcomes for controlled transactions. That said, where there is evidence that 
+independent  parties  in  comparable  transactions  apply  a  profit  split  method 
+among  themselves,  such  evidence  should  be  considered  in  determining 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 131
+
+whether a transactional profit split method is the most appropriate method for 
+the controlled transactions. See paragraph 2.129.
+
+C.2.2. Nature of the accurately delineated transaction
+
+2.125.  The accurate delineation of the actual transaction will be important 
+in  determining  whether  a  transactional  profit  split  is  potentially  applicable. 
+This  process  should  have  regard  to  the  commercial  and  financial  relations 
+between the associated enterprises, including an analysis of what each party 
+to the transaction does, and the context in which the controlled transactions 
+take place. That is, the accurate delineation of a transaction requires a two-
+sided analysis (or a multi-sided analysis of the contributions of more than two 
+associated enterprises, where necessary) irrespective of which transfer pricing 
+method is ultimately found to be the most appropriate. (See Section D.1, and in 
+particularly Section D.1.2 of Chapter I of these Guidelines.)
+
+2.126.  The existence of unique and valuable contributions by each party to 
+the controlled transaction is perhaps the clearest indicator that a transactional 
+profit split may be appropriate. The context of the transaction, including the 
+industry in which it occurs and the factors affecting business performance in 
+that sector can be particularly relevant to evaluating the contributions of the 
+parties and whether such contributions are unique and valuable. Depending 
+on the facts of the case, other indicators that the transactional profit split may 
+be the most appropriate method could include a high level of integration in 
+the  business  operations  to  which  the  transactions  relate  and  /or  the  shared 
+assumption  of  economically  significant  risks  (or  the  separate  assumption 
+of closely related economically significant risks)

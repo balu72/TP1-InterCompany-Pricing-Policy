@@ -1,0 +1,79 @@
+comparing both situations 
+to examine, based on the guidance in Section D.1.2.1 of Chapter I, whether 
+the “limited risk distributor” that results from a conversion still assumes the 
+risks associated with bad debts that arose before the restructuring at the time 
+it  was  full-fledged,  or  whether  all  the  bad  debt  risks  including  those  that 
+existed at the time of the conversion were transferred.
+
+9.107.  The same remarks and questions apply for other types of restructurings, 
+including  other  types  of  restructuring  of  sales  activities  as  well  as 
+restructurings of manufacturing activities, research and development activities, 
+or other services activities.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+394 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+B.  Application to business restructuring situations: selection and 
+
+application of a transfer pricing method for the post-restructuring 
+controlled transactions
+
+9.108.  The  selection  and  application  of  a  transfer  pricing  method  to  post-
+restructuring  controlled  transactions  must  derive  from  the  analysis  of 
+the  economically  relevant  characteristics  of  the  controlled  transaction  as 
+accurately delineated. It is essential to understand what the functions, assets 
+and risks involved in the post-restructuring transactions are, and what party 
+performs,  uses  or  assumes  them.  This  requires  information  to  be  available 
+on  the  functions,  assets  and  risks  of  both  parties  to  a  transaction,  e.g.  the 
+restructured entity and the foreign associated enterprise with which it transacts. 
+The analysis should go beyond the label assigned to the restructured entity, as 
+an entity that is labelled as a “commissionnaire” or “limited risk distributor” 
+can sometimes be found to own valuable local intangibles and to continue to 
+assume significant market risks, and an entity that is labelled as a “contract 
+manufacturer”  can  sometimes  be  found  to  pursue  significant  development 
+activities or to own and use unique intangibles. In post-restructuring situations, 
+particular  attention  should  be  paid  to  the  identification  of  the  valuable 
+intangibles  and  the  economically  significant  risks  that  effectively  remain 
+with the restructured entity (including, where applicable, local non-protected 
+intangibles),  and  to  whether  such  an  allocation  of  intangibles  and  risks 
+satisfies the arm’s length principle. The form of remuneration cannot dictate 
+inappropriate risk allocations. It is the determination of how the parties actually 
+control risks, and whether they have the financial capacity to assume the risks, 
+as set out in the process of analysing risk in Chapter I, which will determine the 
+assumption of risks by the parties, and consequently dictate the selection of the 
+most appropriate transfer pricing method. Issues regarding risks and intangibles 
+are discussed in Part I of this chapter.
+
+9.109.  Post-restructuring  arrangements  may  pose  certain  challenges  with 
+respect  to  the  identification  of  potential  comparables  in  cases  where  the 
+restructuring  implements  a  business  model  that  is  hardly  found  between 
+independent  enterprises.  It  should  be  noted  that  the  mere  fact  that  an 
+arrangement is not seen between independent enterprises does not in itself 
+mean  that  it  is  not  arm’s  length  nor  commercially  irrational.  Furthermore, 
+every effort should be made to determine the pricing for the restructuring 
+transactions as accurately delineated under the arm’s length principle.
+
+9.110.  There are cases where comparables (including internal comparables) 
+are available, subject to possible comparability adjustments being performed. 
+One  example  of  a  possible  application  of  the  CUP  method  would  be  the 
+case where an enterprise that used to transact independently with the MNE 
+group is acquired, and the acquisition is followed by a restructuring of the 
+now  controlled  transactions.  Subject  to  a  review  of  the  five  economically 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 395
+
+relevant characteristics or comparability factors and of the possible effect of 
+the controlled and uncontrolled transactions taking place at different times, 
+it might be the case that the conditions of the pre-acquisition uncontrolled 
+transactions provide a CUP for the post-acquisition controlled transactions. 
+Even where the conditions of the transactions are restructured, it might still 
+be possible, depending on the facts and circumstances of the case, to adjust 
+for  the  transfer  of  functions,  assets  and/or  risks  that  occurred  upon  the 
+restructuring. For instance, a comparability adjustment might be performed 
+to account for the fact that a different party assumes bad debt risk.
+
+9.111.  Another example of a possible application of the CUP method would 
+be the case where independent parties provide ma

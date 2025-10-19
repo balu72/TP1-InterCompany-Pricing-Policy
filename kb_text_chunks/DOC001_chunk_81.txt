@@ -1,0 +1,86 @@
+arties  may 
+have  integrated  or  joint  functions  and  assets  relating  to  the  production 
+or  acquisition  of  goods  and  services.  If  the  accurate  delineation  of  the 
+transaction determines that the parties share the assumption of, in addition 
+to market and production risks, a further range of risks that affect the level 
+of operating expenses that may include investment in intangibles, it would 
+be most appropriate to use operating profits as the basis of the split. In this 
+scenario,  the  parties  may  have  integrated  or  joint  functions  relating  to  the 
+entire value chain.
+
+2.164.  For example, two associated enterprises, each with its own manufacturing 
+specialisation  and  unique  and  valuable  intangibles,  agree  to  contribute  the 
+intangibles to produce innovative, complex products. The accurate delineation 
+of  the transaction determines that the enterprises in this example  share the 
+assumption of risks associated with the success or otherwise of the products in 
+the marketplace. However, they do not share the assumption of risks associated 
+with their selling and other expenses, which are largely unintegrated. Using 
+a profit split based on combined operating profits after all expenses of both 
+parties would have the potential result of sharing the consequences of risks 
+that are assumed by only one of the parties. In such cases, a splitting of gross 
+profits may be more appropriate and reliable since this level of profits captures 
+the outcomes of market and production activities that the parties share together 
+with the assumption of associated risks. Similarly, in the case of associated 
+enterprises that engage in highly integrated worldwide trading operations, if 
+the accurate delineation of the actual transaction determines that the shared 
+assumption of risks and level of integration does not extend to operating costs, 
+it may be appropriate to split the gross profits from each trading activity, and 
+then deduct from the resulting share of the overall gross profits allocated to 
+each enterprise its own operating expenses incurred.
+
+2.165.  Example 14 in Annex II to Chapter II illustrates the principles of this 
+section.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+142 – CHAPTER II: TRANSFER PRICING METHODS
+
+C.5.  Splitting the profits
+
+2.166.  Profits should be split on an economically valid basis that reflects the 
+relative contributions of the parties to the transaction and thus approximates 
+the  division  of  profits  that  would  have  obtained  at  arm’s  length.  The 
+relevance of comparable uncontrolled transactions or internal data (see Sec-
+tion C.5.2) and the criteria used to achieve an arm’s length division of the 
+profits depend on the facts and circumstances of the case. It is therefore not 
+desirable to establish a prescriptive list of criteria or profit splitting factors. 
+See paragraphs 2.146-2.148 for general guidance on the consistency of the 
+determination  of  the  splitting  factors.  In  addition,  the  criteria  or  splitting 
+factors used to split the profit should be:
+
+• 
+
+• 
+
+• 
+
+independent of transfer pricing policy formulation, i.e. they should 
+be based on objective data (e.g. sales to independent parties), not on 
+data relating to the remuneration of controlled transactions (e.g. sales 
+to associated enterprises),
+
+verifiable, and
+
+supported by comparables data, internal data, or both.
+
+2.167.  One  possible  approach  is  to  split  the  relevant  profits  based  on  the 
+division  of  profits  that  actually  is  observed  in  comparable  uncontrolled 
+transactions.  Examples  of  possible  sources  of  information  on  uncontrolled 
+transactions that might usefully assist the determination of criteria to split 
+the  profits,  depending  on  the  facts  and  circumstances  of  the  case,  include 
+joint-venture  arrangements  between  independent  parties  under  which 
+profits are shared, such as development projects in the oil and gas industry; 
+pharmaceutical  collaborations,  co-marketing  or  co-promotion  agreements; 
+arrangements  between  independent  music  record  labels  and  music  artists; 
+uncontrolled arrangements in the financial services sector, etc.
+
+2.168.  However, it can be difficult to find reliable comparables data that can 
+be used in this manner. Nevertheless, external market data can be relevant 
+in  the  profit  split  analysis  to  assess  the  value  of  contributions  that  each 
+associated  enterprise  makes  to  the  transactions.  In  effect,  the  assumption 
+is  that  independent  parties  would  have  split  relevant  profits  in  proportion 
+to  the  value  of  their  respective  contributions  to  the  generation  of  profit 
+in  the  transaction.  Thus,  where  there  is  no  more  direct  evidence  of  how 
+independent parties in comparable circumstances would have split the profit 
+in  comparable  transactions,  the  allocation  of  profits  may  be  based  on  the 
+relative contribution

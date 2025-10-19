@@ -1,0 +1,102 @@
+plified approach in cases where the 
+threshold is exceeded. Such a threshold might, for example, be based on fixed 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VII: INTRA-GROUP SERVICES – 335
+
+financial ratios of the recipient party (e.g. proportion of intra-group services 
+costs  to  total  costs  or  turnover  or  pre-intra-group  service  charge  profit)  or 
+be  determined  by  reference  to  a  group-wide  ratio  of  total  service  costs  to 
+turnover  of  the  MNE  group  or  some  other  appropriate  measure.  Where 
+such a threshold is adopted, the tax administration would not be obliged to 
+accept the simplified approach if the level of low-value-adding intra-group 
+service fees exceeds the threshold and may require a full functional analysis 
+and  comparability  analysis  including  the  application  of  the  benefits  test  to 
+specific service charges.
+
+D.3. Documentation and reporting
+
+7.64.  An MNE group electing for application of this simplified methodology 
+shall  prepare  the  following  information  and  documentation  and  make  it 
+available  upon  request  to  the  tax  administration  of  any  entity  within  the 
+group either making or receiving a payment for low value-adding intra-group 
+services.
+
+•  A  description  of  the  categories  of  low  value-adding  intra-group 
+services  provided;  the  identity  of  the  beneficiaries;  the  reasons 
+justifying that each category of services constitute low value-adding 
+intra-group  services  within  the  definition  set  out  in  Section  D.1; 
+the rationale for the provision of services within the context of the 
+business  of  the  MNE;  a  description  of  the  benefits  or  expected 
+benefits  of  each  category  of  services;  a  description  of  the  selected 
+allocation keys and the reasons justifying that such allocation keys 
+produce outcomes that reasonably reflect the benefits received, and 
+confirmation of the mark-up applied;
+
+•  Written  contracts  or  agreements  for  the  provision  of  services  and 
+any modifications to those contracts and agreements reflecting the 
+agreement of the various members of the group to be bound by the 
+allocation rules of this section. Such written contracts or agreements 
+could  take  the  form  of  a  contemporaneous  document  identifying 
+the entities involved, the nature of the services, and the terms and 
+conditions under which the services are provided;
+
+•  Documentation  and  calculations  showing  the  determination  of  the 
+cost pool as described in Section D.2.2, and of the mark-up applied 
+thereon, in particular a detailed listing of all categories and amounts 
+of relevant costs, including costs of any services provided solely to 
+one group member;
+
+•  Calculations showing the application of the specified allocation keys.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+336 – CHAPTER VII: INTRA-GROUP SERVICES
+
+D.4.  Levying of withholding tax on charges for low value-adding 
+
+intra-group services
+
+7.65.  The  levying  of  withholding  taxes  on  the  provision  of  low  value-
+adding intra-group services can prevent the service provider recovering the 
+totality of the costs incurred for rendering the services. When a profit element 
+or  mark-up  is  included  in  the  charge  of  the  services,  tax  administrations 
+levying withholding tax are encouraged to apply it only to the amount of that 
+profit element or mark-up.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS – 337
+
+Chapter VIII 
+
+Cost contribution arrangements
+
+A. Introduction
+
+This  chapter  discusses  cost  contribution  arrangements  (CCAs) 
+8.1. 
+between two or more associated enterprises. The purpose of the chapter is 
+to  provide  some  general  guidance  for  determining  whether  the  conditions 
+established by associated enterprises for transactions covered by a CCA are 
+consistent  with  the  arm’s  length  principle.  The  analysis  of  the  structure  of 
+such arrangements should be informed by the provisions of this chapter and 
+other  provisions  of  these  Guidelines  and  should  be  based  on  an  adequate 
+documentation of the arrangement.
+
+Section B provides a general definition and overview of the concept 
+8.2. 
+of  CCAs,  and  Section  C  gives  guidance  as  to  the  application  of  the 
+arm’s  length  principle  to  CCAs.  Section  C  includes  guidance  on  how  to 
+measure  contributions  to  a  CCA,  whether  balancing  payments  are  needed 
+(i.e.  payments  between  participants  to  adjust  their  proportionate  shares  of 
+contributions), and guidance on how contributions and balancing payments 
+should  be  treated  for  tax  purposes.  It  also  addresses  the  determination  of 
+participants  in  the  CCA  and  issues  related  to  the  entry  or  withdrawal  of 
+participants,  and  the  termination  of  CCAs.  Finally,  Section  D  discusses 
+suggestions for structuring and documenting CCAs.
+
+B. Concept of a CCA
+
+B.1. In general

@@ -1,0 +1,129 @@
+onal-taxation\u002ftransfer-pricing.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Income Tax Department", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle\u002520Library\u002fen-us\u002fimages\u002fdit\u002flogo.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2025-10-19T04:47:38.1249040Z") - new Date(), updateFormDigestPageLoaded: new Date("2025-10-19T04:47:38.1249040Z"), siteClientTag: "1807$$16.0.5513.1001", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:200769},pageListId:"{5d5a1cf6-fa5e-49b7-aa9b-bf6d76dfeca1}",pageItemId:243, pagePersonalizationScope:1, alertsEnabled:false, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};//]]>
+ 
+
+ 
+ 
+//<![CDATA[
+document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69472768,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
+{
+    if(typeof(window.SP) == "undefined") window.SP = {};
+    if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
+
+    var ysObj = window.SP.YammerSwitch;
+    ysObj.IsEnabled = false;
+    ysObj.TargetYammerHostName = "www.yammer.com";
+} )(); var _spWebPartComponents = new Object();//]]>
+ 
+
+ 
+ 
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+ 
+
+ 
+ 
+ 
+            
+
+            
+
+             
+                
+ Sign In 
+
+             
+
+             
+                 
+                     
+                    
+
+ 
+    function ToggleLanguage(lang) {
+        var url = _spPageContextInfo.serverRequestPath;
+        if (_spPageContextInfo.webLanguage == '1033') {
+            if (lang == 'H') {
+                url = '/hindi' + url;
+            }
+        }
+        if (_spPageContextInfo.webLanguage == '1081') {
+
+            if (lang == 'E') {
+                url = url.replace('/hindi', '');
+            }
+        }
+        window.open(url, '_self');
+    }
+
+    function OpenHome() {
+        var baseurl = '';
+        var currentURL = window.location.href;
+        var authURL = 'https://incometaxindia.gov.in'
+        if (currentURL.toLowerCase().indexOf(authURL.toLowerCase()) < 0) {
+            baseurl = 'https://incometaxindia.gov.in';
+        }
+        else {
+            baseurl = authURL;
+        }
+
+        var contextUrl = _spPageContextInfo.siteServerRelativeUrl;
+        if (contextUrl.toLowerCase().indexOf('/hindi') < 0) {
+            contextUrl = baseurl + '/';
+        }
+        else {
+            contextUrl = baseurl + '/hindi';
+        }
+        window.open(contextUrl, '_self');
+    }
+
+    function OpenWindowByRelativeURL(baseType, relativeURL, isNew) {
+        var baseurl = '';
+        var currentURL = window.location.href;
+        var contextUrl = _spPageContextInfo.siteServerRelativeUrl;
+        if (contextUrl.toLowerCase().indexOf('/hindi') < 0) {
+            contextUrl = '';
+        }
+
+        switch (baseType) {
+            case "A":
+                baseurl = 'https://incometaxindia.gov.in';
+                break;
+            case "C":
+                baseurl = _spPageContextInfo.webAbsoluteUrl;
+                contextUrl = '';
+                break;
+            case "K":
+                baseurl = 'https://kms.incometaxindia.gov.in';
+                break;
+            case "S":
+                baseurl = 'http://search.incometaxindia.gov.in/pages';
+                baseurl += relativeURL;
+                contextUrl = '';
+                relativeURL = '';
+                break;
+            case "O":
+                baseurl = 'https://office.incometaxindia.gov.in';
+                if (relativeURL.toLowerCase().indexOf('login.aspx') >= 0) {
+                    relativeURL += '?ReturnUrl=' + escape(_spPageContextInfo.serverRequestPath);
+                }
+                break;
+            case "L":
+                var authURL = 'https://incometaxindia.gov.in'
+    

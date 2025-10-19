@@ -1,0 +1,136 @@
+ies, 
+
+number  of  employees  in  the  group;
+
+l  major historical events like global mergers or acquisitions, 
+
+if  any;
+
+l  a  snapshot  of  the  key  financial  numbers; 
+
+l  description  of  transactions  entered  into  with  AE;  and
+
+l  awards  and  recognitions  etc.
+
+1.4.2.6  BUSINESS  OVERVIEW  OF  THE  TAXPAYER:  The  documentation 
+should also include a brief description of the business of the Indian 
+company  with  respect  to  the  year  under  review.
+
+I-108
+
+Transfer Pricing – A Compendium 
+ 
+ 
+ 
+ 
+ 
+ 
+Transfer Pricing Documentation and its Critical Importance in Practice
+
+1.4.2.7  The  different  aspects  which  can  be  included  are  as  under:
+
+l  the  historical  background  of  the  company’s  operations 
+like date of incorporation, significant events like mergers 
+and  acquisitions  etc.;
+
+l  organization  structure  –a  high  level  diagrammatic 
+
+representation  would  be  advisable;
+
+l  business  activities  carried  out  by    the    Indian    entity  i.e., 
+whether it is a manufacturer, trader, or a services provider;
+
+l  products  and  services  offered  by  the  taxpayer  and  the 
+
+industry  in  which  such  products  are  used;
+
+l  the  geographical  presence  of  the  entity;
+
+l  manufacturing  facilities;
+
+l  number  of  employees;
+
+l  research and development (R&D) activity, if any, carried 
+
+out  by  the  company;
+
+l  key  customers;
+
+l  any key event during the year under consideration which 
+
+would  have  impacted  the  business  as  a  whole;  and
+
+l  the industry in which the goods manufactured/distributed, 
+service provided by the taxpayer is consumed, can also be 
+mentioned  to  establish  the  dependence  of  the  taxpayer’s 
+business  on  any  particular  industry.
+
+1.4.3 
+
+Industry  Analysis 
+
+1.4.3.1  REQUIREMENT:  Rule  10D(1)(c)  requires  a  taxpayer  to 
+prepare  an  overview  of  the  industry  in  which  the  entity  operates. 
+The  industry  overview  should  be  drawn  from  relevant  industry 
+associations or other authentic sources and should more specifically 
+discuss  conditions  prevailing  in  the  market  during  the  year  under 
+consideration  both  from  a  global  as  well  as  domestic  perspective. 
+
+1.4.3.2  For  instance,  recently  the  outburst  of  novel  corona  virus 
+(COVID-19),  has  not  only  impacted  day  to  day  lives  but  also  led 
+to  shutting  down  business  due  to  nationwide  lockdown.  Some 
+
+I-109
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+industries  were  operating  under  essential  services,  therefore  were 
+not  impacted  much  by  the  pandemic.  However,  for  majority  of 
+industries, business was shut for few months. The pandemic changed 
+ways of doing business wherein business had to incur various cost 
+to go the digital way. The pandemic impacted top line/bottom line 
+of various businesses whereas the fixed cost remained at Pre-Covid 
+level. In case of some industries, the cost savings due to work from 
+home  nullified  the  impact  of  Covid  on  the  bottom  line. 
+
+1.4.3.3  Such  events  which  are  correlated  to  industry,  economic 
+situation  in  particular,  are  required  to  be  taken  into  consideration 
+while documenting the industry overview. Appropriate documentation 
+of  industry  overview  will  help  to  justify  the  potential  impact  on 
+the  arm’s  length  analysis.
+
+1.4.3.4  OBJECTIVITY: The industry overview should be objective and 
+should bring out the nuances affecting the players in the taxpayer’s 
+business.  The  same  should  also  discuss  the  value  drivers  of  the 
+taxpayer’s industry which enables one to understand the criticality 
+of  the  functions  performed  by  the  taxpayer  and  the  AEs  in  the 
+scheme  of  overall  business  operations.
+
+1.4.3.5  DETAILS TO BE COVERED: Further, certain industries are highly 
+regulated,  in  which  case  the  relevant  regulatory  framework  and 
+its  impact  on  the  pricing  of  the  international  transaction,  if  any, 
+should  also  be  discussed.  In  case  there  are  certain  critical  factors 
+which distinguish the taxpayer from the industry at large, the same 
+could form the basis of making appropriate economic adjustments 
+while carrying out the benchmarking analysis and hence, should be 
+highlighted. For example, in case the taxpayer is a new entrant in the 
+industry as compared to other established players operating in the 
+industry,  the  said  fact  can  be  used  to  demonstrate  that  the  results 
+of  the  taxpayer  would  be  impacted  by  such  difference  and  could 
+form the basis for appropriate economic adjustments on account of 
+being  a  new  entrant  in  the  industry.  The  industry  overview  may 
+also include a list of the taxpayer’s competitors. Further, a link can 
+also be drawn to the comparables selected while benchmarking the 
+international  transactions  of  the  taxpayer.
+
+1.4.3.6  SOURCE:  The  industry  overview  can  be  sourced  from  both 
+internal and external sources. The internal source could be taxpay

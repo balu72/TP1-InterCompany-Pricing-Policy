@@ -1,0 +1,86 @@
+nancial capacity to assume the risks, such risks should be allocated to the 
+enterprise  exercising  control  and  having  the  financial  capacity  to  assume 
+the risk (see paragraph 1.98 of Chapter I). For instance, consider a situation 
+where  Company  A  advances  funds  to  Company  B.  Consider  further  that 
+the accurate delineation of the actual transaction indicates that Company A 
+does not exercise control functions related to the advance of funds but that 
+Company  P,  the  parent  company  of  the  MNE  group,  is  exercising  control 
+over those risks, and has the financial capacity to assume such risks. Under 
+Chapter  I  analysis,  Company  P  will  bear  the  consequences  of  the  playing 
+out of such risks and Company A will be entitled to no more than a risk-free 
+return (see Section D.1.2.1 in Chapter I).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 409
+
+10.26.  From the perspective of the borrower, the relevant functions would 
+usually  refer  to  ensuring  the  availability  of  funds  to  repay  the  principal 
+and  the  interest  on  the  loan  in  due  time;  providing  collateral,  if  needed; 
+and  monitoring  and  fulfilling  any  other  obligation  derived  from  the  loan 
+contract (see comments upon “The lender’s and borrower’s perspectives” in 
+Section C.1.1.1 of this chapter).
+
+10.27.  In  some  instances,  the  functions  of  the  lender  and  the  borrower 
+may be undertaken by the same entity in different transactions. That could 
+be the case, for example, of centralised treasury activities within an MNE 
+group where the treasury entity raises and provides funds to other members 
+of  the  MNE  group.  In  those  circumstances,  the  functional  analysis  should 
+consider the applicability of the guidance in Section C of this chapter, and, in 
+particular, paragraphs 10.44 and 10.45.
+
+B.3.3. Characteristics of financial instruments
+
+10.28.  There is a wide variety of financial instruments in the open market 
+that  present  very  different  features  and  attributes,  which  may  affect  the 
+pricing of those products or services. Consequently, when pricing controlled 
+transactions,  it  is  important  to  document  the  transactions’  features  and 
+attributes.
+
+10.29.  For instance in the case of a loan, those characteristics may include 
+but are not limited to: the amount of the loan; its maturity; the schedule of 
+repayment; the nature or purpose of the loan (trade credit, merger/acquisition, 
+mortgage,  etc.);  level  of  seniority  and  subordination,  geographical  location 
+of the borrower; currency; collateral provided; presence and quality of any 
+guarantee; and whether the interest rate is fixed or floating.
+
+B.3.4. Economic circumstances
+
+10.30.  To  achieve  comparability  requires  that  the  markets  in  which  the 
+independent and associated enterprises operate do not have differences that 
+have a material effect on price or that appropriate adjustments can be made.
+
+10.31.  The  prices  of  financial  instruments  may  vary  substantially  on  the 
+basis  of  underlying  economic  circumstances,  for  example,  across  different 
+currencies, geographic locations, local regulations, the business sector of the 
+borrower and the timing of the transaction.
+
+10.32.  Macroeconomic trends such as central bank lending rates or interbank 
+reference  rates,  and  financial  market  events  like  a  credit  crisis,  can  affect 
+prices. In this regard, the precise timing of the issue of a financial instrument in 
+the primary market or the selection of comparable data in the secondary market 
+can  therefore  be  very  significant  in  terms  of  comparability.  For  instance, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+410 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+it  is  not  likely  that  multiple  year  data  on  loan  issuances  will  provide  useful 
+comparables. The opposite is more likely to be true, i.e. that the closer in timing 
+a comparable loan issuance is to the issuance of the tested transaction, the less 
+the likelihood of different economic factors prevailing, notwithstanding that 
+particular events can cause rapid changes in lending markets.
+
+10.33.  Currency differences are another potentially important factor. Economic 
+factors  such  as  growth  rate,  inflation  rate,  and  the  volatility  of  exchange 
+rates,  mean  that  otherwise  similar  financial  instruments  issued  in  different 
+currencies  may  have  different  prices.  Moreover,  prices  for  financial 
+instruments  in  the  same  currency  may  vary  across  financial  markets  or 
+jurisdictions due to regulations such as interest rate controls, exchange rate 
+controls, foreign exchange restrictions and other legal and practical restrictions 
+on financial market access.
+
+B.3.5. Business strategies
+
+10.34.  Business strategies must also be examined in accurately delineating 
+the  actual  financial  transaction  and  in  determining  comparability

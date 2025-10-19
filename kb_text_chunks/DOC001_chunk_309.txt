@@ -1,0 +1,126 @@
+ant 
+services and transfer pricing policies for allocating services costs 
+and determining prices to be paid for intra-group services;
+-  A  description  of  the  main  geographic  markets  for  the  group’s 
+products and services that are referred to in the second bullet point 
+above;
+
+-  A  brief  written  functional  analysis  describing  the  principal 
+contributions to value creation by individual entities within the 
+group,  i.e.  key  functions  performed,  important  risks  assumed, 
+and important assets used;
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+544 – ANNEX I TO CHAPTER V: TRANSFER PRICING DOCUMENTATION – MASTER FILE
+
+-  A description of important business restructuring transactions, 
+acquisitions and divestitures occurring during the fiscal year.
+
+MNE group’s intangibles (as defined in Chapter VI of these Guidelines)
+
+•  A  general  description  of  the  MNE  group’s  overall  strategy  for  the 
+development,  ownership  and  exploitation  of  intangibles,  including 
+location of principal R&D facilities and location of R&D management.
+•  A list of intangibles or groups of intangibles of the MNE group that 
+are important for transfer pricing purposes and which entities legally 
+own them.
+
+•  A list of important agreements among identified associated enterprises 
+related to intangibles, including cost contribution arrangements, principal 
+research service agreements and licence agreements.
+
+•  A general description of the group’s transfer pricing policies related 
+
+to R&D and intangibles.
+
+•  A general description of any important transfers of interests in intangibles 
+among associated enterprises during the fiscal year concerned, including 
+the entities, jurisdictions, and compensation involved.
+
+MNE group’s intercompany financial activities
+
+•  A general description of how the MNE group is financed, including 
+
+important financing arrangements with unrelated lenders.
+
+•  The identification of any members of the MNE group that provide a 
+central  financing  function  for  the  group,  including  the  jurisdiction 
+under whose laws the entity is organised and the place of effective 
+management of such entities.
+
+•  A general description of the MNE group’s general transfer pricing 
+policies  related  to  financing  arrangements  between  associated 
+enterprises.
+
+MNE group’s financial and tax positions
+
+•  The  MNE  group’s  annual  consolidated  financial  statement  for  the 
+fiscal year concerned if otherwise prepared for financial reporting, 
+regulatory, internal management, tax or other purposes.
+
+•  A list and brief description of the MNE group’s existing unilateral 
+advance pricing agreements (APAs) and other tax rulings relating to 
+the allocation of income among jurisdictions.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER V: TRANSFER PRICING DOCUMENTATION – LOCAL FILE – 545
+
+Annex II to Chapter V 
+
+Transfer pricing documentation – Local file
+
+The following information should be included in the local file:
+
+Local entity
+
+•  A description of the management structure of the local entity, a local 
+organisation chart, and a description of the individuals to whom local 
+management reports and the jurisdiction(s) in which such individuals 
+maintain their principal offices.
+
+•  A detailed description of the business and business strategy pursued 
+by the local entity including an indication whether the local entity has 
+been involved in or affected by business restructurings or intangibles 
+transfers in the present or immediately past year and an explanation 
+of those aspects of such transactions affecting the local entity.
+
+•  Key competitors.
+
+Controlled transactions
+
+For each material category of controlled transactions in which the entity 
+
+is involved, provide the following information:
+
+•  A description of the material controlled transactions (e.g. procurement 
+of manufacturing services, purchase of goods, provision of services, 
+loans, financial and performance guarantees, licences of intangibles, 
+etc.) and the context in which such transactions take place.
+
+•  The amount of intra-group payments and receipts for each category 
+of  controlled  transactions  involving  the  local  entity  (i.e.  payments 
+and  receipts  for  products,  services,  royalties,  interest,  etc.)  broken 
+down by tax jurisdiction of the foreign payor or recipient.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+546 – ANNEX II TO CHAPTER V: TRANSFER PRICING DOCUMENTATION – LOCAL FILE
+
+•  An identification of associated enterprises involved in each category 
+
+of controlled transactions, and the relationship amongst them.
+
+•  Copies  of  all  material  intercompany  agreements  concluded  by  the 
+
+local entity.
+
+•  A  detailed  comparability  and  functional  analysis  of  the  taxpayer 
+and relevant associated enterprises with respect to each documented 
+category of controlled transactions, including any changes compared 
+to prior years.1
+
+•  An indication of the most appropriate

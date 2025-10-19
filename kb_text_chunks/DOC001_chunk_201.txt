@@ -1,0 +1,73 @@
+ection E).
+
+C.2. Determining participants
+
+8.14.  Because the concept of mutual benefit is fundamental to a CCA, it 
+follows that a party may not be considered a participant if the party does not 
+have a reasonable expectation that it will benefit from the objectives of the 
+CCA activity itself (and not just from performing part or all of the subject 
+activity), for example, from exploiting its interest or rights in the intangibles 
+or  tangible  assets,  or  from  the  use  of  the  services  produced  through  the 
+CCA.  A  participant  therefore  must  be  assigned  an  interest  or  rights  in  the 
+intangibles, tangible assets or services that are the subject of the CCA, and 
+have  a  reasonable  expectation  of  being  able  to  benefit  from  that  interest 
+or  those  rights.  An  enterprise  that  solely  performs  the  subject  activity,  for 
+example performing research functions, but does not receive an interest in 
+the output of the CCA, would not be considered a participant in the CCA but 
+rather a service provider to the CCA. As such, it should be compensated for 
+the services it provides on an arm’s length basis external to the CCA. See 
+paragraph 8.18. Similarly, a party would not be a participant in a CCA if it 
+is not capable of exploiting the output of the CCA in its own business in any 
+manner.
+
+8.15.  A  party  would  also  not  be  a  participant  in  a  CCA  if  it  does  not 
+exercise control over the specific risks it assumes under the CCA and does 
+not  have  the  financial  capacity  to  assume  these  risks,  as  this  party  would 
+not be entitled to a share in the output that is the objective of the CCA based 
+on  the  functions  it  actually  performs.  The  general  principles  set  out  in 
+Chapter I of these guidelines on the assumption of risks apply to situations 
+involving  CCAs.  Each  participant  makes  particular  contributions  to  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS – 343
+
+CCA  objectives,  and  contractually  assumes  certain  risks.  Guidance  under 
+Section D.1 of Chapter I on delineating the actual transaction will apply to 
+the transfer pricing analysis in relation to these risks. This also means that 
+a party assuming risks under a CCA based on an analysis under step 4(i) of 
+the framework for analysing risks in paragraph 1.60 (“assumes the risk under 
+the CCA”) must control the specific risks it assumes under the CCA and must 
+have the financial capacity to assume these risks. In particular, this implies 
+that a CCA participant must have (i) the capability to make decisions to take 
+on, lay off, or decline the risk-bearing opportunity presented by participating 
+in the CCA, and must actually perform that decision-making function and 
+(ii)  the  capability  to  make  decisions  on  whether  and  how  to  respond  to 
+the  risks  associated  with  the  opportunity,  and  must  actually  perform  that 
+decision-making function. While it is not necessary for the party to perform 
+day-to-day risk mitigation activities in relation to activities of the CCA, in 
+such cases, it must have the capability to determine the objectives of those 
+risk  mitigation  activities  to  be  performed  by  another  party,  to  decide  to 
+entrust  that  other  party  to  provide  the  risk  mitigation  functions,  to  assess 
+whether  the  objectives  are  being  adequately  met,  and,  where  necessary,  to 
+decide  to  adapt  or  terminate  the  arrangement,  and  must  actually  perform 
+such  assessment  and  decision-making.  In  accordance  with  the  principles 
+of  prudent  business  management,  the  extent  of  the  risks  involved  in  the 
+arrangement will determine the extent of capability and control required. The 
+guidance in paragraphs 6.60 to 6.64 is relevant for assessing whether a party 
+providing funding has the functional capability to exercise control over the 
+financial risk attached to its contributions to the CCA and whether it actually 
+performs these functions. See Examples 4 and 5 in the Annex to this chapter 
+for an illustration of this principle.
+
+8.16.  To  the  extent  that  specific  contributions  made  by  participants  to 
+a  CCA  are  different  in  nature,  e.g.  the  participants  perform  very  different 
+types  of  R&D  activities  or  one  of  the  parties  contributes  property  and 
+another  contributes  R&D  activities,  the  guidance  in  paragraph  6.64  is 
+equally applicable. This means that the higher the development risk attached 
+to  the  development  activities  performed  by  the  other  party  and  the  closer 
+the  risk  assumed  by  the  first  party  is  related  to  this  development  risk,  the 
+more the first party will need to have the capability to assess the progress 
+of the development of the intangible and the consequences of this progress 
+for  achieving  its  expected  benefits,  and  the  more  closely  this  party  may 
+need to link its actual decisio

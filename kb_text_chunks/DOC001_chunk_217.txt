@@ -1,0 +1,83 @@
+ansactions  that 
+are economically inter-related. It will generally be appropriate to look at the 
+commercial  rationality  of  a  restructuring  as  a  whole.  For  instance,  where 
+examining  a  sale  of  an  intangible  that  is  part  of  a  broader  restructuring 
+involving changes to the arrangements relating to the development and use of 
+the intangible, then the commercial rationality of the intangible sale should 
+not  be  examined  in  isolation  of  these  changes.  On  the  other  hand,  where 
+a  restructuring  involves  changes  to  more  than  one  element  or  aspect  of  a 
+business that are not economically inter-related, the commercial rationality 
+of particular changes may need to be separately considered. For example, a 
+restructuring  may  involve  centralising  a  group’s  purchasing  function  and 
+centralising the ownership of valuable intangible property unrelated to the 
+purchasing function. In such a case, the commercial rationality of centralising 
+the  purchasing  function  and  of  centralising  the  ownership  of  valuable 
+intangible property may need to be evaluated separately from one another.
+
+9.37.  There  can  be  group-level  business  reasons  for  an  MNE  group 
+to  restructure.  However,  it  is  worth  re-emphasising  that  the  arm’s  length 
+principle  treats  the  members  of  an  MNE  group  as  separate  entities  rather 
+than  as  inseparable  parts  of  a  single  unified  business  (see  paragraph  1.6). 
+As  a  consequence,  it  is  not  sufficient  from  a  transfer  pricing  perspective 
+that a restructuring arrangement makes commercial sense for the group as a 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 371
+
+whole: the arrangement must be arm’s length at the level of each individual 
+taxpayer, taking account of its rights and other assets, expected benefits from 
+the arrangement (i.e. any consideration of the post-restructuring arrangement 
+plus,  if  applicable,  any  compensation  payments  for  the  restructuring 
+itself),  and  realistically  available  options.  Where  a  restructuring  makes 
+commercial sense for the group as a whole on a pre-tax basis, it is expected 
+that  an  appropriate  transfer  price  (that  is,  any  compensation  for  the  post-
+restructuring arrangement plus, if applicable, any compensation payments for 
+the restructuring itself) would generally be available to provide arm’s length 
+compensation  for  each  accurately  delineated  transaction  comprising  the 
+business restructuring for each individual group member participating in it.
+
+9.38.  Under Article 9 of the OECD Model Tax Convention, the fact that a 
+business restructuring arrangement is motivated by a purpose of obtaining 
+tax  benefits  does  not  of  itself  warrant  a  conclusion  that  it  is  a  non-arm’s 
+length  arrangement.2  The  presence  of  a  tax  motive  or  purpose  does  not  of 
+itself  justify  non-recognition  of  the  parties’  characterisation  or  structuring 
+of the arrangement. However, tax benefits at a group level do not determine 
+whether the arm’s length principle is satisfied at the entity level for a taxpayer 
+affected by the restructuring (see previous paragraph). Moreover, as indicated 
+in paragraph 1.142, the fact that a MNE group as a whole is left worse off 
+on a pre-tax basis may be a relevant pointer in determining the commercial 
+rationality of the restructuring.
+
+D. Reallocation of profit potential as a result of a business restructuring
+
+D.1. Profit potential
+
+9.39.  An independent enterprise does not necessarily receive compensation 
+when a change in its business arrangements results in a reduction in its profit 
+potential or expected future profits. The arm’s length principle does not require 
+compensation  for  a  mere  decrease  in  the  expectation  of  an  entity’s  future 
+profits. When applying the arm’s length principle to business restructurings, 
+the question is whether there is a transfer of something of value (an asset or 
+an ongoing concern) or a termination or substantial renegotiation of existing 
+arrangements and that transfer, termination or substantial renegotiation would 
+be  compensated  between  independent  parties  in  comparable  circumstances. 
+These two situations are discussed in Sections E and F below.
+
+9.40. 
+In these Guidelines, “profit potential” means “expected future profits”. 
+In  some  cases  it  may  encompass  losses.  The  notion  of  “profit  potential”  is 
+often  used  for  valuation  purposes,  in  the  determination  of  an  arm’s  length 
+
+2. 
+
+As indicated in paragraph 9.8, domestic anti-abuse rules are not within the scope 
+of this chapter.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+372 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+compensation  for  a  transfer  of  intangibles  or  of  an  ongoing  concern,  or  in 
+the  determination  of  an  arm’s  length  indemnification  for  the  termination  or 
+substantial renegotiation of e

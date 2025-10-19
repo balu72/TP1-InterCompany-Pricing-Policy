@@ -1,0 +1,80 @@
+  goods  are  further  processed 
+or  incorporated  into  a  more  complicated  product  so  that  their  identity  is 
+lost or transformed (e.g. where components are joined together in finished 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+104 – CHAPTER II: TRANSFER PRICING METHODS
+
+or  semi-finished  goods).  Another  example  where  the  resale  price  margin 
+requires  particular  care  is  where  the  reseller  contributes  substantially  to 
+the  creation  or  maintenance  of  intangible  property  associated  with  the 
+product (e.g. trademarks or trade names) which are owned by an associated 
+enterprise. In such cases, the contribution of the goods originally transferred 
+to the value of the final product cannot be easily evaluated.
+
+2.36.  A resale price margin is more accurate where it is realised within a 
+short time of the reseller’s purchase of the goods. The more time that elapses 
+between  the  original  purchase  and  resale  the  more  likely  it  is  that  other 
+factors – changes in the market, in rates of exchange, in costs, etc. – will need 
+to be taken into account in any comparison.
+
+2.37. 
+It should be expected that the amount of the resale price margin will 
+be influenced by the level of activities performed by the reseller. This level 
+of activities can range widely from the case where the reseller performs only 
+minimal services as a forwarding agent to the case where the reseller takes 
+on the full risk of ownership together with the full responsibility for and the 
+risks  involved  in  advertising,  marketing,  distributing  and  guaranteeing  the 
+goods, financing stocks, and other connected services. If the reseller in the 
+controlled  transaction  does  not  carry  on  a  substantial  commercial  activity 
+but only transfers the goods to a third party, the resale price margin could, 
+in light of the functions performed, be a small one. The resale price margin 
+could be higher where it can be demonstrated that the reseller has some special 
+expertise  in  the  marketing  of  such  goods,  in  effect  bears  special  risks,  or 
+contributes substantially to the creation or maintenance of intangible property 
+associated with the product. However, the level of activity performed by the 
+reseller, whether minimal or substantial, would need to be well supported by 
+relevant evidence. This would include justification for marketing expenditures 
+that might be considered unreasonably high; for example, when part or most 
+of the promotional expenditure was clearly incurred as a service performed in 
+favour of the legal owner of the trademark. In such a case the cost plus method 
+may well supplement the resale price method.
+
+2.38.  Where  the  reseller  is  clearly  carrying  on  a  substantial  commercial 
+activity in addition to the resale activity itself, then a reasonably substantial 
+resale price margin might be expected. If the reseller in its activities employs 
+certain  assets  (e.g.  intangibles  used  by  the  reseller,  such  as  its  marketing 
+organisation), it may be inappropriate to evaluate the arm’s length conditions 
+in  the  controlled  transaction  using  an  unadjusted  resale  price  margin 
+derived  from  uncontrolled  transactions  in  which  the  uncontrolled  reseller 
+does not employ similar assets. If the reseller possesses valuable marketing 
+intangibles,  the  resale  price  margin  in  the  uncontrolled  transaction  may 
+underestimate the profit to which the reseller in the controlled transaction is 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 105
+
+entitled,  unless  the  comparable  uncontrolled  transaction  involves  the  same 
+reseller or a reseller with similarly valuable marketing intangibles.
+
+2.39. 
+In a case where there is a chain of distribution of goods through an 
+intermediate  company,  it  may  be  relevant  for  tax  administrations  to  look 
+not  only  at  the  resale  price  of  goods  that  have  been  purchased  from  the 
+intermediate  company  but  also  at  the  price  that  such  company  pays  to  its 
+own supplier and the functions that the intermediate company undertakes. 
+There could well be practical difficulties in obtaining this information and 
+the true function of the intermediate company may be difficult to determine. 
+If it cannot be demonstrated that the intermediate company either assumes an 
+economically significant risk or performs an economic function in the chain 
+that has increased the value of the goods, then any element in the price that is 
+claimed to be attributable to the activities of the intermediate company would 
+reasonably be attributed elsewhere in the MNE group, because independent 
+enterprises would not normally have allowed such a company to share in the 
+profits of the transaction.
+
+2.40.  The resale price margin should also be expected to vary according to 
+whether the reseller has the exclusive right to resell the goods. Arrangements 
+of  this  kind  a

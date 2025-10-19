@@ -1,0 +1,94 @@
+
+
+10.43.  Other examples of activities which the treasury may have responsibility 
+for include raising debt (through bond issuances, bank loans or otherwise) 
+and  raising  equity,  and  managing  the  relationship  with  the  MNE  group’s 
+external bankers and with independent credit rating agencies.
+
+10.44.  When  evaluating  the  transfer  pricing  issues  related  to  treasury 
+activities, as with any case, it is important to accurately delineate the actual 
+transactions and determine exactly what functions an entity is carrying on 
+rather than to rely to any extent upon a general description such as “treasury 
+activities”.
+
+10.45.  Generally,  the  treasury  function  is  part  of  the  process  of  making 
+the financing of the commercial business of the MNE group as efficient as 
+possible. As such, the treasury function will usually be a support service to 
+the main value-creating operation as in the case, for example, of the services 
+provided by a cash pool leader (see Section C.2.3). Depending on the facts 
+and circumstances of each case, such activities may be services in which case 
+the pricing guidance on intra-group services at Chapter VII applies.
+
+10.46.  Similarly, the treasury may act as the contact point to centralise the 
+external borrowing of the MNE group. External funds would then be made 
+available within the MNE group through intra-group lending provided by the 
+treasury. On prevailing facts and circumstances, guidance in paragraph 1.188 
+of  Chapter  I  would  apply  to  these  situations  and  the  treasury  would  be 
+expected to receive an arm’s length fee for its coordination activities.
+
+In other situations, the treasury may be found to perform more complex 
+
+10.47. 
+functions and, therefore, it should be compensated accordingly.
+
+10.48.  Another key concern regarding treasury activities is the identification 
+and  allocation  of  the  economically  significant  risks  in  accordance  with 
+Chapter I.
+
+10.49.  The activities of the treasury function take into account issues at a 
+group level and follow the vision, strategy and policies set out by MNE group 
+management. Accordingly, the approach of the treasury to risk will depend 
+on the MNE group’s policy where certain objectives may be specified, such 
+as targeted levels of investment return (e.g. the yield must exceed the cost 
+of  capital),  reduced  cash  flow  volatility,  or  targeted  balance  sheet  ratios 
+(e.g. assets to liabilities). Therefore, it is important to note that usually the 
+higher strategic decisions will generally be the result of policy set at group 
+level rather than determined by the treasury itself.
+
+10.50.  The  following  sections  outline  the  transfer  pricing  considerations 
+which arise from some relevant treasury activities that are often performed 
+within MNE groups, i.e. the provision of intra-group loans, cash pooling, and 
+hedging activities.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 413
+
+Caveat
+
+The following sections deal with specific issues related to determining whether 
+the  rate  of  interest  provided  for  in  a  loan  contract  is  an  arm’s  length  rate.  The 
+analysis included in these sections is based on the assumption that the transactions 
+are  respected  as  loans  pursuant  to  an  accurate  delineation  under  Chapter  I  or 
+domestic legislation, as the case may be.
+
+C.1. Intra-group loans
+
+C.1.1. General considerations
+
+C.1.1.1. The lender’s and borrower’s perspectives
+
+10.51. 
+In  considering  the  commercial  and  financial  relations  between  the 
+associated  borrower  and  lender,  and  in  an  analysis  of  the  economically 
+relevant characteristics of the transaction, both the lender’s and borrower’s 
+perspectives  should  be  taken  into  account,  acknowledging  that  these 
+perspectives may not align in every case.
+
+10.52.  As  in  any  other  transfer  pricing  scenarios,  the  guidance  in 
+Section  D.1  of  Chapter  I  applies  to  determine  whether  the  lender  and  the 
+borrower  assume  risks  related  to  intra-group  loans.  In  particular,  it  is 
+important to consider the risks that the funding arrangements carry for the 
+party  providing  the  funds,  and  the  risks  related  to  the  acceptance  and  use 
+of the funds from the perspective of the recipient. These risks will relate to 
+repayment of the amount transferred, compensation expected for the use of 
+that amount over time, and compensation for other associated risk factors.
+
+10.53.  The lender’s perspective in the decision of whether to make a loan, 
+how  much  to  lend,  and  on  what  terms,  will  involve  evaluation  of  various 
+factors relating to the borrower, wider economic factors affecting both the 
+borrower and the lender, and other options realistically available to the lender 
+for the use of the funds.
+
+10.54.  An independent lender will carry out a thorough credit assessment of 
+the potential borrower to enable the lender to id

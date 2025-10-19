@@ -1,0 +1,81 @@
+mation  by  means  of  a 
+Multilateral  Competent  Authority  Agreement  in  the  context  of  the  Common  Reporting 
+Standard has proven both time- and resource-efficient, the same approach could be used 
+for the purpose of putting the automatic exchange of information in relation to Country-
+by-Country Reports in place. Therefore, the Multilateral Competent Authority Agreement 
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ 
+38 – ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE
+
+on the Exchange of Country-by-Country Reports (the “CbC MCAA”) has been developed, 
+based on the Convention and inspired by the Multilateral Competent Authority Agreement 
+concluded  in  the  context  of  the  implementation  of  the  Common  Reporting  Standard. 
+In  addition,  two  further  model  competent  authority  agreements  have  been  developed 
+for  exchanges  of  Country-by-Country  Reports,  one  for  exchanges  under  Double  Tax 
+Conventions and one for exchanges under Tax Information Exchange Agreements.
+
+In line with paragraph 5 of Chapter v of these Guidelines, one of the three objectives 
+of transfer pricing documentation is to provide tax administrations with the information 
+necessary  to  conduct  an  informed  transfer  pricing  risk  assessment,  while  paragraph  10 
+of Chapter v of these Guidelines states that effective risk identification and assessment 
+constitute  an  essential  early  stage  in  the  process  of  selecting  appropriate  cases  for 
+transfer  pricing  audit.  The  Country-by-Country  Reports  exchanged  on  the  basis  of  the 
+model  competent  authority  agreements  contained  in  the  present  Country-by-Country 
+Reporting Implementation Package, represent one of the three tiers of the transfer pricing 
+documentation  and  will,  in  accordance  with  paragraphs  16,  17  and  25  of  Chapter  v  of 
+these  Guidelines,  provide  tax  administrations  with  relevant  and  reliable  information  to 
+perform  an  efficient  and  robust  transfer  pricing  risk  assessment  analysis.  Against  that 
+background, the model competent authority agreements aim to provide the framework to 
+make the information contained in the Country-by-Country Report available to concerned 
+tax  authorities,  such  information  being  foreseeably  relevant  for  the  administration  and 
+enforcement of their tax laws through the automatic exchange of information.
+
+The  purpose  of  the  CbC  MCAA  is  to  set  forth  rules  and  procedures  as  may  be 
+necessary  for  Competent  Authorities  of  jurisdictions  implementing  BEPS  Action  13  to 
+automatically exchange Country-by-Country Reports prepared by the Reporting Entity of 
+an MNE Group and filed on an annual basis with the tax authorities of the jurisdiction of 
+tax residence of that entity with the tax authorities of all jurisdictions in which the MNE 
+Group operates.
+
+For most provisions, the wording is substantially the same as the text of the Multilateral 
+Competent  Authority  Agreement  for  the  purpose  of  exchanges  under  the  Common 
+Reporting Standard. where appropriate, the wording has been complemented or amended 
+to reflect the Guidance on Country-by-Country Reporting set out in Chapter v of these 
+Guidelines.
+
+As a next step, it is intended that an xML Schema and a related User Guide will be 
+developed with a view to accommodating the electronic exchange of Country-by-Country 
+Reports.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE – 39
+
+Model legislation related to Country-by-Country Reporting
+
+Article 1
+Definitions
+
+For purposes of this [title of the law] the following terms have the following meanings:
+
+1. 
+The  term  “Group”  means  a  collection  of  enterprises  related  through  ownership 
+or  control  such  that  it  is  either  required  to  prepare  Consolidated  Financial  Statements 
+for  financial  reporting  purposes  under  applicable  accounting  principles  or  would  be  so 
+required  if  equity  interests  in  any  of  the  enterprises  were  traded  on  a  public  securities 
+exchange.
+
+2. 
+The term “MNE Group” means any Group that (i) includes two or more enterprises 
+the  tax  residence  for  which  is  in  different  jurisdictions,  or  includes  an  enterprise  that 
+is  resident  for  tax  purposes  in  one  jurisdiction  and  is  subject  to  tax  with  respect  to  the 
+business carried out through a permanent establishment in another jurisdiction, and (ii) is 
+not an Excluded MNE Group.
+
+The  term  “Excluded  MNE  Group”  means,  with  respect  to  any  Fiscal  Year  of  the 
+3. 
+Group, a Group having total consolidated group revenue of less than [750 million Euro]/
+[insert an amount in local currency approximately equivalent to 750 million Euro as of 
+January 2015] during the Fiscal Year immediately preceding the Reporting Fiscal Year as 

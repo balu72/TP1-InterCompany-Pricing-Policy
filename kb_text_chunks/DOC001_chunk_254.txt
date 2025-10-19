@@ -1,0 +1,93 @@
+ithin the cash pooling arrangement compared to the rates that they 
+would expect to obtain from borrowing or depositing cash outside of the pool. 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+432 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+However, it is important to note that cash pool members might be willing to 
+participate in cash pool arrangements to access benefits from the membership 
+of the cash pool other than an enhanced interest rate like, for instance, access 
+to a permanent source of financing; reduced exposure to external banks; or 
+access to liquidity that may not be available otherwise.
+
+C.2.3.3. Cash pooling guarantees
+10.147.  As part of the cash pooling arrangement, cross-guarantees and rights 
+of set-off between participants in the cash pool may be required. This raises 
+the  question  of  whether  guarantee  fees  should  be  payable.  It  will  always 
+be  appropriate  to  consider  the  particular  facts  and  circumstances  in  any 
+situation but there are certain factors which are likely to be common to many 
+cash pools: there will be numerous members of the pool, there may be both 
+entities with debit positions and entities with credit positions in the pool, each 
+pool member may have a different stand-alone credit rating, and the pooling 
+agreement with the bank is likely to require full cross-guarantees and rights 
+of set-off between all pool participants.
+
+10.148.  These  cross-guarantees  and  set-off  rights  are  a  feature  of  an 
+arrangement  which  would  not  occur  between  independent  parties.  Each 
+guarantor is providing a guarantee for all members of the pool but will not 
+have control over membership of the pool, has no control over the quantum of 
+the debt which it is guaranteeing, and may not be able to access information on 
+the parties for whom it is providing a guarantee. With other parties providing 
+guarantees  on  the  same  loans,  it  may  not  be  possible  for  the  guarantor  to 
+evaluate  its  real  risk  in  the  event  of  a  default.  Thus,  the  practical  result  of 
+the  cross-guaranteeing  arrangement  is  such  that  the  formal  guarantee  may 
+represent nothing more than an acknowledgement that it would be detrimental 
+to  the  interests  of  the  MNE  group  not  to  support  the  performance  of  the 
+cash pool leader and so, by extension, the borrower. In such circumstances 
+the  guaranteed  borrower  may  not  be  benefitting  beyond  the  level  of  credit 
+enhancement  attributable  to  the  implicit  support  of  other  group  members. 
+If  the  prevailing  facts  and  circumstances  support  such  a  conclusion,  no 
+guarantee fee would be due, and any support, in case of a default from another 
+group member, should be regarded as a capital contribution.
+
+C.3. Hedging
+
+10.149.  Intra-group  financial  transactions  may  include  instruments  by 
+which  risk  is  transferred  within  the  MNE  group.  For  example,  hedging 
+arrangements are frequently used, in the ordinary course of business, as a 
+means of mitigating exposure to risks such as foreign exchange or commodity 
+price  movements.  An  independent  entity  may  decide  to  assume  such  risks 
+or hedge against them according to its own policies. However, in an MNE 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 433
+
+group, such risks might be treated differently depending on the MNE group’s 
+approach to risk management and hedging.
+
+10.150.  Often  an  MNE  group  will  centralise  treasury  functions  and 
+implement  risk  mitigation  strategies  relating  to  interest  rate  and  currency 
+risks  in  order  to  improve  efficiency  and  effectiveness  with  the  result  that 
+individual  entities  may  not  contractually  enter  into  hedging  arrangements 
+although their risk is hedged from the perspective of the MNE as a whole.
+
+10.151.  Possible  mechanisms  by  which  an  MNE  group  may  centralise  the 
+hedging of risk include:
+
+• 
+
+• 
+
+• 
+
+delegation of responsibility for hedging to an MNE group treasury 
+entity, with the hedging contracts arranged for and in the name of the 
+relevant operating companies;
+
+delegation of responsibility for hedging to an MNE group treasury 
+entity,  with  the  hedging  contracts  made  by  and  in  the  name  of 
+another MNE group entity;
+
+identification  of  the  existence  of  natural  hedges  within  the  MNE 
+group, in which case no formal hedging contracts are made.
+
+10.152.  Where the centralised treasury function arranges a hedging contract 
+that  the  operating  entity  enters  into,  that  centralised  function  can  be  seen 
+as  providing  a  service  to  the  operating  entity,  for  which  it  should  receive 
+compensation on arm’s length terms.
+
+10.153.  More  difficult  transfer  pricing  issues  may  arise,  however,  if  the 
+contract  instrument  is  entered  into  by  the  treasury  entity  or  another  MNE 
+group  entity,  with  the  result  that  the  positions  are  not  matche

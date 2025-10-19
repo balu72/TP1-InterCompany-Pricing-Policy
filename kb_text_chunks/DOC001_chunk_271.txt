@@ -1,0 +1,132 @@
+ commentators note that the transactional 
+net margin method would be less sensitive to differences in volume, extent 
+and  complexity  of  functions  and  operating  expenses.  On  the  other  hand, 
+the  transactional  net  margin  method  may  be  more  sensitive  than  the  cost 
+plus  or  resale  price  methods  to  differences  in  capacity  utilisation,  because 
+differences  in  the  levels  of  absorption  of  indirect  fixed  costs  (e.g.  fixed 
+manufacturing costs or fixed distribution costs) would affect the net profit but 
+may not affect the gross margin or gross mark-up on costs if not reflected in 
+price differences, as illustrated below.
+
+Illustration 3: Effect of a difference in manufacturers’ capacity utilisation
+
+The example below is for illustration only and is not intended to provide 
+any guidance on the selection of the transfer pricing method or of comparables, 
+or on arm’s length rates of return, but only to illustrate the effects of differences 
+between the capacity utilisation of a manufacturer and of comparables.
+
+Case 1
+The manufacturer 
+operates at 
+full capacity: 
+1 000 units 
+per year
+
+Case 2
+The manufacturer operates 
+at excess capacity i.e. only 
+manufactures 80% of what 
+it could manufacture at full 
+capacity: 800 units per year
+
+1 000
+
+800
+
+Variable: 750
+Fixed: 50
+Total: 800
+
+Variable: 600
+Fixed: 50
+Total: 650
+
+200 (25%)
+
+150
+
+150 (23%)
+
+150
+
+In monetary units (m.u.)
+
+Sales of manufactured products (For illustration 
+purposes, assume both manufacturers have 
+the same total capacity, and that they both 
+manufacture and sell the same product on the 
+same market which have the same price of 
+1 m.u. per manufactured product).*
+
+Cost of goods sold: direct costs plus standard 
+allocation of indirect manufacturing costs. 
+(For illustration purposes, assume both 
+manufacturers have the same variable cost of 
+goods sold per manufactured unit, i.e. 0.75 m.u. 
+per manufactured product, and fixed personnel 
+costs of 50).
+
+Gross mark-up on cost of goods sold
+
+Indirect costs (For illustration purposes, assume 
+both manufacturers have the same indirect costs)
+
+Net profit margin
+
+50 (5%)
+
+Break-even
+
+* This assumes that the arm’s length price of the manufactured products is not affected by 
+the manufacturer’s capacity utilisation.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER II: SENSITIVITy OF GROSS AND NET PROFIT INDICATORS – 465
+
+5. 
+In  Illustration  3,  if  a  controlled  transaction  is  performed  as  in 
+case 1 while the third party “comparables” are operating as in case 2, and 
+assuming that the difference in the capacity utilisation is not identified due 
+to insufficiently detailed information on the third party “comparables”, then 
+the risk of error when applying a gross margin method could amount to 16 
+(2% × 800) instead of 50 (5% × 1 000) if a net margin method is applied. 
+This illustrates the fact that net profit indicators can be more sensitive than 
+gross  mark-ups  or  gross  margins  to  differences  in  the  capacity  utilisation, 
+depending on the facts and circumstances of the case and in particular on the 
+proportion of fixed and variable costs and on whether it is the taxpayer or the 
+“comparable” which is in an over-capacity situation.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD – 467
+
+Annex II to Chapter II 
+
+Examples to illustrate the guidance on the 
+transactional profit split method
+
+See Chapter II, Part III, Section C of these Guidelines for general guidance on the 
+application of the profit split method.
+
+The  adjustments  and  assumptions  about  arm’s  length  arrangements  in  the 
+examples  that  follow  are  intended  for  illustrative  purposes  only  and  should  not 
+be  taken  as  prescribing  adjustments  and  arm’s  length  arrangements  in  actual 
+cases or particular industries. They are necessarily presented with limited facts. 
+The  identification  of  the  presence  of  one  of  the  three  factors  (as  identified  in 
+paragraphs  2.125  to  2.143)  indicating  that  the  transactional  profit  split  method 
+may  be  the  most  appropriate  transfer  pricing  method,  does  not  mean  that  one 
+or both of the other factors may not also be present. For example, in a situation 
+in  which  unique  and  valuable  contributions  are  identified  as  being  made  by 
+each party to the transaction, the business operations of the parties may also be 
+highly integrated and the parties may also share the assumption of economically 
+significant risks or separate assumption of closely related risks.
+
+While  the  examples  seek  to  demonstrate  the  principles  of  the  sections  of  the 
+Guidelines  to  which  they  refer,  those  principles  must  be  applied  in  each  case 
+according  to  the  specific  facts  and  circumstances  of  that  case.  As  such,  the 
+examples should not be used to interpret superficially similar cases.
+
+Example 1
+
+Company A is the p

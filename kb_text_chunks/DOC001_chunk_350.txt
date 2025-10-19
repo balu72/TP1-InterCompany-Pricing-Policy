@@ -1,0 +1,81 @@
+mpensation 
+to be paid by Company C for the intangibles sold by Company B, it may be 
+appropriate to value the transferred intangibles in the aggregate rather than to 
+attempt a valuation on an asset by asset basis. This would particularly be the 
+case if there is a significant difference between the sum of the best available 
+estimates  of  the  value  of  individually  identified  intangibles  and  other  assets 
+when valued separately and the value of the business as a whole.
+
+Example 29
+
+104. 
+Pervichnyi  is  the  parent  of  an  MNE  group  organised  and  doing 
+business  in  Country  X.  Prior  to  year  1,  Pervichnyi  developed  patents  and 
+trademarks  related  to  Product  F.  It  manufactured  Product  F  in  Country  X 
+and supplied the product to distribution affiliates throughout the world. For 
+purposes of this example assume the prices charged to distribution affiliates 
+were consistently arm’s length.
+
+105.  At  the  beginning  of  year  1,  Pervichnyi  organises  a  wholly  owned 
+subsidiary,  Company  S,  in  Country  y.  In  order  to  save  costs,  Pervichnyi 
+transfers  all  of  its  production  of  Product  F  to  Company  S.  At  the  time  of 
+the organisation of Company S, Pervichnyi sells the patents and trademarks 
+related to Product F to Company S for a lump sum. Under these circumstances, 
+Pervichnyi  and  Company  S  seek  to  identify  an  arm’s  length  price  for  the 
+transferred intangibles by utilising a discounted cash flow valuation technique.
+
+106.  According to this valuation analysis, Pervichnyi could have generated 
+after tax residual cash flows (after rewarding all functional activities of other 
+members of the MNE group on an arm’s length basis) having a present value 
+of 600 by continuing to manufacture Product F in Country X. The valuation 
+from the buyer’s perspective shows that Company S could generate after tax 
+residual cash flows having a present value of 1 100 if it owned the intangibles 
+and  manufactured  the  product  in  Country  y.  The  difference  in  the  present 
+value  of  Pervichnyi’s  after  tax  residual  cash  flow  and  the  present  value  of 
+Company S’s after tax residual cash flow is attributable to several factors.
+
+107.  Another option open to Pervichnyi would be for Pervichnyi to retain 
+ownership  of  the  intangible,  and  to  retain  Company  S  or  an  alternative 
+supplier to manufacture products on its behalf in Country y. In this scenario, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES – 631
+
+Pervichnyi calculates it would be able to generate after tax cash flow with a 
+present value of 875.
+
+108. 
+In defining arm’s length compensation for the intangibles transferred 
+by  Pervichnyi  to  Company  S,  it  is  important  to  take  into  account  the 
+perspectives of both parties, the options realistically available to each of them, 
+and  the  particular  facts  and  circumstances  of  the  case.  Pervichnyi  would 
+certainly not sell the intangibles at a price that would yield an after tax residual 
+cash flow with a present value lower than 600, the residual cash flow it could 
+generate by retaining the intangible and continuing to operate in the manner it 
+had done historically. Moreover there is no reason to believe Pervichnyi would 
+sell the intangible for a price that would yield an after tax residual cash flow 
+with a present value lower than 875. If Pervichnyi could capture the production 
+cost savings by retaining another entity to manufacture on its behalf in a low 
+cost  environment,  one  realistically  available  option  open  to  it  would  be  to 
+establish such a contract manufacturing operation. That realistically available 
+option  should  be  taken  into  account  in  determining  the  selling  price  of  the 
+intangible.
+
+109. 
+Company  S  would  not  be  expected  to  pay  a  price  that  would,  after 
+taking into account all relevant facts and circumstances, leave it with an after 
+tax  return  lower  than  it  could  achieve  by  not  engaging  in  the  transaction. 
+According to the discounted cash flow valuation, the net present value of the 
+after tax residual cash flow it could generate using the intangible in its business 
+would  be  1  100.  A  price  might  be  negotiated  that  would  give  Pervichnyi  a 
+return equal to or greater than its other available options, and give Company S 
+a  positive  return  on  its  investment  considering  all  of  the  relevant  facts, 
+including the manner in which the transaction itself would be taxed.
+
+110.  A transfer pricing analysis utilising a discounted cash flow approach 
+would have to consider how independent enterprises dealing at arm’s length 
+would take into account the cost savings and projected tax effects in setting 
+a  price  for  the  intangibles.  That  price  should,  however,  fall  in  the  range 
+between  a  price  that  would  yield  Pervichnyi  after  tax  residual  cash  flow 
+equivalent  t

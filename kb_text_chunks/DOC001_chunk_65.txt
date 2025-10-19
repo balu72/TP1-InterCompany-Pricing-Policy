@@ -1,0 +1,80 @@
+measure for the transactions. Tax administrators may have more 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+116 – CHAPTER II: TRANSFER PRICING METHODS
+
+information  available  to  them  from  examinations  of  other  taxpayers.  See 
+paragraph 3.36 for a discussion of information available to tax administrators 
+that  may  not  be  disclosed  to  the  taxpayer,  and  paragraphs  3.67-3.79  for  a 
+discussion of timing issues.
+2.72.  Like  the  resale  price  and  cost  plus  methods,  the  transactional  net 
+margin  method  is  applied  to  only  one  of  the  associated  enterprises.  The 
+fact that many factors unrelated to transfer prices may affect net profits, in 
+conjunction  with  the  one-sided  nature  of  the  analysis  under  this  method, 
+can  affect  the  overall  reliability  of  the  transactional  net  margin  method  if 
+an  insufficient  standard  of  comparability  is  applied.  Detailed  guidance  on 
+establishing comparability for the transactional net margin method is given 
+in Section B.3.1 below.
+2.73.  There  may  also  be  difficulties  in  determining  an  appropriate 
+corresponding adjustment when applying the transactional net margin method, 
+particularly where it is not possible to work back to a transfer price. This could 
+be the case, for example, where the taxpayer deals with associated enterprises 
+on both the buying and the selling sides of the controlled trans action. In such a 
+case, if the transactional net margin method indicates that the taxpayer’s profit 
+should be adjusted upwards, there may be some uncertainty about which of the 
+associated enterprises’ profits should be reduced.
+
+B.3. Guidance for application
+
+B.3.1.  The comparability standard to be applied to the transactional 
+
+net margin method
+
+2.74.  A  comparability  analysis  must  be  performed  in  all  cases  in  order 
+to  select  and  apply  the  most  appropriate  transfer  pricing  method,  and  the 
+process for selecting and applying a transactional net margin method should 
+not  be  less  reliable  than  for  other  methods.  As  a  matter  of  good  practice, 
+the  typical  process  for  identifying  comparable  transactions  and  using  data 
+so obtained which is described in paragraph  3.4 or any equivalent process 
+designed  to  ensure  robustness  of  the  analysis  should  be  followed  when 
+applying a transactional net margin method, just as with any other method. 
+That  being  said,  it  is  recognised  that  in  practice  the  level  of  information 
+available on the factors affecting external comparable transactions is often 
+limited. Determining a reliable estimate of an arm’s length outcome requires 
+flexibility and the exercise of good judgment. See paragraph 1.13.
+
+2.75. 
+Prices  are  likely  to  be  affected  by  differences  in  products,  and 
+gross margins are likely to be affected by differences in functions, but net 
+profit indicators are less adversely affected by such differences. As with the 
+resale price and cost plus methods that the transactional net margin method 
+resembles, this does not mean that a mere similarity of functions between 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 117
+
+two  enterprises  will  necessarily  lead  to  reliable  comparisons.  Assuming 
+similar  functions  can  be  isolated  from  among  the  wide  range  of  functions 
+that  enterprises  may  exercise,  in  order  to  apply  the  method,  the  net  profit 
+indicators related to such functions may still not be automatically comparable 
+where,  for  instance,  the  enterprises  concerned  carry  on  those  functions  in 
+different economic sectors or markets with different levels of profitability. 
+When the comparable uncontrolled transactions being used are those of an 
+independent enterprise, a high degree of similarity is required in a number 
+of  aspects  of  the  associated  enterprise  and  the  independent  enterprise 
+involved  in  the  transactions  in  order  for  the  controlled  transactions  to  be 
+comparable; there are various factors other than products and functions that 
+can significantly influence net profit indicators.
+
+2.76.  The  use  of  net  profit  indicators  can  potentially  introduce  a  greater 
+element of volatility into the determination of transfer prices for two reasons. 
+First, net profit indicators can be influenced by some factors that do not have 
+an  effect  (or  have  a  less  substantial  or  direct  effect)  on  gross  margins  and 
+prices,  because  of  the  potential  for  variation  of  operating  expenses  across 
+enterprises. Second, net profit indicators can be influenced by some of the 
+same factors, such as competitive position, that can influence price and gross 
+margins,  but  the  effect  of  these  factors  may  not  be  as  readily  eliminated. 
+In  the  traditional  transaction  methods,  the  effect  of  these  factors  may  be 
+eliminated  as  a  natural  consequence  of  insisting  upon

@@ -1,0 +1,89 @@
+lt to 
+access sufficient information to verify the position as set out by the taxpayer. 
+It  would  be  of  assistance  to  tax  authorities  if  MNE  groups  would  provide 
+information on the structuring of the pool and the returns to the cash pool 
+leader  and  the  members  in  the  cash  pool  as  part  of  their  transfer  pricing 
+documentation.  (See  Annex  I  to  Chapter  V  of  these  Guidelines  about  the 
+information to be included in the master file).
+
+10.125.  Before any attempt is made to determine the remuneration of the cash 
+pool leader and participants, it is central to the transfer pricing analysis to 
+identify and examine under Chapter I guidance the economically significant 
+risks  associated  to  the  cash  pooling  arrangement.  These  could  include 
+liquidity  risk  and  credit  risk.  These  risks  should  be  analysed  taking  into 
+account the short-term nature of the credit and debit positions within the cash 
+pooling arrangement (see paragraph 10.123).
+
+10.126.  Liquidity risk in a cash pool arrangement arises from the mismatch 
+between  the  maturity  of  the  credit  and  debit  balances  of  the  cash  pool 
+members. Assuming the liquidity risk associated to a cash pool requires the 
+exercise of control functions beyond the mere offsetting of the credit and debit 
+positions of the cash pool members. Therefore, an analysis of the decision-
+making process related to the amounts of the debit and credit positions within 
+the cash pool arrangement will be required to allocate the liquidity risk under 
+Chapter I.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 429
+
+10.127.  Credit  risk  refers  to  the  risk  of  loss  resulting  from  the  inability  of 
+cash  pool  members  with  debit  positions  to  repay  their  cash  withdrawals. 
+From  the  cash  pool  leader’s  perspective,  there  needs  to  be  a  probability 
+for  it  to  incur  losses  derived  from  the  default  of  cash  pool  members  with 
+debit  positions  to  bear  the  credit  risk.  Therefore,  an  examination  under 
+Chapter  I  guidance  will  be  required  to  determine,  under  the  specific  facts 
+and circumstances, which entity within the MNE group is exercising control 
+functions and has the financial capacity to assume the credit risk associated 
+with the cash pool arrangement.
+
+C.2.3. Determining the arm’s length price of cash pooling transactions
+
+10.128.  As  with  many  types  of  financial  transactions,  different  intent  and 
+understanding  can  be  ascribed  to  the  labels  or  descriptions  attached  to 
+particular transactions. Each case must be considered on its own facts and 
+circumstances and in each case accurate delineation of the actual trans actions 
+in  accordance  with  the  principles  of  Chapter  I  will  be  needed  before  any 
+attempt to decide on an approach to pricing a transaction.
+
+C.2.3.1. Rewarding the cash pool leader function
+
+10.129.  The appropriate reward of the cash pool leader will depend on the 
+facts  and  circumstances,  the  functions  performed,  the  assets  used  and  the 
+risks assumed in facilitating a cash pooling arrangement.
+
+10.130.  In general, a cash pool leader performs no more than a co-ordination 
+or agency function with the master account being a centralised point for a 
+series  of  book  entries  to  meet  the  pre-determined  target  balances  for  the 
+pool members. Given such a low level of functionality, the cash pool leader’s 
+remuneration as a service provider will generally be similarly limited.
+
+10.131.  Where accurate delineation of the actual transactions determines that 
+a cash pool leader is carrying on activities other than co-ordination or agency 
+functions,  the  pricing  of  such  transactions  would  follow  the  approaches 
+included in other parts of this guidance, as appropriate.
+
+10.132.  The following examples illustrate the principles described above.
+
+Example 1
+
+10.133.  X is the parent entity of an MNE group which has subsidiaries H, 
+J, K, and L which participate in a physical cash pooling arrangement with 
+fellow subsidiary M acting as cash pool leader. All participants have the same 
+functional currency and that is the only currency in the pool.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+430 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+10.134.  M sets up an intra-group cash pooling arrangement with an unrelated 
+bank. Legal arrangements are put in place for all participants which allow 
+transfers to or from M’s cash concentration account to meet a specified target 
+balance for each pool participant.
+
+10.135.  Under the cash management services agreement the bank makes any 
+transfers necessary to meet the target balance for each pool participant with 
+any net surplus deposited by M or any net overdrawn position being met by 
+the bank lending to M. The facility that M may draw on is guaranteed by X. 
+The third-party bank pays interest to, or receives interest from M based on 
+the o

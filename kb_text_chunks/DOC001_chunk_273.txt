@@ -1,0 +1,102 @@
+med  by  Company  B  are  a  key 
+source of economic advantage over competitors. Company B has performed 
+the R&D activities and assumed the risks associated with the development of 
+a sophisticated proprietary algorithm to get feedback from customers on the 
+performance of the products. This information is highly valuable in accurately 
+forecasting demand and managing inventory and distribution logistics so that 
+customers are assured of receiving their orders within 48 hours.
+
+The  accurate  delineation  of  the  transaction  indicates  that  the 
+14. 
+contributions of Company A and Company B are unique and valuable to the 
+potential success of the new line of products.
+
+15. 
+Under  these  circumstances,  the  transactional  profit  split  method  is 
+likely to be the most appropriate method for determining the compensation 
+for  the  products  sold  by  Company  A  to  Company  B  as  both  parties  make 
+unique and valuable contributions to the transaction.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+470 – ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD
+
+Example 4
+
+The facts in this example are the same as in Example 3, except that 
+16. 
+the  marketing  activities  performed  by  Company  B  are  more  limited  and 
+do not significantly enhance the goodwill or reputation associated with the 
+trademark.  Company  B  has  a  mechanism  whereby  customer  feedback  on 
+the products it sells is relayed to Company A, but this is a relatively simple 
+process, and does not constitute a unique and valuable contribution. In sum, 
+its distribution activities are not a particular source of competitive advantage 
+in its industry. In particular, the potential success of the new line of products 
+is largely dependent on its technical specifications, its design, and the price 
+at which the products are sold to final customers.
+
+17. 
+The functional analysis concludes that Company A assumes the risks 
+associated with the design, development and manufacturing of the product 
+and Company B assumes the risks relating to marketing and distribution.
+
+18. 
+Marketing and distribution risks assumed by Company B may impact 
+on the ultimate profitability of Company A. However, the functional analysis 
+determines  that  the  risks  assumed  by  Company  B  are  not  economically 
+significant  for  the  business  operations  and  that  Company  B  does  not  make 
+any unique and valuable contributions in relation to the controlled transaction.
+
+19. 
+Under  these  circumstances,  the  transactional  profit  split  method 
+may not be the most appropriate method as it is likely that the arm’s length 
+compensation for the contribution of Company B can be reliably benchmarked 
+by reference to comparable uncontrolled transactions and the application of a 
+one-sided transfer pricing method or methods.
+
+Example 5
+
+20.  WebCo  is  a  member  of  an  MNE  group  that  develops  IT  solutions 
+for business customers. Recently, WebCo designed the architecture of a web 
+crawler  to  collect  pricing  data  from  internet  sites.  WebCo  has  written  the 
+code of the programme so it is able to systematically scan web pages in a 
+more efficient and faster way than any other similar search engines available 
+in the market.
+
+At this stage, WebCo licenses the programme to ScaleCo, a company 
+21. 
+in  the  same  MNE  group.  ScaleCo  is  responsible  for  scaling-up  the  web 
+crawler  and  for  deciding  the  crawling  strategy.  ScaleCo  is  a  specialist  in 
+designing  add-ons  for  the  web  crawler  and  in  customising  the  product  to 
+address gaps in the market. Without these contributions, the system would 
+not be able to meet potential customers’ needs.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD – 471
+
+22. 
+Under the terms of the licence, WebCo will continue developing the 
+underlying base technology and ScaleCo will use these developments to scale 
+up the web crawler.
+23. 
+The functional analysis concludes that the economically significant risk 
+in relation to the transaction is the development risk, i.e. the risk that the web 
+crawler being developed is unsuccessful. In accordance with the risk analysis 
+framework  described  in  Section  D.1.2.1  of  Chapter  I  of  these  Guidelines,  it 
+is  determined  that  WebCo  and  ScaleCo  assume  the  development  risk  of  the 
+software.
+24. 
+The  accurate  delineation  of  the  transaction  indicates  that  WebCo’s 
+and  ScaleCo’s  contributions  are  unique  and  valuable  to  the  creation  and 
+potential success of the web crawler.
+25. 
+Under  these  circumstances,  the  transactional  profit  split  method  is 
+likely  to  be  the  most  appropriate  method  for  determining  the  arm’s  length 
+compensation for the licence between WebCo and ScaleCo.
+
+Example 6
+
+ASSET Co is the parent company of an  MNE  group that provides 
+26. 
+asset  management  services  to  unrelated  parties.  It  has  two  subsidiar

@@ -1,0 +1,81 @@
+nvestment opportunities may be contemplated, taking 
+account  of  the  specific  business  objectives  of  the  lender  and  the  context 
+in  which  the  transaction  takes  place.  From  the  borrower’s  perspective,  the 
+options  realistically  available  will  include  broader  considerations  than  the 
+entity’s ability to service its debt, for example, the funds it actually needs to 
+meet its operational requirements. In some instances, although an entity may 
+have the capacity to borrow and service an additional amount of debt, it may 
+choose not to do so to avoid placing negative pressure on its credit rating and 
+increasing its cost of capital, and jeopardising its access to capital markets 
+and its market reputation (see comments upon “The lender’s and borrower’s 
+perspectives” in Section C.1.1.1 of this chapter).
+
+10.20.  In  an  ideal  scenario,  a  comparability  analysis  would  enable  the 
+identification  of  financial  transactions  between  independent  parties  which 
+match the tested transaction in all respects. With the many variables involved, 
+it  is  more  likely  that  potential  comparables  will  differ  from  the  tested 
+transaction.  Where  differences  exist  between  the  tested  transaction  and  any 
+proposed comparable, it will be necessary to consider whether such differences 
+will  have  a  material  impact  on  the  price.  If  so,  it  may  be  possible,  where 
+appropriate, to make comparability adjustments to improve the reliability of 
+a  comparable.  This  is  more  likely  to  be  achievable  where  the  adjustment  is 
+based on a quantitative factor and there is good quality data easily available 
+(e.g. on currency differences) than, for instance, in trying to compare loans to 
+borrowers with qualitative differences or where data is not so readily available 
+(e.g. borrowers with different business strategies).
+
+B.3.  The economically relevant characteristics of actual financial 
+
+transactions
+
+10.21.  To  inform  an  analysis  of  the  terms  and  conditions  of  a  financial 
+transaction  as  part  of  the  accurate  delineation  of  the  actual  transaction  or 
+seeking to price the accurately delineated actual transaction, the following 
+economically relevant characteristics should be considered.
+
+B.3.1. Contractual terms
+
+10.22.  The  terms  and  conditions  of  a  financial  transaction  between 
+independent enterprises are usually explicitly stated in a written agreement. 
+However, between associated enterprises the contractual arrangements may 
+not  always  provide  information  in  sufficient  detail  or  may  be  inconsistent 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+408 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+with  the  actual  conduct  of  the  parties  or  other  facts  and  circumstances.  It 
+is therefore necessary to look to other documents, the actual conduct of the 
+parties  –  notwithstanding  that  such  consideration  may  ultimately  result  in 
+the conclusion that the contractual form and actual conduct are in alignment 
+–  and  the  economic  principles  that  generally  govern  relationships  between 
+independent enterprises in comparable circumstances in order to accurately 
+delineate the actual transaction in accordance with Section D.1.1 of Chapter I.
+
+B.3.2. Functional analysis
+
+10.23.  In accurately delineating the actual financial transaction, a functional 
+analysis is necessary. This analysis seeks to identify the functions performed, 
+the  assets  used  and  the  risks  assumed  by  the  parties  to  that  controlled 
+transaction.
+
+10.24.  For  instance,  in  the  particular  case  of  an  intra-group  loan,  the  key 
+functions performed by a lender to decide whether and under which terms 
+to advance funds would typically include an analysis and evaluation of the 
+risks  inherent  in  the  loan,  the  capability  to  commit  capital  of  the  business 
+to  the  investment,  determining  the  terms  of  the  loan  and  organising  and 
+documenting the loan. This may also include any ongoing monitoring and 
+periodic  review  of  the  loan.  Such  a  functional  analysis  is  likely  to  include 
+consideration  of  similar  information  to  that  which  a  commercial  lender 
+or  ratings  agency  would  consider  in  determining  the  creditworthiness  of 
+the  borrower.  An  associated  lender  will  not  necessarily  perform  all  of  the 
+same functions at the same intensity as an independent lender. However, in 
+considering whether a loan has been advanced on conditions which would 
+have  been  made  between  independent  enterprises,  the  same  commercial 
+considerations and economic circumstances are relevant (see comments on 
+“The  lender’s  and  borrower’s  perspectives”  and  “Use  of  credit  ratings”  in 
+Sections C.1.1.1 and C.1.1.2 of this chapter).
+
+10.25.  When, under accurate delineation, the lender is not exercising control 
+over  the  risks  associated  to  an  advance  of  funds,  or  does  not  have  the 
+fi

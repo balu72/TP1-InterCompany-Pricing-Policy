@@ -1,0 +1,90 @@
+p  to 
+which it belongs.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+442 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+10.191.  In  contrast,  in  this  guidance  the  term  reinsurance  refers  to  a 
+reinsurance  undertaking  or  entity  the  purpose  of  which  is  to  provide 
+reinsurance policies for risks of unrelated parties that are in the first instance 
+insured by entities of the MNE group to which it belongs.5 (The situation in 
+which risks of entities within an MNE group are insured in the first instance 
+by an unrelated party but then reinsured by an entity within the MNE group 
+is discussed in Section E.2.4).
+10.192.  Captive insurances may be subject to regulation in the same way as 
+other  insurance  and  reinsurance  companies.6  The  precise  requirements  of 
+insurance regulation will vary from one jurisdiction to the next but typically 
+include  certain  actuarial,  accounting  and  capital  requirements.  While 
+insurance  regulation  is  intended  to  protect  policyholders,  local  regulators 
+may impose a lighter regulatory regime where the captive insurance provides 
+insurance exclusively to members of the MNE group.
+10.193.  There are multiple reasons for an MNE group to use a captive insurance 
+such as: to stabilise premiums paid by entities within the MNE group; to benefit 
+from  tax  and  regulatory  arbitrage;  gaining  access  to  reinsurance  markets; 
+mitigating  the  volatility  of  market  capacity;  or  because  the  MNE  group 
+considers that retaining the risk within the group is more cost effective.
+10.194.  Another  possible  reason  for  the  use  of  a  captive  insurance  by  an 
+MNE  group  in  addition  to  those  listed  is  the  difficulty  or  impossibility  of 
+getting  insurance  coverage  for  certain  risks.  Where  such  risks  are  insured 
+by  a  captive  insurance  this  may  raise  questions  as  to  whether  an  arm’s 
+length  price  can  be  determined  and  the  commercial  rationality  of  such  an 
+arrangement (see Section D.2 of Chapter I).
+
+E.2. Accurate delineation of captive insurance and reinsurance
+
+10.195.  The  principles  of  accurate  delineation  of  the  actual  transactions  and 
+allocation  of  risk  detailed  in  Chapter  I  of  these  Guidelines  apply  to  captive 
+insurance and reinsurance in the same manner that they apply to any other intra-
+group transactions. However, this section addresses mainly captive insurance (as 
+well as captive reinsurance-fronting). In particular, it should be borne in mind that:
+the  carrying  on  of  risk  mitigation  functions  falls  within  the  wider 
+concept of risk management but not within that of control of risk (see 
+paragraphs 1.61 and 1.65);
+
+• 
+
+5. 
+
+6. 
+
+For this section, insurance and reinsurance undertakings are defined by reference 
+to insurance and reinsurance business as described in Part IV of the Report on the 
+Attribution of Profits to Permanent Establishments. This description, which covers 
+the  general  scheme  of  insurance,  is  not  intended  to  exclude  from  this  guidance 
+risks which the insured has some ability to influence, such as product liability risk.
+See paragraph 10.3.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 443
+
+• 
+
+there  is  a  difference  between  the  specific  risk  being  insured  (the 
+party taking the decision to insure – i.e. mitigate – or not, controls 
+this risk; that party will usually be the insured but may be another 
+entity within the MNE group) and the risk taken on by the insurer in 
+providing insurance to the insured party.
+
+10.196.  Although the quantum of the risk reward for the insured party and 
+the insurer might be dependent upon exactly the same events in both cases, 
+that quantum could be significantly different (for example, if the insured risk 
+materialises and a claim is made, the insured party could potentially receive 
+significant upside relative to the premium paid whereas the insurer’s income 
+will  be  limited  to  the  insurance  premiums  and  investment  income  it  has 
+received  regardless  of  the  quantum  of  risk  reward  received  by  the  insured 
+party).
+
+10.197.  The insurer is carrying out a risk mitigation function in respect of 
+the insured party’s risk but not actually assuming that risk. It is assuming 
+the risk of insuring (i.e. mitigating) the insured party’s risk. That risk will 
+be  controlled  by  either  the  insurer  or  (more  likely  in  a  captive  insurance 
+scenario)  another  entity  within  the  MNE  group  that  makes  the  decision 
+that the risk should be assumed by the insurer. (See paragraph 10.223). The 
+insurer (or other entity) can make decisions as to how to respond to this risk – 
+in accordance with paragraph 1.61 (ii) – by, for example, further diversifying 
+its portfolio of insured risks or by reinsuring.
+
+10.198.  Captive  insurances  may  be  self-managed  from  within  the  MNE 
+group,  or  managed  by  an  unrelated  service  provider  (of

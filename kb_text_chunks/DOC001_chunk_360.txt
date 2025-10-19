@@ -1,0 +1,107 @@
+t is, the anticipated value above and beyond the value 
+of Company A’s funding investment) reflects the contribution of Company B’s 
+pre-existing contributions of intangibles and R&D commitment to the CCA. 
+Company A needs to pay for this additional value it receives. Accordingly, 
+balancing  payments  from  Company  A  to  Company  B  to  account  for  the 
+difference are required. In effect, Company A would need to make a balancing 
+payment associated with those contributions to Company B equal in present 
+value,  taking  into  account  the  risk  associated  with  this  future  income,  to 
+USD 220 million per year anticipated in years 6 to 15.
+
+1. 
+
+For  purposes  of  this  example,  it  is  not  necessary  to  derive  these  results.  The 
+example assumes that making a funding “investment” of USD 100 million per 
+year for five years in a project with this level of risk should earn at arm’s length 
+anticipated profits of USD 110 million per year for the following ten years. The 
+results used herein are included for the purposes of demonstrating the principles 
+illustrated in this example only and no guidance as to the level of arm’s length 
+returns to participants in CCAs should be inferred.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX TO CHAPTER VIII: EXAMPLES ON COST CONTRIBUTION ARRANGEMENTS – 651
+
+Example 5
+
+The  facts  are  the  same  as  in  Example  4  except  that  the  functional 
+21. 
+analysis indicates Company A has no capacity to make decisions to take on 
+or  decline  the  risk-bearing  opportunity  represented  by  its  participation  in 
+the CCA, or to make decisions on whether and how to respond to the risks 
+associated with the opportunity. It also has no capability to mitigate the risks 
+or to assess and make decisions relating to the risk mitigation activities of 
+another party conducted on its behalf.
+
+22. 
+In  accurately  delineating  the  transactions  associated  with  the  CCA, 
+the  functional  analysis  therefore  indicates  that  Company  A  does  not  control 
+its  specific  risks  under  the  CCA  in  accordance  with  the  guidance  in 
+paragraph 8.15 and consequently is not entitled to a share in the output that is 
+the objective of the CCA.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+APPENDIX: RECOMMENDATION OF THE COUNCIL [C(95)126/FINAL] – 653
+
+Appendix 
+
+Recommendation of the Council on the Determination 
+of Transfer Pricing between Associated Enterprises 
+[C(95)126/Final, as amended]
+
+THE COUNCIL,
+
+HAVING  REGARD  to  Article  5(b)  of  the  Convention  on  the 
+Organisation  for  Economic  Co-operation  and  Development  of  14th 
+December, 1960;
+
+HAVING REGARD to the Declaration on International Investment and 
+Multinational Enterprises and the Guidelines annexed thereto [C(76)99(Final)];
+
+HAVING  REGARD  to  the  Declaration  on  Base  Erosion  and  Profit 
+Shifting  (“BEPS”)  [C/MIN(2013)22/FINAL]  and  to  the  BEPS  Explanatory 
+Statement  and  the  measures  set  out  in  the  BEPS  Final  Reports  (the  BEPS 
+package), endorsed by the Council on 1 October 2015 [C(2015)125/REV1] and 
+the G20 Leaders at the Antalya Summit on 15-16 November 2015;
+
+HAVING  REGARD 
+
+for 
+Multinational Enterprises and Tax Administrations, hereafter referred to as 
+“Guidelines” as they may be modified by the Committee on Fiscal Affairs;
+
+the  Transfer  Pricing  Guidelines 
+
+to 
+
+HAVING  REGARD  to  the  Recommendation  of  the  Council  on  Base 
+Erosion and Profit Shifting Measures Related to Transfer Pricing [C(2016)79] 
+which  recommends  that  Members  and  non-Members  having  adhered  to 
+it  follow  the  guidance  set  out  in  the  2015  BEPS  Reports  on  Actions  8-10 
+“Aligning  Transfer  Pricing  Outcomes  With  Value  Creation”  [C(2015)125/
+ADD8] and on Action 13 “Transfer Pricing Documentation and Country-by-
+Country Reporting” [C(2015)125/ADD11] as incorporated in the Guidelines;
+
+HAVING  REGARD  to  the  establishment  of  the  Inclusive  Framework 
+on  Base  Erosion  and  Profit  Shifting  as  agreed  by  the  Committee  on 
+Fiscal  Affairs  [CTPA/CFA/NOE2(2016)1/REV3],  reported  to  the  Council 
+[C/M(2016)3],  and  endorsed  by  the  G20  Finance  Ministers  at  their 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+654 – APPENDIX: RECOMMENDATION OF THE COUNCIL [C(95)126/FINAL]
+
+26-27  February  2016  meeting  in  Shanghai,  China,  under  which  over  100 
+countries  and  jurisdictions  have  been  invited  to  participate  as  members 
+[C(2016)78], i.e. on an equal footing with OECD Members on the basis of the 
+same commitments as OECD Members and existing Associates with regard 
+to the BEPS Project;
+
+CONSIDERING  the  fundamental  need  for  co-operation  among  tax 
+administrations to remove the obstacles that international double taxation presents 
+to the free movement of goods, services and capital between jurisdictions;
+
+CONSIDERING  the  equally  fundamental  need  to  effectively  prevent 
+double  non-taxation  as  well  as  no  or  low  

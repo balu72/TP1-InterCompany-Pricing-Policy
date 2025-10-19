@@ -1,0 +1,81 @@
+local operation.
+
+9.65. 
+In particular, in the case of the conversion of a full-fledged distributor 
+into,  for  example,  a  limited  risk  distributor  or  commissionnaire,  it  may  be 
+important to examine whether the distributor has developed local marketing 
+intangibles  over  the  years  prior  to  its  being  restructured  and  if  so,  what 
+the  nature  and  the  value  of  these  intangibles  are,  and  whether  they  were 
+transferred to an associated enterprise. Where such local intangibles are found 
+to  be  in  existence  and  to  be  transferred  to  a  foreign  associated  enterprise, 
+the arm’s length principle should apply to determine whether and if so how 
+to  compensate  such  a  transfer,  based  on  what  would  be  agreed  between 
+independent parties in comparable circumstances. In this regard it is relevant to 
+note that the transferor should receive arm’s length compensation (in addition 
+to the arm’s length compensation for the transferred intangibles) when after 
+the restructuring it continues to perform functions related to the development, 
+enhancement, maintenance, protection or exploitation of the local intangible 
+transferred (see Section B.2.1 of Chapter VI). On the other hand, where such 
+local intangibles are found to be in existence and to remain in the restructured 
+entity,  they  should  be  taken  into  account  in  the  functional  analysis  of  the 
+post-restructuring  activities.  They  may  accordingly  influence  the  selection 
+and application of the most appropriate transfer pricing method for the post-
+restructuring controlled transactions, in order that appropriate compensation 
+can be determined.3
+
+E.2.4. Contractual rights
+
+9.66.  Contractual  rights  can  be  valuable  intangibles.  Where  valuable 
+contractual  rights  are  transferred  (or  surrendered)  between  associated 
+enterprises, they should be remunerated at arm’s length, taking account of the 
+value of the rights transferred from the perspectives of both the transferor and 
+the transferee.
+
+9.67.  Tax administrations have expressed concerns about cases they have 
+observed  in  practice  where  an  entity  voluntarily  terminates  a  contract  that 
+provided  benefits  to  it,  in  order  to  allow  a  foreign  associated  enterprise  to 
+
+3. 
+
+See  Part  II  of  this  chapter  for  a  discussion  of  the  remuneration  of  the  post-
+restructuring arrangements.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 381
+
+enter into a similar contract and benefit from the profit potential attached to it. 
+For instance, assume that company A has valuable long-term contracts with 
+independent customers that carry significant profit potential for A. Assume 
+that at a certain point in time, A voluntarily terminates its contracts with its 
+customers under circumstances where the latter are legally or commercially 
+obligated to enter into similar arrangements with company B, a foreign entity 
+that belongs to the same MNE group as A. As a consequence, the contractual 
+rights  and  attached  profit  potential  that  used  to  lie  with  A  now  lie  with  B. 
+If the factual situation is that B could only enter into the contracts with the 
+customers subject to A’s surrendering its own contractual rights to its benefit, 
+and that A only terminated its contracts with its customers knowing that the 
+latter were legally or commercially obligated to conclude similar arrangements 
+with B, this in substance would consist in a tri-partite transaction and it may 
+amount  to  a  transfer  of  valuable  contractual  rights  from  A  to  B  that  may 
+have to be remunerated at arm’s length, depending on the value of the rights 
+surrendered by A from the perspectives of both A and B.
+
+E.3. Transfer of activity (ongoing concern)
+
+E.3.1. Valuing a transfer of activity
+
+9.68.  Business restructurings sometimes involve the transfer of an ongoing 
+concern,  i.e.  a  functioning,  economically  integrated  business  unit.  The 
+transfer of an ongoing concern in this context means the transfer of assets, 
+bundled with the ability to perform certain functions and assume certain risks. 
+Such  functions,  assets  and  risks  may  include,  among  other  things:  tangible 
+property and intangibles; liabilities associated with holding certain assets and 
+performing certain functions, such as R&D and manufacturing; the capacity 
+to carry on the activities that the transferor carried on before the transfer; and 
+any resource, capabilities, and rights. The valuation of a transfer of an ongoing 
+concern should reflect all the valuable elements that would be remunerated 
+between independent parties in comparable circumstances. See Section A.4.6 
+of  Chapter  VI.  For  example,  in  the  case  of  a  business  restructuring  that 
+involves  the  transfer  of  a  business  unit  that  includes,  among  other  things, 
+research  facilities  staffed  with  an  experienced  research  team,  the  valuation 

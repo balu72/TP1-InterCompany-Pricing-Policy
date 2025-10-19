@@ -1,0 +1,86 @@
+le  to  its  members,  in  particular  administrative,  technical, 
+financial and commercial services. Such services may include management, 
+co-ordination  and  control  functions  for  the  whole  group.  The  cost  of 
+providing such services may be borne initially by the parent, by one or more 
+specially  designated  group  members  (“a  group  service  centre”),  or  other 
+group members. An independent enterprise in need of a service may acquire 
+the services from a service provider who specialises in that type of service or 
+may perform the service for itself (i.e. in-house). In a similar way, a member 
+of  an  MNE  group  in  need  of  a  service  may  acquire  it  from  independent 
+enterprises,  or  from  one  or  more  associated  enterprises  in  the  same  MNE 
+group  (i.e.  intra-group),  or  may  perform  the  service  for  itself.  Intra-group 
+services  often  include  those  that  are  typically  available  externally  from 
+independent enterprises (such as legal and accounting services), in addition 
+to  those  that  are  ordinarily  performed  internally  (e.g.  by  an  enterprise  for 
+itself, such as central auditing, financing advice, or training of personnel). It 
+is not in the interests of an MNE group to incur costs unnecessarily, and it is 
+in the interest of an MNE group to provide intra-group services efficiently. 
+Application of the guidance in this chapter should ensure that services are 
+appropriately identified and associated costs appropriately allocated within 
+the MNE group in accordance with the arm’s length principle.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+314 – CHAPTER VII: INTRA-GROUP SERVICES
+
+7.3. 
+Intra-group  arrangements  for  rendering  services  are  sometimes 
+linked to arrangements for transferring goods or intangibles (or the licensing 
+thereof).  In  some  cases,  such  as  know-how  contracts  containing  a  service 
+element,  it  may  be  very  difficult  to  determine  where  the  exact  border  lies 
+between the transfer of intangibles or rights in intangibles and the provision 
+of  services.  Ancillary  services  are  frequently  associated  with  the  transfer 
+of  technology.  It  may  therefore  be  necessary  to  consider  the  principles  for 
+aggregation  and  segregation  of  transactions  in  Chapter  III  where  a  mixed 
+transfer of services and property is involved.
+
+7.4. 
+Intra-group  services  may  vary  considerably  among  MNE  groups, 
+as does the extent to which those services provide a benefit, or an expected 
+benefit,  to  one  or  more  group  members.  Each  case  is  dependent  upon  its 
+own  facts  and  circumstances  and  the  arrangements  within  the  group.  For 
+example, in a decentralised group, the parent company may limit its intra-
+group activity to monitoring its investments in its subsidiaries in its capacity 
+as a shareholder. In contrast, in a centralised or integrated group, the board of 
+directors and senior management of the parent company may make important 
+decisions concerning the affairs of its subsidiaries, and the parent company 
+may support the implementation of these decisions by performing general and 
+administrative activities for its subsidiaries as well as operational activities 
+such as treasury management, marketing, and supply chain management.
+
+B. Main issues
+
+7.5. 
+There  are  two  issues  in  the  analysis  of  transfer  pricing  for  intra-
+group services. One issue is whether intra-group services have in fact been 
+provided. The other issue is what the intra-group charge for such services for 
+tax purposes should be in accordance with the arm’s length principle. Each 
+of these issues is discussed below.
+
+B.1. Determining whether intra-group services have been rendered
+
+B.1.1. Benefits test
+
+7.6. 
+Under the arm’s length principle, the question whether an intra-group 
+service  has  been  rendered  when  an  activity  is  performed  for  one  or  more 
+group  members  by  another  group  member  should  depend  on  whether  the 
+activity provides a respective group member with economic or commercial 
+value to enhance or maintain its business position. This can be determined by 
+considering whether an independent enterprise in comparable circumstances 
+would  have  been  willing  to  pay  for  the  activity  if  performed  for  it  by  an 
+independent  enterprise  or  would  have  performed  the  activity  in-house  for 
+itself. If the activity is not one for which the independent enterprise would 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VII: INTRA-GROUP SERVICES – 315
+
+have been willing to pay or perform for itself, the activity ordinarily should 
+not be considered as an intra-group service under the arm’s length principle.
+
+7.7. 
+The  analysis  described  above  quite  clearly  depends  on  the  actual 
+facts  and  circumstances,  and  it  is  not  possible  in  the  abstract  to  set  forth 
+categorically the activities that do or do not constitute the rendering of in

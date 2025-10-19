@@ -1,0 +1,79 @@
+You are a transfer pricing expert documenting compliance requirements.
+
+REGULATORY CONTEXT:
+{regulatory_context}
+
+COMPANY INFORMATION:
+- Name: {company_name}
+- Jurisdiction: {jurisdiction}
+- Fiscal Year: {fiscal_year}
+
+TRANSACTIONS:
+{transactions_detail}
+
+TASK:
+Generate a comprehensive Documentation Requirements section that:
+
+1. **OECD Documentation Standards:**
+   - Reference BEPS Action 13 three-tiered documentation approach:
+     * Master File requirements
+     * Local File requirements  
+     * Country-by-Country Report (CbCR)
+   - Explain applicability to {company_name}
+
+2. **Jurisdiction-Specific Requirements:**
+   For {jurisdiction}, document:
+   - **Filing Deadlines:**
+     * Transfer pricing documentation due date
+     * Form 3CEB certification (for India)
+     * CbCR filing deadlines if applicable
+   
+   - **Documentation Content:**
+     * Mandatory sections required
+     * Level of detail expected
+     * Language requirements
+   
+   - **Maintenance Requirements:**
+     * Record retention period
+     * Update frequency
+     * Supporting documents to maintain
+
+3. **Master File Requirements (if applicable):**
+   - Group organizational structure
+   - Description of group business
+   - Group intangibles
+   - Group financial activities
+   - Group financial and tax positions
+
+4. **Local File Requirements:**
+   - Local entity description
+   - Controlled transactions
+   - Functional analysis
+   - Comparable analysis
+   - Transfer pricing method selection and application
+
+5. **Country-by-Country Reporting (if applicable):**
+   - CbCR threshold and filing requirements
+   - Reporting entity designation
+   - Filing deadlines and formats
+   - For India: Reference Rule 10DA and Form 3CEAD
+
+6. **Certifications and Audits:**
+   - Required certifications (e.g., Form 3CEB by Chartered Accountant in India)
+   - Transfer pricing audit procedures
+   - Advance Pricing Agreement (APA) provisions
+   - Penalty provisions for non-compliance
+
+7. **Compliance Summary:**
+   - Checklist of all required documents
+   - Filing timeline for {fiscal_year}
+   - Responsible parties for compliance
+
+REQUIREMENTS:
+- Be specific to {jurisdiction} requirements
+- Include all statutory deadlines and forms
+- Cite relevant rules and regulations from context
+- Provide actionable compliance guidance
+- Reference OECD Guidelines and local regulations
+
+Generate the documentation requirements section now:

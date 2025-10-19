@@ -1,0 +1,76 @@
+s, the 
+ability to influence margins may be limited. The credit terms achieved from 
+managing the relationship with the oil suppliers fund working capital and are 
+crucial to the distributor’s margin. The impact of the risk on cost of capital is, 
+therefore, significant in the context of how value is created for the distribution 
+function.
+
+1.75. 
+In the second situation, a multinational toy retailer buys a wide range 
+of products from a number of third-party manufacturers. Most of its sales are 
+concentrated in the last two months of the calendar year, and a significant 
+risk relates to the strategic direction of the buying function, and in making 
+the  right  bets  on  trends  and  determining  the  products  that  will  sell  and  in 
+what volumes. Trends and the demand for products can vary across markets, 
+and so expertise is needed to evaluate the right bets in the local market. The 
+effect of the buying risk can be magnified if the retailer negotiates a period of 
+exclusivity for a particular product with the third-party manufacturer.
+
+1.76.  Control over a specific risk in a transaction focusses on the decision-
+making  of  the  parties  to  the  transaction  in  relation  to  the  specific  risk 
+arising  from  the  transaction.  This  is  not  to  say,  however,  that  in  an  MNE 
+group other parties may not be involved in setting general policies that are 
+relevant for the assumption and control of the specific risks identified in a 
+transaction, without such policy-setting itself representing decision making. 
+The board and executive committees of the group, for example, may set the 
+level of risk the group as a whole is prepared to accept in order to achieve 
+commercial objectives, and to establish the control framework for managing 
+and reporting risk in its operations. Line management in business segments, 
+operational entities, and functional departments may identify and assess risk 
+against the commercial opportunities, and put in place appropriate controls 
+and processes to address risk and influence the risk outcomes arising from 
+day-to-day  operations.  The  opportunities  pursued  by  operational  entities 
+require the ongoing management of the risk that the resources allocated to the 
+opportunity will deliver the anticipated return. For example, finished product 
+inventory risk in a supply transaction between two associated enterprises may 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 57
+
+be  controlled  by  the  party  with  the  capability  to  determine  the  production 
+volumes  together  with  the  performance  of  that  decision-making.  The  way 
+that  inventory  risk  in  the  transaction  between  two  associated  enterprises 
+is addressed may be subject to policy-setting elsewhere in the MNE group 
+about overall levels of working capital tied up in inventory, or co-ordination 
+of  appropriate  minimum  stocking  levels  across  markets  to  meet  strategic 
+objectives. This wider policy-setting however cannot be regarded as decisions 
+to  take  on,  lay  off,  decline,  or  mitigate  the  specific  inventory  risk  in  the 
+example of the product supply transaction in this paragraph.
+
+D.1.2.1.2. Step 2: Contractual assumption of risk
+
+1.77. 
+The  identity  of  the  party  or  parties  assuming  risks  may  be  set  out 
+in  written  contracts  between  the  parties  to  a  transaction  involving  these 
+risks.  A  written  contract  typically  sets  out  an  intended  assumption  of  risk 
+by  the  parties.  Some  risks  may  be  explicitly  assumed  in  the  contractual 
+arrangements. For example, a distributor might contractually assume accounts 
+receivable risk, inventory risk, and credit risks associated with the distributor’s 
+sales  to  unrelated  customers.  Other  risks  might  be  implicitly  assumed.  For 
+example, contractual arrangements that provide non-contingent remuneration 
+for one of the parties implicitly allocate the outcome of some risks, including 
+unanticipated profits or losses, to the other party.
+
+1.78.  A contractual assumption of risk constitutes an ex ante agreement to 
+bear some or all of the potential costs associated with the ex post materialisation 
+of downside outcomes of risk in return for some or all of the potential benefit 
+associated with the ex post materialisation of positive outcomes. Importantly, 
+ex  ante  contractual  assumption  of  risk  should  provide  clear  evidence  of  a 
+commitment to assume risk prior to the materialisation of risk outcomes. Such 
+evidence is a very important part of the tax administration’s transfer pricing 
+analysis of risks in commercial or financial relations, since, in practice, an audit 
+performed by the tax administration may occur years after the making of such 
+up-front decisions by the associated enterprises and when outcomes are known. 
+The purported assumption of risk by associated enterprises when risk outcomes 
+are certain is by definition not an 

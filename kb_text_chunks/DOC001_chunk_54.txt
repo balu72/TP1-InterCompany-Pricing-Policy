@@ -1,0 +1,78 @@
+y,  in  such  cases  the  CUP  method  is  preferable  over  all  other 
+methods.
+
+It  may  be  difficult  to  find  a  transaction  between  independent 
+2.16. 
+enterprises  that  is  similar  enough  to  a  controlled  transaction  such  that  no 
+differences have a material effect on price. For example, a minor difference 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+98 – CHAPTER II: TRANSFER PRICING METHODS
+
+in  the  property  transferred  in  the  controlled  and  uncontrolled  transactions 
+could  materially  affect  the  price  even  though  the  nature  of  the  business 
+activities undertaken may be sufficiently similar to generate the same overall 
+profit margin. When this is the case, some adjustments will be appropriate. 
+As  discussed  below  in  paragraph  2.17,  the  extent  and  reliability  of  such 
+adjustments will affect the relative reliability of the analysis under the CUP 
+method.
+2.17. 
+In considering whether controlled and uncontrolled transactions are 
+comparable, regard should be had to the effect on price of broader business 
+functions  other  than  just  product  comparability  (i.e.  factors  relevant  to 
+determining comparability under Chapter I). Where differences exist between 
+the  controlled  and  uncontrolled  transactions  or  between  the  enterprises 
+undertaking  those  transactions,  it  may  be  difficult  to  determine  reasonably 
+accurate  adjustments  to  eliminate  the  effect  on  price.  The  difficulties  that 
+arise  in  attempting  to  make  reasonably  accurate  adjustments  should  not 
+routinely  preclude  the  possible  application  of  the  CUP  method.  Practical 
+considerations dictate a more flexible approach to enable the CUP method to 
+be used and to be supplemented as necessary by other appropriate methods, 
+all of which should be evaluated according to their relative accuracy. Every 
+effort should be made to adjust the data so that it may be used appropriately in 
+a CUP method. As for any method, the relative reliability of the CUP method 
+is affected by the degree of accuracy with which adjustments can be made to 
+achieve comparability.
+Subject  to  the  guidance  in  paragraph  2.2  for  selecting  the  most 
+2.18. 
+appropriate transfer pricing method in the circumstances of a particular case, 
+the CUP method would generally be an appropriate transfer pricing method 
+for establishing the arm’s length price for the transfer of commodities between 
+associated enterprises. The reference to “commodities” shall be understood to 
+encompass physical products for which a quoted price is used as a reference by 
+independent parties in the industry to set prices in uncontrolled transactions. 
+The term “quoted price” refers to the price of the commodity in the relevant 
+period obtained in an international or domestic commodity exchange market. 
+In this context, a quoted price also includes prices obtained from recognised 
+and transparent price reporting or statistical agencies, or from governmental 
+price-setting agencies, where such indexes are used as a reference by unrelated 
+parties to determine prices in transactions between them.
+2.19.  Under  the  CUP  method,  the  arm’s  length  price  for  commodity 
+transactions  may  be  determined  by  reference  to  comparable  uncontrolled 
+transactions  and  by  reference  to  comparable  uncontrolled  arrangements 
+represented by the quoted price. Quoted commodity prices generally reflect the 
+agreement between independent buyers and sellers in the market on the price 
+for a specific type and amount of commodity, traded under specific conditions 
+at a certain point in time. A relevant factor in determining the appropriateness 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 99
+
+of using the quoted price for a specific commodity is the extent to which the 
+quoted price is widely and routinely used in the ordinary course of business in 
+the industry to negotiate prices for uncontrolled transactions comparable to the 
+controlled transaction. Accordingly, depending on the facts and circumstances 
+of  each  case,  quoted  prices  can  be  considered  as  a  reference  for  pricing 
+commodity  transactions  between  associated  enterprises.  Taxpayers  and  tax 
+administrations should be consistent in their application of the appropriately 
+selected quoted price.
+2.20.  For the CUP method to be reliably applied to commodity transactions, 
+the economically relevant characteristics of the controlled transaction and the 
+uncontrolled  transactions  or  the  uncontrolled  arrangements  represented  by 
+the quoted price need to be comparable. For commodities, the economically 
+relevant  characteristics  include,  among  others,  the  physical  features  and 
+quality of the commodity; the contractual terms of the controlled transaction, 
+such  as  volumes  traded,  period  of  the  arrangements,  the  timing  and  terms 
+of delivery, transportation, insurance, and foreign c

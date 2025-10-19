@@ -1,0 +1,78 @@
+ As cash pooling is not 
+undertaken regularly, if at all, by independent enterprises, the application of 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 427
+
+transfer pricing principles requires careful consideration. As paragraph 1.11 
+notes  “Where  independent  enterprises  seldom  undertake  transactions  of 
+the  type  entered  into  by  associated  enterprises,  the  arm’s  length  principle 
+can be difficult to apply because there is little or no direct evidence of what 
+conditions would have been established by independent enterprises.”
+10.116.  The accurate delineation of cash pooling arrangements would need 
+to  take  into  account  not  only  the  facts  and  circumstances  of  the  balances 
+transferred but the wider context of the conditions of the pooling arrangement 
+as a whole. For example, a cash pool is likely to differ from a straightforward 
+overnight deposit with a bank or similar financial institution in that a cash 
+pool member with a credit position is not depositing money as a transaction 
+in isolation with a view to a simple depositor return.
+10.117.  The  cash  pool  member  is  likely  to  be  participating  in  providing 
+liquidity  as  part  of  a  broader  group  strategy,  an  arrangement  in  which  the 
+member  can  have  a  credit  or  debit  position,  which  may  include  among  its 
+aims  a  range  of  benefits  that  can  only  be  achieved  as  part  of  a  collective 
+strategy involving the pool members, done for the benefit of all of the pool 
+participants, and the membership of which is limited to entities within the 
+MNE  group.  Pool  participants  deposit  cash  to  the  pool  (or  withdraw  cash 
+from the pool), and not to (or from) a particular cash pool member.
+10.118.  No member of the pooling arrangement would expect to participate 
+in the transaction if it made them any worse off than their next best option. 
+The analysis of an MNE’s decision to participate in a cash pool arrangement 
+should be done with reference to its options realistically available, taking into 
+account that an MNE can obtain benefits as a member of the cash pool other 
+than an improved interest rate (see paragraph 10.146).
+
+10.119.  In delineating the cash pool transactions, it may be that the savings 
+and  efficiencies  achieved  are  determined  to  arise  as  a  result  of  group 
+synergies  created  through  deliberate  concerted  action  (as  discussed  in 
+Section D.8 of Chapter I).
+10.120.  As indicated in paragraph 1.179, the determination of the results that 
+arise  from  deliberate  concerted  group  actions  must  be  established  through 
+a  thorough  functional  analysis.  Accordingly,  in  the  context  of  cash  pooling 
+arrangements, it is necessary to determine (i) the nature of the advantage or 
+disadvantage, (ii) the amount of the benefit or detriment provided, and (iii) how 
+that benefit or detriment should be divided among members of the MNE group.
+
+10.121.  An advantage of a cash pooling arrangement may be the reduction 
+of  interest  paid  or  the  increase  of  interest  received,  which  results  from 
+netting credit and debit balances. The amount of that group synergy benefit, 
+calculated by reference to the results that the cash pool members would have 
+obtained had they dealt solely with independent enterprises, would generally 
+be shared by the cash pool members, provided that an appropriate reward is 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+428 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+allocated to the cash pool leader for the functions it provides in accordance 
+with Section C.2.3. of this chapter.
+
+10.122.  Another key consideration in analysing intra-group funding arrangements 
+which  might  be  described  as  cash  pooling  are  situations  where  members 
+of  an  MNE  group  maintain  debit  and  credit  positions  which,  rather  than 
+functioning  as  part  of  a  short-term  liquidity  arrangement,  become  more 
+long term. It would usually be appropriate to consider whether, on accurate 
+delineation, it would be correct to treat them as something other than a short-
+term cash pool balance, such as a longer term deposit or a term loan.
+
+10.123.  One of the practical difficulties in such situations will be deciding 
+how long a balance should be treated as part of the cash pool before it could 
+potentially be treated as something else, for example a term loan. As cash 
+pooling is intended to be a short-term, liquidity-driven arrangement, it may 
+be appropriate to consider whether the same pattern is present year after year 
+and to examine what policies the MNE group’s financial management has in 
+place, given that yield on cash balances is a key financial management issue.
+
+10.124.  A  potential  difficulty  for  tax  administrations  in  analysing  cash 
+pooling  arrangements  is  that  the  various  entities  in  a  cash  pool  may  be 
+resident across a number of jurisdictions, potentially making it difficu

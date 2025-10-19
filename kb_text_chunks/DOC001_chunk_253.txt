@@ -1,0 +1,86 @@
+verall, pooled, position. In this instance, M receives surplus funds from 
+MNE group members H and J and provides funds to MNE group members 
+K  and  L  which  have  a  funding  need.  Interest  on  the  balances  of  the  pool 
+participants is charged or paid in accordance with the pooling agreements.
+
+10.136.  As a result of the arrangements in place, M pays less interest to the 
+bank  or  receives  more  interest  than  would  have  been  the  case  absent  the 
+pooling arrangements.
+
+10.137.  A functional analysis shows that M is not subject to credit risk, which 
+remains with the cash pool members, but merely performs a co-ordination 
+function.  Furthermore  M  is  not  performing  the  functions  or  assuming  the 
+risks that a bank would. Therefore M would not earn the kind of reward that 
+a bank would earn such as retaining the interest spread between deposits and 
+loans. Accordingly, M would earn a reward commensurate with the service 
+functions it provides to the pool.
+
+Example 2
+
+10.138.  Company  T,  a  member  of  MNE  Group  y,  performs  as  the  MNE 
+group  treasury  entity  and  undertakes  a  range  of  different  financial 
+transactions  both  intra-group  and  externally.  Company  T’s  main  purpose 
+is to provide treasury services to the other entities within the MNE group 
+including strategy and management of group liquidity. T is responsible for 
+raising finance across the MNE group by issuing bonds or borrowing from 
+third party banks and arranges intra-group loans to meet the funding needs 
+of other group members as necessary.
+
+10.139.  As  part  of  the  group  liquidity  arrangements,  T  operates  an  MNE 
+group  cash  pooling  arrangement  and  is  responsible  for  deciding  how  to 
+invest surplus funds or fund any shortfall. T sets the intra-group interest rates 
+and is at risk for any differences between the rates it sets with other group 
+members and the rates at which it transacts with the independent lenders. T 
+also bears credit risk, liquidity risk and currency risk for intra-group finance 
+and decides on how or whether to hedge such risks.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 431
+
+10.140.  The analysis under the guidance in Section D.1 of Chapter I indicates 
+that  the  actual  transactions  should  be  accurately  delineated  as  intra-group 
+loans in the context of the treasury activities undertaken by Company T since 
+Company T is performing functions and assuming risks that go beyond the 
+co-ordination role of a cash pool leader. In particular, the functional analysis 
+shows that Company T controls the financial risks contractually allocated to 
+it and has the financial capacity to bear those risks.
+
+10.141.  Accordingly, T should be compensated for the functions it performs 
+and the risks it assumes in accordance with the guidance in Section C.1. This 
+may  include  earning  part  or  all  of  the  spread  between  the  borrowing  and 
+lending positions which it adopts.
+
+10.142.  It  should  be  borne  in  mind  that  the  other  group  members  which 
+transact with T would still only do so if this left them no worse off than their 
+next best option.
+
+C.2.3.2. Rewarding the cash pool members
+
+10.143.  The  remuneration  of  the  cash  pool  members  will  be  calculated 
+through the determination of the arm’s length interest rates applicable to the 
+debit and credit positions within the pool. This determination will allocate the 
+synergy benefits arising from the cash pool arrangement amongst the pool 
+members and it will generally be done once the remuneration of the cash pool 
+leader has been calculated.
+
+10.144.  Eventually, the remuneration of the cash pool members will depend 
+upon the specific facts and circumstances and the functions, assets and risks 
+of  each  of  the  pool  members.  Therefore,  this  guidance  does  not  intend  to 
+provide a prescriptive approach for allocating the cash pooling benefits to the 
+participating cash pool members in any given situation but rather lays down 
+the principles that should guide that allocation.
+
+10.145.  Determining  the  arm’s  length  interest  rates  for  the  cash  pool 
+intra-group  transactions  may  be  a  difficult  exercise  due  to  the  lack  of 
+comparable arrangements between unrelated parties. In this context, banking 
+arrangements involving the cash pool leader, taking into account functional 
+differences  between  the  bank  and  the  cash  pool  leader,  and  the  options 
+realistically available to the cash pool members may inform the identification 
+of comparable interest rates in the transfer pricing analysis.
+
+10.146.  It is expected that all cash pool participants will be better off than 
+in  the  absence  of  the  cash  pool  arrangement.  Under  prevailing  facts  and 
+circumstances that could imply, for instance, that all cash pool participants 
+would  benefit  from  enhanced  interest  rates  applicable  to  debit  and  credit 
+position w

@@ -1,0 +1,85 @@
+y establishing 
+the  conditions  of  the  commercial  and  financial  relations  that  they  would 
+expect to find between independent enterprises in comparable transactions 
+under comparable circumstances.
+
+Factors  other  than  tax  considerations  may  distort  the  conditions  of 
+1.4. 
+commercial and financial relations established between associated enterprises. 
+For  example,  such  enterprises  may  be  subject  to  conflicting  governmental 
+pressures  (in  the  domestic  as  well  as  foreign  country)  relating  to  customs 
+valuations, anti-dumping duties, and exchange or price controls. In addition, 
+transfer  price  distortions  may  be  caused  by  the  cash  flow  requirements  of 
+enterprises  within  an  MNE  group.  An  MNE  group  that  is  publicly  held 
+may feel pressure from shareholders to show high profitability at the parent 
+company  level,  particularly  if  shareholder  reporting  is  not  undertaken  on 
+a consolidated basis. All of these factors may affect transfer prices and the 
+amount of profits accruing to associated enterprises within an MNE group.
+
+1.5. 
+It  should  not  be  assumed  that  the  conditions  established  in  the 
+commercial  and  financial  relations  between  associated  enterprises  will 
+invariably  deviate  from  what  the  open  market  would  demand.  Associated 
+enterprises in MNEs sometimes have a considerable amount of autonomy and 
+can often bargain with each other as though they were independent enterprises. 
+Enterprises respond to economic situations arising from market conditions, in 
+their relations with both third parties and associated enterprises. For example, 
+local  managers  may  be  interested  in  establishing  good  profit  records  and 
+therefore would not want to establish prices that would reduce the profits of 
+their  own  companies.  Tax  administrations  should  keep  these  considerations 
+in  mind  to  facilitate  efficient  allocation  of  their  resources  in  selecting  and 
+conducting  transfer  pricing  examinations.  Sometimes,  it  may  occur  that  the 
+relationship between the associated enterprises may influence the outcome of 
+the bargaining. Therefore, evidence of hard bargaining alone is not sufficient 
+to establish that the transactions are at arm’s length.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+B. Statement of the arm’s length principle
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 31
+
+B.1.  Article 9 of the OECD Model Tax Convention
+
+1.6. 
+The authoritative statement of the arm’s length principle is found in 
+paragraph 1 of Article 9 of the OECD Model Tax Convention, which forms 
+the basis of bilateral tax treaties involving OECD member countries and an 
+increasing number of non-member countries. Article 9 provides:
+
+[Where] conditions are made or imposed between the two [associated] 
+enterprises  in  their  commercial  or  financial  relations  which  differ 
+from those which would be made between independent enterprises, 
+then any profits which would, but for those condi tions, have accrued 
+to one of the enterprises, but, by reason of those conditions, have not 
+so ac crued, may be included in the prof its of that enterprise and taxed 
+accordingly.
+
+By seeking to adjust profits by reference to the conditions which would 
+have obtained between independent enterprises in comparable transactions and 
+comparable circumstances (i.e. in “comparable uncontrolled transactions”), 
+the arm’s length principle follows the approach of treating the members of 
+an MNE group as operating as separate entities rather than as inseparable 
+parts  of  a  single  unified  business.  Because  the  separate  entity  approach 
+treats the members of an MNE group as if they were independent entities, 
+attention is focused on the nature of the transactions between those members 
+and on whether the conditions thereof differ from the conditions that would 
+be  obtained  in  comparable  uncontrolled  transactions.  Such  an  analysis 
+of  the  controlled  and  uncontrolled  transactions,  which  is  referred  to  as  a 
+“comparability analysis”, is at the heart of the application of the arm’s length 
+principle.  Guidance  on  the  comparability  analysis  is  found  in  Section  D 
+below and in Chapter III.
+
+1.7. 
+It is important to put the issue of comparability into perspective in 
+order  to  emphasise  the  need  for  an  approach  that  is  balanced  in  terms  of, 
+on  the  one  hand,  its  reliability  and,  on  the  other,  the  burden  it  creates  for 
+taxpayers  and  tax  administrations.  Paragraph  1  of  Article  9  of  the  OECD 
+Model Tax Convention is the foundation for comparability analyses because 
+it introduces the need for:
+
+•  A  comparison  between  conditions  (including  prices,  but  not  only 
+prices)  made  or  imposed  between  associated  enterprises  and  those 
+which would be made between independent enterprises, in order to 
+determine whether a re-writing of the accounts for the purposes of 
+calculat

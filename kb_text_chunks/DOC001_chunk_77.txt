@@ -1,0 +1,89 @@
+ssue  in  relation  to  the  combination  of  intangibles.  See  also 
+Example 9 in Annex II to Chapter II.
+
+C.2.2.3.  Shared assumption of economically significant risks, separate 
+
+assumption of closely related risks
+
+2.139.  A transactional profit split may be found to be the most appropriate 
+method  where,  according  to  the  accurately  delineated  transaction,  each 
+party  to  the  controlled  transaction  shares  the  assumption  of  one  or  more 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 135
+
+of  the  economically  significant  risks  in  relation  to  that  transaction  (see 
+paragraph 1.95).
+
+2.140.  A transactional profit split may also be found to be the most appropriate 
+method where, according to the accurately delineated transaction, the various 
+economically  significant  risks  in  relation  to  the  transaction  are  separately 
+assumed  by  the  parties,  but  those  risks  are  so  closely  inter-related  and/or 
+correlated that the playing out of the risks of each party cannot reliably be 
+isolated. See Example 10 in Annex II to Chapter II.
+
+2.141.  The relevance of this factor as an indicator for the transactional profit 
+split method will depend in large measure on the extent to which the risks 
+concerned are economically significant such that a share of relevant profits 
+would be warranted for each party. The economic significance of the risks 
+should be analysed in relation to their importance to the actual or anticipated 
+relevant profits from the controlled transaction(s), rather than in respect of 
+their  importance  to  any  one  of  the  associated  enterprises  whose  business 
+operations may extend beyond those covered by the relevant profits.
+
+2.142.  If each party shares the assumption of economically significant risks 
+or  separately  assumes  inter-related,  economically  significant  risks,  and  a 
+transactional  profit  split  is  considered  to  be  the  most  appropriate  method, 
+it is likely that a split of actual profits, rather than anticipated profits, will 
+be  warranted  since  those  actual  profits,  i.e.  the  actual  relevant  profits  to 
+be split, will reflect the playing out of the risks of each party. Conversely, 
+a  profit  split  of  anticipated  profits  will  tend  to  concentrate  the  playing  out 
+of economically significant risks on one party. That is, the transfer pricing 
+outcome – a sharing of actual or anticipated profits – should align with the 
+accurate delineation of the transaction. See Section C.4.1 below on splits of 
+actual and anticipated profits.
+
+C.2.3. Availability of reliable information
+
+2.143. 
+In  general,  it  will  tend  to  be  the  case  that  the  presence  of  factors 
+indicating  that  a  transactional  profit  split  is  the  most  appropriate  method 
+will  correspond  to  an  absence  of  factors  indicating  that  an  alternative 
+transfer pricing method – one which relies entirely on comparables – is the 
+most appropriate method, determined in accordance with paragraph 2.2 of 
+these  Guidelines.  Put  another  way,  if  information  on  reliable  comparable 
+uncontrolled transactions is available to price the transaction in its entirety, 
+it  is  less  likely  that  the  transactional  profit  split  method  will  be  the  most 
+appropriate method. However, a lack of comparables alone is insufficient to 
+warrant the use of a transactional profit split. See paragraph 2.128.
+
+2.144.  While the transactional profit split method can be applied in cases where 
+there are no uncontrolled comparables, information from trans actions between 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+136 – CHAPTER II: TRANSFER PRICING METHODS
+
+independent parties may still be relevant to the application of the method, for 
+example to guide the splitting of relevant profits (see Section C.3.1.1), or where 
+a residual analysis approach is used (see Section C.3.1.2).
+
+C.2.4. Conclusions
+
+2.145.  This section has described certain characteristics of the transactional 
+profit split method and provided a number of potential indicators as to when 
+it  may  be  found  to  be  the  most  appropriate  method,  as  well  as  a  number 
+of factors which may point in the opposite direction. The guidance in this 
+regard does not seek to be comprehensive, nor is it prescriptive. The presence 
+or  absence  of  one  or  more  of  the  indicators  described  in  this  section  will 
+not necessarily lead to the conclusion that the transactional profit split will 
+(or will not) be the most appropriate method in a particular case. Each case 
+needs to be analysed on its own facts, and it will be important to consider the 
+relative merits and shortcomings of available transfer pricing methods.
+
+C.3.  Guidance for application – in general
+
+2.146.  These  Guidelines  do  not  seek  to  provide  an  exhaustive  catalogue 
+of  ways  in  which  the  transactional  profit  split  method  may  be  applied. 
+Applicat

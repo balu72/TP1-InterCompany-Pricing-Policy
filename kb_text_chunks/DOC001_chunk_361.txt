@@ -1,0 +1,261 @@
+taxation  resulting  from  the 
+misapplication of the international standards for transfer pricing rules leading 
+to outcomes in which the allocation of profits is not aligned with the economic 
+activity that produced the profits;
+
+CONSIDERING  that  transactions  between  associated  enterprises 
+may take place under conditions differing from those taking place between 
+independent enterprises;
+
+CONSIDERING that the prices of such transactions between associated 
+enterprises  (usually  referred  to  as  transfer  pricing)  should,  nevertheless, 
+for  tax  purposes  be  in  conformity  with  those  which  would  be  charged 
+between independent enterprises (usually referred to as arm’s length pricing) 
+consistent with Article 9 (paragraph 1) of the OECD Model Tax Convention 
+on Income and on Capital;
+
+CONSIDERING  that  problems  with  regard  to  transfer  pricing  in 
+international transactions assume special importance in view of the substantial 
+volume of such transactions;
+
+CONSIDERING the need to achieve consistency in the approaches of 
+tax administrations, on the one hand, and of associated enterprises, on the 
+other hand, in the determination of the income and expenses of a company 
+that  is  part  of  a  Multinational  Enterprise  Group  that  should  be  taken  into 
+account within a jurisdiction.
+
+On the proposal of the Committee on Fiscal Affairs:
+
+I.  RECOMMENDS that Members and non-Members adhering to this 
+
+Recommendation (hereafter the “Adherents”):
+
+i) 
+
+follow,  when  reviewing,  and  if  necessary,  adjusting  transfer 
+pricing  between  associated  enterprises  for  the  purposes  of 
+determining taxable income, the Guidelines – considering the 
+whole  of  the  Guidelines  and  the  interaction  of  the  different 
+chapters – for arriving at arm’s length pricing for transactions 
+between associated enterprises;
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+APPENDIX: RECOMMENDATION OF THE COUNCIL [C(95)126/FINAL] – 655
+
+ii)  encourage  taxpayers  to  follow  the  Guidelines;  to  that  effect 
+Adherents should give the Guidelines publicity and have them 
+translated, where necessary, into their national language(s);
+
+iii)  develop further co-operation, on a bilateral or multilateral basis, 
+
+in matters pertaining to transfer pricing.
+
+II.  INVITES  Adherents  to  notify  the  Committee  on  Fiscal  Affairs 
+of  any  modifications  to  the  text  of  any  laws  or  regulations  that 
+are  relevant  to  the  determination  of  transfer  pricing  or  of  the 
+introduction of new laws or regulations.
+
+III.  INVITES Adherents and the Secretary-General to disseminate this 
+
+Recommendation and the Guidelines.
+
+IV.  INVITES non-Adherents to take due account of and adhere to this 
+
+Recommendation.
+
+V. 
+
+INSTRUCTS the Committee on Fiscal Affairs to:
+
+i)  pursue  its  work  on  issues  pertinent  to  transfer  pricing  and 
+
+modify the Guidelines as necessary;
+
+ii)  monitor  the  implementation  of  this  Recommendation,  in 
+co-operation with the tax authorities of Adherents and with the 
+participation of the business community and other stakeholders 
+and  report  to  Council  in  light  of  this  monitoring  every  five 
+years;
+
+iii)  develop its dialogue with jurisdictions that have not adhered to 
+this Recommendation with the aim of assisting them to become 
+familiar  with  the  Guidelines,  and  to  adhere  to  the  present 
+Recommendation.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+OECD Transfer Pricing Guidelines 
+for Multinational Enterprises and Tax 
+Administrations
+In a global economy where multinational enterprises (MNEs) play a prominent role, 
+governments need to ensure that the taxable profits of MNEs are not artificially shifted 
+out of their jurisdiction and that the tax base reported by MNEs in their country reflects 
+the economic activity undertaken therein. For taxpayers, it is essential to limit the risks 
+of economic double taxation. The OECD Transfer Pricing Guidelines provide guidance 
+on the application of the “arm’s length principle”, which is the international consensus 
+on the valuation of cross‑border transactions between associated enterprises.
+
+This January 2022 edition includes the revised guidance on the application of the transactional 
+profit method and the guidance for tax administrations on the application of the approach 
+to hard‑to‑value intangibles agreed in 2018, as well as the new transfer pricing guidance 
+on financial transactions approved in 2020. Finally, consistency changes have been made 
+to the rest of the OECD Transfer Pricing Guidelines. The OECD Transfer Pricing Guidelines 
+were approved by the OECD Council in their original version in 1995.
+
+2022
+
+PRINT ISBN 978-92-64-52691-4
+PDF ISBN 978-92-64-92191-7
+
+9HSTCQE*fcgjbe+
+
+J
+
+a
+
+n
+
+u
+
+a
+
+r
+
+y
+
+2
+
+0
+
+2
+
+2
+
+O
+
+E
+
+C
+
+D
+
+T
+
+r
+
+a
+
+n
+
+s
+
+f
+
+e
+
+r
+
+P
+
+r
+
+i
+
+c
+
+i
+
+n
+
+g
+
+G
+
+u
+
+i
+
+d
+
+e
+
+l
+
+i
+
+n
+
+e
+
+s
+
+f
+
+o
+
+r
+
+M
+
+u
+
+l
+
+t
+
+i
+
+n
+
+a
+
+t
+
+i
+
+o
+
+n
+
+a
+
+l
+
+E
+
+n
+
+t
+
+e
+
+r
+
+p
+
+r
+
+i
+
+s
+
+e
+
+s
+
+a
+
+n
+
+d
+
+T
+
+a
+
+x
+
+A
+
+d

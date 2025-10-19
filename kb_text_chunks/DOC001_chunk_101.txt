@@ -1,0 +1,72 @@
+he  taxpayer  is  found  not  to 
+have acted in good faith, for example, by not co-operating or complying with 
+reasonable documentation requests or by filing false or misleading returns. 
+In other jurisdictions, the burden of proof is on the taxpayer. In this respect, 
+however, the conclusions of paragraphs 4.16 and 4.17 should be noted.
+
+4.12.  The implication for the behaviour of the tax administration and the 
+taxpayer of the rules governing burden of proof should be taken into account. 
+For  example,  where  as  a  matter  of  domestic  law  the  burden  of  proof  is  on 
+the  tax  administration,  the  taxpayer  may  not  have  any  legal  obligation  to 
+prove  the  correctness  of  its  transfer  pricing  unless  the  tax  administration 
+makes a prima facie showing that the pricing is inconsistent with the arm’s 
+length principle. Even in such a case, of course, the tax administration might 
+still reasonably oblige the taxpayer to produce its records that would enable 
+the tax administration to undertake its examination. In some jurisdictions, 
+taxpayers  have  a  duty  to  co-operate  with  the  tax  administration  imposed 
+on  them  by  law.  In  the  event  that  a  taxpayer  fails  to  co-operate,  the  tax 
+administration may be given the authority to estimate the taxpayer’s income 
+and  to  assume  relevant  facts  based  on  experience.  In  these  cases,  tax 
+administrations should not seek to impose such a high level of co-operation 
+that would make it too difficult for reasonable taxpayers to comply.
+
+4.13. 
+In  jurisdictions  where  the  burden  of  proof  is  on  the  taxpayer,  tax 
+administrations  are  generally  not  at  liberty  to  raise  assessments  against 
+taxpayers  which  are  not  soundly  based  in  law.  A  tax  administration  in 
+a  jurisdiction  that  applies  the  arm’s  length  principle,  for  example,  could 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 177
+
+not  raise  an  assessment  based  on  a  taxable  income  calculated  as  a  fixed 
+percentage  of  turnover  and  simply  ignore  the  arm’s  length  principle.  In 
+the context of litigation in jurisdictions where the burden of proof is on the 
+taxpayer, the burden of proof is often seen as a shifting burden. Where the 
+taxpayer presents to a court a reasonable argument and evidence to suggest 
+that its transfer pricing was arm’s length, the burden of proof may legally or 
+de facto shift to the tax administration to counter the taxpayer’s position and 
+to present argument and evidence as to why the taxpayer’s transfer pricing 
+was not arm’s length and why the assessment is correct. On the other hand, 
+where a taxpayer makes little effort to show that its transfer pricing was arm’s 
+length, the burden imposed on the taxpayer would not be satisfied where a tax 
+administration raised an assessment which was soundly based in law.
+4.14.  When transfer pricing issues are present, the divergent rules on burden 
+of proof among OECD member countries will present serious problems if the 
+strict legal rights implied by those rules are used as a guide for appropriate 
+behaviour.  For  example,  consider  the  case  where  the  controlled  transaction 
+under examination involves one jurisdiction in which the burden of proof is 
+on the taxpayer and a second jurisdiction in which the burden of proof is on 
+the  tax  administration.  If  the  burden  of  proof  is  guiding  behaviour,  the  tax 
+administration in the first jurisdiction might make an unsubstantiated assertion 
+about  the  transfer  pricing,  which  the  taxpayer  might  accept,  and  the  tax 
+administration in the second jurisdiction would have the burden of disproving 
+the  pricing.  It  could  be  that  neither  the  taxpayer  in  the  second  jurisdiction 
+nor the tax administration in the first jurisdiction would be making efforts to 
+establish an acceptable arm’s length price. This type of behaviour would set the 
+stage for significant conflict as well as double taxation.
+4.15.  Consider the same facts as in the example in the preceding paragraph. 
+If  the  burden  of  proof  is  again  guiding  behaviour,  a  taxpayer  in  the  first 
+jurisdiction  being  a  subsidiary  of  a  taxpayer  in  the  second  jurisdiction 
+(notwithstanding the burden of proof and these Guidelines), may be unable 
+or  unwilling  to  show  that  its  transfer  prices  are  arm’s  length.  The  tax 
+administration in the first jurisdiction after examination makes an adjustment 
+in good faith based on the information available to it. The parent company 
+in the second jurisdiction is not obliged to provide to its tax administration 
+any  information  to  show  that  the  transfer  pricing  was  arm’s  length  as  the 
+burden of proof rests with the tax administration. This will make it difficult 
+for the two tax administrations to reach agreement in competent authority 
+proceedings.
+4.16. 
+In practice, neither jurisdictions nor taxpa

@@ -1,0 +1,113 @@
+year and across entities.
+
+Tangible Assets other than Cash and Cash Equivalents
+
+In  the  eleventh  column  of  the  template,  the  Reporting  MNE  should  report  the  sum 
+of  the  net  book  values  of  tangible  assets  of  all  the  Constituent  Entities  resident  for  tax 
+purposes  in  the  relevant  tax  jurisdiction.  with  regard  to  permanent  establishments, 
+assets  should  be  reported  by  reference  to  the  tax  jurisdiction  in  which  the  permanent 
+establishment  is  situated.  Tangible  assets  for  this  purpose  do  not  include  cash  or  cash 
+equivalents, intangibles, or financial assets.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ANNEx III TO ChAPTER v. TRANSFER PRICING DOCUMENTATION – COUNTRY-BY-COUNTRY REPORT – 35
+
+List of all the Constituent Entities of the MNE group included in each aggregation 
+per tax jurisdiction (Table 2)
+
+Constituent Entities Resident in the Tax Jurisdiction
+
+The Reporting MNE should list, on a tax jurisdiction-by-tax jurisdiction basis and by 
+legal entity name, all the Constituent Entities of the MNE group which are resident for 
+tax  purposes  in  the  relevant  tax  jurisdiction.  As  stated  above  with  regard  to  permanent 
+establishments,  however,  the  permanent  establishment  should  be  listed  by  reference  to 
+the  tax  jurisdiction  in  which  it  is  situated.  The  legal  entity  of  which  it  is  a  permanent 
+establishment should be noted (e.g. xYZ Corp – Tax Jurisdiction A PE).
+
+Tax Jurisdiction of Organisation or Incorporation if Different from Tax 
+Jurisdiction of Residence
+
+The Reporting MNE should report the name of the tax jurisdiction under whose laws 
+the Constituent Entity of the MNE is organised or incorporated if it is different from the 
+tax jurisdiction of residence.
+
+Main Business Activity(ies)
+
+The  Reporting  MNE  should  determine  the  nature  of  the  main  business  activity(ies) 
+carried out by the Constituent Entity in the relevant tax jurisdiction, by ticking one or more 
+of the appropriate boxes.
+
+Business Activities
+
+Research and Development
+
+Holding or Managing Intellectual Property
+
+Purchasing or Procurement
+
+Manufacturing or Production
+
+Sales, Marketing or Distribution
+
+Administrative, Management or Support Services
+
+Provision of Services to Unrelated Parties
+
+Internal Group Finance
+
+Regulated Financial Services
+
+Insurance
+
+Holding Shares or Other Equity Instruments
+
+Dormant
+
+Other 1
+
+1. Please specify the nature of the activity of the Constituent Entity in the “Additional 
+Information” section.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE – 37
+
+Annex IV to Chapter V 
+
+Country-by-Country Reporting Implementation Package
+
+Introduction
+
+In order to facilitate a consistent and swift implementation of the Country-by-Country 
+Reporting developed under Action 13 of the Base Erosion and Profit Shifting Action Plan 
+(BEPS  Action  Plan,  OECD,  2013),  a  Country-by-Country  Reporting  Implementation 
+Package has been agreed by countries participating in the OECD/G20 BEPS Project. This 
+implementation package consists of (i) model legislation which could be used by countries 
+to  require  the  ultimate  parent  entity  of  an  MNE  group  to  file  the  Country-by-Country 
+Report in its jurisdiction of residence including backup filing requirements and (ii) three 
+model Competent Authority Agreements that are to be used to facilitate implementation 
+of the exchange of Country-by-Country Reports, respectively based on the 1) Convention 
+on Mutual Administrative Assistance in Tax Matters, 2) bilateral tax conventions and 3) 
+Tax Information Exchange Agreements (TIEAs). It is recognised that developing countries 
+may require support for the effective implementation of Country-by-Country Reporting.
+
+Model legislation
+
+The model legislation contained in the Country-by-Country Reporting Implementation 
+Package  takes  into  account  neither  the  constitutional  law  and  legal  system,  nor  the 
+structure and wording of the tax legislation of any particular jurisdiction. Jurisdictions will 
+be able to adapt this model legislation to their own legal systems, where changes to current 
+legislation are required.
+
+Competent Authority Agreements
+
+The  Convention  on  Mutual  Administrative  Assistance  in  Tax  Matters  (the 
+“Convention’), by virtue of its Article 6, requires the Competent Authorities of the Parties 
+to the Convention to mutually agree on the scope of the automatic exchange of information 
+and the procedure to be complied with. In the context of the Common Reporting Standard, 
+this requirement has been translated into a Multilateral Competent Authority Agreement, 
+which  defines  the  scope,  timing,  procedures  and  safeguards  according  to  which  the 
+automatic exchange should take place.
+
+As  the  implementation  of  the  automatic  exchange  of  infor

@@ -1,0 +1,79 @@
+ account.  Jurisdictions  may  thus  allow  some  flexibility  during  a  short 
+transitional period. 
+
+Definition of related parties (April 2017)  
+
+2.1 Which entities are considered to be related parties for purposes of reporting related 
+party revenues? 
+
+For the third column of Table 1 of the CbC report, the related parties, which are defined as “associated 
+enterprises” in the Action 13 report, should be interpreted as the Constituent Entities listed in Table 2 of 
+the CbC report.  
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+8 |   
+
+Aggregated data or consolidated data to be reported per jurisdiction (July 2017)  
+
+3.1 If there is more than one Constituent Entity in a jurisdiction, should the aggregated 
+data be reported or should the data that is reported for the jurisdiction consist of 
+consolidated data which eliminates intra-jurisdiction transactions between Constituent 
+Entities in that jurisdiction? 
+
+The Action 13 Report and the model legislation contemplate that reporting will occur on an aggregate basis 
+at a jurisdictional level. Accordingly, data should be reported on an aggregated basis, regardless of whether 
+the transactions occurred cross-border or within the jurisdiction, or between related parties or unrelated 
+parties.  This  guidance  will  be  particularly  relevant  for  the  columns  on  related  party  revenues  and  total 
+revenues. An MNE Group may use the notes section in Table 3 to explain the data if it wishes to do so.  
+
+Where  the  jurisdiction  of  the  UPE  has  a  system  of  taxation  for  corporate  groups  which  includes 
+consolidated reporting for tax purposes, and the consolidation eliminates intra-group transactions at the 
+level of individual line items, that jurisdiction may allow taxpayers an option to complete the CbC report 
+using  consolidated  data  at  the  jurisdictional  level,  as  long  as  consolidated  data  are  reported  for  each 
+jurisdiction in Table 1 of the CbC report and consolidation is used consistently across the years. Taxpayers 
+choosing this option should use the following wording in Table 3 that (or in local language): "This report 
+uses consolidated data at the jurisdictional level for reporting the data in Table 1", and should specify the 
+columns in Table 1 in which the consolidated data is different than if aggregated data were reported.  
+
+Inclusive Framework members are expected to implement the above guidance (reporting on an aggregated 
+basis only, apart from the exception described above) as soon as possible, taking into account their specific 
+domestic circumstances. It is recognised that time may be needed for MNE Groups to make the necessary 
+adjustments, for example  in situations where guidance permitting the reporting  of consolidated data for 
+intra-jurisdiction transactions has already been issued. Jurisdictions may thus allow some flexibility during 
+a  short  transitional  period  (i.e.  for  fiscal  years  starting  in  2016).  Taxpayers  reporting  consolidated  data 
+under  this  transitional  mechanism  should  provide  the  same  information  in  Table  3  as  described  in  the 
+previous paragraph. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+  | 9 
+
+Amount of Income Tax Accrued and Income Tax Paid (September 2017) 
+
+4.1 Where the income tax for a fiscal year has been paid in advance (e.g., preliminary tax 
+assessments based on an estimate of the year's corporate income tax), should the 
+amount reported in the "Income Tax Accrued-Current Year " column be linked to the 
+amount reported in the "Income Tax Paid (on Cash Basis)" column of Table 1?" 
+
+Income  Tax  Accrued-Current  Year  is  the  amount  of  accrued  current  tax  expense  recorded  on  taxable 
+profits or losses for the Reporting Fiscal Year of all Constituent Entities resident for tax purposes in the 
+relevant tax jurisdiction irrespective of whether or not the tax has been paid (e.g. based on a preliminary 
+tax assessment). 
+
+Income Tax Paid (on Cash Basis) is the amount of the taxes actually paid during the Reporting Fiscal Year, 
+which should thus include not only advanced payments fulfilling the relevant fiscal year’s tax obligation but 
+also payments fulfilling the previous year(s)’ tax obligation (e.g. payment of the unpaid balance of corporate 
+income tax accrued  in relation to the previous year(s), including payments related to reassessments of 
+previous years), regardless of whether those taxes have been paid under protest. The amount of Income 
+Tax Accrued-Current Year and Income Tax Paid (on Cash Basis) should be reported independently.  
+
+4.2 Where taxes have been paid and subsequently refunded, how should the tax refund 
+be reported for the purposes of Table 1? 
+
+In general, a refund of income tax should be reported in Income Tax Paid (on Cash Basis) in the reporting 
+fiscal  year  in  which  the  refund  is  received.  A

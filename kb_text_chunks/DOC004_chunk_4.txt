@@ -1,0 +1,91 @@
+n  exception  to  this  may  be  permitted  where  the  refund  is 
+treated as revenue of the MNE group under the applicable accounting standard or in the source of data 
+used  to  complete  Table  1.  Where  this  is  the  case,  taxpayers  should  provide  the  following  statement  in 
+Table 3: "Tax refunds are reported in Revenues and not in Income Tax Paid (on Cash Basis)".  
+
+Inclusive Framework members are expected to implement the above guidance as soon as possible, taking 
+into account the specific domestic circumstances. It is recognised that time may be needed for jurisdictions 
+and MNE Groups to take this guidance into account. Jurisdictions may thus allow some flexibility during a 
+short  transitional  period.  During  this  short  transitional  period,  taxpayers  are  encouraged  to  include 
+voluntarily, if relevant, the statement "Tax refunds are reported in Revenues and not in Income Tax Paid 
+(on Cash Basis)" in Table 3. 
+
+Fair value accounting (November 2017) (cf. question 1 on definition of revenues) 
+
+5.1 When financial statements that were prepared using fair value accounting are used 
+as the source of data, can the amounts reported as revenue and profits in those financial 
+statements be reported as Revenue and Profits in the CbC report without further 
+adjustments?  
+
+Yes. The amount of revenues and profits determined in accordance with fair value accounting and reported 
+in financial statements may be reported in the CbC report without further adjustment. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+10 |   
+
+Positive and negative figures in completing Table 1 (November 2017; October 
+2022)  
+
+6.1 If a Constituent Entity reports a negative figure for accumulated earnings in its 
+financial statements, should the negative figure be reported in the column "accumulated 
+earnings" in Table 1? If there are two or more Constituent Entities in a jurisdiction, 
+should the negative figure reported by a Constituent Entity be netted with the earnings 
+from the other Constituent Entity (Entities) per jurisdiction in Table 1?  
+
+The negative figure for accumulated earnings should be reported in Table 1 without modification. Where 
+there are two or more Constituent Entities in the same jurisdiction, the negative figures for accumulated 
+earnings, if there are any, should be netted with the positive figures for accumulated earnings. Where this 
+is the case, taxpayers should provide the following statement in Table 3: "Accumulated earnings include 
+negative  figures  for  jurisdiction  [--]".  Inclusive  Framework  members  are  encouraged  to  require  their 
+taxpayers to provide the above information in Table 3 as soon as possible, taking into account the specific 
+domestic circumstances. 
+
+6.2 When should positive amounts be used in completing Table 1 and in what 
+circumstances should negative amounts be used? 
+
+The BEPS Action 13 report provides that in completing the CbC reporting template an MNE group may 
+choose  to  use  data  from  its  consolidation  reporting  packages,  from  separate  entity  statutory  financial 
+statements, regulatory financial statements or internal management accounts, so long as it consistently 
+uses the same sources of data from year to year. However, uncertainty has arisen as to whether specific 
+amounts should be  included in Table 1 as  positive  or as negative  amounts. The table below has been 
+compiled to assist MNE groups in the preparation of Table 1 and tax administrations in the interpretation 
+of the information contained in an MNE group’s CbC report.  
+
+For the avoidance of doubt, this guidance does not determine whether an amount should be included in 
+the relevant column of Table 1 nor what that amount should be, as these depend upon the treatment of 
+items in the source of data used. This guidance solely concerns the situations in which a given number 
+should be reported in Table 1 as a positive amount or a negative amount. 
+
+Positive amounts 
+
+Negative amounts 
+
+Unrelated Party Revenues, 
+Related  Party  Revenues 
+and Total Revenues 
+
+Gross  Unrelated  Party  Revenues,  Related  Party 
+Revenues  and  Total  Revenues,  including  income, 
+gains and other inflows, should be included in Table 1 
+as  positive  amounts.  The  amount  of  any  income 
+items  shown  on  the  income  statement  as  a  net 
+amount does not need to be adjusted from that net 
+amount.  
+
+Profit (Loss) before Income 
+Tax 
+
+Where the sum of profits and losses of all Constituent 
+Entities in a jurisdiction is an overall net profit, Profit 
+(Loss)  before  Income  Tax  should  be  a  positive 
+amount.  
+
+Where  Constituent  Entities  in  a  jurisdiction  have  negative 
+Unrelated Party Revenues, Related Party Revenues and/or 
+Total  Revenues,  this  should  be  included  in  Table  1  as  a 
+negative  amount  even  if  the  MNE  group  has  positive 
+revenues  overall.  Depending  on  the  applicable  accounting 
+rules, this 

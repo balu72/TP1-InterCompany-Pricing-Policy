@@ -1,0 +1,76 @@
+  observe  payments  for  intangibles  that  take  the  form  of  a 
+single  lump  sum.  It  is  also  common  to  observe  payments  for  intangibles 
+that take the form of periodic payments over time. Arrangements involving 
+periodic payments can be structured either as a series of instalment payments 
+fixed  in  amount,  or  may  take  the  form  of  contingent  payments  where  the 
+amount  of  payments  depends  on  the  level  of  sales  of  products  supported 
+by the intangibles, on profitability, or on some other factor. The principles 
+of  Section  D.1.1  of  Chapter  I  should  be  followed  in  evaluating  taxpayer 
+agreements with regard to the form of payment.
+
+6.180.  In  evaluating  the  provisions  of  taxpayer  agreements  related  to  the 
+form  of  payment,  it  should  be  noted  that  some  payment  forms  will  entail 
+greater or lesser levels of risk to one of the parties. For example, a payment 
+form contingent on future sales or profit will normally involve greater risk 
+to the transferor than a payment form calling for either a single lump-sum 
+payment at the time of the transfer or a series of fixed instalment payments, 
+because of the existence of the contingency. The chosen form of the payment 
+must be consistent with the facts and circumstances of the case, including 
+the  written  contracts,  the  actual  conduct  of  the  parties,  and  the  ability  of 
+the  parties  to  bear  and  manage  the  relevant  payment  risks.  In  particular, 
+the amount of the specified payments should reflect the relevant time value 
+of money and risk features of the chosen form of payment. For example, if 
+a  valuation  technique  is  applied  and  results  in  the  calculation  of  a  lump-
+sum present value for the transferred intangible, and if a taxpayer applies a 
+payment form contingent on future sales, the discount rate used in converting 
+the lump-sum valuation to a stream of contingent payments over the useful 
+life  of  the  intangible  should  reflect  the  increased  risk  to  the  transferor 
+that  sales  may  not  materialise  and  that  payments  would  therefore  not  be 
+forthcoming, as well as the time value of money consequences arising from 
+the deferral of the payments to future years.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 301
+
+D.3.  Arm’s length pricing of transactions involving intangibles for 
+
+which valuation is highly uncertain at the time of the transaction
+
+6.181. 
+Intangibles  or  rights  in  intangibles  may  have  specific  features 
+complicating the search for comparables and in some cases making it difficult 
+to determine the value of an intangible at the time of the transaction. When 
+valuation of an intangible or rights in an intangible at the time of the transaction 
+is highly uncertain, the question arises as to how arm’s length pricing should 
+be  determined.  The  question  should  be  resolved,  both  by  taxpayers  and  tax 
+administrations, by reference to what independent enterprises would have done 
+in comparable circumstances to take account of the valuation uncertainty in the 
+pricing of the transaction. To this aim, the guidance and recommended process 
+in Section D of Chapter I and the principles in Chapter III as supplemented 
+by  the  guidance  in  this  chapter  for  conducting  a  comparability  analysis  are 
+relevant.
+
+6.182.  Depending  on  the  facts  and  circumstances,  there  is  a  variety  of 
+mechanisms  that  independent  enterprises  might  adopt  to  address  high 
+uncertainty in the valuation of the intangible at the time of the transaction. For 
+example, one possibility is to use anticipated benefits (taking into account all 
+relevant economic factors) as a means for establishing the pricing at the outset of 
+the transaction. In determining the anticipated benefits, independent enterprises 
+would  take  into  account  the  extent  to  which  subsequent  developments  are 
+foreseeable and predictable. In some cases, independent enterprises might find 
+that  subsequent  developments  are  sufficiently  predictable  and  therefore  the 
+projections of anticipated benefits are sufficiently reliable to fix the pricing for 
+the transaction at the outset on the basis of those projections.
+
+6.183. 
+In other cases, independent enterprises might find that pricing based 
+on anticipated benefits alone does not provide adequate protection against the 
+risks posed by the high uncertainty in valuing the intangible. In such cases 
+independent enterprises might, for instance, adopt shorter-term agreements, 
+include  price  adjustment  clauses  in  the  terms  of  the  agreement,  or  adopt 
+a  payment  structure  involving  contingent  payments  to  protect  against 
+subsequent developments that might not be sufficiently predictable. For these 
+purposes,  a  contingent  pricing  arrangement  is  any  pricing  arrangement  in 
+which the quantum or timing of payments is dependent on contingent events, 
+includin

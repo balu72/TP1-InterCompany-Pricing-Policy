@@ -1,0 +1,70 @@
+gated through the performance of the development function itself. 
+For example, if the contractual arrangement between the associated enterprises 
+is  a  contract  R&D  arrangement  that  is  respected  under  the  requirements  of 
+this  section,  remuneration  for  risk  mitigation  functions  performed  through 
+the development activity would be incorporated into the arm’s length services 
+payment. Neither the intangible risk itself, nor the residual income associated 
+with such risk, would be allocated to the service provider. See also Example 1 
+in paragraph 1.83.
+
+1.63.  Risk management is not the same as assuming a risk. Risk assumption 
+means taking on the upside and downside consequences of the risk with the 
+result  that  the  party  assuming  a  risk  will  also  bear  the  financial  and  other 
+consequences  if  the  risk  materialises.  A  party  performing  part  of  the  risk 
+management  functions  may  not  assume  the  risk  that  is  the  subject  of  its 
+management activity, but may be hired to perform risk mitigation functions 
+under the direction of the risk-assuming party. For example, the day-to-day 
+mitigation  of  product  recall  risk  may  be  outsourced  to  a  party  performing 
+monitoring of quality control over a specific manufacturing process according 
+to the specifications of the party assuming the risk.
+
+1.64.  Financial capacity to assume risk can be defined as access to funding 
+to take on the risk or to lay off the risk, to pay for the risk mitigation functions 
+and  to  bear  the  consequences  of  the  risk  if  the  risk  materialises.  Access  to 
+funding by the party assuming the risk takes into account the available assets 
+and the options realistically available to access additional liquidity, if needed, to 
+cover the costs anticipated to arise should the risk materialise. This assessment 
+should be made on the basis that the party assuming the risk is operating as 
+an  unrelated  party  in  the  same  circumstances  as  the  associated  enterprise, 
+as  accurately  delineated  under  the  principles  of  this  section.  For  example, 
+exploitation  of  rights  in  an  income-generating  asset  could  open  up  funding 
+possibilities for that party. Where a party assuming risk receives intra-group 
+funding to meet the funding demands in relation to the risk, the party providing 
+the funding may assume financial risk but does not, merely as a consequence 
+of providing funding, assume the specific risk that gives rise to the need for 
+additional funding. Where the financial capacity to assume a risk is lacking, 
+then the allocation of risk requires further consideration under step 5.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 51
+
+1.65.  Control over risk involves the first two elements of risk management 
+defined in paragraph 1.61; that is (i) the capability to make decisions to take 
+on,  lay  off,  or  decline  a  risk-bearing  opportunity,  together  with  the  actual 
+performance of that decision-making function and (ii) the capability to make 
+decisions  on  whether  and  how  to  respond  to  the  risks  associated  with  the 
+opportunity,  together  with  the  actual  performance  of  that  decision-making 
+function. It is not necessary for a party to perform the day-to-day mitigation, as 
+described in (iii) in order to have control of the risks. Such day-to-day mitigation 
+may be outsourced, as the example in paragraph 1.63 illustrates. However, where 
+these day-to-day mitigation activities are outsourced, control of the risk would 
+require  capability  to  determine  the  objectives  of  the  outsourced  activities,  to 
+decide to hire the provider of the risk mitigation functions, to assess whether the 
+objectives are being adequately met, and, where necessary, to decide to adapt or 
+terminate the contract with that provider, together with the performance of such 
+assessment and decision-making. In accordance with this definition of control, 
+a party requires both capability and functional performance as described above 
+in order to exercise control over a risk.
+
+1.66.  The capability to perform decision-making functions and the actual 
+performance  of  such  decision-making  functions  relating  to  a  specific  risk 
+involve  an  understanding  of  the  risk  based  on  a  relevant  analysis  of  the 
+information  required  for  assessing  the  foreseeable  downside  and  upside 
+risk outcomes of such a decision and the consequences for the business of 
+the enterprise. Decision-makers should possess competence and experience 
+in the area of the particular risk for which the decision is being made and 
+possess  an  understanding  of  the  impact  of  their  decision  on  the  business. 
+They should also have access to the relevant information, either by gathering 
+this information themselves or by exercising authority to specify and obtain 
+the  relevant  information  to  support  the  decision-making  proc

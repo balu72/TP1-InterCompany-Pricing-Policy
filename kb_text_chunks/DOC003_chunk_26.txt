@@ -1,0 +1,86 @@
+ated 
+by  the  Competent  Authority  in  the  notification  pursuant  to  paragraph  1a)  of  Section  8, 
+as  soon  as  possible  and  no  later  than  18  months  after  the  last  day  of  that  fiscal  year. 
+Notwithstanding the foregoing, a CbC Report is only required to be exchanged, if both 
+Competent Authorities have this Agreement in effect and their respective Jurisdictions have 
+in effect legislation that requires the filing of CbC Reports with respect to the fiscal year 
+to which the CbC Report relates and that is consistent with the scope of exchange provided 
+for in Section 2.
+
+Subject to paragraph 2, the CbC Report is to be exchanged as soon as possible and 
+3. 
+no later than 15 months after the last day of the fiscal year of the MNE Group to which the 
+CbC Report relates.
+
+The Competent Authorities will automatically exchange the CbC Reports through a 
+
+4. 
+common schema in Extensible Markup Language.
+
+5. 
+The Competent Authorities will work towards and agree on one or more methods for 
+electronic data transmission, including encryption standards, with a view to maximising 
+standardisation and minimising complexities and costs and will notify the Co-ordinating 
+Body Secretariat of such standardised transmission and encryption methods.
+
+SECTION 4
+Collaboration on Compliance and Enforcement
+
+A  Competent  Authority  will  notify  the  other  Competent  Authority  when  the  first-
+mentioned Competent Authority has reason to believe, with respect to a Reporting Entity 
+that is resident for tax purposes in the jurisdiction of the other Competent Authority, that 
+an error may have led to incorrect or incomplete information reporting or that there is non-
+compliance of a Reporting Entity with respect to its obligation to file a CbC Report. The 
+notified Competent Authority will take appropriate measures available under its domestic 
+law to address the errors or non-compliance described in the notice.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE – 49
+
+SECTION 5
+Confidentiality, Data Safeguards and Appropriate Use
+
+1.  All information exchanged is subject to the confidentiality rules and other safeguards 
+provided for in the Convention, including the provisions limiting the use of the information 
+exchanged.
+
+2. 
+In  addition  to  the  restrictions  in  paragraph  1,  the  use  of  the  information  will 
+be  further  limited  to  the  permissible  uses  described  in  this  paragraph.  In  particular, 
+information received by means of the CbC Report will be used for assessing high-level 
+transfer  pricing,  base  erosion  and  profit  shifting  related  risks,  and,  where  appropriate, 
+for economic and statistical analysis. The information will not be used as a substitute for 
+a detailed transfer pricing analysis of individual transactions and prices based on a full 
+functional analysis and a full comparability analysis. It is acknowledged that information 
+in the CbC Report on its own does not constitute conclusive evidence that transfer prices 
+are or are not appropriate and, consequently, transfer pricing adjustments will not be based 
+on  the  CbC  Report.  Inappropriate  adjustments  in  contravention  of  this  paragraph  made 
+by  local  tax  administrations  will  be  conceded  in  any  competent  authority  proceedings. 
+Notwithstanding the above, there is no prohibition on using the CbC Report data as a basis 
+for making further enquiries into the MNE Group’s transfer pricing arrangements or into 
+other tax matters in the course of a tax audit and, as a result, appropriate adjustments to the 
+taxable income of a Constituent Entity may be made.
+
+3. 
+To  the  extent  permitted  under  applicable  law,  a  Competent  Authority  will  notify 
+the  Co-ordinating  Body  Secretariat  immediately  of  any  cases  of  non-compliance  with 
+paragraphs  1  and  2  of  this  Section,  including  any  remedial  actions,  as  well  as  any 
+measures taken in respect of non-compliance with the above-mentioned paragraphs. The 
+Co-ordinating Body Secretariat will notify all Competent Authorities with respect to which 
+this is an Agreement in effect with the first-mentioned Competent Authority.
+
+SECTION 6
+Consultations
+
+1. 
+In case an adjustment of the taxable income of a Constituent Entity, as a result of 
+further  enquiries  based  on  the  data  in  the  CbC  Report,  leads  to  undesirable  economic 
+outcomes, including if such cases arise for a specific business, the Competent Authorities 
+of the Jurisdictions in which the affected Constituent Entities are resident shall consult each 
+other and discuss with the aim of resolving the case.
+
+2. 
+If any difficulties in the implementation or interpretation of this Agreement arise, 
+a  Competent  Authority  may  request  consultations  with  one  or  more  of  the  Competent 
+Authorities  to  develop  appropriate  measures  to  ensure  that  this  

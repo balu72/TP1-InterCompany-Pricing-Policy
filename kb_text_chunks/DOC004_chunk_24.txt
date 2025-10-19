@@ -1,0 +1,101 @@
+d Financial Statements for the short fiscal period is also 
+expected to file the CbC report for Group E. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+ 
+ 
+48 |   
+
+1.6 Should Group B report all or a pro rata share of Group E’s financial data?  
+
+The determination as to the period for which the financial data of Group E should be included in the 
+CbC  report  of  Group  B  (e.g.  pro  rata  share  or  full  year)  should  be  governed  by  the  accounting 
+principles/standards  (as  determined  in  accordance  with  the  guidance  to  identify  the  accounting 
+principles/standards  for  determining  the  existence  and  membership  of  a  group)  applied  to  Group  B. 
+Thus,  if  the  accounting  principles/standards  applicable  to  Group  B  require  Group  B’s  Consolidated 
+Financial Statements to incorporate a pro rata share of the financial data of Group E, the CbC report of 
+Group B should also include a pro rata share of the financial data of the Group E. 
+
+Fact Pattern #4 
+
+Y1, Group S sells a sub-group of its entities to Group B. The total consolidated group revenue of Group B for Y0 
+is less than EUR 750 million i.e. Group B is an Excluded MNE Group.   
+
+1.7 Should the amount of total consolidated group revenues in Y0 of Group S be adjusted due to its 
+selling the sub-group? 
+
+The amount of total consolidated group revenue of the Fiscal Year immediately preceding the Reporting 
+Fiscal Year (i.e. Y0) should not be adjusted to take into account the sale that occurred in Y1. If total 
+consolidated group revenue in Y0 of Group S is equal to or greater than 750 million Euros, Group S 
+would not qualify as an Excluded MNE Group for Y1. Alternatively, if total consolidated group revenue 
+in Y0 is less than 750 million Euros, Group S remains an Excluded MNE Group for Y1. 
+
+1.8 To determine for Y1 whether it is an Excluded MNE Group under Article 1.3 of the Model Legislation, 
+should Group B include in the amount of total consolidated group revenues for Y0 some or all of the 
+revenues of the acquired sub-group of entities?  
+
+The amount of total consolidated group revenue of the Fiscal Year immediately preceding the Reporting 
+Fiscal Year (i.e. Y0) should not be adjusted to take into account the acquisition that occurred in Y1. 
+Group B should continue to qualify as an Excluded MNE Group based on the total consolidated group 
+revenue of the Group for the preceding year. 
+
+Fact Pattern #5 
+
+In Y1, Group S sells a sub-group of entities to Group B. The total consolidated group revenue of each of Group B 
+and Group S for Y0 is not less than EUR 750 million i.e. for Y1 purposes they are both non-Excluded MNE 
+Groups 
+
+1.9 For Y1, should Group S’s CbC report include any financial data ofthe sub-group of entities sold to 
+Group B in Y1? 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+ 
+ 
+ 
+  | 49 
+
+The determination as to whether any financial data of the sub-group of entities sold to Group B in Y1 
+should  be  included  in  the  CbC  report  of  Group  S  for  Y1  should  be  governed  by  the  accounting 
+principles/standards  (as  determined  in  accordance  with  the  guidance  to  identify  the  accounting 
+principles/standards for determining the existence and membership of a group) applicable to Group S. 
+Thus,  if  the  governing  accounting  principles/standards  applied  to  Group  S  require  Group  S’s 
+Consolidated Financial Statements to incorporate a pro rata share of the financial data of the sub-group 
+of  entities  sold  to  Group  B,  the  CbC  report  of  Group  S  should  also  include  a  pro  rata  share  of  the 
+financial data of the sub-group. 
+
+1.10 For Y1, should Group B include only a pro rata share of the acquired sub-group’s financial data in 
+its CbC report?  
+
+The determination as to the period for which financial data of the sub-group should be included in the 
+CbC  report  of  Group  B  (e.g.  a  pro  rata  share  or  full  year)  should  be  governed  by  the  accounting 
+principles/standards  (as  determined  in  accordance  with  the  guidance  to  identify  the  accounting 
+principles/standards for determining the existence and membership of a group) applicable to Group B. 
+Thus,  if  the  governing  accounting  principles/standards  applied  to  Group  B  require  Group  B’s 
+Consolidated Financial Statements to incorporate a pro rata share of the financial data of the sub-group, 
+the CbC report of Group B should also include a pro rata share of the financial data of the sub-group. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+50 |   
+
+Table summarising the interpretation on Mergers/Demergers/Acquisitions (September 2018) 
+
+Events and Consequences in Fact Patterns #1-#5 of Mergers/Acquisitions/Demergers 
+
+Event in 
+
+Consequence (YI) 
+
+Fact Pattern #1 
+Demerger 
+
+Reference Year (Y0) 
+The total consolidated group 

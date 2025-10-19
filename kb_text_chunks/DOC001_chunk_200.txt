@@ -1,0 +1,78 @@
+ect to intangibles, 
+often  involve  significant  risks  associated  with  what  may  be  uncertain  and 
+distant  benefits,  while  services  CCAs  often  offer  more  certain  and  less 
+risky benefits. These distinctions are useful because the greater complexity 
+of  development  CCAs  may  require  more  refined  guidance,  particularly  on 
+the valuation of contributions, than may be required for services CCAs, as 
+discussed  below.  However,  the  analysis  of  a  CCA  should  not  be  based  on 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS – 341
+
+superficial distinctions: in some cases, a CCA for obtaining current services 
+may  also  create  or  enhance  an  intangible  which  provides  ongoing  and 
+uncertain benefits, and some intangibles developed under a CCA may provide 
+short-term and relatively certain benefits.
+
+8.11.  Under  a  development  CCA,  each  participant  has  an  entitlement 
+to  rights  in  the  developed  intangible(s)  or  tangible  asset(s).  In  relation  to 
+intangibles, such rights often take the form of separate rights to exploit the 
+intangible in a specific geographic location or for a particular application. The 
+separate rights obtained may constitute actual legal ownership; alternatively, 
+it may be that only one of the participants is the legal owner of the property 
+but the other participants have certain rights to use or exploit the property. In 
+cases where a participant has such rights in any property developed by the 
+CCA, there is no need for a royalty payment or other further consideration 
+for  the  use  of  the  developed  property  consistent  with  the  interest  to  which 
+the  participant  is  entitled  under  the  CCA  (however,  the  contributions  of  a 
+participant  may  need  to  be  adjusted  if  they  are  not  proportionate  to  their 
+expected benefits; see Section C.5).
+
+C. Applying the arm’s length principle
+
+C.1. In general
+
+8.12.  For the conditions of a CCA to satisfy the arm’s length principle, the 
+value of participants’ contributions must be consistent with what independent 
+enterprises would have agreed to contribute under comparable circumstances 
+given their proportionate share of the total anticipated benefits they reasonably 
+expect to derive from the arrangement. What distinguishes contributions to a 
+CCA from any other intra-group transfer of property or services is that part 
+or all of the compensation intended by the participants is the expected mutual 
+and proportionate benefit from the pooling of resources and skills. In addition, 
+particularly for development CCAs, the participants agree to share the upside 
+and downside consequences of risks associated with achieving the anticipated 
+CCA outcomes. As a result, there is a distinction between, say, the intra-group 
+licensing of an intangible where the licensor has borne the development risk 
+on its own and expects compensation through the licensing fees it will receive 
+once  the  intangible  has  been  fully  developed,  and  a  development  CCA  in 
+which all parties make contributions and share in the consequences of risks 
+materialising in relation to the development of the intangible and decide that 
+each of them, through those contributions, acquires a right in the intangible.
+
+8.13.  The expectation of mutual and proportionate benefit is fundamental 
+to the acceptance by independent enterprises of an arrangement for sharing 
+the  consequences  of  risks  materialising  and  pooling  resources  and  skills. 
+Independent  enterprises  would  require  that  the  value  of  each  participant’s 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+342 – CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS
+
+proportionate share of the actual overall contributions to the arrangement is 
+consistent with the participant’s proportionate share of the overall expected 
+benefits  to  be  received  under  the  arrangement.  To  apply  the  arm’s  length 
+principle to a CCA, it is therefore a necessary precondition that all the parties 
+to the arrangement have a reasonable expectation of benefit. The next step is 
+to calculate the value of each participant’s contribution to the joint activity, 
+and  finally  to  determine  whether  the  allocation  of  CCA  contributions  (as 
+adjusted  for  any  balancing  payments  made  among  participants)  accords 
+with their respective share of expected benefits. It should be recognised that 
+these determinations are likely to bear a degree of uncertainty, particularly 
+in  relation  to  development  CCAs.  The  potential  exists  for  contributions  to 
+be  allocated  among  CCA  participants  so  as  to  result  in  an  overstatement 
+of  taxable  profits  in  some  jurisdictions  and  the  understatement  of  taxable 
+profits in others, measured against the arm’s length principle. For that reason, 
+taxpayers  should  be  prepared  to  substantiate  the  basis  of  their  claim  with 
+respect to the CCA (see S

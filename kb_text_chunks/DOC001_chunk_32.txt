@@ -1,0 +1,77 @@
+l over the investment risk in the tangible asset, since it lacks any 
+capability to decide on whether to invest in the particular asset, and whether 
+and how to protect its investment including whether to dispose of the asset. 
+Although it is the owner of the asset, Company A does not exercise control 
+over  the  utilisation  risk,  since  it  lacks  any  capability  to  decide  whether  and 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 61
+
+how  to  exploit  the  asset.  It  does  not  have  the  capability  to  assess  and  make 
+decisions  relating  to  the  risk  mitigation  activities  performed  by  other  group 
+companies. Instead, risks associated with investing in and exploiting the asset, 
+enhancing upside risk and mitigating downside risk, are controlled by the other 
+group  companies.  Company  A  does  not  have  control  over  the  economically 
+significant  risks  associated  with  the  investment  in  and  exploitation  of  the 
+asset. The functional contribution of the legal owner of the asset is limited to 
+providing financing for an amount equating to the cost of the asset. However, 
+the  functional  analysis  also  provides  evidence  that  Company  A  has  no 
+capability  and  authority  to  control  the  risk  of  investing  in  a  financial  asset. 
+Company A does not have the capability to make decisions to take on or decline 
+the  financing  opportunity,  or  the  capability  to  make  decisions  on  whether 
+and  how  to  respond  to  the  risks  associated  with  the  financing  opportunity. 
+Company A does not perform functions to evaluate the financing opportunity, 
+does not consider the appropriate risk premium and other issues to determine 
+the appropriate pricing of the financing opportunity, and does not evaluate the 
+appropriate protection of its financial investment. Companies A, B and C all 
+have financial capacity to assume their respective risks.
+
+D.1.2.1.4. Step 4: Interpreting steps 1-3
+
+1.86.  Carrying out steps 1-3 involves the gathering of information relating 
+to  the  assumption  and  management  of  risks  in  the  controlled  transaction. 
+The next step is to interpret the information resulting from steps 1-3 and to 
+determine whether the contractual assumption of risk is consistent with the 
+conduct of the parties and the other facts of the case by analysing (i) whether 
+the associated enterprises follow the contractual terms under the principles of 
+Section D.1.1; and (ii) whether the party assuming risk, as analysed under (i), 
+exercises control over the risk and has the financial capacity to assume risk.
+
+1.87.  The  significance  of  step  4  will  depend  on  the  findings.  In  the 
+circumstances  of  Examples  1  and  2  above,  the  step  may  be  straightforward. 
+Where a party contractually assuming a risk applies that contractual assumption 
+of risk in its conduct, and also both exercises control over the risk and has the 
+financial capacity to assume the risk, then there is no further analysis required 
+beyond  step  4(i)  and  (ii)  to  determine  risk  assumption.  Companies  A  and  B 
+in both examples fulfil the obligations reflected in the contracts and exercise 
+control over the risks that they assume in the transaction, supported by financial 
+capacity. As a result step 4(ii) is satisfied, there is no need to consider step 5, and 
+the next step to consider is step 6.
+
+1.88. 
+In  line  with  the  discussion  in  relation  to  contractual  terms  (see 
+Section  D.1.1),  it  should  be  considered  under  step  4(i)  whether  the  parties’ 
+conduct conforms to the assumption of risk contained in written contracts, 
+or whether the contractual terms have not been followed or are incomplete. 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+62 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+Where  differences  exist  between  contractual  terms  related  to  risk  and  the 
+conduct  of  the  parties  which  are  economically  significant  and  would  be 
+taken into account by third parties in pricing the transaction between them, 
+the parties’ conduct in the context of the consistent contractual terms should 
+generally be taken as the best evidence concerning the intention of the parties 
+in relation to the assumption of risk.
+
+1.89.  Consider  for  example,  a  manufacturer,  whose  functional  currency 
+is  US  dollars,  that  sells  goods  to  an  associated  distributor  in  another 
+jurisdiction,  whose  functional  currency  is  euros,  and  the  written  contract 
+states that the distributor assumes all exchange rate risks in relation to this 
+controlled transaction. If, however, the price for the goods is charged by the 
+manufacturer to the distributor over an extended period of time in euros, the 
+currency of the distributor, then aspects of the written contractual terms do 
+not reflect the actual commercial or financial relations between the parties. 
+The assumption of risk in the transaction should be d

@@ -1,0 +1,90 @@
+he royalty.
+
+•  Company S’s sales of R brand watches in years 4 and 5 are consistent 
+with earlier budget forecasts. However, the introduction of the royalty 
+from the beginning of year 4 results in Company S’s profit margins 
+declining substantially.
+
+40. 
+Assume  that  there  is  no  evidence  that  independent  marketers/
+distributors of similar branded products have agreed to pay royalties under 
+similar  arrangements.  Company  S’s  level  of  marketing  expenditure  and 
+activity, from year 4 on, is consistent with that of independent enterprises.
+
+41. 
+For  transfer  pricing  purposes,  it  would  not  generally  be  expected 
+that a royalty would be paid in arm’s length transactions where a marketing 
+and  distribution  entity  obtains  no  rights  for  transfer  pricing  purposes  in 
+trademarks and similar intangibles other than the right to use such intangibles 
+in  distributing  a  branded  product  supplied  by  the  entity  entitled  to  the 
+income  derived  from  exploiting  such  intangibles.  Furthermore,  the  royalty 
+causes  Company  S’s  profit  margins  to  be  consistently  lower  than  those  of 
+independent enterprises with comparable functions performed, assets used 
+and  risks  assumed  during  the  corresponding  years  of  similar  long-term 
+marketing  and  distribution  arrangements.  Accordingly,  a  transfer  pricing 
+adjustment disallowing the royalties paid would be appropriate based on the 
+facts of this example.
+
+Example 13
+
+The facts in this example are the same as those set out in Example 10 
+
+42. 
+with the following additions:
+
+•  At  the  end  of  year  3,  Primair  stops  manufacturing  watches  and 
+contracts with a third party to manufacture them on its behalf. As 
+a  result,  Company  S  will  import  unbranded  watches  directly  from 
+the manufacturer and undertake secondary processing to apply the 
+R  name  and  logo  and  package  the  watches  before  sale  to  the  final 
+customer. It will then sell and distribute the watches in the manner 
+described in Example 10.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+614 – ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES
+
+•  As  a  consequence,  at  the  beginning  of  year  4,  Primair  and 
+Company S renegotiate their earlier agreement and enter into a new 
+long  term  licensing  agreement.  The  new  agreement,  to  start  at  the 
+beginning  of  year  4,  is  for  five  years,  with  Company  S  having  an 
+option for a further five years.
+
+•  Under  the  new  agreement,  Company  S  is  granted  the  exclusive 
+right  within  Country  y  to  process,  market  and  distribute  watches 
+bearing  the  R  trademark  in  consideration  for  its  agreement  to  pay 
+a  royalty  to  Primair  based  on  the  gross  sales  of  all  such  watches. 
+Company S receives no compensation from Primair in respect of the 
+renegotiation of the original marketing and distribution agreement. 
+It  is  assumed  for  purposes  of  this  example  that  the  purchase  price 
+Company  S  pays  for  the  watches  from  the  beginning  of  year  4  is 
+arm’s length and that no consideration with respect to the R name is 
+embedded in that price.
+
+43. 
+In connection with a tax audit conducted by Country y tax administrations 
+in  year  6,  it  is  determined,  based  on  a  proper  functional  analysis,  that  the 
+level  of  marketing  expenses  Company  S  incurred  during  years  1  through  3 
+far  exceeded  those  incurred  by  independent  marketers  and  distributors  with 
+similar long term marketing and distribution agreements. It is also determined 
+that the level and intensity of marketing activity undertaken by Company S 
+exceeded that of independent marketers and distributors, and that the relatively 
+greater activity has been successful in expanding volumes and/or increasing 
+the Primair group’s overall margins from sales in Country y. Given the extent 
+of the market development activities undertaken by Company S, including its 
+strategic control over such activities, it is evident from the comparability and 
+functional  analysis  that  Company  S  has  assumed  significantly  greater  costs 
+and assumed greater risks than comparable independent enterprises. There is 
+also evidence that the individual entity profit margins realised by Company S 
+are  significantly  lower  than  the  profit  margins  of  comparable  independent 
+marketers and distributors during the corresponding years of similar long-term 
+marketing and distribution arrangements.
+
+44. 
+The Country y audit also identifies that in years 4 and 5, Company S 
+bears the costs and associated risks of its marketing activities under the new 
+long-term licensing arrangement with Primair, and because of the long-term 
+nature of the agreement, Company S may have an opportunity to benefit (or 
+suffer a loss) from its activities. However, Company S has undertaken market 
+development  activities  and  incurred  marketing  expenditure  far  beyond  what 
+comparable independ

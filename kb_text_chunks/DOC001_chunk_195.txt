@@ -1,0 +1,86 @@
+vered 
+in Chapter VIII.
+
+D.2.1.  Application of the benefits test to low value-adding intra-group 
+
+services
+
+7.54.  As discussed in paragraph 7.6, under the arm’s length principle an 
+obligation  to  pay  for  an  intra-group  service  arises  only  where  the  benefits 
+test  is  satisfied,  i.e.  the  activity  must  provide  the  group  member  expected 
+to  pay  for  the  service  with  economic  or  commercial  value  to  enhance  or 
+maintain its commercial position, which in turn is determined by evaluating 
+whether an independent enterprise in comparable circumstances would have 
+been  willing  to  pay  for  the  activity  if  performed  for  it  by  an  independent 
+enterprise or would have performed the activity in-house for itself. However, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+332 – CHAPTER VII: INTRA-GROUP SERVICES
+
+because of the nature of the low value-adding intra-group services discussed 
+in this section, such determinations may be difficult or may require greater 
+effort  than  the  amount  of  the  charge  warrants.  Tax  administrations  should 
+therefore  generally  refrain  from  reviewing  or  challenging  the  benefits  test 
+when  the  simplified  approach  has  been  applied  under  the  conditions  and 
+circumstances discussed in this section and in particular in conformity with 
+the documentation and reporting discussed in Section D.3 below.
+
+7.55.  While low value-adding intra-group services may provide benefits 
+to all recipients of those services, questions may arise about the extent of the 
+benefits and whether independent parties would have been willing to pay for 
+the  service  or  perform  it  themselves.  Where  the  MNE  group  has  followed 
+the  guidance  of  the  simplified  approach  the  documentation  and  reporting 
+discussed in Section D.3 below, it should provide sufficient evidence that the 
+benefits test is met given the nature of low value-adding intra-group services. 
+In evaluating the benefits test, tax administrations should consider benefits 
+only  by  categories  of  services  and  not  on  a  specific  charge  basis.  Thus, 
+the  taxpayer  need  only  demonstrate  that  assistance  was  provided  with,  for 
+example, payroll processing, rather than being required to specify individual 
+acts undertaken that give rise to the costs charged. Provided such information 
+outlined  in  paragraph  7.64  is  made  available  to  the  tax  administration,  a 
+single  annual  invoice  describing  a  category  of  services  should  suffice  to 
+support the charge, and correspondence or other evidence of individual acts 
+should not be required. With regard to low value-adding intra-group services 
+that benefit only one recipient entity in the MNE group, it is expected that 
+the benefits to the service recipient will be capable of separate demonstration.
+
+D.2.2. Determination of cost pools
+
+7.56.  The  initial  step  in  applying  the  simplified  approach  to  low  value-
+adding intra-group services is for the MNE group to calculate, on an annual 
+basis, a pool of all costs incurred by all members of the group in performing 
+each  category  of  low  value-adding  intra-group  services.  The  costs  to  be 
+pooled are the direct and indirect costs of rendering the service as well as, 
+where relevant, the appropriate part of operating expenses (e.g. supervisory, 
+general  and  administrative).  The  costs  should  be  pooled  according  to 
+category of services, and should identify the accounting cost centres used in 
+creating the pool. Pass-through costs in the cost pool should be identified for 
+the purposes of applying paragraph 7.61. The cost pool should exclude costs 
+that are attributable to an in-house activity that benefits solely the company 
+performing  the  activity  (including  shareholder  activities  performed  by  the 
+shareholding company).
+
+7.57.  As a second step, the MNE group should identify and remove from 
+the pool those costs that are attributable to services performed by one group 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VII: INTRA-GROUP SERVICES – 333
+
+member solely on behalf of one other group member. In creating a pool of 
+payroll  costs,  for  example,  if  group  company  A  provides  payroll  services 
+solely to group company B the relevant costs should be separately identified 
+and omitted from the pool. However, if group company A performs payroll 
+services for itself as well as for company B, the relevant costs should remain 
+within the pool.
+
+7.58.  At this stage in the calculation, the MNE group has identified a pool 
+of costs associated with categories of low value-adding services which are 
+provided to multiple members of the MNE group.
+
+D.2.3. Allocation of low value-adding service costs
+
+7.59.  The third step in this simplified charge method for low value-adding 
+intra-group service costs is to allocate among members of the group the costs 
+in  the  cost  pool  that  benefit  multiple  members  of  the 

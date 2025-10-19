@@ -1,0 +1,85 @@
+to  make  its  recoveries.  The  effect  of  a  cross-guarantee  from  a  borrower’s 
+perspective  is  that  it  now  has  multiple  guarantees  on  its  borrowings  and 
+may stand as guarantor for multiple borrowings itself. This can give rise to 
+questions on how to evaluate each guarantee. Not only is this complex from 
+the  perspective  of  potentially  large  numbers  of  guarantees  to  be  evaluated 
+but also because each party providing a guarantee may in turn be guaranteed 
+by the party for whom it is now acting as guarantor. Evaluating the effect 
+of  a  cross-guarantee  arrangement  is  difficult  and  as  the  number  of  parties 
+involved  increases,  may  be  practically  impossible.  It  may  not  be  possible 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 437
+
+to determine the effect of the guarantee between any two parties where the 
+same  risk  is  subject  to  multiple  guarantees.  An  analysis  of  the  facts  may 
+lead to the conclusion that such an arrangement does not enhance the credit 
+standing of an MNE group member beyond the level of passive association, 
+in which case any support in the event of default from another MNE group 
+member should then be regarded as a capital contribution.
+
+D.1.3. Financial capacity of the guarantor
+
+10.166.  The examination of financial guarantees under accurate delineation 
+needs  also  to  consider  the  financial  capacity  of  the  guarantor  to  fulfill  its 
+obligations  in  case  of  default  of  the  borrower.  This  requires  an  evaluation 
+of  the  credit  rating  of  the  guarantor  and  the  borrower,  and  of  the  business 
+correlations between them.
+
+10.167.  A lender would benefit from the stronger credit rating of the guarantor 
+(compared to the borrower’s credit rating) and/or the guarantor’s asset pool 
+(in addition to the borrower’s asset pool), and the borrower accordingly may 
+expect a benefit in the form of a lower interest rate. Thus, based on facts and 
+circumstances,  a  guarantee  may  provide  a  benefit  to  the  borrower  that  has 
+the same or higher credit rating as the guarantor, if the guarantee effectively 
+allows the lender to access wider recourse and, therefore, reduces the interest 
+rate despite the guarantor not having a higher credit rating. In determining the 
+credit rating of the guarantor and the borrower, the effect of implicit support 
+must be considered as explained in Section C.1.1.
+
+10.168.  Likewise, the financial capacity of the guarantor to meet its obligations 
+requires an analysis of the correlation between the guarantor’s and borrower’s 
+businesses.  In  situations  where  the  guarantor  and  the  borrower  operate 
+under  similar  market  conditions,  an  adverse  market  event  that  affects  the 
+performance of the borrower and increases its risk of default might also affect 
+the guarantor and its capacity to fulfill its obligations.
+
+D.2. Determining the arm’s length price of guarantees
+
+10.169.  This  section  describes  a  number  of  pricing  approaches  for  those 
+circumstances where a guarantee is found to be appropriate. However, when 
+the accurate delineation of the actual transaction indicates that the purported 
+guarantee is not a guarantee, other pricing approaches should be considered, 
+in particular the guidance in Chapter VII. As in any other transfer pricing 
+situation, the selection of the most appropriate method should be consistent 
+with the actual transaction as accurately delineated, in particular, through a 
+functional analysis. (See Chapter II).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+438 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+D.2.1. CUP method
+
+10.170.  The CUP method could be used where there are external or internal 
+comparables;  independent  guarantors  providing  guarantees  in  respect  of 
+comparable loans to other borrowers or where the same borrower has other 
+comparable loans which are independently guaranteed.
+
+10.171.  In  considering  whether  controlled  and  uncontrolled  transactions 
+are  comparable,  regard  should  be  had  to  all  the  factors  which  may  affect 
+the  guarantee  fee  including:  the  risk  profile  of  the  borrower,  terms  and 
+conditions  of  the  guarantee,  term  and  conditions  of  the  underlying  loan 
+(amount, currency, maturity, seniority etc.), credit rating differential between 
+guarantor  and  guaranteed  party,  market  conditions,  etc.  When  available, 
+uncontrolled guarantees are the most reliable comparable to determine arm’s 
+length guarantee fees.
+
+10.172.  The difficulty with using the CUP method is that publicly available 
+information  about  a  sufficiently  similar  credit  enhancing  guarantee  is 
+unlikely  to  be  found  between  unrelated  parties  given  that  unrelated  party 
+guarantees of bank loans are uncommon.
+
+10.173.  An independent entity providing a financial guarantee would expect 
+to  receive  a  fee  to  compensate  it  for  the  risk  it  is

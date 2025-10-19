@@ -1,0 +1,77 @@
+nternational taxation. Such multilateral co-ordination would require the 
+inclusion  of  all  major  jurisdictions  where  MNEs  operate.  If  all  the  major 
+jurisdictions  failed  to  agree  to  move  to  global  formulary  apportionment, 
+MNEs  would  be  faced  with  the  burden  of  complying  with  two  totally 
+different  systems.  In  other  words,  for  the  same  set  of  transactions  they 
+would be forced to calculate the profits accruing to their members under two 
+completely different standards. Such a result would create the potential for 
+double taxation (or under-taxation) in every case.
+
+1.25.  There are other significant concerns in addition to the double taxation 
+issues discussed above. One such concern is that predetermined formulae are 
+arbitrary and disregard market conditions, the particular circumstances of the 
+individual enterprises, and management’s own allocation of resources, thus 
+producing an allocation of profits that may bear no sound relationship to the 
+specific facts surrounding the transaction. More specifically, a formula based 
+on a combination of cost, assets, payroll, and sales implicitly imputes a fixed 
+rate  of  profit  per  currency  unit  (e.g.  dollar,  euro,  yen)  of  each  component 
+to  every  member  of  the  group  and  in  every  tax  jurisdiction,  regardless  of 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 37
+
+differences in functions, assets, risks, and efficiencies and among members 
+of the MNE group. Such an approach could potentially assign profits to an 
+entity that would incur losses if it were an independent enterprise.
+
+1.26.  Another  issue  for  global  formulary  apportionment  is  dealing 
+with  exchange  rate  movements.  Although  exchange  rate  movements  can 
+complicate application of the arm’s length principle they do not have the same 
+impact  as  for  global  formulary  apportionment;  the  arm’s  length  principle 
+is  better  equipped  to  deal  with  the  economic  consequences  of  exchange 
+rate  movements  because  it  requires  the  analysis  of  the  specific  facts  and 
+circumstances  of  the  taxpayer.  If  the  formula  relies  on  costs,  the  result  of 
+applying  a  global  formulary  apportionment  would  be  that  as  a  particular 
+currency strengthens in one jurisdiction consistently against another currency 
+in which an associated enterprise keeps its accounts, a greater share of the 
+profit would be attributed to the enterprise in the first jurisdiction to reflect 
+the costs of its payroll nominally increased by the currency fluctuation. Thus, 
+under  a  global  formulary  apportionment,  the  exchange  rate  movement  in 
+this example would lead to increasing the profits of the associated enterprise 
+operating with the stronger currency whereas in the long run a strengthening 
+currency makes exports less competitive and leads to a downward pressure 
+on profits.
+
+1.27.  Contrary  to  the  assertions  of  its  advocates,  global  formulary 
+apportionment  may  in  fact  present  intolerable  compliance  costs  and  data 
+requirements because information would have to be gathered about the entire 
+MNE group and presented in each jurisdiction on the basis of the currency 
+and the book and tax accounting rules of that particular jurisdiction. Thus, 
+the  documentation  and  compliance  requirements  for  an  application  of 
+global formulary apportionment would generally be more burdensome than 
+under the separate entity approach of the arm’s length principle. The costs 
+of a global formulary apportionment would be further magnified if not all 
+jurisdictions could agree on the components of the formula or on the way the 
+components are measured.
+
+1.28.  Difficulties  also  would  arise  in  determining  the  sales  of  each 
+member  and  in  the  valuation  of  assets  (e.g.  historic  cost  versus  market 
+value),  especially  in  the  valuation  of  intangibles.  These  difficulties  would 
+be  compounded  by  the  existence  across  taxing  jurisdictions  of  different 
+accounting  standards  and  of  multiple  currencies.  Accounting  standards 
+among all jurisdictions would have to be conformed in order to arrive at a 
+meaningful measure of profit for the entire MNE group. Of course, some of 
+these  difficulties,  for  example  the  valuation  of  assets  and  intangibles,  also 
+exist under the arm’s length principle, although significant progress in respect 
+of  the  latter  has  been  made,  whereas  no  credible  solutions  have  been  put 
+forward under global formulary apportionment.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+38 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+1.29.  Global  formulary  apportionment  would  have  the  effect  of  taxing 
+an MNE group on a consolidated basis and therefore abandons the separate 
+entity  approach.  As  a  consequence,  global  formulary  apportionment 
+cannot, as a practical matter, recognise important geographical

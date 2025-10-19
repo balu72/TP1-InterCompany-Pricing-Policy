@@ -1,0 +1,77 @@
+s 
+assumed are comparable to those undertaken by independent enterprises. As 
+indicated in Chapter II, Part II, in applying the cost plus method, there should 
+be a consistency between the controlled and uncontrolled transactions in the 
+categories of cost that are included. In exceptional cases, for example where it 
+may be difficult to apply the CUP method or the cost-based methods, it may 
+be helpful to take account of more than one method (see paragraph 2.12) in 
+reaching a satisfactory determination of arm’s length pricing.
+
+7.32. 
+It may be necessary to perform a functional analysis of the various 
+members  of  the  group  to  establish  the  relationship  between  the  relevant 
+services  and  the  members’  activities  and  performance.  In  addition,  it  may 
+be  necessary  to  consider  not  only  the  immediate  impact  of  a  service,  but 
+also its long-term effect, bearing in mind that some costs will never actually 
+produce the benefits that were reasonably expected when they were incurred. 
+For example, expenditure on preparations for a marketing operation might 
+prima facie be too heavy to be borne by a member in the light of its current 
+resources; the determination whether the charge in such a case is arm’s length 
+should consider expected benefits from the operation and the possibility that 
+the  amount  and  timing  of  the  charge  in  some  arm’s  length  arrangements 
+might depend on the results of the operation. The taxpayer should be prepared 
+to demonstrate the reasonableness of its charges to associated enterprises in 
+such cases.
+
+7.33.  Where a cost based method is determined to be the most appropriate 
+method  to  the  circumstances  of  the  case,  the  analysis  would  require 
+examining  whether  the  costs  incurred  by  the  group  service  provider  need 
+some adjustment to make the comparison of the controlled and uncontrolled 
+transactions reliable.
+
+7.34.  When an associated enterprise is acting only as an agent or intermediary 
+in the provision of services, it is important in applying a cost based method 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+324 – CHAPTER VII: INTRA-GROUP SERVICES
+
+that the return or mark-up is appropriate for the performance of an agency 
+function  rather  than  for  the  performance  of  the  services  themselves.  In 
+such a case, it may not be appropriate to determine arm’s length pricing as 
+a mark-up on the cost of the services but rather on the costs of the agency 
+function itself. For example, an associated enterprise may incur the costs of 
+renting advertising space on behalf of group members, costs that the group 
+members would have incurred directly had they been independent. In such a 
+case, it may well be appropriate to pass on these costs to the group recipients 
+without a mark-up, and to apply a mark-up only to the costs incurred by the 
+intermediary in performing its agency function.
+
+B.2.3.2. Considerations on including a profit element
+
+7.35.  Depending  on  the  method  being  used  to  establish  an  arm’s  length 
+charge for intra-group services, the issue may arise whether it is necessary 
+that  the  charge  be  such  that  it  results  in  a  profit  for  the  service  provider. 
+In  an  arm’s  length  transaction,  an  independent  enterprise  normally  would 
+seek to charge for services in such a way as to generate profit, rather than 
+providing the services merely at cost. The economic alternatives available to 
+the recipient of the service also need to be taken into account in determining 
+the arm’s length charge. However, there are circumstances (e.g. as outlined in 
+the discussion on business strategies in Chapter I) in which an independent 
+enterprise may not realise a profit from the performance of services alone, 
+for  example  where  a  supplier’s  costs  (anticipated  or  actual)  exceed  market 
+price but the supplier agrees to provide the service to increase its profitability, 
+perhaps  by  complementing  its  range  of  activities.  Therefore,  it  need  not 
+always  be  the  case  that  an  arm’s  length  price  will  result  in  a  profit  for  an 
+associated enterprise that is performing an intra-group service.
+7.36.  For example, it may be the case that the market value of intra-group 
+services is not greater than the costs incurred by the service provider. This 
+could occur where, for example, the service is not an ordinary or recurrent 
+activity of the service provider but is offered incidentally as a convenience to 
+the MNE group. In determining whether the intra-group services represent 
+the  same  value  for  money  as  could  be  obtained  from  an  independent 
+enterprise,  a  comparison  of  functions  and  expected  benefits  would  be 
+relevant to assessing comparability of the transactions. An MNE group may 
+still  determine  to  provide  the  service  intra-group  rather  than  using  a  third 
+party for a variety of reasons, perhaps because of other intra-group benefits 
+(for which arm

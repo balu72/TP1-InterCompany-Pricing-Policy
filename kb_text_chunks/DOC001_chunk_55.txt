@@ -1,0 +1,72 @@
+urrency terms. For some 
+commodities,  certain  economically  relevant  characteristics  (e.g.  prompt 
+delivery)  may  lead  to  a  premium  or  a  discount.  If  the  quoted  price  is  used 
+as  a  reference  for  determining  the  arm’s  length  price  or  price  range,  the 
+standardised  contracts  which  stipulate  specifications  on  the  basis  of  which 
+commodities are traded on the exchange and which result in a quoted price 
+for the commodity may be relevant. Where there are differences between the 
+conditions of the controlled transaction and the conditions of the uncontrolled 
+transactions or the conditions determining the quoted price for the commodity 
+that  materially  affect  the  price  of  the  commodity  transactions  being 
+examined,  reasonably  accurate  adjustments  should  be  made  to  ensure  that 
+the economically relevant characteristics of the transactions are comparable. 
+Contributions  made  in  the  form  of  functions  performed,  assets  used  and 
+risks assumed by other entities in the supply chain should be compensated in 
+accordance with the guidance provided in these Guidelines.
+2.21. 
+In  order  to  assist  tax  administrations  in  conducting  an  informed 
+examination  of  the  taxpayer’s  transfer  pricing  practices,  taxpayers  should 
+provide  reliable  evidence  and  document,  as  part  of  their  transfer  pricing 
+documentation,  the  price-setting  policy  for  commodity  transactions,  the 
+information  needed  to  justify  price  adjustments  based  on  the  comparable 
+uncontrolled transactions or comparable uncontrolled arrangements represented 
+by the quoted price and any other relevant information, such as pricing formulas 
+used, third party end-customer agreements, premia or discounts applied, pricing 
+date, supply chain information, and information prepared for non-tax purposes.
+2.22.  A particularly relevant factor for commodity transactions determined 
+by  reference  to  the  quoted  price  is  the  pricing  date,  which  refers  to  the 
+specific time, date or time period (e.g. a specified range of dates over which 
+an  average  price  is  determined)  selected  by  the  parties  to  determine  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+100 – CHAPTER II: TRANSFER PRICING METHODS
+
+price  for  commodity  transactions.  Where  the  taxpayer  can  provide  reliable 
+evidence  of  the  pricing  date  agreed  by  the  associated  enterprises  in  the 
+controlled commodity transaction at the time the transaction was entered into 
+(e.g.  proposals  and  acceptances,  contracts  or  registered  contracts,  or  other 
+documents setting out the terms of the arrangements may constitute reliable 
+evidence)  and  this  is  consistent  with  the  actual  conduct  of  the  parties  or 
+with other facts of the case, in accordance with the guidance in Section D of 
+Chapter I on accurately delineating the actual transaction, tax administrations 
+should determine the price for the commodity transaction by reference to the 
+pricing date agreed by the associated enterprises. If the pricing date specified 
+in any written agreement between the associated enterprises is inconsistent 
+with  the  actual  conduct  of  the  parties  or  with  other  facts  of  the  case,  tax 
+administrations may determine a different pricing date consistent with those 
+other facts of the case and what independent enterprises would have agreed 
+in comparable circumstances (taking into considerations industry practices). 
+When  the  taxpayer  does  not  provide  reliable  evidence  of  the  pricing  date 
+agreed by the associated enterprises in the controlled transaction and the tax 
+administration cannot otherwise determine a different pricing date under the 
+guidance in Section D of Chapter I, tax administrations may deem the pricing 
+date for the commodity transaction on the basis of the evidence available to 
+the tax administration; this may be the date of shipment as evidenced by the 
+bill of lading or equivalent document depending on the means of transport. 
+This would mean that the price for the commodities being transacted would 
+be determined by reference to the average quoted price on the shipment date, 
+subject to any appropriate comparability adjustments based on the information 
+available to the tax administration. It would be important to permit resolution 
+of cases of double taxation arising from application of the deemed pricing date 
+through access to the mutual agreement procedure under the applicable Treaty.
+
+B.2.  Examples of the application of the CUP method
+
+2.23.  The following examples illustrate the application of the CUP method, 
+including situations where adjustments may need to be made to uncontrolled 
+transactions to make them comparable uncontrolled transactions.
+
+2.24.  The CUP method is a particularly reliable method where an independent 
+enterprise sells the same product as is sold between two associated enterprises. 
+For example, an independent en

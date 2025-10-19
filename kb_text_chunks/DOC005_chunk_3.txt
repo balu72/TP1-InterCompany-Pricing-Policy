@@ -1,0 +1,216 @@
+            if (currentURL.toLowerCase().indexOf(authURL.toLowerCase()) < 0) {
+                    baseurl = 'https://incometaxindia.gov.in';
+                }
+                else {
+                    baseurl = authURL;
+                }
+                break;
+        }
+
+        var url = baseurl + contextUrl + relativeURL;
+        if (isNew) {
+            //for new tab, it will always be a pdf
+            var queryParam = url.indexOf('?') > -1 ? '&' : '?';
+            OpenFormByType(url + queryParam + 'int=1');//int=1, this is an internal link
+        }
+        else {
+            //for current location it would be aspx page
+            window.open(url, '_self');
+        }
+    }
+
+    function OpenFaqOnITRWindow(linkpath) {
+        var path = "";
+        path = linkpath + 'Non-filing of ITR';
+        OpenWindowByRelativeURL('L', path, false);
+    }
+
+    $(document).ready(function () {
+        var currentURL = window.location.href;
+        var rootUrlKMS = 'https://kms.incometaxindia.gov.in';
+        var officeURL = 'https://office.incometaxindia.gov.in';
+
+        if (currentURL.toLowerCase().indexOf(rootUrlKMS.toLowerCase()) < 0) {
+            var cls = $(".kmsSecurityTrimmedControl");
+            cls.hide();
+        }
+
+        if (currentURL.toLowerCase().indexOf(rootUrlKMS.toLowerCase()) >= 0) {
+            var cls = $(".kmsLinkControl");
+            cls.hide();
+        }
+
+        if (currentURL.toLowerCase().indexOf(officeURL.toLowerCase()) == -1) {
+            var cls = $(".officeLinkControl");
+            cls.hide();
+        }
+
+        if (currentURL.indexOf("search.") > -1)
+            $("a[id$=lnkAdvanceSearch]").attr("href", "advanced.aspx");
+    });
+
+    //Function developed by Manoj to get distinct propery from generic array of objects - March 19, 2023
+    $.extend({
+        GetDistinct: function (obj, propertyName) {
+            var result = [];
+            $.each(obj, function (i, v) {
+                var prop = eval("v." + propertyName);                
+                if (prop !== "" && $.inArray(prop, result) == -1) result.push(prop);
+            });
+            return result;
+        }
+    });
+ 
+
+ 
+ 
+ 
+     
+         
+             × 
+             
+             
+         
+         
+             OK 
+         
+     
+ 
+
+ 
+ 
+ 
+     x  
+     
+     
+         The Income Tax Department   NEVER   asks for your PIN numbers, passwords or similar access information for credit cards, banks or other financial accounts through e-mail.   
+ The Income Tax Department appeals to taxpayers    NOT   to respond to such e-mails and    NOT   to share information relating to their credit card, bank and other financial accounts.  
+     
+     
+         
+            Continue >
+         
+     
+     
+         © This is the official website of Central Board of Direct Taxes (CBDT), Department of Revenue, Ministry of Finance, Government of India. 
+     
+ 
+
+ 
+
+ 
+ 
+      
+         
+            
+
+ 
+ 
+     
+         
+             
+                 Guided Tour 
+             
+             
+                 Skip to main content 
+             
+             
+                 Department Officials 
+                 
+                     
+                         IRS Officers Online 
+                     
+                         Official Email Systems 
+                     
+                         Employees Corner 
+                     
+                     
+                         
+                            Take Online Oath
+
+                         
+                     
+                 
+             
+             
+                 T T   
+                 
+                     
+                         A + 
+                     
+                     
+                         A 
+                     
+                     
+                         A - 
+                     
+                 
+             
+
+             
+                 A 
+             
+             
+                 A 
+             
+             
+                 
+                     
+                         
+                     
+
+                 
+             
+             
+                 हिंदी 
+
+
+
+
+             
+
+             
+                 Help 
+             
+             
+                 
+                     
+                         
+                     
+                    1800 180 1961/ 1961
+                 
+             
+             
+                 
+                     Login 
+                 
+             
+         
+     
+ 
+
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                     
+                    
+                     Department Officials
+                 
+                 
+                     
+                         
+                            Take Online Oath
+
+                         
+                     
+                     
+                         Employees Corner 
+                     
+                     
+                         Employees Login 
+       

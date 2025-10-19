@@ -1,0 +1,124 @@
+d to administer the provisions of Section 4 of this 
+Agreement), and (iii) the necessary legislation to require Reporting Entities 
+to file the CbC Report;
+
+Whereas, [Jurisdiction A] and [Jurisdiction B] are committed to endeavour 
+to mutually agree on resolving cases of double taxation in accordance with 
+Article  [25]  of  the  Convention,  as  well  as  paragraph  1  of  Section  6  of  this 
+Agreement;
+
+Whereas, the Competent Authorities intend to conclude this Agreement 
+on  reciprocal  automatic  exchange  pursuant  to  the  Convention  and  subject 
+to the confidentiality and other protections provided for in the Convention, 
+including  the  provisions  limiting  the  use  of  the  information  exchanged 
+thereunder;
+
+Now, therefore, the Competent Authorities have agreed as follows:
+
+SECTION 1
+Definitions
+
+For  the  purposes  of  this  Agreement,  the  following  terms  have  the 
+
+1. 
+following meanings:
+
+a) 
+
+the term “[Jurisdiction A]” means […];
+
+b) 
+
+the term “[Jurisdiction B]” means […];
+
+c) 
+
+the term “Competent Authority” means in case of [Jurisdiction A], 
+[…] and in case of [Jurisdiction B], […];
+
+d)  The  term  “Group”  means  a  collection  of  enterprises  related 
+through  ownership  or  control  such  that  it  is  either  required  to 
+prepare consolidated financial statements for financial reporting 
+purposes under applicable accounting principles or would be so 
+required if equity interests in any of the enterprises were traded 
+on a public securities exchange;
+
+e) 
+
+the  term  “Multinational  Enterprise  (MNE)  Group”  means 
+any  Group  that  (i)  includes  two  or  more  enterprises  the  tax 
+residence  for  which  is  in  different  jurisdictions,  or  includes  an 
+enterprise that is resident for tax purposes in one jurisdiction and 
+is subject to tax with respect to the business carried out through 
+a permanent establishment in another jurisdiction, and (ii) is not 
+an Excluded MNE Group;
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE – 589
+
+f) 
+
+g) 
+
+h) 
+
+i) 
+
+the  term  “Excluded  MNE  Group”  means  a  Group  that  is  not 
+required to file a CbC Report on the basis that the consolidated 
+group revenue of the Group during the fiscal year immediately 
+preceding the reporting fiscal year, as reflected in its consolidated 
+financial statements for such preceding fiscal year, is below the 
+threshold defined in domestic law by the Jurisdiction and being 
+consistent with the 2015 Report, as may be amended following the 
+2020 review contemplated therein;
+
+the  term  “Constituent  Entity”  means  (i)  any  separate  business 
+unit  of  an  MNE  Group  that  is  included  in  the  consolidated 
+financial  statements  for  financial  reporting  purposes,  or  would 
+be so included if equity interests in such business unit of an MNE 
+Group were traded on a public securities exchange (ii) any separate 
+business unit that is excluded from the MNE Group’s consolidated 
+financial  statements  solely  on  size  or  materiality  grounds  and 
+(iii) any permanent establishment of any separate business unit of 
+the MNE Group included in (i) or (ii) above provided the business 
+unit  prepares  a  separate  financial  statement  for  such  permanent 
+establishment for financial reporting, regulatory, tax reporting or 
+internal management control purposes;
+
+the term “Reporting Entity” means the Constituent Entity that, 
+by virtue of domestic law in its jurisdiction of tax residence, files 
+the CbC Report in its capacity to do so on behalf of the MNE 
+Group;
+
+the term “CbC Report” means the Country-by-Country Report 
+to  be  filed  annually  by  the  Reporting  Entity  in  accordance 
+with  the  laws  of  its  jurisdiction  of  tax  residence  and  with  the 
+information required to be reported under such laws covering the 
+items and reflecting the format set out in the 2015 Report, as may 
+be amended following the 2020 review contemplated therein; and
+
+j) 
+
+the term “2015 Report” means the consolidated report, entitled 
+Transfer  Pricing  Documentation  and  Country-by-Country 
+Reporting, on Action 13 of the OECD/G20 Action Plan on Base 
+Erosion and Profit Shifting.
+
+As  regards  to  the  application  of  this  Agreement  at  any  time  by  a 
+2. 
+Competent  Authority  of  a  Jurisdiction,  any  term  not  otherwise  defined  in 
+this Agreement will, unless the context otherwise requires or the Competent 
+Authorities  agree  to  a  common  meaning  (as  permitted  by  domestic  law), 
+have  the  meaning  that  it  has  at  that  time  under  the  law  of  the  Jurisdiction 
+applying this Agreement, any meaning under the applicable tax laws of that 
+Jurisdiction prevailing over a meaning given to the term under other laws of 
+that Jurisdiction.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+590 – ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE
+
+SECTION 2
+Exchange of Information with Respect to

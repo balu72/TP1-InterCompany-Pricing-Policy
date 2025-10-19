@@ -1,0 +1,125 @@
+tax administration maintain to identify, report, and correct 
+information system flaws in a timely manner? Please describe how these procedures 
+provide for the protection of systems against malicious codes causing harm to data 
+integrity. Are these procedures publicly available? If so, please provide a reference. If not, 
+please provide a summary.
+
+2.11 Security Assessments
+
+Primary Check-list Areas
+
+•  Processes used to test, validate, and authorise the security 
+
+controls for protecting data, correcting deficiencies, and reducing 
+vulnerabilities
+
+What policies does your tax administration maintain and regularly update for reviewing the 
+processes used to test, validate, and authorise a security control plan? Is the policy publicly 
+available? If so, please provide a reference. If not, please provide a summary.
+
+2.12 Contingency Planning
+
+Primary Check-list Areas
+
+•  Plans for emergency response, backup operations, and post-
+
+disaster recovery of information systems
+
+What contingency plans and procedures does your tax administration maintain to reduce 
+the impact of improper data disclosure or unrecoverable loss of data? Are the plans and 
+procedures publicly available? If so, please provide a reference. If not, please provide a 
+summary.
+
+2.13 Risk Assessment
+
+Primary Check-list Areas
+
+•  Potential risk of unauthorised access to taxpayer information
+•  Risk and magnitude of harm from unauthorised use, disclosure, or 
+
+disruption of the taxpayer information systems
+
+•  Procedures to update risk assessment methodologies
+
+Does your tax administration conduct risk assessments to identify risks and the potential 
+impact of unauthorised access, use, and disclosure of information, or destruction of 
+information systems? What procedures does your tax administration maintain to update risk 
+assessment methodologies? Are these risk assessments and policies publicly available? If 
+so, please provide a reference. If not, please provide a summary.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+584 – ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE
+
+2.14 Systems and Services Acquisition
+
+Primary Check-list Areas
+
+•  Methods and processes to ensure third-party providers of 
+
+information systems process, store and transmit confidential 
+information in accordance with computer security requirements
+
+What process does your tax administration maintain to ensure third-party providers 
+are applying appropriate security controls that are consistent with computer security 
+requirements for confidential information? Are the processes publicly available? If so, 
+please provide a reference. If not, please provide a summary.
+
+2.15 Media Protection
+
+•  Processes to protect information in printed or digital form
+•  Security measures used to limit media information access to 
+
+Primary Check-list Areas
+
+authorised users only
+
+•  Methods for sanitising or destroying digital media prior to disposal 
+
+or reuse
+
+What processes does your tax administration maintain to securely store and limit access 
+to confidential information in printed or digital form upon receipt from any source? How 
+does your tax administration securely destroy confidential media information prior to its 
+disposal? Are the processes available publicly? If so, please provide a reference. If not, 
+please provide a summary.
+
+2.16 Protection of Treaty-Exchanged data (formerly Prevention of Data Commingling)
+
+•  Procedures to ensure treaty-exchanged files are safeguarded and 
+
+Primary Check-list Areas
+
+clearly labelled
+
+•  Classification methods of treaty-exchanged files
+
+What policies and processes does your tax administration maintain to store confidential 
+information and clearly label it as treaty-exchanged after receipt from foreign Competent 
+Authorities? Are these policies and processes publicly available? If so, please provide a 
+reference. If not, please provide a summary.
+
+2.17 Information Disposal Policies
+
+Primary Check-list Areas
+
+•  Procedures for properly disposing paper and electronic files
+
+What procedures does your tax administration maintain for the disposal of confidential 
+information? Do these procedures extend to exchanged information from foreign Competent 
+Authorities? Are the procedures publicly available? If so, please provide a reference. If not, 
+please provide a summary.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE – 585
+
+3. Monitoring and enforcement
+
+In  addition  to  keeping  treaty-exchanged  information  confidential,  tax 
+administrations  must  be  able  to  ensure  that  its  use  will  be  limited  to  the 
+purposes defined by the applicable information exchange agreement. Thus, 
+compliance with an acceptable information security framework alone is not 
+sufficient  to  protect  treaty-exchanged  tax  data.  In  addition,  domestic  law 
+must impose penalties or sanctions for improper disclosure or use of taxpayer 
+information.  T

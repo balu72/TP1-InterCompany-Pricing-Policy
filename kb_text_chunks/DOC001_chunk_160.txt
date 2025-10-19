@@ -1,0 +1,87 @@
+ved. As a general rule, no payment should 
+be recognised for transfer pricing purposes for simple recognition of group 
+membership or the use of the group name merely to reflect the fact of group 
+membership. See paragraph 7.12
+
+6.82.  Where one member of the group is the owner of a trademark or other 
+intangible for the group name, and where use of the name provides a financial 
+benefit to members of the group other than the member legally owning such 
+intangible,  it  is  reasonable  to  conclude  that  a  payment  for  use  would  have 
+been  made  in  arm’s  length  transactions.  Similarly,  such  payments  may  be 
+appropriate where a group member owns goodwill in respect of the business 
+represented by an unregistered trademark, use of that trademark by another 
+party  would  constitute  misrepresentation,  and  the  use  of  the  trademark 
+provides a clear financial benefit to a group member other than that owning 
+the goodwill and unregistered trademark.
+
+6.83. 
+In determining the amount of payment with respect to a group name, 
+it is important to consider the amount of the financial benefit to the user of 
+the name attributable to use of that name, the costs and benefits associated 
+with  other  alternatives,  and  the  relative  contributions  to  the  value  of  the 
+name made by the legal owner, and the entity using the name in the form of 
+functions performed, assets used and risks assumed. Careful consideration 
+should be given to the functions performed, assets used, and risks assumed 
+by the user of the name in creating or enhancing the value of the name in 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+274 – CHAPTER VI: INTANGIBLES
+
+its jurisdiction. Factors that would be important in a licence of the name to 
+an  independent  enterprise  under  comparable  circumstances  applying  the 
+principles of Chapters I-III should be taken into account.
+
+6.84.  Where an existing successful business is acquired by another successful 
+business and the acquired business begins to use a name, trademark or other 
+branding  indicative  of  the  acquiring  business,  there  should  be  no  automatic 
+assumption that a payment should be made in respect of such use. If there is a 
+reasonable expectation of financial benefit to the acquired company from using 
+the acquiring company’s branding, then the amount of any payment should be 
+informed by the level of that anticipated benefit.
+
+6.85. 
+It  may  also  be  the  case  that  the  acquiring  business  will  leverage 
+the  existing  position  of  the  acquired  business  to  expand  the  business  of  the 
+acquirer in the territory of operation of the acquired business by causing the 
+acquired  business  to  use  the  acquirer’s  branding.  In  that  case,  consideration 
+should be given to whether the acquirer should make a payment to or otherwise 
+compensate the acquired business for the functions performed, risks assumed, 
+and assets used (including its market position) in connection with expanded use 
+of the acquirer’s name.
+
+C. Transactions involving the use or transfer of intangibles
+
+6.86. 
+In addition to identifying with specificity the intangibles involved in a 
+particular transfer pricing issue, and identifying the owner of such intangibles, 
+it  is  necessary  to  identify  and  properly  characterise,  at  the  beginning  of 
+any  transfer  pricing  analysis  involving  intangibles,  the  specific  controlled 
+transactions  involving  intangibles.  The  principles  of  Chapter  I  apply  in 
+identifying and accurately delineating transactions involving the use or transfer 
+of intangibles. In addition to the guidance on identifying the actual transaction 
+(Section  D.1  of  Chapter  I)  and  on  business  restructurings  (Chapter  IX, 
+especially Part I), Section C of this chapter outlines some typical scenarios that 
+may be useful in ascertaining whether intangibles or rights in intangibles are 
+involved in a transaction. See Example 19. The characterisation of a transaction 
+for  transfer  pricing  purposes  has  no  relevance  for  determinations  under 
+Article 12 of the OECD Model Tax Convention. See, e.g. paragraphs 8 to 19 of 
+the Commentary to Article 12 of the OECD Model Tax Convention.
+
+6.87.  There are two general types of transactions where the identification 
+and examination of intangibles will be relevant for transfer pricing purposes. 
+These  are:  (i)  transactions  involving  transfers  of  intangibles  or  rights  in 
+intangibles; and (ii) transactions involving the use of intangibles in connection 
+with the sale of goods or the provision of services.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 275
+
+C.1.  Transactions involving transfers of intangibles or rights in 
+
+intangibles
+
+C.1.1. Transfers of intangibles or rights in intangibles
+6.88.  Rights  in  intangibles  themselves  may  be  transferred  in  controlled 
+transactions.  Such  transactions  may  involve  a  transfer  of  all  rights  in

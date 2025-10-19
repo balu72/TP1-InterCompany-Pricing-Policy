@@ -1,0 +1,141 @@
+of  the  new 
+generation of products is heavily dependent upon the performance of the key 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD – 475
+
+component made by Company B. The key component is specifically tailored 
+for the new generation of products and cannot be used in any other products.
+
+47. 
+The  key  component  was  developed  entirely  by  Company  B.  The 
+accurate delineation of the transaction determines that Company B performs 
+all the control functions and assumed all the risks in relation to the development 
+of the component, with no involvement by Company A.
+
+48. 
+The accurate delineation of the transaction also finds that Company A 
+performs  all  the  control  functions  and  assumed  all  the  risks  in  relation 
+to  the  overall  production  and  sale  of  the  new  generation  of  products. 
+Company A cannot control (and thus does not assume) the risks relating to 
+the performance of the key component.
+
+49. 
+In  this  example,  it  is  determined  that  while  Company  A  and 
+Company B each assumes separate economically significant risks, those risks 
+are highly inter-dependent. As a result, it is determined that the transactional 
+profit split method is the most appropriate method.
+
+50. 
+If  it  is  also  found  that  the  most  appropriate  way  of  applying  the 
+transactional profit split method in this case is by splitting revenues or gross 
+profits from Company A’s sales of the new generation product, each party 
+would bear the consequences of the playing out of risks relating to their own 
+operating costs.
+
+Example 11
+
+51. 
+The  success  of  an  electronics  product  is  linked  to  the  innovative 
+technological design both of its electronic processes and of its major component. 
+That  component  is  designed  and  manufactured  by  associated  company  A;  is 
+transferred to associated company B which designs and manufactures the rest 
+of the product; and is distributed by associated company C. Information exists 
+to verify by means of a resale price method that the distribution functions, assets 
+and risks of Company C are being appropriately rewarded by the transfer price 
+of the finished product sold from B to C.
+
+52. 
+The  most  appropriate  method  to  price  the  component  transferred 
+from  A  to  B  may  be  a  CUP,  if  a  sufficiently  similar  comparable  could  be 
+found. See paragraph 2.15 of the Guidelines. However, since the component 
+transferred from A to B reflects the innovative technological advance enjoyed 
+by company A in this market, which is found to be a unique and valuable 
+contribution by company A, in this example it proves impossible (after the 
+appropriate functional and comparability analyses have been carried out) to 
+find a reliable CUP to estimate the correct price that A could command at 
+arm’s length for its product. Calculating a return on A’s manufacturing costs 
+could however provide an estimate of the profit element which would reward 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+476 – ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD
+
+A’s manufacturing functions, ignoring the profit element attributable to the 
+unique and valuable intangible used therein. A similar calculation could be 
+performed on company B’s manufacturing costs, to give an estimate of B’s 
+profit derived from its manufacturing functions, ignoring the profit element 
+attributable  to  its  unique  and  valuable  intangible.  Since  B’s  selling  price 
+to C is known and is accepted as an arm’s length price, the amount of the 
+residual  profit  accrued  by  A  and  B  together  from  the  exploitation  of  their 
+respective unique and valuable intangibles can be determined. At this stage 
+the proportion of this residual profit properly attributable to each enterprise 
+remains undetermined.
+
+The  residual  profit  may  be  split  based  on  an  analysis  of  the  facts 
+53. 
+and  circumstances  that  might  indicate  how  the  additional  reward  would 
+have been allocated at arm’s length. The R&D activity of each company is 
+directed towards technological design relating to the same class of item, and 
+it  is  established  for  the  purposes  of  this  example  that  the  relative  amounts 
+of  R&D  expenditure  reliably  measure  the  relative  value  of  the  companies’ 
+contributions. See paragraph 2.145 of the Guidelines. This means that each 
+company’s  unique  and  valuable  contribution  may  reliably  be  measured  by 
+their relative expenditure on research and development, so that, if A’s R&D 
+expenditure is 15 and B’s 10, giving a combined R&D expenditure of 25, the 
+residual could be split 15/25 for A and 10/25 for B.
+
+54. 
+
+Some figures may assist in following the example:
+
+a) Profit & loss of A and B
+
+Sales
+
+Less:
+Purchases
+
+Manufacturing costs  
+Gross profits
+
+Less: 
+R&D
+
+Operating expenses 
+Net profit
+
+A
+
+B
+
+50
+
+100
+
+(10)
+
+(15)
+
+25
+
+(25)
+
+0
+
+15
+
+10
+
+(50)
+
+(20)
+
+30
+
+(20)
+
+10
+
+10

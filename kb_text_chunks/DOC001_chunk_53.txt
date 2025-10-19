@@ -1,0 +1,89 @@
+pared to provide documentation regarding how its transfer 
+prices were established. For a discussion of documentation, see Chapter V.
+
+2.10.  The  application  of  a  general  rule  of  thumb  does  not  provide  an 
+adequate  substitute  for  a  complete  functional  and  comparability  analysis 
+conducted under the principles of Chapters I-III. Accordingly, a rule of thumb 
+cannot  be  used  to  evidence  that  a  price  or  an  apportionment  of  income  is 
+arm’s length.
+
+2.11. 
+It  is  not  possible  to  provide  specific  rules  that  will  cover  every 
+case.  Tax  administrators  should  hesitate  from  making  minor  or  marginal 
+adjustments.  In  general,  the  parties  should  attempt  to  reach  a  reasonable 
+accommodation  keeping  in  mind  the  imprecision  of  the  various  methods 
+and the preference for higher degrees of comparability and a more direct and 
+closer  relationship  to  the  transaction.  It  should  not  be  the  case  that  useful 
+information,  such  as  might  be  drawn  from  uncontrolled  transactions  that 
+are not identical to the controlled transactions, should be dismissed simply 
+because  some  rigid  standard  of  comparability  is  not  fully  met.  Similarly, 
+evidence from enterprises engaged in controlled transactions with associated 
+enterprises may be useful in understanding the transaction under review or 
+as a pointer to further investigation. Further, any method should be permitted 
+where its application is agreeable to the members of the MNE group involved 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+96 – CHAPTER II: TRANSFER PRICING METHODS
+
+with  the  transaction  or  transactions  to  which  the  methodology  applies  and 
+also to the tax administrations in the jurisdictions of all those members.
+
+B. Use of more than one method
+
+2.12.  The arm’s length principle does not require the application of more 
+than  one  method  for  a  given  transaction  (or  set  of  transactions  that  are 
+appropriately aggregated following the standard described in paragraph 3.9), 
+and  in  fact  undue  reliance  on  such  an  approach  could  create  a  significant 
+burden  for  taxpayers.  Thus,  these  Guidelines  do  not  require  either  the  tax 
+examiner  or  taxpayer  to  perform  analyses  under  more  than  one  method. 
+While in some cases the selection of a method may not be straightforward 
+and more than one method may be initially considered, generally it will be 
+possible to select one method that is apt to provide the best estimation of an 
+arm’s  length  price.  However,  for  difficult  cases,  where  no  one  approach  is 
+conclusive, a flexible approach would allow the evidence of various methods 
+to be used in conjunction. In such cases, an attempt should be made to reach a 
+conclusion consistent with the arm’s length principle that is satisfactory from 
+a practical viewpoint to all the parties involved, taking into account the facts 
+and circumstances of the case, the mix of evidence available, and the relative 
+reliability of the various methods under consideration. See paragraphs 3.58-
+3.59 for a discussion of cases where a range of figures results from the use of 
+more than one method.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 97
+
+Part II: Traditional transaction methods
+
+A. Introduction
+
+2.13.  This  part  provides  a  detailed  description  of  traditional  transaction 
+methods that are used to apply the arm’s length principle. These methods are 
+the comparable uncontrolled price method or CUP method, the resale price 
+method, and the cost plus method.
+
+B. Comparable uncontrolled price method
+
+B.1.  In general
+
+2.14.  The  CUP  method  compares  the  price  charged  for  property  or 
+services  transferred  in  a  controlled  transaction  to  the  price  charged  for 
+property  or  services  transferred  in  a  comparable  uncontrolled  transaction 
+in  comparable  circumstances.  If  there  is  any  difference  between  the  two 
+prices, this may indicate that the conditions of the commercial and financial 
+relations of the associated enterprises are not arm’s length, and that the price 
+in the uncontrolled transaction may need to be substituted for the price in the 
+controlled transaction.
+
+2.15. 
+Following the principles in Chapter I, an uncontrolled transaction is 
+comparable to a controlled transaction (i.e. it is a comparable uncontrolled 
+transaction) for purposes of the CUP method if one of two conditions is met: 
+a) none of the differences (if any) between the transactions being compared 
+or between the enterprises undertaking those transactions could materially 
+affect the price in the open market; or, b) reasonably accurate adjustments 
+can be made to eliminate the material effects of such differences. Where it 
+is possible to locate comparable uncontrolled transactions, the CUP method 
+is  the  most  direct  and  reliable  way  to  apply  the  arm’s  length  principle. 
+Consequentl

@@ -1,0 +1,75 @@
+process will be reflected in 
+the mutual agreement that will be presented to these persons. Where a particular 
+bilateral treaty does not contain an arbitration provision similar to paragraph 5 
+of Article 25, the competent authorities are not obliged to reach an agreement 
+to  resolve  their  dispute;  paragraph  2  of  Article  25  requires  only  that  the 
+competent authorities “endeavour … to resolve the case by mutual agreement”. 
+The competent authorities may be unable to come to an agreement because of 
+conflicting domestic laws or restrictions imposed by domestic law on the tax 
+administration’s  power  of  compromise.  Even  in  the  absence  of  a  mandatory 
+binding arbitration provision similar to paragraph 5 of Article 25 in a particular 
+bilateral  treaty,  however,  the  competent  authorities  of  the  Contracting  States 
+may by mutual agreement establish a binding arbitration procedure for general 
+application or to deal with a specific case (see paragraph 69 of the Commentary 
+on Article 25 of the OECD Model Tax Convention). It should also be noted that a 
+multilateral Convention on the elimination of double taxation in connection with 
+the adjustment of profits of associated enterprises2 (the Arbitration Convention) 
+was signed by the Member States of the European Communities on 23 July 1990; 
+the Arbitration Convention, which entered into force on 1 January 1995, provides 
+for  an  arbitration  mechanism  to  resolve  transfer  pricing  disputes  between 
+European Union Member States.
+
+C.2.  Corresponding adjustments: Paragraph 2 of Article 9
+
+4.32.  To eliminate double taxation in transfer pricing cases, tax administrations 
+may  consider  requests  for  corresponding  adjustments  as  described  in 
+
+2. 
+
+Convention 90/436/EEC.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 183
+
+paragraph 2 of Article 9. A corresponding adjustment, which in practice may 
+be  undertaken  as  part  of  the  mutual  agreement  procedure,  can  mitigate  or 
+eliminate  double  taxation  in  cases  where  one  tax  administration  increases 
+a company’s taxable profits (i.e. makes a primary adjustment) as a result of 
+applying the arm’s length principle to transactions involving an associated 
+enterprise  in  a  second  tax  jurisdiction.  The  corresponding  adjustment  in 
+such a case is a downward adjustment to the tax liability of that associated 
+enterprise,  made  by  the  tax  administration  of  the  second  jurisdiction,  so 
+that the allocation of profits between the two jurisdictions is consistent with 
+the  primary  adjustment  and  no  double  taxation  occurs.  It  is  also  possible 
+that  the  first  tax  administration  will  agree  to  decrease  (or  eliminate)  the 
+primary adjustment as part of the consultative process with the second tax 
+administration, in which case the corresponding adjustment would be smaller 
+(or perhaps unnecessary). It should be noted that a corresponding adjustment 
+is not intended to provide a benefit to the MNE group greater than would 
+have been the case if the controlled transactions had been undertaken at arm’s 
+length conditions in the first instance.
+
+4.33.  Paragraph  2  of  Article  9  specifically  provides  that  the  competent 
+authorities  shall  consult  each  other  if  necessary  to  determine  appropriate 
+corresponding  adjustments.  This  confirms  that  the  mutual  agreement 
+procedure of Article 25 may be used to consider corresponding adjustment 
+requests.  See  also  paragraph  10  of  the  Commentary  on  Article  25  of  the 
+OECD  Model  Tax  Convention  (“…  the  corresponding  adjustments  to  be 
+made  in  pursuance  of  paragraph  2  of  [Article  9]  …  fall  within  the  scope 
+of  mutual  agreement  procedure,  both  as  concerns  assessing  whether 
+they  are  well-founded  and  for  determining  their  amount.”  However,  the 
+overlap  between  the  two  Articles  has  caused  OECD  member  countries  to 
+consider  whether  the  mutual  agreement  procedure  can  be  used  to  achieve 
+corresponding  adjustments  where  the  bilateral  income  tax  convention 
+between  two  Contracting  States  does  not  include  a  provision  comparable 
+to  paragraph  2  of  Article  9.  Paragraphs  11  and  12  of  the  Commentary  on 
+Article  25  of  the  OECD  Model  Tax  Convention  expressly  state  the  view 
+of  most  OECD  member  countries  that  the  mutual  agreement  procedure  is 
+considered to apply to transfer pricing adjustment cases, including issues of 
+whether a corresponding adjustment should be provided, even in the absence 
+of a provision comparable to paragraph 2 of Article  9. Paragraph  12 notes 
+that  those  States  that  do  not  agree  with  this  view  in  practice  find  means 
+of remedying economic double taxation in most cases involving  bona fide 
+companies by making use of provisions in their domestic laws.
+4.34.  Under paragraph 2 of Article 9, a corresponding ad

@@ -1,0 +1,82 @@
+y available options, economically relevant characteristics 
+including assumption of risk (see Section D.1 of Chapter I) and aggregation 
+of  transactions  (see  paragraphs  3.9  to  3.12)  apply  fully  to  situations  where 
+valuation techniques are utilised in a transfer pricing analysis. Furthermore, 
+the rules of these Guidelines on selection of transfer pricing methods apply 
+in determining when such techniques should be used (see paragraphs 2.1 to 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+294 – CHAPTER VI: INTANGIBLES
+
+2.12). The principles of Sections A, B, C, and D.1 of this chapter also apply 
+where use of valuation techniques is considered.
+
+6.155. 
+It is essential to consider the assumptions and other motivations that 
+underlie particular applications of valuation techniques. For sound accounting 
+purposes, some valuation assumptions may sometimes reflect conservative 
+assumptions  and  estimates  of  the  value  of  assets  reflected  in  a  company’s 
+balance  sheet.  This  inherent  conservatism  can  lead  to  definitions  that  are 
+too narrow for transfer pricing purposes and valuation approaches that are 
+not  necessarily  consistent  with  the  arm’s  length  principle.  Caution  should 
+therefore  be  exercised  in  accepting  valuations  performed  for  accounting 
+purposes as necessarily reflecting arm’s length prices or values for transfer 
+pricing  purposes  without  a  thorough  examination  of  the  underlying 
+assumptions.  In  particular,  valuations  of  intangibles  contained  in  purchase 
+price allocations performed for accounting purposes are not determinative for 
+transfer pricing purposes and should be utilised in a transfer pricing analysis 
+with caution and careful consideration of the underlying assumptions.
+
+6.156.  It is not the intention of these Guidelines to set out a comprehensive 
+summary  of  the  valuation  techniques  utilised  by  valuation  professionals. 
+Similarly,  it  is  not  the  intention  of  these  Guidelines  to  endorse  or  reject 
+one or more sets of valuation standards utilised by valuation or accounting 
+professionals  or  to  describe  in  detail  or  specifically  endorse  one  or  more 
+specific  valuation  techniques  or  methods  as  being  especially  suitable  for 
+use  in  a  transfer  pricing  analysis.  However,  where  valuation  techniques 
+are  applied  in  a  manner  that  gives  due  regard  to  these  Guidelines,  to  the 
+specific  facts  of  the  case,  to  sound  valuation  principles  and  practices,  and 
+with appropriate consideration of the validity of the assumptions underlying 
+the valuation and the consistency of those assumptions with the arm’s length 
+principle, such techniques can be useful tools in a transfer pricing analysis 
+where reliable comparable uncontrolled transactions are not available. See, 
+however,  paragraphs  6.142  and  6.143  for  a  discussion  of  the  reliability  and 
+application of valuation techniques based on intangible development costs.
+
+6.157.  Valuation techniques that estimate the discounted value of projected 
+future cash flows derived from the exploitation of the transferred intangible 
+or  intangibles  can  be  particularly  useful  when  properly  applied.  There 
+are  many  variations  of  these  valuation  techniques.  In  general  terms,  such 
+techniques  measure  the  value  of  an  intangible  by  the  estimated  value  of 
+future cash flows it may generate over its expected remaining lifetime. The 
+value  can  be  calculated  by  discounting  the  expected  future  cash  flows  to 
+present value.6 Under this approach valuation requires, among other things, 
+
+6. 
+
+In the case of a financial valuation based on projections, the analysis will often 
+be based on projections of cash flows. Accrual based measures of income, such 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 295
+
+defining  realistic  and  reliable  financial  projections,  growth  rates,  discount 
+rates,  the  useful  life  of  intangibles,  and  the  tax  effects  of  the  transaction. 
+Moreover  it  entails  consideration  of  terminal  values  when  appropriate. 
+Depending  on  the  facts  and  circumstances  of  the  individual  case,  the 
+calculation of the discounted value of projected cash flows derived from the 
+exploitation of the intangible should be evaluated from the perspectives of 
+both parties to the transaction in arriving at an arm’s length price. The arm’s 
+length price will fall somewhere within the range of present values evaluated 
+from the perspectives of the transferor and the transferee. Examples 27 to 29 
+in Annex I to Chapter VI illustrate the provisions of this section.
+
+D.2.6.4.  Specific areas of concern in applying methods based on the 
+
+discounted value of projected cash flows
+
+6.158.  When applying valuation techniques, including valuation techniques 
+based on projected cash flows, it is important to recognise that the estimates 
+of value based on

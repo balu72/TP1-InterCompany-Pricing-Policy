@@ -1,0 +1,74 @@
+n making a number of relevant decisions about 
+whether and how to take on the development risk. These include the decision 
+to perform part of the development work itself, the decision to seek specialist 
+input, the decision to hire the particular researcher, the decision of the type 
+of research that should be carried out and objectives assigned to it, and the 
+decision of the budget allocated to Company B. Company A has mitigated its 
+risk by taking measures to outsource development activities to Company B 
+which  assumes  the  day-to-day  responsibility  for  carrying  out  the  research 
+under  the  control  of  Company  A.  Company  B  reports  back  to  Company  A 
+at  predetermined  milestones,  and  Company  A  assesses  the  progress  of  the 
+development and whether its ongoing objectives are being met, and decides 
+whether  continuing  investments  in  the  project  are  warranted  in  the  light  of 
+that  assessment.  Company  A  has  the  financial  capacity  to  assume  the  risk. 
+Company B has no capability to evaluate the development risk and does not 
+make  decisions  about  Company  A’s  activities.  Company  B’s  risk  is  mainly 
+to ensure it performs the research activities competently and it exercises its 
+capability and authority to control that risk through making decisions about 
+the processes, expertise, and assets it needs. The risk Company B assumes is 
+distinct from the development risk assumed by Company A under the contract, 
+and which is controlled by Company A based on the evidence of the functional 
+analysis.
+
+Example 2
+
+1.84.  Company  B  manufactures  products  for  Company  A.  Under  step  1 
+capacity  utilisation  risk  and  supply  chain  risk  have  been  identified  as 
+economically  significant  in  this  transaction,  and  under  step  2  it  has  been 
+established  that  under  the  contract  Company  A  assumes  these  risks.  The 
+functional  analysis  under  step  3  provides  evidence  that  Company  B  built 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+60 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+and  equipped  its  plant  to  Company  A’s  specifications,  that  products  are 
+manufactured to technical requirements and designs provided by Company A, 
+that volume levels are determined by Company A, and that Company A runs 
+the supply chain, including the procurement of components and raw materials. 
+Company  A  also  performs  regular  quality  checks  of  the  manufacturing 
+process.  Company  B  builds  the  plant,  employs  and  trains  competent 
+manufacturing  personnel,  and  determines  production  scheduling  based  on 
+volume levels determined by Company A. Although Company B has incurred 
+fixed costs, it has no ability to manage the risk associated with the recovery 
+of those costs through determining the production units over which the fixed 
+costs  are  spread,  since  Company  A  determines  volumes.  Company  A  also 
+determines significant costs relating to components and raw materials and the 
+security of supply. The evaluation of the evidence concludes that Company B 
+performs manufacturing services. Significant risks associated with generating 
+a  return  from  the  manufacturing  activities  are  controlled  by  Company  A. 
+Company B controls the risk that it fails to competently deliver services. Each 
+company has the financial capacity to assume its respective risks.
+
+Example 3
+
+1.85.  Company  A  has  acquired  ownership  of  a  tangible  asset  and  enters 
+into contracts for the use of the asset with unrelated customers. Under step 1 
+utilisation of the tangible asset, that is the risk that there will be insufficient 
+demand  for  the  asset  to  cover  the  costs  Company  A  has  incurred,  has  been 
+identified  as  an  economically  significant  risk.  Under  step  2  it  is  established 
+that  Company  A  has  a  contract  for  the  provision  of  services  with  another 
+group  company,  Company  C;  the  contract  does  not  address  the  assumption 
+of  utilisation  risk  by  the  owner  of  the  tangible  asset,  Company  A.  The 
+functional analysis under step 3 provides evidence that another group company, 
+Company  B,  decides  that  investment  in  the  asset  is  appropriate  in  light  of 
+anticipated commercial opportunities identified and evaluated by Company B 
+and its assessment of the asset’s anticipated useful life; Company B provides 
+specifications for the asset and the unique features required to respond to the 
+commercial  opportunities,  and  arranges  for  the  asset  to  be  constructed  in 
+accordance with its specifications, and for Company A to acquire the asset. 
+Company C decides how to utilise the asset, markets the asset’s capabilities 
+to  third-party  customers,  negotiates  the  contracts  with  these  third  party 
+customers, assures that the asset is delivered to the third parties and installed 
+appropriately. Although it is the legal owner of the asset, Company A does not 
+exercise contro

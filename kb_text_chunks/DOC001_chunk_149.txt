@@ -1,0 +1,95 @@
+ntractual 
+terms  between  associated  enterprises  that  separate  ownership,  the 
+assumption of risk, and/or funding of investments in intangibles from 
+performance of important functions, control over risk, and decisions 
+related to investment in ways that are not observed in transactions 
+between  independent  enterprises  and  that  may  contribute  to  base 
+erosion and profit shifting.
+
+Notwithstanding 
+
+these  potential  challenges,  applying 
+
+the  arm’s 
+length  principle  and  the  provisions  of  Chapters  I-III  within  an  established 
+framework can, in most cases, yield an appropriate allocation of the returns 
+derived by the MNE group from the exploitation of intangibles.
+6.34.  The  framework  for  analysing  transactions  involving  intangibles 
+between associated enterprises requires taking the following steps, consistent 
+with  the  guidance  for  identifying  the  commercial  or  financial  relations 
+provided in Section D.1 of Chapter I:
+
+i) 
+
+Identify  the  intangibles  used  or  transferred  in  the  transaction  with 
+specificity and the specific, economically significant risks associated 
+with  the  development,  enhancement,  maintenance,  protection,  and 
+exploitation of the intangibles;
+
+ii)  Identify  the  full  contractual  arrangements,  with  special  emphasis  on 
+determining  legal  ownership  of  intangibles  based  on  the  terms  and 
+conditions of legal arrangements, including relevant registrations, licence 
+agreements, other relevant contracts, and other indicia of legal ownership, 
+and  the  contractual  rights  and  obligations,  including  contractual 
+assumption of risks in the relations between the associated enterprises;
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 257
+
+iii)  Identify  the  parties  performing  functions  (including  specifically 
+the important functions described in paragraph 6.56), using assets, 
+and managing risks related to developing, enhancing, maintaining, 
+protecting, and exploiting the intangibles by means of the functional 
+analysis,  and  in  particular  which  parties  control  any  outsourced 
+functions, and control specific, economically significant risks;
+
+iv)  Confirm the consistency between the terms of the relevant contractual 
+arrangements and the conduct of the parties, and determine whether 
+the  party  assuming  economically  significant  risks  under  step  4  (i) 
+of  paragraph  1.60,  controls  the  risks  and  has  the  financial  capacity 
+to  assume  the  risks  relating  to  the  development,  enhancement, 
+maintenance, protection, and exploitation of the intangibles;
+
+v)  Delineate the actual controlled transactions related to the development, 
+enhancement, maintenance, protection, and exploitation of intangibles 
+in light of the legal ownership of the intangibles, the other relevant 
+contractual relations under relevant registrations and contracts, and 
+the conduct of the parties, including their relevant contributions of 
+functions,  assets  and  risks,  taking  into  account  the  framework  for 
+analysing and allocating risk under Section D.1.2.1 of Chapter I;
+
+vi)  Where possible, determine arm’s length prices for these transactions 
+consistent  with  each  party’s  contributions  of  functions  performed, 
+assets used, and risks assumed, unless the guidance in Section D.2 
+of Chapter I applies.
+
+B.1.  Intangible ownership and contractual terms relating to 
+
+intangibles
+
+6.35.  Legal rights and contractual arrangements form the starting point for 
+any transfer pricing analysis of transactions involving intangibles. The terms of 
+a transaction may be found in written contracts, public records such as patent 
+or trademark registrations, or in correspondence and/or other communications 
+among  the  parties.  Contracts  may  describe  the  roles,  responsibilities  and 
+rights of associated enterprises with respect to intangibles. They may describe 
+which entity or entities provide funding, undertake research and development, 
+maintain and protect intangibles, and perform functions necessary to exploit 
+the intangibles, such as manufacturing, marketing and distribution. They may 
+describe how receipts and expenses of the MNE associated with intangibles 
+are to be allocated and may specify the form and amount of payment to all 
+members of the group for their contributions. The prices and other conditions 
+contained in such contracts may or may not be consistent with the arm’s length 
+principle.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+258 – CHAPTER VI: INTANGIBLES
+
+6.36.  Where no written terms exist, or where the facts of the case, including 
+the  conduct  of  the  parties,  differ  from  the  written  terms  of  any  agreement 
+between them or supplement these written terms, the actual transaction must 
+be deduced from the facts as established, including the conduct of the parties 
+(see  Section  D.1.1  of  Chapter  I).  It  is,  therefore,  good  practice  for  associated 
+e

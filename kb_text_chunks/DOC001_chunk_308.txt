@@ -1,0 +1,103 @@
+xplanation of the reasons 
+for proposing that the APA be cancelled. The taxpayer should be given an 
+opportunity to respond before any final decision is taken.
+
+E.3.3. Revising a MAP APA
+
+83. 
+The validity of the transfer pricing methodology is dependent on the 
+critical  assumptions  continuing  to  apply  for  the  duration  of  the  MAP  APA. 
+The MAP APA and any domestic confirmation or agreement should therefore 
+require the taxpayer to notify the affected tax administrations of any changes. If, 
+after evaluation by the tax administrations, it is established that there has been 
+a material change in conditions noted in a critical assumption, the MAP APA 
+may be revised to reflect the change. As discussed above, the MAP APA may 
+also contain assumptions, which although falling short of being critical to the 
+validity of the MAP APA, nevertheless warrant a review by the affected parties. 
+One result of such a review may again be a revision of the MAP APA. However, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+542 – ANNEX II TO CHAPTER IV: ADVANCE PRICING ARRANGEMENTS
+
+in many cases the terms and conditions of the MAP APA may be sufficiently 
+flexible to account for the effects of such changes without the need for revision.
+
+84. 
+The  taxpayer’s  notification  to  the  tax  administrations  that  such  a 
+change has taken place should be filed as soon as practicable after the change 
+occurs, or the taxpayer becomes aware of the change, and in any event no 
+later than the date for filing, if required, the annual report for that year or 
+accounting  period.  Early  notification  is  encouraged  in  order  to  give  the 
+affected parties more time to try to reach agreement on revising the MAP 
+APA, thereby reducing the likelihood of cancellation.
+
+The revised MAP APA should state the date from which the revision 
+85. 
+is effective and also the date on which the original MAP APA is no longer 
+effective. If the date of the change can be precisely identified, then normally 
+the revision should take effect from that date but if a precise date cannot be 
+identified, then normally the MAP APA would be revised with effect from 
+the first day of the accounting period following the one in which the change 
+took place. If the tax administrations and the taxpayer cannot agree on the 
+need for a revised MAP APA or how to revise the MAP APA, the MAP APA 
+will be cancelled and will no longer have any further force and effect on the 
+participating  taxpayers  and  tax  administrations.  The  determination  of  the 
+effective date of the cancellation of the MAP APA will normally follow the 
+same principles as applied to determine the date of revision.
+
+E.4. Renewing a MAP APA
+
+86. 
+A  request  to  renew  a  MAP  APA  should  be  made  at  the  time 
+prescribed by the participating tax administrations, bearing in mind the need 
+for sufficient lead time for the taxpayer(s) and tax administrations to review 
+and evaluate the renewal request and to reach agreement. It may be helpful 
+to  commence  the  renewal  process  well  before  the  existing  MAP  APA  has 
+expired.
+
+87. 
+The  format,  processing,  and  evaluation  of  the  renewal  application 
+would  usually  be  similar  to  those  for  an  initial  MAP  APA  application. 
+However,  the  necessary  level  of  detail  may  be  reduced  with  the  agreement 
+of  the  participating  tax  administrations,  particularly  if  there  have  not  been 
+material  changes  in  the  facts  and  circumstances  of  the  case.  Renewal  of 
+a  MAP  APA  is  not  automatic  and  depends  on  the  consent  of  all  parties 
+concerned and on the taxpayer demonstrating, among other things, compliance 
+with the terms and conditions of the existing MAP APA. The methodology 
+and terms and conditions of the renewed MAP APA may, of course, differ 
+from those of the previous MAP APA.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER V: TRANSFER PRICING DOCUMENTATION – MASTER FILE – 543
+
+Annex I to Chapter V 
+
+Transfer pricing documentation – Master file
+
+The following information should be included in the master file:
+
+Organisational structure
+
+•  Chart illustrating the MNE group’s legal and ownership structure and 
+
+geographical location of operating entities.
+
+Description of MNE group’s business(es)
+
+•  General written description of the MNE group’s business including:
+
+Important drivers of business profit;
+
+- 
+-  A  description  of  the  supply  chain  for  the  group’s  five  largest 
+products  and/or  service  offerings  by  turnover  plus  any  other 
+products  and/or  services  amounting  to  more  than  5%  of  group 
+turnover. The required description could take the form of a chart 
+or a diagram;
+
+-  A  list  and  brief  description  of  important  service  arrangements 
+between  members  of  the  MNE  group,  other  than  research 
+and  development  (R&D)  services,  including  a  description  of 
+the  capabilities  of  the  principal  locations  providing  import

@@ -1,0 +1,73 @@
+  as 
+to  their  valuation.  Identification  can  be  difficult  because  not  all  valuable 
+intangibles are legally protected and registered and not all valuable intangibles 
+are  recognised  or  recorded  for  accounting  purposes.  Relevant  intangibles 
+might  potentially  include  rights  to  use  industrial  assets  such  as  patents, 
+trademarks, trade names, designs or models, as well as copyrights of literary, 
+artistic  or  scientific  work  (including  software)  and  intellectual  property 
+such as know-how and trade secrets. They may also include customer lists, 
+distribution channels, unique names, symbols or pictures. An essential part 
+of the analysis of a business restructuring is to identify with specificity the 
+relevant  intangibles  or  rights  in  intangibles  that  were  transferred  (if  any), 
+whether independent parties would have remunerated their transfer, and what 
+their arm’s length value is.
+
+9.56.  The  determination  of  the  arm’s  length  price  for  a  transfer  of 
+intangibles or rights in intangibles should be conducted in accordance with 
+the guidance in Section D.1 of Chapter VI. It will be affected by a number of 
+factors among which are the amount, duration and riskiness of the expected 
+benefits from the exploitation of the intangible, the nature of the intangible 
+right and the restrictions that may be attached to it (restrictions in the way it 
+can be used or exploited, geographical restrictions, time limitations), the extent 
+and  remaining  duration  of  its  legal  protection  (if  any),  and  any  exclusivity 
+clause that might be attached to the right. See Section D.2.1 of Chapter VI. 
+Valuation of intangibles can be complex and uncertain. The general guidance 
+on  intangibles  and  on  cost  contribution  arrangements  that  is  found  in 
+Chapters VI and VIII is applicable in the context of business restructurings.
+
+E.2.1.  Disposal of intangibles or rights in intangibles by a local 
+
+operation to a central location (foreign associated enterprise)
+
+9.57.  Business  restructurings  sometimes  involve  the  transfer  of  the  legal 
+ownership of intangibles or rights in intangibles that were previously owned 
+by one or more local operation(s) to a central location situated in another tax 
+jurisdiction (e.g. a foreign associated enterprise  that operates as a principal 
+or  as  a  so-called  “IP  company”).  In  some  cases  the  transferor  continues  to 
+use the intangible transferred, but does so in another legal capacity (e.g. as a 
+licensee of the transferee, or through a contract that includes limited rights to 
+the intangible such as a contract manufacturing arrangement using patents that 
+were transferred; or a limited risk distribution arrangement using a trademark 
+that  was  transferred).  In  accordance  with  the  guidance  in  Chapter  VI,  it  is 
+important to remember that the legal ownership of an intangible by itself does 
+not confer any right ultimately to retain returns derived by the MNE group 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+378 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+from exploiting that intangible (see 6.42). Instead, the compensation required 
+to be paid to associated enterprises performing or controlling functions related 
+to  the  development,  enhancement,  maintenance,  protection,  or  exploitation 
+of  intangibles  may  comprise  any  share  of  the  total  return  anticipated  to 
+be  derived  from  the  intangibles  (see  6.54).  Therefore,  the  change  in  legal 
+ownership of an intangible in a business restructuring may not affect which 
+party is entitled to returns from that intangible.
+
+9.58.  MNE groups may have sound business reasons to centralise ownership 
+of intangibles or rights in intangibles. An example in the context of business 
+restructuring is a transfer of legal ownership of intangibles that accompanies 
+the  specialisation  of  manufacturing  sites  within  an  MNE  group.  In  a  pre-
+restructuring  environment,  each  manufacturing  entity  may  be  the  owner 
+and  manager  of  a  series  of  patents  –  for  instance  if  the  manufacturing  sites 
+were  historically  acquired  from  third  parties  with  their  intangibles.  In  a 
+global  business  model,  each  manufacturing  site  can  be  specialised  by  type 
+of  manufacturing  process  or  by  geographical  area  rather  than  by  patent.  As 
+a  consequence  of  such  a  restructuring  the  MNE  group  might  proceed  with 
+the transfer of all the locally owned patents to a central location which will in 
+turn give contractual rights (through licences or manufacturing agreements) 
+to all the group’s manufacturing sites to manufacture the products falling in 
+their new areas of competence, using patents that were initially owned either 
+by the same or by another entity within the group. In such a scenario it will be 
+important  to  delineate  the  actual  transaction  and  to  understand  whether  the 
+transfer of legal ownership 

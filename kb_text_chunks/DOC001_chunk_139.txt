@@ -1,0 +1,86 @@
+should  take  all  reasonable  steps  to  ensure  that 
+there  is  no  public  disclosure  of  confidential  information  (trade  secrets, 
+scientific secrets, etc.) and other commercially sensitive information contained 
+in the documentation package (master file, local file and Country-by-Country 
+Report). Tax administrations should also assure taxpayers that the information 
+presented in transfer pricing documentation will remain confidential. In cases 
+where disclosure is required in public court proceedings or judicial decisions, 
+every effort should be made to ensure that confidentiality is maintained and 
+that information is disclosed only to the extent needed.
+
+5.45.  The Confidentiality and Information Security Management Toolkit 
+(2020)  produced  by  the  Global  Forum  on  Transparency  and  Exchange  of 
+Information  for  Tax  Purposes  provides  guidance  to  jurisdictions  to  ensure 
+that their legal framework on the confidentiality of taxpayer information is 
+adequate and protects the confidentiality and appropriate use of information 
+exchanged under an international exchange agreement.
+
+D.9. Other issues
+
+5.46.  The  requirement  to  use  the  most  reliable  information  will  usually, 
+but  not  always,  require  the  use  of  local  comparables  over  the  use  of  regional 
+comparables where such local comparables are reasonably available. The use of 
+regional comparables in transfer pricing documentation prepared for jurisdictions 
+in the same geographic region in situations where appropriate local comparables 
+are  available  will  not,  in  some  cases,  comport  with  the  obligation  to  rely  on 
+the most reliable information. While the simplification benefits of limiting the 
+number of comparable searches an entity is required to undertake are obvious, 
+and materiality and compliance costs are relevant factors to consider, a desire 
+for  simplifying  compliance  processes  should  not  go  so  far  as  to  undermine 
+compliance with the requirement to use the most reliable available information. 
+See  paragraphs  1.132-1.133  on  market  differences  and  multi-jurisdictional 
+analyses for further details on when local comparables are to be preferred.
+
+5.47. 
+It  is  not  recommended,  particularly  at  the  stage  of  transfer  pricing 
+risk assessment, to require that the transfer pricing documentation should be 
+certified by an outside auditor or other third party. Similarly, mandatory use of 
+consulting firms to prepare transfer pricing documentation is not recommended.
+
+E. Implementation
+
+5.48.  This section contains guidance to ensure an effective and consistent 
+implementation  of  transfer  pricing  documentation  requirements,  and  in 
+particular Country-by-Country Reporting.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER V: DOCUMENTATION – 239
+
+E.1. Master file and local file
+
+It is recommended that the master file and local file elements of the 
+5.49. 
+transfer pricing documentation standard be implemented in each jurisdiction 
+through local legislation or administrative procedures and that the master file 
+and local file be filed directly with the tax administrations in each relevant 
+jurisdiction as required by those administrations. With regard to the local file 
+and the master file, confidentiality and the consistent use of the standards 
+contained in Annex I and Annex II to Chapter V of these Guidelines should 
+be  taken  into  account  by  jurisdictions  when  introducing  these  elements  in 
+local legislation or administrative procedures.
+
+E.2. Country-by-Country Report
+
+E.2.1.  Timing: When should the Country-by-Country Reporting 
+
+requirement start?
+
+5.50. 
+It  is  recommended  that  the  first  Country-by-Country  Reports  be 
+required  to  be  filed  for  MNE  fiscal  years  beginning  on  or  after  1  January 
+2016. However, it is acknowledged that some jurisdictions may need time to 
+follow their particular domestic legislative process in order to make necessary 
+adjustments  to  the  law.  In  order  to  assist  jurisdictions  in  preparing  timely 
+legislation, model legislation requiring ultimate parent entities of MNE groups 
+to file the Country-by-Country Report in their jurisdiction of residence has 
+been developed (see Annex IV to Chapter V of these Guidelines). Jurisdictions 
+will be able to adapt this model legislation to their own legal systems. Given 
+the recommendation in paragraph 5.31 that MNEs be allowed one year from 
+the close of the fiscal year to which the Country-by-Country Report relates to 
+prepare and file the Country-by-Country Report, this recommendation means 
+that  the  first  Country-by-Country  Reports  would  be  filed  by  31  December 
+2017. For MNEs with a fiscal year ending on a date other than 31 December, 
+the first Country-by-Country Reports would be required to be filed later in 
+2018, twelve months after the close of the relevant MNE fiscal year, and would 
+report on the MNE group’s first fiscal year begi

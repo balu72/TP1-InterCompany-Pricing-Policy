@@ -1,0 +1,84 @@
+operating in a given jurisdiction 
+because disclosure and filing requirements may differ depending on the legal 
+form of the company and on whether or not it is listed. Care must be exercised 
+with respect to whether and how these databases are used, given that they are 
+compiled and presented for non-transfer pricing purposes. It is not always the 
+case that commercial databases provide information that is detailed enough 
+to support the chosen transfer pricing method. Not all databases include the 
+same level of detail and can be used with similar assurance. Importantly, it 
+is the experience in many jurisdictions that commercial databases are used 
+to compare the results of companies rather than of transactions because third 
+party transactional information is rarely available. See paragraph 3.37 for a 
+discussion of the use of non-transactional third party data.
+
+3.32. 
+It  may  be  unnecessary  to  use  a  commercial  database  if  reliable 
+information is available from other sources, e.g. internal comparables. Where 
+they are used, commercial databases should be used in an objective manner 
+and genuine attempts should be made to use the databases to identify reliable 
+comparable information.
+
+3.33.  Use  of  commercial  databases  should  not  encourage  quantity  over 
+quality. In practice, performing a comparability analysis using a commercial 
+database alone may give rise to concerns about the reliability of the analysis, 
+given the quality of the information relevant to assessing comparability that 
+is typically obtainable from a database. To address these concerns, database 
+searches may need to be refined with other publicly available information, 
+depending on the facts and circumstances. Such a refinement of the database 
+search  with  other  sources  of  information  is  meant  to  promote  quality  over 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER III: COMPARABILITy ANALySIS – 159
+
+standardised  approaches  and  is  valid  both  for  database  searches  made  by 
+taxpayers/practitioners and for those made by tax administrations. It should 
+be understood in light of the discussion of the costs and compliance burden 
+created for the taxpayer in paragraphs 3.80-3.83.
+3.34.  There  are  also  proprietary  databases  that  are  developed  and 
+maintained by some advisory firms. In addition to the issues raised above 
+for commercial databases that are more broadly commercialised, proprietary 
+databases also raise a further concern with respect to their coverage of data 
+if they are based on a more limited portion of the market than commercial 
+databases. When a taxpayer has used a proprietary database to support its 
+transfer prices, the tax administration may request access to the database to 
+review the taxpayer’s results, for obvious transparency reasons.
+
+A.4.3.2. Foreign source or non-domestic comparables
+
+3.35.  Taxpayers  do  not  always  perform  searches  for  comparables  on  a 
+jurisdiction-by-jurisdiction  basis,  e.g.  in  cases  where  there  are  insufficient 
+data available at the domestic level and/or in order to reduce compliance costs 
+where several entities of an MNE group have comparable functional analyses. 
+Non-domestic comparables should not be automatically rejected just because 
+they are not domestic. A determination of whether non-domestic comparables 
+are reliable has to be made on a case-by-case basis and by reference to the 
+extent to which they satisfy the five comparability factors. Whether or not one 
+regional search for comparables can be reliably used for several subsidiaries 
+of  an  MNE  group  operating  in  a  given  region  of  the  world  depends  on 
+the  particular  circumstances  in  which  each  of  those  subsidiaries  operates. 
+See  paragraphs  1.132-1.133  on  market  differences  and  multi-jurisdictional 
+analyses. Difficulties may also arise from differing accounting standards.
+
+A.4.3.3. Information undisclosed to taxpayers
+
+3.36.  Tax  administrators  may  have  information  available  to  them  from 
+examinations  of  other  taxpayers  or  from  other  sources  of  information 
+that  may  not  be  disclosed  to  the  taxpayer.  However,  it  would  be  unfair  to 
+apply  a  transfer  pricing  method  on  the  basis  of  such  data  unless  the  tax 
+administration  was  able,  within  the  limits  of  its  domestic  confidentiality 
+requirements,  to  disclose  such  data  to  the  taxpayer  so  that  there  would  be 
+an adequate opportunity for the taxpayer to defend its own position and to 
+safeguard effective judicial control by the courts.
+
+A.4.4. Use of non-transactional third party data
+
+3.37.  The transactional focus of transfer pricing methods and the question of 
+a possible aggregation of the taxpayer’s controlled transactions are discussed 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+160 – CHAPTER III: COMPARABILITy ANALySIS
+
+in  paragraphs  3.9-3.12.  A  different  question  is  whether  non-transactional 
+third par

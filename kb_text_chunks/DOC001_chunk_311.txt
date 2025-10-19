@@ -1,0 +1,562 @@
+
+E
+
+t
+n
+e
+u
+t
+i
+t
+s
+n
+o
+C
+e
+h
+t
+
+f
+o
+
+y
+t
+i
+v
+i
+t
+c
+a
+
+e
+h
+t
+
+f
+o
+
+e
+r
+u
+t
+a
+n
+e
+h
+t
+
+y
+f
+i
+c
+e
+p
+s
+
+e
+s
+a
+e
+l
+P
+
+.
+1
+
+.
+
+1
+
+.
+
+2
+
+.
+
+3
+
+.
+
+1
+
+.
+
+2
+
+.
+
+3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+552 – ANNEX III TO CHAPTER V: A. MODEL TEMPLATE FOR THE COUNTRy-By-COUNTRy REPORT
+
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+I
+
+l
+a
+n
+o
+i
+t
+i
+
+d
+d
+A
+
+.
+3
+e
+l
+b
+a
+T
+
+:
+p
+u
+o
+r
+g
+E
+N
+M
+e
+h
+t
+
+f
+o
+
+e
+m
+a
+N
+
+:
+d
+e
+n
+r
+e
+c
+n
+o
+c
+
+r
+a
+e
+y
+
+l
+
+a
+c
+s
+F
+
+i
+
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+
+i
+
+l
+
+y
+r
+o
+s
+u
+p
+m
+o
+c
+
+e
+h
+t
+
+f
+o
+
+i
+
+g
+n
+d
+n
+a
+t
+s
+r
+e
+d
+n
+u
+
+e
+h
+t
+
+e
+t
+a
+t
+i
+l
+i
+
+c
+a
+f
+
+l
+
+d
+u
+o
+w
+
+t
+a
+h
+t
+
+r
+o
+y
+r
+a
+s
+s
+e
+c
+e
+n
+
+i
+
+r
+e
+d
+s
+n
+o
+c
+
+u
+o
+y
+
+n
+o
+i
+t
+a
+n
+a
+p
+x
+e
+
+l
+
+r
+o
+
+n
+o
+
+i
+t
+
+a
+m
+r
+o
+
+f
+
+n
+
+i
+
+f
+
+e
+i
+r
+b
+r
+e
+h
+
+t
+r
+u
+
+f
+
+y
+n
+a
+
+e
+d
+u
+c
+n
+
+l
+
+i
+
+e
+s
+a
+e
+P
+
+l
+
+.
+t
+r
+o
+p
+e
+R
+y
+r
+t
+
+n
+u
+o
+C
+
+-
+y
+b
+-
+y
+r
+t
+
+n
+u
+o
+C
+e
+h
+t
+
+n
+
+i
+
+i
+
+d
+e
+d
+v
+o
+r
+p
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEX III TO CHAPTER V: B. TEMPLATE FOR THE COUNTRy-By-COUNTRy REPORT – GENERAL INSTRUCTIONS – 553
+
+B. Template for the Country-by-Country Report – General instructions
+
+Purpose
+
+This Annex III to Chapter V of these Guidelines contains a template for 
+reporting  a  multinational  enterprise’s  (MNE)  group  allocation  of  income, 
+taxes and business activities on a tax jurisdiction-by-tax jurisdiction basis. 
+These  instructions  form  an  integral  part  of  the  model  template  for  the 
+Country-by-Country Report.
+
+Definitions
+
+Reporting MNE
+
+A Reporting MNE is the ultimate parent entity of an MNE group.
+
+Constituent Entity
+
+For purposes of completing Annex III, a Constituent Entity of the MNE 
+group is (i) any separate business unit of an MNE group that is included in the 
+Consolidated Financial Statements of the MNE group for financial reporting 
+purposes, or would be so included if equity interests in such business unit of 
+the  MNE  group  were  traded  on  a  public  securities  exchange;  (ii)  any  such 
+business unit that is excluded from the MNE group’s Consolidated Financial 
+Statements  solely  on  size  or  materiality  grounds;  and  (iii)  any  permanent 
+establishment  of  any  separate  business  unit  of  the  MNE  group  included 
+in  (i)  or  (ii)  above  provided  the  business  unit  prepares  a  separate  financial 
+statement for such permanent establishment for financial reporting, regulatory, 
+tax reporting, or internal management control purposes.
+
+Treatment of Branches and Permanent Establishments
+
+The  permanent  establishment  data  should  be  reported  by  reference 
+to  the  tax  jurisdiction  in  which  it  is  situated  and  not  by  reference  to  the 
+tax  jurisdiction  of  residence  of  the  business  unit  of  which  the  permanent 
+establishment is a part. Residence tax jurisdiction reporting for the business 
+unit of which the permanent establishment is a part should exclude financial 
+data related to the permanent establishment.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+554 – ANNEX III TO CHAPTER V: B. TEMPLATE FOR THE COUNTRy-By-COUNTRy REPORT – GENERAL INSTRUCTIONS
+
+Consolidated Financial Statements
+
+The Consolidated Financial Statements are the financial statements of an 
+MNE group in which the assets, liabilities, income, expenses and cash flows 
+of  the  ultimate  parent  entity  and  the  Constituent  Entities  are  presented  as 
+those of a single economic entity.
+
+Period covered by the annual template
+
+The  template  should  cover  the  fiscal  year  of  the  Reporting  MNE.  For 
+Constituent Entities, at the discretion of the Reporting MNE, the template 
+should reflect on a consistent basis either (i) information for the fiscal year 
+of the relevant Constituent Entities ending on the same date as the fiscal year 
+of the Reporting MNE, or ending within the 12 month period preceding such 
+date, or (ii) information for all the relevant Constituent Entities reported for 
+the fiscal year of the Reporting MNE.
+
+Source of data
+
+The  Reporting  MNE  should  consistently  use  the  same  sources  of  data 
+from  year  to  year  in  completing  the  template.  The  Reporting  MNE  may 
+choose to use data from its consolidation reporting packages, from separate 
+entity  statutory  financial  statements,  regulatory  financial  statements,  or 
+internal management accounts. It is not necessary to reconcile the revenue, 
+profit  and  tax  reporting  in  the  template  to  the  consolidated  financial 
+statements.  If  statutory  financial  statements  are  used  as  the  basis  for 
+reporting, all amounts should be translated to the stated functional currency 
+of  the  Reporting  MNE  at  the  average  exchange  rate  for  the  year  stated  in 
+the  Additional  Information  section  of  the  template.  Adjustments  need  not 
+be made, however, for differences in accounting principles applied from tax 
+jurisdiction to tax jurisdiction.
+
+The  Reporting  MNE  should  prov

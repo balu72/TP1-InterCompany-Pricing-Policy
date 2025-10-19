@@ -1,0 +1,78 @@
+ding on the economically 
+relevant characteristics of the transaction. The risk will, for example, be lower 
+when the party to which the funding is provided has a high creditworthiness, 
+or  when  assets  are  pledged,  or  when  the  investment  funded  is  low  risk, 
+compared with the risk where the creditworthiness is lower, or the funding is 
+unsecured, or the investment being funded is high risk. Moreover, the larger 
+the amount of the funds provided, the larger the potential impact of the risk 
+on the provider of the funding.
+
+6.61.  Under  the  principles  of  Section  D.1.2  of  Chapter  I,  the  first  step  in 
+a  transfer  pricing  analysis  in  relation  to  risks  is  to  identify  the  economically 
+significant  risks  with  specificity.  When  identifying  risks  in  relation  to  an 
+investment with specificity, it is important to distinguish between the financial 
+risks  that  are  linked  to  the  funding  provided  for  the  investments  and  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+266 – CHAPTER VI: INTANGIBLES
+
+operational  risks  that  are  linked  to  the  operational  activities  for  which  the 
+funding is used, such as for example the development risk when the funding is 
+used for developing a new intangible. Where a party providing funding exercises 
+control over the financial risk associated with the provision of funding, without 
+the assumption of, including the control over, any other specific risk, it could 
+generally only expect a risk-adjusted return on its funding.
+
+6.62.  The  contractual  arrangements  will  generally  determine  the  terms 
+of  the  funding  transaction,  as  clarified  or  supplemented  by  the  economic 
+characteristics of the transaction as reflected in the conduct of the parties.5 
+The return that would generally be expected by the funder should equal an 
+appropriate risk-adjusted return. Such return can be determined, for example, 
+based on the cost of capital or the return of a realistic alternative investment 
+with  comparable  economic  characteristics.  In  determining  an  appropriate 
+return  for  the  funding  activities,  it  is  important  to  consider  the  financing 
+options realistically available to the party receiving the funds. There may be a 
+difference between the return expected by the funder on an ex ante basis and 
+the actual return received on an ex post basis. For example, when the funder 
+provides  a  loan  for  a  fixed  amount  at  a  fixed  interest  rate,  the  difference 
+between the actual and expected returns will reflect the risk playing out that 
+the borrower cannot make some or all of the payments due.
+
+6.63.  The  extent  and  form  of  the  activities  that  will  be  necessary  to 
+exercise control over the financial risk attached to the provision of funding 
+will  depend  on  the  riskiness  of  the  investment  for  the  funder,  taking  into 
+account  the  amount  of  money  at  stake  and  the  investment  for  which  these 
+funds  are  used.  In  accordance  with  the  definition  of  control  as  reflected 
+in  paragraphs  1.65  and  1.66  of  these  Guidelines,  exercising  control  over  a 
+specific financial risk requires the capability to make the relevant decisions 
+related  to  the  risk  bearing  opportunity,  in  this  case  the  provision  of  the 
+funding,  together  with  the  actual  performance  of  these  decision  making 
+functions.  In  addition,  the  party  exercising  control  over  the  financial  risk 
+must perform the activities as indicated in paragraph 1.65 and 1.66 in relation 
+to the day-to-day risk mitigation activities related to these risks when these 
+are outsourced and related to any preparatory work necessary to facilitate its 
+decision making, if it does not perform these activities itself.
+
+6.64.  When  funding  is  provided  to  a  party  for  the  development  of  an 
+intangible, the relevant decisions relating to taking on, laying off or declining 
+a risk bearing opportunity and the decisions on whether and how to respond 
+
+5. 
+
+Further guidance will be provided on the economically relevant characteristics 
+for determining the arm’s length conditions for financial transactions, including 
+when  the  funding  is  used  for  project  finance,  in  particular  investments  in  the 
+development of intangibles. This work will be undertaken in 2016 and 2017.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 267
+
+to the risks associated with the opportunity, are the decisions related to the 
+provision of funding and the conditions of the transaction. Depending on the 
+facts and circumstances, such decisions may depend on an assessment of the 
+creditworthiness of the party receiving the funds and an assessment of how 
+the risks related to the development project may impact the expectations in 
+relation to the returns on funding provided or additional funding required. 
+The  conditions  underlying  the  provision  of  the  funding  may  include

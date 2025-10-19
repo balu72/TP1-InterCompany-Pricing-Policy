@@ -1,0 +1,93 @@
+ account  in  determining  the  arm’s  length 
+price paid by Company T for Company S intangibles related to Company T’s 
+geographic market. The value attributed to intangibles in the purchase price 
+allocation performed for accounting purposes is not determinative for transfer 
+pricing purposes.
+
+Example 27
+
+97. 
+Company  A  is  the  Parent  of  an  MNE  group  with  operations  in 
+Country X. Company A owns patents, trademarks and know-how with regard 
+to several products produced and sold by the MNE group. Company B is a 
+wholly  owned  subsidiary  of  Company  A.  All  of  Company  B’s  operations 
+are conducted in Country y. Company B also owns patents, trademarks and 
+know-how related to Product M.
+
+For sound business reasons related to the co-ordination of the group’s 
+98. 
+patent protection and anti-counterfeiting activities, the MNE group decides to 
+centralise ownership of its patents in Company A. Accordingly, Company B 
+sells the Product M patents to Company A for a lump-sum price. Company A 
+assumes responsibility to perform all ongoing functions and it assumes all 
+risks related to the Product M patents following the sale. Based on a detailed 
+comparability and functional analysis, the MNE group concludes that it is not 
+able to identify any comparable uncontrolled transactions that can be used to 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES – 629
+
+determine the arm’s length price. Company A and Company B reasonably 
+conclude  that  the  application  of  valuation  techniques  represents  the  most 
+appropriate transfer pricing method to use in determining whether the agreed 
+price is consistent with arm’s length dealings.
+
+99. 
+Valuation  personnel  apply  a  valuation  method  that  directly  values 
+property  and  patents  to  arrive  at  an  after-tax  net  present  value  for  the 
+Product  M  patent  of  80.  The  analysis  is  based  on  royalty  rates,  discount 
+rates and useful lives typical in the industry in which Product M competes. 
+However, there are material differences between Product M and the relevant 
+patent  rights  related  to  Product  M,  and  those  typical  in  the  industry.  The 
+royalty  arrangements  used  in  the  analysis  would  therefore  not  satisfy  the 
+comparability standards required for a CUP method analysis. The valuation 
+seeks to make adjustments for these differences.
+
+100. 
+In conducting its analysis, Company A also conducts a discounted 
+cash  flow  based  analysis  of  the  Product  M  business  in  its  entirety.  That 
+analysis,  based  on  valuation  parameters  typically  used  by  Company  A  in 
+evaluating potential acquisitions, suggests that the entire Product M business 
+has a net present value of 100. The 20 difference between the 100 valuation 
+of the entire Product M business and the 80 valuation of the patent on its own 
+appears to be inadequate to reflect the net present value of routine functional 
+returns for functions performed by Company B and to recognise any value 
+for  the  trademarks  and  know-how  retained  by  Company  B.  Under  these 
+circumstances further review of the reliability of the 80 value ascribed to the 
+patent would be called for.
+
+Example 28
+
+101. 
+Company A is the Parent company of an MNE group with operations 
+in Country S. Company B is a member of the MNE group with operations 
+in  Country  T,  and  Company  C  is  also  a  member  of  the  MNE  group  with 
+operations  in  Country  U.  For  valid  business  reasons  the  MNE  group 
+decides  to  centralise  all  of  its  intangibles  related  to  business  conducted 
+outside  of  Country  S  in  a  single  location.  Accordingly,  intangibles  owned 
+by Company B are sold to Company C for a lump sum, including patents, 
+trademarks,  know-how,  and  customer  relationships.  At  the  same  time, 
+Company C retains Company B to act as a contract manufacturer of products 
+previously produced and sold by Company B on a full-risk basis. Company C 
+has  the  personnel  and  resources  required  to  manage  the  acquired  lines  of 
+business, including the further development of intangibles necessary to the 
+Company B business.
+
+102. 
+The  MNE  group  is  unable  to  identify  comparable  uncontrolled 
+transactions  that  can  be  used  in  a  transfer  pricing  analysis  of  the  arm’s 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+630 – ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES
+
+length price to be paid by Company C to Company B. Based on a detailed 
+comparability  and  functional  analysis,  the  MNE  group  concludes  that 
+the  most  appropriate  transfer  pricing  method  involves  the  application  of 
+valuation  techniques  to  determine  the  value  of  the  transferred  intangibles. 
+In conducting its valua tion, the MNE group is unable to reliably segregate 
+particular cash flows associated with all of the specific intangibles.
+
+103. 
+Under these circumstances, in determining the arm’s length co

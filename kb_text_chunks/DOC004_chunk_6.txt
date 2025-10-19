@@ -1,0 +1,80 @@
+economic and statistical analysis.  
+
+This guidance clarifies that, consistent with Revenue, Profit (Loss) before Income Tax excludes payments 
+received from other Constituent Entities that are treated as dividends in the payer’s tax jurisdiction. 
+
+The BEPS Action 13 Report also does not provide specific guidance on how to interpret the expression 
+“payments  received  from  other  Constituent  Entities  that  are  treated  as  dividends  in  the  payer’s  tax 
+jurisdiction” and, in the absence of such guidance, different approaches have been adopted by jurisdictions 
+and by MNEs.  
+
+This  guidance  clarifies  that  the  expression  “payments  received  from  other  Constituent  Entities  that  are 
+treated as dividends in the payer’s tax jurisdiction” refers to payments that are treated as dividends in the 
+source of data used for the completion of Table 1 with respect to the tax jurisdiction of the payer.  In a CbC 
+report, payments between Constituent Entities should be treated consistently in the tax jurisdictions of the 
+payer and the recipient. In practice this means that: 
+
+•  a payment is excluded from Revenue and Profit (Loss) before Income Tax in the recipient’s tax 
+jurisdiction if the source of data used to complete Table 1 of the country-by-country report for the 
+payer’s tax jurisdiction treats such payment as a dividend; and,  
+
+•  a  payment  is  included  in  Revenue  and  Profit  (Loss)  before  Income  Tax  in  the  recipient’s  tax 
+jurisdiction if the source of data used to complete Table 1 of the country-by-country report for the 
+payer’s  tax  jurisdiction  treats  such  payment  as  something  other  than  a  dividend,  for  instance, 
+interest expense. 
+
+Inclusive  Framework  members  are  encouraged  to  apply  this  guidance  as  soon  as  possible,  taking  into 
+account  specific  domestic  circumstances  and,  in  any  event,  this  guidance  applies  to  all  reporting  fiscal 
+years of MNE groups commencing on or after 1 January 2025.   
+
+Where applicable accounting rules require or permit a Constituent Entity to include in profit before tax for 
+financial reporting purposes an amount representing all or part of the profit of another Constituent Entity, 
+this amount should be treated in the same way as dividends from other Constituent Entities and excluded 
+from Revenue and Profit (Loss) before Income Tax.5 
+
+7.2 Should income tax accrued/income tax paid on such dividends be reflected in the 
+columns “Income Tax Paid (on cash basis)” and/or “Income Tax Accrued (current 
+year)”?  
+
+Where dividends from other Constituent Entities are included in "Profit (loss) before Income Tax" in Table 
+1,  any  income  tax  accrued  or  income  tax  paid  on  these  dividends  should  be  reported  in  the  relevant 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+column(s).  For  consistency,  these  columns  should  not  include  information  on  income  tax  accrued  or 
+income tax paid with respect to dividends from Constituent Entities that are not included in "Profit (loss) 
+before Income Tax". 
+
+  | 13 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+14 |   
+
+The use of shortened or rounded amounts in preparing Table 1 (September 2018, 
+November 2019) 
+
+8.1 In completing Table 1, is it acceptable for shortened amounts to be used? As an 
+example, where amounts are shortened to the nearest thousand, an amount of 123 456 
+789 would be reported as 123 457.  
+
+The  Action  13  report  and  published  guidance  do  not  provide  for  any  shortening  of  the  amounts  to  be 
+included  in  Table  1.  Amounts  in  Table  1  should  be  reported  in  full  whole  units  (i.e.  an  amount  of 
+123 456 789 should be reported as 123 456 789 and should not be shortened, for example, to 123 457). 
+
+8.2 Is it permitted for an MNE to report rounded amounts in Table 1 of its CbC report?  
+
+The BEPS Action 13 report does not provide any guidance concerning the rounding of amounts in Table 
+1, other than with respect to the number of employees (where reasonable rounding or approximation is 
+permissible,  providing  this  does  not  materially  distort  the  relative  distribution  of  employees  across  tax 
+jurisdictions). As such, the jurisdiction where the UPE of an MNE Group is resident is not required to accept 
+any rounding of financial amounts in the preparation of Table 1. Such a jurisdiction may however accept a 
+reasonable level of rounding and, where this is accepted by the residence jurisdiction of the UPE, a CbC 
+report prepared on this basis will be considered to be in accordance with the minimum standard.  
+
+Each  jurisdiction  may  determine  the  level  of  rounding  that  is  reasonable,  taking  into  account  factors 
+including the relative nominal value of its currency unit. However, reasonable rounding cannot include any 
+rounding that could materially distort the data contained 

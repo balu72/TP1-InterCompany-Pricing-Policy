@@ -1,0 +1,90 @@
+ development  by  a  competitor  will  have  the  effect  of  making 
+products based on the intangible in question obsolete or less desirable. It may 
+also happen that the financial projections, on which calculations of ex ante 
+returns and compensation arrangements are based, properly took into account 
+risks and the probability of reasonably foreseeable events occurring and that 
+the differences between actual and anticipated profitability reflects the playing 
+out of those risks. Finally, it may happen that financial projections, on which 
+calculations of ex ante returns and compensation arrangements are based, did 
+not adequately take into account the risks of different outcomes occurring and 
+therefore  led  to  an  overestimation  or  an  underestimation  of  the  anticipated 
+profits. The question arises in such circumstances whether, and if so, how the 
+profits or losses should be shared among members of an MNE group that have 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 269
+
+contributed to the development, enhancement, maintenance, protection, and 
+exploitation of the intangible in question.
+
+6.70.  Resolution of this question requires a careful analysis of which entity 
+or  entities  in  the  MNE  group  in  fact  assume  the  economically  significant 
+risks as identified when delineating the actual transaction (see Section D.1 
+of  Chapter  I).  As  this  analytical  framework  indicates,  the  party  actually 
+assuming the economically significant risks may or may not be the associated 
+enterprise  contractually  assuming  these  risks,  such  as  the  legal  owner  of 
+the intangible, or may or may not be the funder of the investment. A party 
+which is not allocated the risks that give rise to the deviation between the 
+anticipated and actual outcomes under the principles of Sections D.1.2.1.4 to 
+D.1.2.1.6 of Chapter I will not be entitled to the differences between actual 
+and  anticipated  profits  or  required  to  bear  losses  that  are  caused  by  these 
+differences  if  such  risk  materialises,  unless  these  parties  are  performing 
+the  important  functions  as  reflected  in  paragraph  6.56  or  contributing 
+to  the  control  over  the  economically  significant  risks  as  established  in 
+paragraph 1.105, and it is determined that arm’s length remuneration of these 
+functions would include a profit sharing element. In addition, consideration 
+must be given to whether the ex ante remuneration paid to members of the 
+MNE group for their functions performed, assets used, and risks assumed 
+is, in fact, consistent with the arm’s length principle. Care should be taken 
+to  ascertain,  for  example,  whether  the  group  in  fact  underestimated  or 
+overestimated  anticipated  profits,  thereby  giving  rise  to  underpayments  or 
+overpayments (determined on an ex ante basis) to some group members for 
+their  contributions.  Transactions  for  which  valuation  is  highly  uncertain 
+at  the  time  of  the  transaction  are  particularly  susceptible  to  such  under  or 
+overestimations of value. This is further discussed in Section D.4.
+
+B.2.5. Some implications from applying Sections B.1 and B.2
+
+6.71. 
+
+If the legal owner of an intangible in substance:
+
+• 
+
+• 
+
+• 
+
+performs  and  controls  all  of  the  functions  (including  the  important 
+functions  described  in  paragraph  6.56)  related  to  the  development, 
+enhancement, maintenance, protection and exploitation of the intangible;
+
+provides all assets, including funding, necessary to the development, 
+enhancement,  maintenance,  protection,  and  exploitation  of  the 
+intangibles; and
+
+assumes  all  of  the  risks  related  to  the  development,  enhancement, 
+maintenance, protection, and exploitation of the intangible,
+
+then it will be entitled to all of the anticipated, ex ante, returns derived 
+from  the  MNE  group’s  exploitation  of  the  intangible.  To  the  extent  that 
+one  or  more  members  of  the  MNE  group  other  than  the  legal  owner 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+270 – CHAPTER VI: INTANGIBLES
+
+performs functions, uses assets, or assumes risks related to the development, 
+enhancement,  maintenance,  protection  and  exploitation  of  the  intangible, 
+such associated enterprises must be compensated on an arm’s length basis 
+for their contributions. This compensation may, depending on the facts and 
+circumstances, constitute all or a substantial part of the return anticipated to 
+be derived from the exploitation of the intangible.
+
+6.72.  The entitlement of any member of the MNE group to profit or loss 
+relating to  differences between actual (ex post) and a proper estimation of 
+anticipated (ex ante) profitability will depend on which entity or entities in 
+the MNE group in fact assumes the risks as identified when delineating the 
+actual transaction (see Section D.1 of Chapter I). It will also depend on the 
+entity or entities which are performing 

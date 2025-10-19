@@ -1,0 +1,83 @@
+re activities such as those described 
+above  are  performed  by  a  group  company  other  than  solely  because  of  an 
+ownership  interest  in  other  group  members,  then  that  group  company  is 
+not  performing  shareholder  activities  but  should  be  regarded  as  providing 
+a  service  to  the  parent  or  holding  company  to  which  the  guidance  in  this 
+chapter applies.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VII: INTRA-GROUP SERVICES – 317
+
+B.1.3. Duplication
+
+In  general,  no  intra-group  service  should  be  found  for  activities 
+7.11. 
+undertaken  by  one  group  member  that  merely  duplicate  a  service  that 
+another group member is performing for itself, or that is being performed for 
+such other group member by a third party. An exception may be where the 
+duplication of services is only temporary, for example, where an MNE group 
+is  reorganising  to  centralise  its  management  functions.  Another  exception 
+would be where the duplication is undertaken to reduce the risk of a wrong 
+business decision (e.g. by getting a second legal opinion on a subject). Any 
+consideration of possible duplication of services needs to identify the nature 
+of  the  services  in  detail,  and  the  reason  why  the  company  appears  to  be 
+duplicating  costs  contrary  to  efficient  practices.  The  fact  that  a  company 
+performs,  for  example,  marketing  services  in-house  and  also  is  charged 
+for marketing services from a group company does not of itself determine 
+duplication, since marketing is a broad term covering many levels of activity. 
+Examination  of  information  provided  by  the  taxpayer  may  determine  that 
+the  intra-group  services  are  different,  additional,  or  complementary  to  the 
+activities  performed  in-house.  The  benefits  test  would  then  apply  to  those 
+non-duplicative elements of the intra-group services. Some regulated sectors 
+require control functions to be performed locally as well as on a consolidated 
+basis  by  the  parent;  such  requirements  should  not  lead  to  disallowance  on 
+grounds of duplication.
+
+B.1.4. Incidental benefits
+
+7.12.  There  are  some  cases  where  an  intra-group  service  performed  by 
+a  group  member  such  as  a  shareholder  or  co-ordinating  centre  relates  only 
+to  some  group  members  but  incidentally  provides  benefits  to  other  group 
+members.  Examples  could  be  analysing  the  question  whether  to  reorganise 
+the group, to acquire new members, or to terminate a division. These activities 
+could  constitute  intra-group  services  to  the  particular  group  members 
+involved,  for  example  those  members  who  may  make  the  acquisition  or 
+terminate one of their divisions, but they may also produce economic benefits 
+for other group members not directly involved in the potential decision since 
+the  analysis  could  provide  useful  information  about  their  own  business 
+operations.  The  incidental  benefits  ordinarily  would  not  cause  these  other 
+group members to be treated as receiving an intra-group service because the 
+activities producing the benefits would not be ones for which an independent 
+enterprise ordinarily would be willing to pay.
+
+7.13. 
+Similarly,  an  associated  enterprise  should  not  be  considered  to 
+receive an intra-group service when it obtains incidental benefits attributable 
+solely to its being part of a larger concern, and not to any specific activity 
+being  performed.  For  example,  no  service  would  be  received  where  an 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+318 – CHAPTER VII: INTRA-GROUP SERVICES
+
+associated  enterprise  by  reason  of  its  affiliation  alone  has  a  credit-rating 
+higher than it would if it were unaffiliated, but an intra-group service would 
+usually  exist  where  the  higher  credit  rating  were  due  to  a  guarantee  by 
+another  group  member,  or  where  the  enterprise  benefitted  from  deliberate 
+concerted action involving global marketing and public relations campaigns. 
+In  this  respect,  passive  association  should  be  distinguished  from  active 
+promotion of the MNE group’s attributes that positively enhances the profit-
+making  potential  of  particular  members  of  the  group.  Each  case  must  be 
+determined according to its own facts and circumstances. See Section D.8 of 
+Chapter I on MNE group synergies.
+
+B.1.5. Centralised services
+
+7.14.  Other  activities  that  may  relate  to  the  group  as  a  whole  are  those 
+centralised  in  the  parent  company  or  one  or  more  group  service  centres 
+(such as a regional headquarters company) and made available to the group 
+(or  multiple  members  thereof).  The  activities  that  are  centralised  depend 
+on  the  kind  of  business  and  on  the  organisational  structure  of  the  group, 
+but  in  general  they  may  include  administrative  services  such  as  planning, 
+co-ordination, budgetary contro

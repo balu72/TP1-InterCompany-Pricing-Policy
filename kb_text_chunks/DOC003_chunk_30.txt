@@ -1,0 +1,119 @@
+ation’s access 
+authorization and data transmission policies extend to data received from an exchange of information partner 
+under a treaty or TIEA or other exchange agreement. Are the policies publicly available? If yes, please provide the 
+reference. If not, please provide a summary.
+
+2.6 Identification and Authentication
+
+Primary Check-list Areas
+
+•  Authenticating the identifying users and devices that require access to information systems
+
+What policies and procedures does your tax administration maintain for each information system connected to 
+confidential data? Are the policies and procedures publicly available? If so, please provide a reference. If not, 
+please provide a summary.
+
+What policies and procedures govern the authentication of authorized tax administration users by systems 
+connected to confidential data? Are the policies and procedures publicly available? If so, please provide a 
+reference. If not, please provide a summary.
+
+2.7 Audit and Accountability
+
+Primary Check-list Areas
+
+•  Traceable electronic actions within systems
+•  System audit procedures: monitoring, analyzing, investigating, and reporting of unlawful/
+
+unauthorized use
+
+What policies and procedures does your tax administration maintain to ensure system audits take place that will 
+detect unauthorized access? Are the policies publicly available? If so, please provide a reference. If not, please 
+provide a summary.
+
+2.8 Maintenance
+
+Primary Check-list Areas
+
+•  Periodic and timely maintenance of systems
+•  Controls over: tools, procedures, and mechanisms for system maintenance and personnel 
+
+use
+
+What policies govern effective periodic system maintenance by your tax administration? Are these policies 
+publicly available? If so, please provide a reference. If not, please provide a summary.
+What procedures govern the resolution of system flaws identified by your tax administration? Are these 
+procedures publicly available? If so, please provide a reference. If not, please provide a summary.
+
+2.9 System and Communications Protection
+
+Primary Check-list Areas
+
+•  Procedures to monitor, control, and protect communications to and from information 
+
+systems
+
+What policies and procedures does your tax administration maintain for the electronic transmission and receipt 
+of confidential data. Please describe the security and encryption requirements addressed in these policies. Are 
+these policies publicly available? If so, please provide a reference. If not, please provide a summary.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+56 – ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE
+
+2.10 System and Information Integrity
+
+Primary Check-list Areas
+
+•  Procedures to identify, report, and correct information system flaws in a timely manner
+•  Protection against malicious code and monitoring system security alerts
+
+What procedures does your tax administration maintain to identify, report, and correct information system 
+flaws in a timely manner? Please describe how these procedures provide for the protection of systems against 
+malicious codes causing harm to data integrity. Are these procedures publicly available? If so, please provide a 
+reference. If not, please provide a summary.
+
+2.11 Security Assessments
+
+Primary Check-list Areas
+
+•  Processes used to test, validate, and authorize the security controls for protecting data, 
+
+correcting deficiencies, and reducing vulnerabilities
+
+What policies does your tax administration maintain and regularly update for reviewing the processes used 
+to test, validate, and authorize a security control plan? Is the policy publicly available? If so, please provide a 
+reference. If not, please provide a summary.
+
+2.12 Contingency Planning
+
+Primary Check-list Areas
+
+•  Plans for emergency response, backup operations, and post-disaster recovery of 
+
+information systems
+
+What contingency plans and procedures does your tax administration maintain to reduce the impact of improper 
+data disclosure or unrecoverable loss of data? Are the plans and procedures publicly available? If so, please 
+provide a reference. If not, please provide a summary.
+
+2.13 Risk Assessment
+
+Primary Check-list Areas
+
+•  Potential risk of unauthorized access to taxpayer information
+•  Risk and magnitude of harm from unauthorized use, disclosure, or disruption of the 
+
+taxpayer information systems
+
+•  Procedures to update risk assessment methodologies
+
+Does your tax administration conduct risk assessments to identify risks and the potential impact of unauthorized 
+access, use, and disclosure of information, or destruction of information systems? What procedures does your 
+tax administration maintain to update risk assessment methodologies? Are these risk assessments and policies 
+publicly available? If so, please provide a reference. If not, please provide a summary.
+
+2.14 Systems and Services Acquisition
+
+Primary Check-list Areas
+
+•  Methods and processes to ensure third-

@@ -1,0 +1,79 @@
+s  of  the  case.  Where  the  net  profit  indicator 
+is weighted against costs, only those costs that directly or indirectly relate 
+to  the  controlled  transaction  under  review  (or  transactions  aggregated  in 
+accordance  to  the  principle  in  paragraphs  3.9-3.12)  should  be  taken  into 
+account.  Accordingly,  an  appropriate  level  of  segmentation  of  a  taxpayer’s 
+accounts is needed in order to exclude from the denominator costs that relate 
+to  other  activities  or  transactions  and  materially  affect  comparability  with 
+uncontrolled transactions. Moreover, in most cases only those costs which are 
+of an operating nature should be included in the denominator. The discussion 
+in paragraphs 2.86-2.91 above also applies to costs as denominator.
+
+2.99. 
+In applying a cost-based transactional net margin method, fully loaded 
+costs are often used, including all the direct and indirect costs attributable to 
+the activity or transaction, together with an appropriate allocation in respect 
+of the overheads of the business. The question can arise whether and to what 
+extent  it  is  acceptable  at  arm’s  length  to  treat  a  significant  portion  of  the 
+taxpayer’s costs as pass-through costs to which no profit element is attributed 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+124 – CHAPTER II: TRANSFER PRICING METHODS
+
+(i.e. as costs which are potentially excludable from the denominator of the net 
+profit indicator). This depends on the extent to which an independent party 
+in comparable circumstances would agree not to earn a mark-up on part of 
+the costs it incurs. The response should not be based on the classification of 
+costs as “internal” or “external” costs, but rather on a comparability (including 
+functional) analysis. See paragraph 7.34.
+
+2.100.  Where  treating  costs  as  pass-through  costs  is  found  to  be  arm’s 
+length,  a  second  question  arises  as  to  the  consequences  on  comparability 
+and on the determination of the arm’s length range. Because it is necessary 
+to  compare  like  with  like,  if  pass-through  costs  are  excluded  from  the 
+denominator of the taxpayer’s net profit indicator, comparable costs should 
+also be excluded from the denominator of the comparable net profit indicator. 
+Comparability  issues  may  arise  in  practice  where  limited  information  is 
+available on the breakdown of the costs of the comparables.
+2.101.  Depending on the facts and circumstances of the case, actual costs, 
+as well as standard or budgeted costs, may be appropriate to use as the cost 
+base.  Using  actual  costs  may  raise  an  issue  because  the  tested  party  may 
+have no incentive to carefully monitor the costs. In arrangements between 
+independent parties, it is not rare that a cost savings objective is factored into 
+the remuneration method. It can also happen in manufacturing arrangements 
+between independent parties that prices are set on the basis of standard costs, 
+and that any decrease or increase in actual costs compared to standard costs 
+is attributed to the manufacturer. Where they reflect the arrangements that 
+would  be  taken  between  independent  parties,  similar  mechanisms  could 
+be taken into account in the application of the cost-based transactional net 
+margin  method.  See  paragraph  2.58  for  a  discussion  of  the  same  issue  in 
+relation to the cost plus method.
+2.102.  The use of budgeted costs can also raise a number of concerns where 
+large differences between actual costs and budgeted costs result. Independent 
+parties  are  not  likely  to  set  prices  on  the  basis  of  budgeted  costs  without 
+agreeing on what factors are to be taken into account in setting the budget, 
+without having regard to how budgeted costs have compared with actual costs 
+in previous years and without addressing how unforeseen circumstances are 
+to be treated.
+
+B.3.4.3. Cases where the net profit is weighted to assets
+
+2.103.  Returns on assets (or on capital) can be an appropriate base in cases 
+where  assets  (rather  than  costs  or  sales)  are  a  better  indicator  of  the  value 
+added by the tested party, e.g. in certain manufacturing or other asset-intensive 
+activities and in capital-intensive financial activities. Where the indicator is a 
+net profit weighted to assets, operating assets only should be used. Operating 
+assets include tangible operating fixed assets, including land and buildings, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 125
+
+plant and equipment, operating intangible assets used in the business, such as 
+patents and know-how, and working capital assets such as inventory and trade 
+receivables (less trade payables). Investments and cash balances are generally 
+not operating assets outside the financial industry sector.
+
+2.104.  In cases where the net profit is weighted to assets, the question arises 
+how to value the assets, e.g. at book value or market value. Usi

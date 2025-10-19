@@ -1,0 +1,70 @@
+rises or any such divergences may be managed in 
+ways facilitated by the control relationship and not solely or mainly through 
+contractual agreements. It is, therefore, particularly important in considering 
+the  commercial  or  financial  relations  between  associated  enterprises  to 
+examine whether the arrangements reflected in the actual conduct of the parties 
+substantially  conform  to  the  terms  of  any  written  contract,  or  whether  the 
+associated enterprises’ actual conduct indicates that the contractual terms have 
+not been followed, do not reflect a complete picture of the transactions, have 
+been  incorrectly  characterised  or  labelled  by  the  enterprises,  or  are  a  sham. 
+Where conduct is not fully consistent with economically significant contractual 
+terms,  further  analysis  is  required  to  identify  the  actual  transaction.  Where 
+there are material differences between contractual terms and the conduct of 
+the  associated  enterprises  in  their  relations  with  one  another,  the  functions 
+they actually perform, the assets they actually use, and the risks they actually 
+assume, considered in the context of the contractual terms, should ultimately 
+determine the factual substance and accurately delineate the actual transaction.
+
+1.47.  Where there is doubt as to what transaction was agreed between the 
+associated  enterprises,  it  is  necessary  to  take  into  account  all  the  relevant 
+evidence from the economically relevant characteristics of the transaction. 
+In doing so one must bear in mind that the terms of the transaction between 
+the enterprises may change over time. Where there has been a change in the 
+terms  of  a  transaction,  the  circumstances  surrounding  the  change  should 
+be  examined  to  determine  whether  the  change  indicates  that  the  original 
+transaction has been replaced through a new transaction with effect from the 
+date of the change, or whether the change reflects the intentions of the parties 
+in  the  original  transaction.  Particular  care  should  be  exercised  where  it 
+appears that any changes may have been triggered by knowledge of emerging 
+outcomes from the transaction. Changes made in the purported assumption 
+of a risk when risk outcomes are known do not involve an assumption of risk 
+since there is no longer any risk, as discussed in paragraph 1.78.
+
+1.48.  The following example illustrates the concept of differences between 
+written  contractual  terms  and  conduct  of  the  parties,  with  the  result  that 
+the  actual  conduct  of  the  parties  delineates  the  transaction.  Company  S  is 
+a  wholly-owned  subsidiary  of  Company  P.  The  parties  have  entered  into  a 
+written contract pursuant to which Company P licenses intellectual property to 
+Company S for use in Company S’s business; Company S agrees to compensate 
+Company  P  for  the  licence  with  a  royalty.  Evidence  provided  by  other 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 45
+
+economically relevant characteristics, and in particular the functions performed, 
+establishes that Company P performs negotiations with third-party customers 
+to achieve sales for Company S, provides regular technical services support to 
+Company S so that Company S can deliver contracted sales to its customers, 
+and regularly provides staff to enable Company S to fulfil customer contracts. 
+A  majority  of  customers  insist  on  including  Company  P  as  joint  contracting 
+party along with Company S, although fee income under the contract is payable 
+to Company S. The analysis of the commercial or financial relations indicates 
+that Company S is not capable of providing the contracted services to customers 
+without  significant  support  from  Company  P,  and  is  not  developing  its  own 
+capability. Under the contract, Company P has given a licence to Company S, 
+but  in  fact  controls  the  business  risk  and  output  of  Company  S  such  that  it 
+has not transferred risk and function consistent with a licensing arrangement, 
+and acts not as the licensor but the principal. The identification of the actual 
+transaction between Company P and Company S should not be defined solely 
+by the terms of the written contract. Instead, the actual transaction should be 
+determined from the conduct of the parties, leading to the conclusion that the 
+actual functions performed, assets used, and risks assumed by the parties are not 
+consistent with the written licence agreement.
+
+1.49.  Where  no  written  terms  exist,  the  actual  transaction  would  need 
+to be deduced from the evidence of actual conduct provided by identifying 
+the  economically  relevant  characteristics  of  the  transaction.  In  some 
+circumstances the actual outcome of commercial or financial relations may 
+not have been identified as a transaction by the MNE, but nevertheless may 
+result in a transfer of material value, the terms of which w

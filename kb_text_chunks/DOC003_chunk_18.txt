@@ -1,0 +1,80 @@
+ in the MNE group 
+deemed by the Reporting MNE not to be resident in any tax jurisdiction for tax purposes. 
+where a Constituent  Entity is resident in more than one tax jurisdiction, the applicable 
+tax  treaty  tie  breaker  should  be  applied  to  determine  the  tax  jurisdiction  of  residence. 
+where  no  applicable  tax  treaty  exists,  the  Constituent  Entity  should  be  reported  in  the 
+tax jurisdiction of the Constituent  Entity’s place of effective management. The place of 
+effective management should be determined in accordance with the provisions of Article 4 
+of the OECD Model Tax Convention and its accompanying Commentary.
+
+Revenues
+
+In the three columns of the template under the heading Revenues, the Reporting MNE 
+should  report  the  following  information:  (i)  the  sum  of  revenues  of  all  the  Constituent 
+Entities  of  the  MNE  group  in  the  relevant  tax  jurisdiction  generated  from  transactions 
+with associated enterprises; (ii) the sum of revenues of all the Constituent Entities of the 
+MNE group in the relevant tax jurisdiction generated from transactions with independent 
+parties; and (iii) the total of (i) and (ii). Revenues should include revenues from sales of 
+inventory and properties, services, royalties, interest, premiums and any other amounts. 
+Revenues should exclude payments received from other Constituent Entities that are treated 
+as dividends in the payor’s tax jurisdiction.
+
+Profit (Loss) before Income Tax
+
+In the fifth column of the template, the Reporting MNE should report the sum of the 
+profit  (loss)  before  income  tax  for  all  the  Constituent  Entities  resident  for  tax  purposes 
+in  the  relevant  tax  jurisdiction.  The  profit  (loss)  before  income  tax  should  include  all 
+extraordinary income and expense items.
+
+Income Tax Paid (on Cash Basis)
+
+In the sixth column of the template, the Reporting MNE should report the total amount 
+of income tax actually paid during the relevant fiscal year by all the Constituent Entities 
+resident for tax purposes in the relevant tax jurisdiction. Taxes paid should include cash 
+taxes paid by the Constituent Entity to the residence tax jurisdiction and to all other tax 
+jurisdictions. Taxes paid should include withholding taxes paid by other entities (associated 
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+34 – ANNEx III TO ChAPTER v. TRANSFER PRICING DOCUMENTATION – COUNTRY-BY-COUNTRY REPORT
+
+enterprises and independent enterprises) with respect to payments to the Constituent Entity. 
+Thus, if company A resident in tax jurisdiction A earns interest in tax jurisdiction B, the 
+tax withheld in tax jurisdiction B should be reported by company A.
+
+Income Tax Accrued (Current Year)
+
+In the seventh column of the template, the Reporting MNE should report the sum of the 
+accrued current tax expense recorded on taxable profits or losses of the year of reporting 
+of  all  the  Constituent  Entities  resident  for  tax  purposes  in  the  relevant  tax  jurisdiction. 
+The current tax expense should reflect only operations in the current year and should not 
+include deferred taxes or provisions for uncertain tax liabilities.
+
+Stated Capital
+
+In the eighth column of the template, the Reporting MNE should report the sum of the 
+stated capital of all the Constituent Entities resident for tax purposes in the relevant tax 
+jurisdiction. with regard to permanent establishments, the stated capital should be reported 
+by the legal entity of which it is a permanent establishment unless there is a defined capital 
+requirement in the permanent establishment tax jurisdiction for regulatory purposes.
+
+Accumulated Earnings
+
+In the ninth column of the template, the Reporting MNE should report the sum of the 
+total accumulated earnings of all the Constituent Entities resident for tax purposes in the 
+relevant tax jurisdiction as of the end of the year. with regard to permanent establishments, 
+accumulated earnings should be reported by the legal entity of which it is a permanent 
+establishment.
+
+Number of Employees
+
+In the tenth column of the template, the Reporting MNE should report the total number 
+of employees on a full-time equivalent (FTE) basis of all the Constituent Entities resident 
+for tax purposes in the relevant tax jurisdiction. The number of employees may be reported 
+as of the year-end, on the basis of average employment levels for the year, or on any other 
+basis consistently applied across tax jurisdictions and from year to year. For this purpose, 
+independent contractors participating in the ordinary operating activities of the Constituent 
+Entity may be reported as employees. Reasonable rounding or approximation of the number 
+of  employees  is  permissible,  providing  that  such  rounding  or  approximation  does  not 
+materially distort the relative distribution of employees across the various tax jurisdictions. 
+Consistent approaches should be applied from year to 

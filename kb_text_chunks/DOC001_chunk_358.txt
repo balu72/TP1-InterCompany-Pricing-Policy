@@ -1,0 +1,153 @@
+
+i.e.  Company  B  would  have  been  required  to  make  a  500  (instead  of  750) 
+balancing payment to A.
+
+7. 
+In the absence of the CCA, Company A would purchase 10 units of 
+Service 2 for the arm’s length price of 1 050 and Company B would purchase 
+15 units of Service 1 for the arm’s length price of 1 800. The net result would 
+be a payment of 750 from Company B to Company A. As can be shown from 
+the  above,  this  arm’s  length  result  is  only  achieved  in  respect  of  the  CCA 
+when contributions are measured at value.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX TO CHAPTER VIII: EXAMPLES ON COST CONTRIBUTION ARRANGEMENTS – 647
+
+Example 1A
+
+The facts are the same as Example 1. In accordance with the guidance 
+8. 
+in  paragraph  8.27,  an  alternative  way  to  achieve  the  identical  result  under 
+Example 1 is through the use of a two-step process as set out below.
+
+9. 
+Step  1  (contributions  measured  at  cost):  Company  A  should  bear 
+50%  of  the  total  cost  of  5  000,  or  2  500.  The  cost  of  Company  A’s  in-kind 
+contribution is 3 000. Company B should bear 50% of the total cost, or 2 500. 
+The cost of Company B’s in-kind contribution is 2 000. Company B should thus 
+make an additional payment to Company A of 500. This reflects a balancing 
+payment associated with current contributions.
+
+10. 
+Step 2 (accounting for additional contributions of value to the CCA): 
+Company A produces 20 of value above costs per unit. Company B produces 
+5 of value above costs per unit. Company A consumes 10 units of Service 2 
+(50 of value over cost), and Company B consumes 15 units of Service 1 (300 
+of  value  over  cost).  Accordingly,  Company  A  should  be  compensated  250 
+for the additional 250 of value that it contributes to the CCA. This reflects a 
+balancing payment associated with pre-existing contributions.
+
+The two-step method provides for a sharing of costs plus a separate 
+11. 
+and additional payment to the participant that makes an additional contribution 
+of value to the arrangement. In general, the additional contribution of value 
+might reflect pre-existing contributions, such as intangibles owned by one of 
+the participants, that are relevant to the purpose of the CCA. Thus, the two-
+step method might be most usefully applied to development CCAs.
+
+Example 2
+
+12. 
+The facts are the same as Example 1, except that the per-unit value of 
+Service 1 is 103 (that is, both Service 1 and Service 2 are low-value services). 
+Assume, therefore, that the calculation of the costs and value of the services is 
+as follows:
+
+Cost to Company A of providing services (30 units × 100 per unit)
+
+3 000
+
+(60% of total costs)
+
+Cost to Company B of providing services (20 units × 100 per unit)
+
+2 000
+
+(40% of total costs
+
+Total cost to group
+
+5 000
+
+Value of contribution made by Company A (30 units × 103 per unit)
+
+3 090
+
+Value of contribution made by Company B (20 units × 105 per unit)
+
+2 100
+
+Total value of contributions made under the CCA
+
+5 190
+
+(59.5% of total 
+contributions)
+
+(40.5% of total 
+contributions)
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+648 – ANNEX TO CHAPTER VIII: EXAMPLES ON COST CONTRIBUTION ARRANGEMENTS
+
+Company A and Company B each consume 15 units of Service 1 and 10 units of Service 2:
+
+Benefit to Company A:
+
+Service 1: 15 units × 103 per unit
+
+Service 2: 10 units × 105 per unit
+
+Total
+
+Benefit to Company B
+
+Service 1: 15 units × 103 per unit
+
+Service 2: 10 units × 105 per unit
+
+Total
+
+1 545
+
+1 050
+
+2 595
+
+(50% of total value of 5 190)
+
+1 545
+
+1 050
+
+2 595
+
+(50% of total value of 5 190)
+
+13. 
+Under  the  CCA,  the  value  of  Company  A  and  Company  B’s 
+contributions should each correspond to their respective proportionate shares of 
+expected benefits, i.e. 50%. Since the total value of contributions under the CCA 
+is 5 190, this means each party must contribute 2 595. The value of Company A’s 
+in-kind contribution is 3 090. The value of Company B’s in-kind contribution 
+is  2  100.  Accordingly,  Company  B  should  make  a  balancing  payment  to 
+Company A of 495. This has the effect of “topping up” Company B’s contribution 
+to 2 595; and offsets Company A’s contribution to the same amount.
+14. 
+In  this  example,  since  all  contributions  to  the  CCA  are  low-value 
+services,  for  practical  reasons,  contributions  may  be  valued  at  cost  since 
+this will achieve results which are broadly consistent with the arm’s length 
+principle.  Under  this  practical  approach,  the  cost  of  Company  A’s  in-kind 
+contribution  is  3  000;  the  cost  of  Company  B’s  in-kind  contribution  is 
+2 000; and each participant should bear the costs associated with 50% of the 
+total cost of contributions (2 500). Accordingly, Company B should make a 
+balancing payment to Company A of 500.
+
+Example 3
+
+The facts are the same as Example 1, except that the per-unit value of 
+15. 
+Service 2 is 120 (that is, both Service 1 and Service 2 are equally valuable, 
+and

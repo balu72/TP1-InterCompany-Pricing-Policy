@@ -1,0 +1,78 @@
+g the achievement of predetermined financial thresholds such as sales 
+or profits, or of predetermined development stages (e.g. royalty or periodic 
+milestone payments). For example, a royalty rate could be set to increase as 
+the sales of the licensee increase, or additional payments could be required 
+at  such  time  as  certain  development  targets  are  successfully  achieved.  For 
+a  transfer  of  intangibles  or  rights  in  intangibles  at  a  stage  when  they  are 
+not  ready  to  be  commercialised  but  require  further  development,  payment 
+terms  adopted  by  independent  parties  on  initial  transfer  might  include  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+302 – CHAPTER VI: INTANGIBLES
+
+determination of additional contingent amounts that would become payable 
+only  on  the  achievement  of  specified  milestone  stages  in  their  further 
+development.
+
+6.184.  Also, independent enterprises may determine to assume the risk of 
+unpredictable  subsequent  developments.  However,  the  occurrence  of  major 
+events or developments unforeseen by the parties at the time of the transaction 
+or the occurrence of foreseen events or developments considered to have a low 
+probability of occurrence which change the fundamental assumptions upon 
+which  the  pricing  was  determined  may  lead  to  renegotiation  of  the  pricing 
+arrangements by agreement of the parties where it is to their mutual benefit. 
+For  example,  a  renegotiation  might  occur  at  arm’s  length  if  a  royalty  rate 
+based on sales for a patented drug turned out to be vastly excessive due to an 
+unexpected development of an alternative low-cost treatment. The excessive 
+royalty might remove the incentive of the licensee to manufacture or sell the 
+drug at all, in which case the licensee will have an interest in renegotiat ing the 
+agreement. It may be the case that the licensor has an interest in keeping the 
+drug on the market and in retaining the same licensee to manufacture or sell 
+the drug because of the skills and expertise of the licensee or the existence 
+of  a  long-standing  co-operative  relationship  between  them.  Under  these 
+circumstances,  the  parties  might  prospectively  renegotiate  to  their  mutual 
+benefit all or part of the agreement and set a lower royalty rate. In any event, 
+whether renegotiation would take place, would depend upon all the facts and 
+circumstances of each case.
+
+6.185. 
+If  independent  enterprises  in  comparable  circumstances  would 
+have agreed on the inclusion of a mechanism to address high uncertainty in 
+valuing the intangible (e.g. a price adjustment clause), the tax administration 
+should  be  permitted  to  determine  the  pricing  of  a  transaction  involving 
+an  intangible  or  rights  in  an  intangible  on  the  basis  of  such  mechanism. 
+Similarly,  if  independent  enterprises  in  comparable  circumstances  would 
+have  considered  subsequent  events  so  fundamental  that  their  occurrence 
+would have led to a prospective renegotiation of the pricing of a transaction, 
+such events should also lead to a modification of the pricing of the transaction 
+between associated enterprises.
+
+D.4. Hard-to-value intangibles (HTVI)
+
+6.186.  A tax administration may find it difficult to establish or verify what 
+developments  or  events  might  be  considered  relevant  for  the  pricing  of  a 
+transaction involving the transfer of intangibles or rights in intangibles, and 
+the  extent  to  which  the  occurrence  of  such  developments  or  events,  or  the 
+direction  they  take,  might  have  been  foreseen  or  reasonably  foreseeable  at 
+the time the transaction was entered into. The developments or events that 
+might  be  of  relevance  for  the  valuation  of  an  intangible  are  in  most  cases 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 303
+
+strongly connected to the business environment in which that intangible is 
+developed  or  exploited.  Therefore,  the  assessment  of  which  developments 
+or  events  are  relevant  and  whether  the  occurrence  and  direction  of  such 
+developments or events might have been foreseen or reasonably foreseeable 
+requires  specialised  knowledge,  expertise  and  insight  into  the  business 
+environment in which the intangible is developed or exploited. In addition, 
+the assessments that are prudent to undertake when evaluating the transfer 
+of  intangibles  or  rights  in  intangibles  in  an  uncontrolled  transaction,  may 
+not be seen as necessary or useful for other than transfer pricing purposes 
+by the MNE group when a transfer takes place within the group, with the 
+result  that  those  assessments  may  not  be  comprehensive.  For  example,  an 
+enterprise  may  transfer  intangibles  at  an  early  stage  of  development  to  an 
+associated enterprise, set a royalty rate that does not reflect the value of the 
+intangible at the time of the transfer, and later take

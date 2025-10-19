@@ -1,0 +1,82 @@
+on  the  separate  entity  credit  ratings  that  are  derived  from  publicly 
+available financial tools (see paragraph 10.72), the implicit support analysis, 
+the  difficulties  of  accounting  for  controlled  transactions  reliably  and  the 
+presence of information asymmetry may pose challenges that, if not resolved, 
+may result in outcomes that are not reliable.
+
+10.82.  Where  this  is  the  case,  the  credit  rating  of  the  MNE  group  may 
+also be used for the purpose of pricing the accurately delineated loan where 
+the  facts  so  indicate,  particularly  in  situations  such  as  where  the  MNE  is 
+important to the group as described in paragraphs 10.78 and 10.79 and where 
+the  MNE’s  indicators  of  creditworthiness  do  not  differ  significantly  from 
+those of the group. An MNE group credit rating is unaffected by controlled 
+tran sactions and reflects the actual basis on which the group seeks external 
+funding from independent lenders. In situations where an MNE group does 
+not have an external credit rating, consideration may be given to conducting 
+the credit rating analysis at the MNE group level for assessing the controlled 
+transaction. In all cases, the MNE group credit rating, like any other credit 
+rating,  will  be  appropriate  only  if  it  is  determined  to  be  the  most  reliable 
+indicator of the MNE credit rating in light of all the facts and circumstances.
+
+C.1.1.5. Covenants
+
+10.83.  The purpose of covenants in a loan agreement is generally to provide 
+a degree of protection to the lender and so limit its risk. That protection may 
+be in the form of incurrence covenants or maintenance covenants.
+
+10.84.  Incurrence  covenants  require  or  prohibit  certain  actions  by  the 
+borrower  without  the  consent  of  the  lender.  Incurrence  covenants  may,  for 
+example,  prohibit  the  borrower  from  taking  on  additional  debt,  creating 
+any charge on the assets of the entity or disposing of particular assets of the 
+entity,  thus  giving  some  degree  of  certainty  over  the  balance  sheet  of  the 
+borrower.
+
+10.85.  Maintenance covenants refer typically to financial indicators which 
+have  to  be  met  at  regular,  predetermined  intervals  during  the  life  of  a 
+covenanted loan. Maintenance covenants can act as an early warning system 
+so  that  in  the  event  of  financial  underperformance  by  the  borrower,  the 
+borrower and/or lender can move to take remedial action at an early stage. 
+This can help to protect unrelated lenders against information asymmetry.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 421
+
+10.86.  There  may  be  less  information  asymmetry  between  entities  (that 
+is,  better  visibility)  in  the  intra-group  context  than  in  situations  involving 
+unrelated parties. Intra-group lenders may choose not to have covenants on 
+loans to associated enterprises, partly because they are less likely to suffer 
+information asymmetry and because it is less likely that one part of an MNE 
+group would seek to take the same kind of action as an independent lender 
+in the event of a covenant breach, nor would it usually seek to impose the 
+same  kind  of  restrictions.  Where  there  is  an  absence  of  covenants  in  any 
+written  agreement  between  the  parties,  it  will  be  appropriate  to  consider 
+under Chapter I guidance whether there is, in practice, the equivalent of a 
+maintenance covenant between the parties and the consequential impact upon 
+the pricing of the loan.
+
+C.1.1.6. Guarantees
+
+10.87.  A guarantee from another party may be used to support the borrower’s 
+credit.  A  lender  placing  reliance  on  a  guarantee  or  guarantees  would  need 
+to evaluate the guarantor(s) in a similar way to that in which it evaluates the 
+original borrower. For the lender to take a guarantee into account in setting or 
+adjusting the terms and conditions of a loan, it would need to be reasonably 
+satisfied  that  the  guarantor(s)  would  be  able  to  meet  any  shortfall  resulting 
+from the borrower being unable to meet its obligations in full in the event of a 
+default. Guarantees are discussed in more detail in Section D.
+
+C.1.2. Determining the arm’s length interest rate of intra-group loans
+
+10.88.  The  following  paragraphs  present  different  approaches  to  pricing 
+intra-group loans. As in any other transfer pricing situation, the selection of 
+the most appropriate method should be consistent with the actual transaction 
+as  accurately  delineated,  in  particular,  through  a  functional  analysis  (see 
+Chapter II).
+
+C.1.2.1. Comparable uncontrolled price method (CUP method)
+
+10.89.  Once  the  actual  transaction  has  been  accurately  delineated,  arm’s 
+length interest rates can be sought based on consideration of the credit rating 
+of the borrower or the rating of the specific issuance taking into account all 
+of the terms and conditions of the loan and comparability factors

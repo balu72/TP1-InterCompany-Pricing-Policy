@@ -1,0 +1,89 @@
+ to be achieved in years 6 and 7. The taxpayer cannot 
+demonstrate that its original valuation took into account the possibility that 
+sales  would  arise  in  earlier  periods,  and  cannot  demonstrate  that  such  a 
+development was unforeseeable.
+
+24. 
+The tax administration uses the presumptive evidence provided by 
+the  ex  post  outcome  to  determine  that  the  valuation  made  at  the  time  the 
+transaction  took  place  did  not  consider  the  possibility  of  sales  occurring 
+in  earlier  years.  The  taxpayer’s  original  valuation  is  revised  to  include  the 
+appropriately risk-adjusted possibility of earlier sales resulting in a revised 
+net present value of the drug in year 0 of 1 000 instead of 700. The revised 
+net  present  value  also  takes  into  account  the  functions  performed,  assets 
+used and risks assumed in relation to the HTVI by each of the parties before 
+the transaction and reasonably anticipated, at the time of the transaction, to 
+be performed, used or assumed by each of the parties after the transaction. 
+Therefore, assume for the purposes of the example that the arm’s length price 
+anticipated in year 0 should have been 1 000. Note that the value of 1 000 is 
+not necessarily the net present value of the transferred rights based solely on 
+the actual outcome (see paragraph 6 of this guidance).
+
+In  accordance  with  the  approach  to  HTVI,  the  tax  administration 
+25. 
+is entitled to make an adjustment to assess the additional profits of 300 in 
+year 0.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+640 – ANNEX II TO CHAPTER VI: HARD-TO-VALUE INTANGIBLES
+
+Scenario B
+
+The tax administration uses the presumptive evidence provided by 
+26. 
+the ex post outcomes to determine that the valuation made at the time the 
+transaction  took  place,  did  not  consider  the  possibility  of  sales  occurring 
+in  earlier  years.  The  taxpayer’s  original  valuation  is  revised  to  include  the 
+appropriately  risk-adjusted  possibility  of  sales  occurring  in  earlier  years 
+resulting in a revised net present value of the drug in year 0 of 800 instead of 
+700. Therefore, assume for the purposes of the example that the arm’s length 
+price anticipated in year 0 should have been 800. Note that the value of 800 
+is not necessarily the net present value of the transferred rights based solely 
+on the actual outcome (see paragraph 6 of this guidance).
+
+27. 
+In  accordance  with  the  approach  to  HTVI,  the  tax  administration 
+is  entitled  to  make  an  adjustment  to  assess  the  additional  profits  of  100  in 
+year  0.  However,  in  this  example,  the  exemption  provided  by  item  (iii)  in 
+paragraph 6.193 applies since the adjustment to the compensation for the transfer 
+is within 20% of the compensation determined at the time of the transaction.
+
+Example 2
+
+28. 
+The facts are the same as in paragraphs 21-22. Based on those facts, 
+assume that in year 7, the tax administration of Country A audits Company A 
+for years 3-5 and obtains information that sales in years 5 and 6 of the product 
+to which the patent relates were significantly higher than those projected. In 
+the original valuation, the taxpayer had not projected sales any higher than 
+1 000 in any year, but outcomes in each of years 5 and 6 show sales of 1 500. 
+The taxpayer cannot demonstrate that its original valuation took into account 
+the possibility that sales would reach these levels, and cannot demonstrate that 
+reaching that level of sales was due to an unforeseeable development.
+
+29. 
+The  tax  administration  uses  the  presumptive  evidence  provided 
+by  the  ex  post  outcomes  to  determine  that  the  possibility  of  higher  sales 
+should have been taken into account in the valuation. The taxpayer’s original 
+valuation is revised to include the appropriately risk-adjusted possibility of 
+sales occurring in earlier years, resulting in a revised net present value of the 
+drug in year 0 of 1 300 instead of 700. The revised net present value also 
+takes into account the functions performed, assets used and risks assumed 
+in  relation  to  the  HTVI  by  each  of  the  parties  before  the  transaction  and 
+reasonably anticipated, at the time of the transaction, to be performed, used 
+or assumed by each of the parties after the transaction. Therefore, assume for 
+the purposes of the example that the arm’s length price anticipated in year 0 
+should have been 1 300. Note that the value of 1 300 is not necessarily the net 
+present value of the transferred rights based solely on the actual outcome (see 
+paragraph 6 of this guidance).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER VI: HARD-TO-VALUE INTANGIBLES – 641
+
+30. 
+In  accordance  with  the  approach  to  HTVI,  the  tax  administration 
+is  entitled  to  make  an  adjustment  to  assess  the  additional  profits  of  600. 
+Assume for the purposes of this example that none of the exemptions listed 
+in paragraph 6.193

@@ -1,0 +1,87 @@
+to help identify relevant risks 
+with specificity. In addition, this section provides guidance on risk assumption 
+under  the  arm’s  length  principle.  The  detailed  guidance  provided  in  this 
+section  on  the  analysis  of  risks  as  part  of  a  functional  analysis  covering 
+functions, assets, and risks, should not be interpreted as indicating that risks 
+are  more  important  than  functions  or  assets.  The  relevance  of  functions, 
+assets and risks in a specific transaction will need to be determined through 
+a  detailed  functional  analysis.  The  expanded  guidance  on  risks  reflects  the 
+practical difficulties presented by risks: risks in a transaction can be harder to 
+identify than functions or assets, and determining which associated enterprise 
+assumes a particular risk in a transaction can require careful analysis.
+
+1.60.  The steps in the process set out in the rest of this section for analysing 
+risk  in  a  controlled  transaction,  in  order  to  accurately  delineate  the  actual 
+transaction in respect to that risk, can be summarised as follows:
+
+1. 
+
+Identify  economically  significant  risks  with  specificity  (see 
+Section D.1.2.1.1).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 49
+
+2.  Determine how specific economically significant risks are contractually 
+assumed by the associated enterprises under the terms of the transaction 
+(see Section D.1.2.1.2).
+
+3.  Determine  through  a  functional  analysis  how  the  associated 
+enterprises that are parties to the transaction operate in relation to 
+assumption and management of the specific, economically significant 
+risks,  and  in  particular  which  enterprise  or  enterprises  perform 
+control  functions  and  risk  mitigation  functions,  which  enterprise 
+or  enterprises  encounter  upside  or  downside  consequences  of  risk 
+outcomes,  and  which  enterprise  or  enterprises  have  the  financial 
+capacity to assume the risk (see Section D.1.2.1.3).
+
+4.  Steps 2-3 will have identified information relating to the assumption 
+and management of risks in the controlled transaction. The next step 
+is to interpret the information and determine whether the contractual 
+assumption of risk is consistent with the conduct of the associated 
+enterprises  and  other  facts  of  the  case  by  analysing  (i)  whether 
+the  associated  enterprises  follow  the  contractual  terms  under  the 
+principles of Section D.1.1; and (ii) whether the party assuming risk, 
+as  analysed  under  (i),  exercises  control  over  the  risk  and  has  the 
+financial capacity to assume the risk (see Section D.1.2.1.4).
+
+5.  Where the party assuming risk under steps 1-4(i) does not control the 
+risk or does not have the financial capacity to assume the risk, apply 
+the guidance on allocating risk (see Section D.1.2.1.5).
+
+6.  The  actual  transaction  as  accurately  delineated  by  considering 
+the  evidence  of  all  the  economically  relevant  characteristics  of  the 
+transaction  as  set  out  in  the  guidance  in  Section  D.1,  should  then 
+be priced taking into account the financial and other consequences 
+of  risk  assumption,  as  appropriately  allocated,  and  appropriately 
+compensating risk management functions (see Section D.1.2.1.6).
+
+In  this  section  references  are  made  to  terms  that  require  initial 
+1.61. 
+explanation and definition. The term “risk management” is used to refer to 
+the function of assessing and responding to risk associated with commercial 
+activity.  Risk  management  comprises  three  elements:  (i)  the  capability  to 
+make  decisions  to  take  on,  lay  off,  or  decline  a  risk-bearing  opportunity, 
+together  with  the  actual  performance  of  that  decision-making  function, 
+(ii) the capability to make decisions on whether and how to respond to the 
+risks associated with the opportunity, together with the actual performance 
+of that decision-making function, and (iii) the capability to mitigate risk, that 
+is the capability to take measures that affect risk outcomes, together with the 
+actual performance of such risk mitigation.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+50 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+1.62. 
+Some risk management functions can be undertaken only by the party 
+performing functions and using assets in creating and pursuing commercial 
+opportunities, while other risk management functions can be undertaken by 
+a  different  party.  Risk  management  should  not  be  thought  of  as  necessarily 
+encompassing  a  separate  function,  requiring  separate  remuneration,  distinct 
+from  the  performance  of  the  activities  that  optimise  profits.  For  example, 
+the  development  of  intangibles  through  development  activities  may  involve 
+mitigating  risks  relating  to  performing  the  development  according  to 
+specifications at the highest possible standards and on time; the particular risks 
+might be miti

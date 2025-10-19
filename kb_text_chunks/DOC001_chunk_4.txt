@@ -1,0 +1,94 @@
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .400
+
+Chapter X.  Transfer pricing aspects of financial transactions  . . . . . . . . . . . . .403
+
+A. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .403
+B. Interaction with the guidance in Section D.1 of Chapter I  . . . . . . . . . . . . .403
+C. Treasury function. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 411
+D. Financial guarantees  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .433
+E. Captive insurance. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .441
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+10 – TABLE OF CONTENTS
+
+List of annexes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .453
+
+Annex to the OECD Transfer Pricing Guidelines. Guidelines for  
+monitoring procedures on the OECD Transfer Pricing Guidelines and  
+the involvement of the business community  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 455
+
+Annex I to Chapter II. Sensitivity of gross and net profit indicators  . . . . . . . . . .461
+
+Annex II to Chapter II. Examples to illustrate the guidance on the 
+transactional profit split method  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .467
+
+Annex to Chapter III. Example of a working capital adjustment . . . . . . . . . . . . .489
+
+Annex I to Chapter IV. Sample Memoranda of Understanding for  
+Competent Authorities to establish bilateral safe harbours. . . . . . . . . . . . . . . . . . .493
+
+Annex II to Chapter IV. Guidelines for conducting Advance Pricing 
+Arrangements under the Mutual Agreement Procedure (MAP APAs). . . . . . . . . . 515
+
+Annex I to Chapter V. Transfer pricing documentation – Master file  . . . . . . . . .543
+
+Annex II to Chapter V. Transfer pricing documentation – Local file. . . . . . . . . .545
+
+Annex III to Chapter V. Transfer pricing documentation – 
+Country-by-Country Report  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .549
+
+Annex IV to Chapter V. Country-by-Country Reporting Implementation 
+Package  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .559
+
+Annex I to Chapter VI. Examples to illustrate the guidance on intangibles  . . . .601
+
+Annex II to Chapter VI. Guidance for tax administrations on  
+the application of the approach to hard-to-value intangibles. . . . . . . . . . . . . . . . . .633
+
+Annex to Chapter VIII. Examples to illustrate the guidance on cost 
+contribution arrangements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .645
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+PREFACE – 11
+
+Preface
+
+The  role  of  multinational  enterprises  (MNEs)  in  world  trade  has 
+1. 
+continued to increase dramatically since the adoption of these Guidelines in 
+1995. This in part reflects the increased pace of integration of national economies 
+and  technological  progress,  particularly  in  the  area  of  communications.  The 
+growth of MNEs presents increasingly complex taxation issues for both tax 
+administrations and the MNEs themselves since separate country rules for the 
+taxation of MNEs cannot be viewed in isolation but must be addressed in a 
+broad international context.
+
+These  issues  arise  primarily  from  the  practical  difficulty,  for  both 
+2. 
+MNEs and tax administrations, of determining the income and expenses of 
+a company or a permanent establishment that is part of an MNE group that 
+should  be  taken  into  account  within  a  jurisdiction,  particularly  where  the 
+MNE group’s operations are highly integrated.
+
+3. 
+In the case of MNEs, the need to comply with laws and administrative 
+requirements  that  may  differ  from  jurisdiction  to  jurisdiction  creates 
+additional problems. The differing requirements may lead to a greater burden 
+on  an  MNE,  and  result  in  higher  costs  of  compliance,  than  for  a  similar 
+enterprise operating solely within a single tax jurisdiction.
+
+4. 
+In  the  case  of  tax  administrations,  specific  problems  arise  at  both 
+policy and practical levels. At the policy level, jurisdictions need to reconcile 
+their legitimate right to tax the profits of a taxpayer based upon income and 
+expenses that can reasonably be considered to arise within their territory with 
+the need to avoid the taxation of the same item of income by more than one 
+tax jurisdiction. Such double or multiple taxation can create an impediment 
+to  cross-border  transactions  in  goods  and  services  and  the  movement  of 
+capital. At a practical level, a jurisdiction’s determination of such income and 
+expense allocation may be impeded by difficulties in obtaining pertinent data 
+located outside its own jurisdiction.
+
+At 

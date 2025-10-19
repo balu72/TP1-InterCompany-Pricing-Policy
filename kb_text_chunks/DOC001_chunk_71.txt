@@ -1,0 +1,83 @@
+ng book value 
+could possibly distort the comparison, e.g. between those enterprises that have 
+depreciated their assets and those that have more recent assets with on-going 
+depreciation, and between enterprises that use acquired intangibles and others 
+that use self-developed intangibles. Using market value could possibly alleviate 
+this concern, although it can raise other reliability issues where valuation of 
+assets is uncertain and can also prove to be extremely costly and burdensome, 
+especially for intangible assets. Depending on the facts and circumstances of 
+the case, it may be possible to perform adjustments to improve the reliability of 
+the comparison. The choice between book value, adjusted book value, market 
+value  and  other  possibly  available  options  should  be  made  with  a  view  to 
+finding the most reliable measure, taking account of the size and complexity of 
+the transaction and of the costs and burden involved, see Chapter III, Section C.
+
+B.3.4.4. Other possible net profit indicators
+
+2.105.  Other  net  profit  indicators  may  be  appropriate  depending  on  the 
+facts and circumstances of the transactions. For instance, depending on the 
+industry and on the controlled transaction under review, it may be useful to 
+look at other denominators where independent data may exist, such as: floor 
+area of retail points, weight of products transported, number of employees, 
+time, distance, etc. While there is no reason to rule out the use of such bases 
+where they provide a reasonable indication of the value added by the tested 
+party  to  the  controlled  transaction,  they  should  only  be  used  where  it  is 
+possible to obtain reliable comparable information to support the application 
+of the method with such a net profit indicator.
+
+B.3.5. Berry ratios
+
+2.106.  “Berry  ratios”  are  defined  as  ratios  of  gross  profit  to  operating 
+expenses.  Interest  and  extraneous  income  are  generally  excluded  from  the 
+gross profit determination; depreciation and amortisation may or may not be 
+included in the operating expenses, depending in particular on the possible 
+uncertainties they can create in relation to valuation and comparability.
+
+2.107.  The selection of the appropriate financial indicator depends on the 
+facts  and  circumstances  of  the  case,  see  paragraph  2.82.  Concerns  have 
+been  expressed  that  Berry  ratios  are  sometimes  used  in  cases  where  they 
+are  not  appropriate  without  the  caution  that  is  necessary  in  the  selection 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+126 – CHAPTER II: TRANSFER PRICING METHODS
+
+and  determination  of  any  transfer  pricing  method  and  financial  indicator. 
+See paragraph 2.98 in relation to the use of cost-based indicators in general. 
+One common difficulty in the determination of Berry ratios is that they are 
+very  sensitive  to  classification  of  costs  as  operating  expenses  or  not,  and 
+therefore  can  pose  comparability  issues.  In  addition,  the  issues  raised  in 
+paragraphs 2.99-2.100 above in relation to pass-through costs equally arise 
+in the application of Berry ratios. In order for a Berry ratio to be appropriate 
+to  test  the  remuneration  of  a  controlled  transaction  (e.g.  consisting  in  the 
+distribution of products), it is necessary that:
+
+•  The value of the functions performed in the controlled transaction 
+(taking account of assets used and risks assumed) is proportional to 
+the operating expenses,
+
+•  The value of the functions performed in the controlled transaction 
+(taking account of assets used and risks assumed) is not materially 
+affected  by  the  value  of  the  products  distributed,  i.e.  it  is  not 
+proportional to sales, and
+
+•  The taxpayer does not perform, in the controlled transactions, any 
+other significant function (e.g. manufacturing function) that should 
+be remunerated using another method or financial indicator.
+
+2.108.  A situation where Berry ratios can prove useful is for intermediary 
+activities  where  a  taxpayer  purchases  goods  from  an  associated  enterprise 
+and on-sells them to other associated enterprises. In such cases, the resale 
+price  method  may  not  be  applicable  given  the  absence  of  uncontrolled 
+sales, and a cost plus method that would provide for a mark-up on the cost 
+of  goods  sold  might  not  be  applicable  either  where  the  cost  of  goods  sold 
+consists in controlled purchases. By contrast, operating expenses in the case 
+of  an  intermediary  may  be  reasonably  independent  from  transfer  pricing 
+formulation,  unless  they  are  materially  affected  by  controlled  transaction 
+costs such as head office charges, rental fees or royalties paid to an associated 
+enterprise, so that, depending on the facts and circumstances of the case, a 
+Berry ratio may be an appropriate indicator, subject to the comments above.
+
+B.3.6. Other guidance
+
+2.109.  While it is not specific to the transacti

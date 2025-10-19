@@ -1,0 +1,88 @@
+nce  between 
+projections and outcomes arose from unforeseeable events, tax administrations 
+will not be entitled to make adjustments to the ex ante pricing arrangements 
+based on ex post outcomes. For example, if the evidence of financial outcomes 
+shows  that  sales  of  products  exploiting  the  transferred  intangible  reached 
+1 000 a year, but the ex ante pricing arrangements were based on projections 
+that considered sales reaching a maximum of only 100 a year, then the tax 
+administration  should  consider  the  reasons  for  sales  reaching  such  higher 
+volumes.  If  the  higher  volumes  were  due  to,  for  example,  an  exponentially 
+higher  demand  for  the  products  incorporating  the  intangible  caused  by  a 
+natural disaster or some other unexpected event that was clearly unforeseeable 
+at the time of the transaction or appropriately given a very low probability of 
+occurrence, then the ex ante pricing should be recognised as being at arm’s 
+length,  unless  there  is  evidence  other  than  the  ex  post  financial  outcomes 
+indicating that price setting did not take place on an arm’s length basis.
+
+7. 
+
+In  some  business  sectors  it  is  not  unusual  for  an  intangible  to  be  transferred 
+with a contingent clause relating to a second, or further, use. In respect of the 
+type of intangibles where this occurs, the time period begins again with the new 
+commercialisation.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 307
+
+6.195.  It would be important to permit resolution of cases of double taxation 
+arising  from  application  of  the  approach  for  HTVI  through  access  to  the 
+mutual agreement procedure under the applicable Treaty.
+
+D.5.  Supplemental guidance for transactions involving the use 
+of intangibles in connection with the sale of goods or the 
+provision of services
+
+6.196.  This section provides supplemental guidance for applying the rules of 
+Chapters I-III in situations where one or both parties to a controlled transaction 
+uses  intangibles  in  connection  with  the  sale  of  goods  or  the  provision  of 
+services, but where no transfer of intangibles or interests in intangibles occurs. 
+Where  intangibles  are  present,  the  transfer  pricing  analysis  must  carefully 
+consider the effect of the intangibles involved on the prices and other conditions 
+of controlled transactions.
+
+D.5.1.  Intangibles as a comparability factor in transactions involving 
+
+the use of intangibles
+
+6.197.  The general rules of Section D.1 of Chapter I and Chapter III also 
+apply to guide the comparability analysis of transactions involving the use of 
+intangibles in connection with a controlled transaction involving the sale of 
+goods or the provision of services. However, the presence of intangibles may 
+sometimes raise challenging comparability issues.
+
+6.198. 
+In a transfer pricing analysis where the most appropriate transfer pricing 
+method is the resale price method, the cost-plus method, or the transactional net 
+margin method, the less complex of the parties to the controlled transaction is 
+often selected as the tested party. In many cases, an arm’s length price or level 
+of profit for the tested party can be determined without the need to value the 
+intangibles used in connection with the transaction. That would generally be the 
+case where only the non-tested party uses intangibles. In some cases, however, 
+the tested party may in fact use intangibles notwithstanding its relatively less 
+complex operations. Similarly, parties to potentially comparable uncontrolled 
+transactions may use intangibles. Where either of these is the case, it becomes 
+necessary to consider the intangibles used by the tested party and by the parties 
+to potentially comparable uncontrolled transactions as one comparability factor 
+in the analysis.
+
+6.199.  For example, a tested party engaged in the marketing and distribution 
+of goods purchased in controlled transactions may have developed marketing 
+intangibles  in  its  geographic  area  of  operation,  including  customer  lists, 
+customer  relationships,  and  customer  data.  It  may  also  have  developed 
+advantageous  logistical  know-how  or  software  and  other  tools  that  it  uses 
+in  conducting  its  distribution  business.  The  impact  of  such  intangibles  on 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+308 – CHAPTER VI: INTANGIBLES
+
+the  profitability  of  the  tested  party  should  be  considered  in  conducting  a 
+comparability analysis.
+
+6.200.  It is important to note, however, that in many cases where the tested 
+party uses such intangibles, parties to comparable uncontrolled transactions 
+will also have the same types of intangibles at their disposal. Thus, in the 
+distribution  company  case,  an  uncontrolled  entity  engaged  in  providing 
+distribution services in the tested party’s industry and market is also likely to 
+have knowledge of and contacts with potential customers, 

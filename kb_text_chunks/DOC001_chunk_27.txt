@@ -1,0 +1,71 @@
+the decision of the 
+extent of the authority it gives to the fund manager and objectives it assigns 
+to  the  latter,  and  the  decision  of  the  amount  of  the  investment  that  it  asks 
+this fund manager to manage. Moreover, the fund manager would generally 
+be required to report back to the investor on a regular basis as the investor 
+would want to assess the outcome of the fund manager’s activities. In such a 
+case, the fund manager is providing a service and managing his business risk 
+from his own perspective (e.g. to protect his credibility). The fund manager’s 
+operational risk, including the possibility of losing a client, is distinct from 
+his client’s investment risk. This illustrates the fact that an investor who gives 
+to another person the authority to perform risk mitigation activities such as 
+those performed by the fund manager does not necessarily transfer control of 
+the investment risk to the person making these day-to-day decisions.
+
+D.1.2.1.1. Step 1: Identify economically significant risks with specificity
+
+1.71.  There are many definitions of risk, but in a transfer pricing context 
+it is appropriate to consider risk as the effect of uncertainty on the objectives 
+of the business. In all of a company’s operations, every step taken to exploit 
+opportunities,  every  time  a  company  spends  money  or  generates  income, 
+uncertainty exists, and risk is assumed. A company is likely to direct much 
+attention to identifying uncertainties it encounters, in evaluating whether and 
+how business opportunities should be pursued in view of their inherent risks, 
+and in developing appropriate risk mitigation strategies which are important 
+to shareholders seeking their required rate of return. Risk is associated with 
+opportunities, and does not have downside connotations alone; it is inherent 
+in  commercial  activity,  and  companies  choose  which  risks  they  wish  to 
+assume  in  order  to  have  the  opportunity  to  generate  profits.  No  profit-
+seeking  business  takes  on  risk  associated  with  commercial  opportunities 
+without expecting a positive return. Downside impact of risk occurs when 
+the  anticipated  favourable  outcomes  fail  to  materialise.  For  example,  a 
+product may fail to attract as much consumer demand as projected. However, 
+such an event is the downside manifestation of uncertainty associated with 
+commercial  opportunities.  Companies  are  likely  to  devote  considerable 
+attention to identifying and managing economically significant risks in order 
+to maximise the positive returns from having pursued the opportunity in the 
+face  of  risk.  Such  attention  may  include  activities  around  determining  the 
+product strategy, how the product is differentiated, how to identify changing 
+market  trends,  how  to  anticipate  political  and  social  changes,  and  how  to 
+create demand. The significance of a risk depends on the likelihood and size 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+54 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+of the potential profits or losses arising from the risk. For example, a different 
+flavour  of  ice-cream  may  not  be  the  company’s  sole  product,  the  costs  of 
+developing, introducing, and marketing the product may have been marginal, 
+the success or failure of the product may not create significant reputational 
+risks  so  long  as  business  management  protocols  are  followed,  and 
+decision-making may have been effected by delegation to local or regional 
+management who can provide knowledge of local tastes. However, ground-
+breaking  technology  or  an  innovative  healthcare  treatment  may  represent 
+the sole or major product, involve significant strategic decisions at different 
+stages, require substantial investment costs, create significant opportunities 
+to make or break reputation, and require centralised management that would 
+be of keen interest to shareholders and other stakeholders.
+
+1.72.  Risks can be categorised in various ways, but a relevant framework 
+in a transfer pricing analysis is to consider the sources of uncertainty which 
+give  rise  to  risk.  The  following  non-exclusive  list  of  sources  of  risk  is  not 
+intended to suggest a hierarchy of risk. Neither is it intended to provide rigid 
+categories  of  risk,  since  there  is  overlap  between  the  categories.  Instead, 
+it  is  intended  to  provide  a  framework  that  may  assist  in  ensuring  that  a 
+transfer pricing analysis considers the range of risks likely to arise from the 
+commercial or financial relations of the associated enterprises, and from the 
+context in which those relations take place. Reference is made to risks that are 
+externally driven and those that are internally driven in order to help clarify 
+sources of uncertainty. However, there should be no inference that externally 
+driven  risks  are  less  relevant  because  they  are  not  generated  directly  by 
+activities. On the contrary, th

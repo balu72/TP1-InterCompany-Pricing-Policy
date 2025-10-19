@@ -1,0 +1,88 @@
+ular that it is sometimes applied 
+without  adequately  taking  into  account  the  relevant  differences  between  the 
+controlled and uncontrolled transactions being compared. Many jurisdictions 
+are  concerned  that  the  safeguards  established  for  the  traditional  transaction 
+methods may be overlooked in applying the transactional net margin method. 
+Thus,  where  differences  in  the  characteristics  of  the  transactions  being 
+compared  have  a  material  effect  on  the  net  profit  indicators  being  used,  it 
+would not be appropriate to apply the transactional net margin method without 
+making  adjustments  for  such  differences.  See  paragraphs  2.74-2.81  (the 
+comparability standard to be applied to the transactional net margin method).
+
+2.186.  The recognition that the use of transactional profit methods may be 
+necessary  is  not intended to suggest that independent enterprises would use 
+these  methods  to  set  prices.  As  with  any  method,  it  is  important  that  it  be 
+possible to calculate appropriate corresponding adjustments when transactional 
+profit  methods  are  used,  recognising  that  in  certain  cases  corresponding 
+adjustments  may  be  determined  on  an  aggregate  basis  consistent  with  the 
+aggregation principles in paragraphs 3.9-3.12.
+
+2.187. 
+In  all  cases,  caution  must  be  used  to  determine  whether  a  trans-
+actional profit method as applied to a particular aspect of a case can produce 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+148 – CHAPTER II: TRANSFER PRICING METHODS
+
+an arm’s length answer, either in conjunction with a traditional transaction 
+method or on its own. The question ultimately can be resolved only on a case-
+by-case basis taking into account the strengths and weaknesses set forth above 
+for a particular transactional profit method to be applied, the comparability 
+(including  functional)  analysis  of  the  parties  to  the  transaction,  and  the 
+availability and reliability of comparable data. In addition, these conclusions 
+assume that jurisdictions will have a certain degree of sophistication in their 
+underlying tax systems before applying these methods.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER III: COMPARABILITy ANALySIS – 149
+
+Chapter III 
+
+Comparability analysis
+
+A. Performing a comparability analysis
+
+3.1. 
+General guidance on comparability is found in Section D of Chapter I. 
+By  definition,  a  comparison  implies  examining  two  terms:  the  controlled 
+transaction  under  review  and  the  uncontrolled  transactions  that  are  regarded 
+as  potentially  comparable.  The  search  for  comparables  is  only  part  of  the 
+comparability analysis. It should be neither confused with nor separated from 
+the comparability analysis. The search for information on potentially comparable 
+uncontrolled  transactions  and  the  process  of  identifying  comparables  is 
+dependent upon prior analysis of the taxpayer’s controlled transaction and of the 
+economically relevant characteristics or comparability factors (see Section D.1 
+of Chapter I). A methodical, consistent approach should provide some continuity 
+or  linkage  in  the  whole  analytical  process,  thereby  maintaining  a  constant 
+relationship  amongst  the  various  steps:  from  the  preliminary  analysis  of  the 
+conditions of the controlled transaction, to the selection of the transfer pricing 
+method, through to the identification of potential comparables and ultimately 
+a  conclusion  about  whether  the  controlled  transactions  being  examined  are 
+consistent  with  the  arm’s  length  principle  as  described  in  paragraph  1  of 
+Article 9 of the OECD Model Tax Convention.
+
+3.2. 
+As part of the process of selecting the most appropriate transfer pricing 
+method (see paragraph 2.2) and applying it, the comparability analysis always 
+aims  at  finding  the  most  reliable  comparables.  Thus,  where  it  is  possible 
+to  determine  that  some  uncontrolled  transactions  have  a  lesser  degree  of 
+comparability than others, they should be eliminated (see also paragraph 3.56). 
+This does not mean that there is a requirement for an exhaustive search of all 
+possible sources of comparables as it is acknowledged that there are limitations 
+in availability of information and that searches for comparables data can be 
+burdensome. See also discussion of compliance efforts in paragraphs 3.80-3.83.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+150 – CHAPTER III: COMPARABILITy ANALySIS
+
+3.3. 
+In order for the process to be transparent, it is considered a good practice 
+for  a  taxpayer  that  uses  comparables  to  support  its  transfer  pricing,  or  a  tax 
+administration that uses comparables to support a transfer pricing adjustment, 
+to  provide  appropriate  supporting  information  for  the  other  interested  party 
+(i.e. tax auditor, taxpayer or foreign competent authorities) to be able to assess 
+the reliability of the 

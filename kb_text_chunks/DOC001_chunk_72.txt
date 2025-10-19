@@ -1,0 +1,83 @@
+onal net margin method, the 
+issue of the use of non-transactional third party data is in practice more acute 
+when applying this method due to the heavy reliance on external comparables. 
+The problem arises because there are often insufficient public data to allow 
+for  third  party  net  profit  indicators  to  be  determined  at  transactional  level. 
+This is why there needs to be sufficient comparability between the controlled 
+transaction  and  the  comparable  uncontrolled  transactions.  Given  that  often 
+the  only  data  available  for  the  third  parties  are  company-wide  data,  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 127
+
+functions performed by the third party in its total operations must be closely 
+aligned to those functions performed by the tested party with respect to its 
+controlled transactions in order to allow the former to be used to determine 
+an arm’s length outcome for the latter. The overall objective is to determine 
+a level of segmentation that provides reliable comparables for the controlled 
+transaction,  based  on  the  facts  and  circumstances  of  the  particular  case. 
+In case it is impossible in practice to achieve the transactional level set out 
+as the ideal by these Guidelines, it is still important to try to find the most 
+reliable comparables as discussed in paragraph 3.2, through making suitable 
+adjustments based on the evidence that is available.
+
+2.110.  See  in  particular  paragraphs  3.18-3.19  for  guidance  on  the  tested 
+party,  paragraphs  3.55-3.66  for  guidance  on  the  arm’s  length  range,  and 
+paragraphs 3.75-3.79 for guidance on multiple year data.
+
+B.4.  Examples of the application of the transactional net margin 
+
+method
+
+2.111.  By  way  of  illustration,  the  example  of  cost  plus  in  paragraph  2.59 
+demonstrates the need to adjust the gross mark-up arising from transactions 
+in  order  to  achieve  consistent  and  reliable  comparison.  Such  adjustments 
+may  be  made  without  difficulty  where  the  relevant  costs  can  be  readily 
+analysed.  Where,  however,  it  is  known  that  an  adjustment  is  required,  but 
+it is not possible to identify the particular costs for which an adjustment is 
+required, it may, nevertheless, be possible to identify the net profit arising 
+on the transaction and thereby ensure that a consistent measure is used. For 
+example, if the supervisory, general, and administrative costs that are treated 
+as  part  of  costs  of  goods  sold  for  the  independent  enterprises  X,  y  and  Z 
+cannot be identified so as to adjust the mark up in a reliable application of 
+cost plus, it may be necessary to examine net profit indicators in the absence 
+of more reliable comparisons.
+
+2.112.  A  similar  approach  may  be  required  when  there  are  differences  in 
+functions performed by the parties being compared. Assume that the facts are 
+the same as in the example in paragraph 2.44 except that it is the comparable 
+independent  enterprises  that  perform  the  additional  function  of  technical 
+support and not the associated enterprise, and that these costs are reported in 
+the cost of goods sold but cannot be separately identified. Because of product 
+and  market  differences  it  may  not  be  possible  to  find  a  CUP,  and  a  resale 
+price method would be unreliable since the gross margin of the independent 
+enterprises would need to be higher than that of the associated enterprise in 
+order to reflect the additional function and to cover the unknown additional 
+costs. In this example, it may be more reliable to examine net margins in order 
+to assess the difference in the transfer price that would reflect the difference 
+in function. The use of net margins in such a case needs to take account of 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+128 – CHAPTER II: TRANSFER PRICING METHODS
+
+comparability and may not be reliable if there would be a material effect on net 
+margin as a result of the additional function or as a result of market differences.
+
+2.113.  The facts are the same as in paragraph 2.42. However, the amount 
+of  the  warranty  expenses  incurred  by  Distributor  A  proves  impossible  to 
+ascertain so that it is not possible to reliably adjust the gross profit of A to 
+make the gross profit margin properly comparable with that of B. However, 
+if there are no other material functional differences between A and B and the 
+net profit of A relative to its sales is known, it might be possible to apply the 
+transactional net margin method to B by comparing the margin relative to A’s 
+sales to net profits with the margin calculated on the same basis for B.
+
+C. Transactional profit split method
+
+C.1.  General
+
+2.114.  The transactional profit split method seeks to establish arm’s length 
+outcomes  or  test  reported  outcomes  for  controlled  transactions  in  order  to 
+approximate the results that would have been achieved between i

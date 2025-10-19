@@ -1,0 +1,83 @@
+se the risk of double taxation or double non-
+
+taxation when adopted unilaterally;
+
+3.  Safe harbours potentially open avenues for inappropriate tax planning, 
+
+and
+
+4.  Safe harbours may raise issues of equity and uniformity.
+
+E.4.1. Divergence from the arm’s length principle
+
+4.111.  Where a safe harbour provides a simplified transfer pricing approach, 
+it may not correspond in all cases to the most appropriate method applicable to 
+the facts and circumstances of the taxpayer under the general transfer pricing 
+provisions. For example, a safe harbour might require the use of a particular 
+method  when  the  taxpayer  could  otherwise  have  determined  that  another 
+method was the most appropriate method under the facts and circumstances. 
+Such an occurrence could be considered as inconsistent with the arm’s length 
+principle, which requires the use of the most appropriate method.
+
+4.112.  Safe  harbours  involve  a  trade-off  between  strict  compliance  with 
+the arm’s length principle and administrability. They are not tailored to fit 
+exactly  the  varying  facts  and  circumstances  of  individual  taxpayers  and 
+transactions.  The  degree  of  approximation  of  prices  determined  under  the 
+safe  harbour  with  prices  determined  in  accordance  with  the  arm’s  length 
+principle could be improved by collecting, collating, and frequently updating 
+a pool of information regarding prices and pricing developments in respect of 
+the relevant types of transactions between uncontrolled parties of the relevant 
+nature.  However,  such  efforts  to  set  safe  harbour  parameters  accurately 
+enough to satisfy the arm’s length principle could erode the administrative 
+simplicity of the safe harbour.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+208 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+4.113.  Any  potential  disadvantages  to  taxpayers  from  safe  harbours 
+diverging  from  arm’s  length  pricing  are  avoided  when  taxpayers  have  the 
+option to either elect the safe harbour or price transactions in accordance with 
+the arm’s length principle. With such an approach, taxpayers that believe the 
+safe harbour would require them to report an amount of income exceeding 
+the arm’s length amount could apply the general transfer pricing rules. While 
+such an approach can limit the divergence from arm’s length pricing under a 
+safe harbour regime, it would also limit the administrative benefits of the safe 
+harbour to the tax administration. Moreover, tax administrations would need 
+to  consider  the  potential  loss  of  tax  revenue  from  such  an  approach  where 
+taxpayers will pay tax only on the lesser of the safe harbour amount or the 
+arm’s length amount. Jurisdictions may also be concerned over the ability of 
+taxpayers to opt in and out of a safe harbour, depending on whether the use of 
+the safe harbour is favourable to the taxpayer in a particular year. Jurisdictions 
+may  be  able  to  gain  greater  comfort  regarding  this  risk  by  controlling  the 
+conditions  under  which  a  taxpayer  can  be  eligible  for  the  safe  harbour,  for 
+example by requiring taxpayers to notify the tax authority in advance of using 
+the safe harbour or to commit to its use for a certain number of years.
+
+E.4.2.  Risk of double taxation, double non-taxation, and mutual 
+
+agreement concerns
+
+4.114.  One major concern raised by a safe harbour is that it may increase the 
+risk of double taxation. If a tax administration sets safe harbour parameters at 
+levels either above or below arm’s length prices in order to increase reported 
+profits in its jurisdiction, it may induce taxpayers to modify the prices that 
+they would otherwise have charged or paid to controlled parties, in order to 
+avoid transfer pricing scrutiny in the safe harbour jurisdiction. The concern 
+of possible overstatement of taxable income in the jurisdiction providing the 
+safe harbour is greater where that jurisdiction imposes significant penalties 
+for  understatement  of  tax  or  failure  to  meet  documentation  requirements, 
+with the result that there may be added incentives to ensure that the transfer 
+pricing is accepted in that jurisdiction without further review.
+
+4.115. 
+If  the  safe  harbour  causes  taxpayers  to  report  income  above  arm’s 
+length levels, it would work to the benefit of the tax administration providing 
+the safe harbour, as more taxable income would be reported by such domestic 
+taxpayers. On the other hand, the safe harbour may lead to less taxable income 
+being reported in the tax jurisdiction of the foreign associated enterprise that 
+is the other party to the transaction. The other tax administrations may then 
+challenge prices derived from the application of a safe harbour, with the result 
+that the taxpayer would face the prospect of double taxation. Accordingly, any 
+administrative benefits gained by the tax administration of the safe harbour 
+jurisdiction would potentially be obtained at the

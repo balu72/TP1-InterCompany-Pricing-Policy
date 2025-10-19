@@ -1,0 +1,71 @@
+BEPS  project.  Developing 
+countries have been engaged extensively via a number of different mechanisms, including 
+direct participation in the Committee on Fiscal Affairs. In addition, regional tax organisations 
+such as the African Tax Administration Forum, the Centre de rencontre des administrations 
+fiscales and the Centro Interamericano de Administraciones Tributarias, joined international 
+organisations  such  as  the  International  Monetary  Fund,  the  world  Bank  and  the  United 
+Nations, in contributing to the work. Stakeholders have been consulted at length: in total, 
+the BEPS project received more than 1 400 submissions from industry, advisers, NGOs and 
+academics. Fourteen public consultations were held, streamed live on line, as were webcasts 
+where the OECD Secretariat periodically updated the public and answered questions.
+
+After  two  years  of  work,  the  15  actions  have  now  been  completed.  All  the  different 
+outputs, including those delivered in an interim form in 2014, have been consolidated into 
+a comprehensive package. The BEPS package of measures represents the first substantial 
+renovation of the international tax rules in almost a century. Once the new measures become 
+applicable,  it  is  expected  that  profits  will  be  reported  where  the  economic  activities  that 
+generate them are carried out and where value is created. BEPS planning strategies that rely 
+on outdated rules or on poorly co-ordinated domestic measures will be rendered ineffective.
+
+Implementation therefore becomes key at this stage. The BEPS package is designed 
+to be implemented via changes in domestic law and practices, and via treaty provisions, 
+with negotiations for a multilateral instrument under way and expected to be finalised in 
+2016. OECD and G20 countries have also agreed to continue to work together to ensure a 
+consistent and co-ordinated implementation of the BEPS recommendations. Globalisation 
+requires  that  global  solutions  and  a  global  dialogue  be  established  which  go  beyond 
+OECD and G20 countries. To further this objective, in 2016 OECD and G20 countries will 
+conceive an inclusive framework for monitoring, with all interested countries participating 
+on an equal footing.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+4 –  FOREwORD
+
+A  better  understanding  of  how  the  BEPS  recommendations  are  implemented  in 
+practice  could  reduce  misunderstandings  and  disputes  between  governments.  Greater 
+focus on implementation and tax administration should therefore be mutually beneficial to 
+governments and business. Proposed improvements to data and analysis will help support 
+ongoing evaluation of the quantitative impact of BEPS, as well as evaluating the impact of 
+the countermeasures developed under the BEPS Project.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+TABLE OF CONTENTS – 5
+
+Table of contents
+
+Abbreviations and acronyms  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+Executive summary  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+Chapter V of the Transfer Pricing Guidelines on Documentation  . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+A. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+B. Objectives of transfer pricing documentation requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+C. A three-tiered approach to transfer pricing documentation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+D. Compliance issues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+E. Implementation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+Annex I to Chapter V.  Transfer pricing documentation – Master file. . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+Annex II to Chapter V.  Transfer pricing documentation – Local file . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+Annex III to Chapter V.  Transfer pricing documentation – Country-by-Country Report . . . . . . . . 29
+
+A. Model template for the Country-by-Country Report  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+B. Template for the Country-by-Country Report – General instructions  . . . . . . . . . . . . . . . . . . . . . . . 31
+C. Template for the Country-by-Country Report – Specific instructions . . . . . . . . . . . . . . . . . . . . . . . 33
+
+Annex IV to Chapter V.  Country-by-Country Reporting Implementation Package . . . . . . . . . . . . . 37
+
+Introduction  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 

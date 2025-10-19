@@ -1,0 +1,81 @@
+ 
+the  arm’s  length  short-term  borrowing  rate  for  a  certain  corporation  on 
+intra-group  borrowings  will  remain  at  6%  during  the  entire  coming  three 
+years. It would be more plausible to predict that the rate will be LIBOR plus 
+a  fixed  percentage.  The  prediction  would  become  even  more  reliable  if  an 
+
+6. 
+
+Additional guidance for conducting Advance Pricing Arrangements under the 
+Mutual Agreement Procedure is found in Annex II to Chapter IV.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+214 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+appropriate critical assumption were added regarding the company’s credit 
+rating (e.g. the addition to LIBOR will change if the credit rating changes).
+
+4.137.  As another example, it would not be appropriate to specify a profit 
+split  formula  between  associated  enterprises  if  it  is  expected  that  the 
+allocation  of  functions  between  the  enterprises  will  be  unstable.  It  would, 
+however,  be  possible  to  prescribe  a  profit  split  formula  if  the  role  of  each 
+enterprise were articulated in critical assumptions. In certain cases, it might 
+even be possible to make a reasonable prediction on the appropriateness of an 
+actual profit split ratio if enough assumptions were provided.
+
+4.138.  In  deciding  how  specific  an  APA  can  be  in  a  particular  case,  tax 
+administrations  should  recognise  that  predictions  of  absolute  future  profit 
+experience  seems  least  plausible.  It  may  be  possible  to  use  profit  ratios  of 
+independent enterprises as comparables, but these also are often volatile and 
+hard  to  predict.  Use  of  appropriate  critical  assumptions  and  use  of  ranges 
+may enhance the reliability of predictions. Historical data in the industry in 
+question can also be a guide.
+
+4.139. 
+In  sum,  the  reliability  of  a  prediction  depends  on  the  facts  and 
+circumstances of each actual case. Taxpayers and tax administrations need 
+to pay close attention to the reliability of a prediction when considering the 
+scope  of  an  APA.  Unreliable  predictions  should  not  be  included  in  APAs. 
+The appropriateness of a method and its application can usually be predicted, 
+and the relevant critical assumptions made, with more reliability than future 
+results (price or profit level).
+
+4.140.  Some jurisdictions allow for unilateral arrangements where the tax 
+administration and the taxpayer in its jurisdiction establish an arrangement 
+without  the  involvement  of  other  interested  tax  administrations.  However, 
+a  unilateral  APA  may  affect  the  tax  liability  of  associated  enterprises  in 
+other tax jurisdictions. Where unilateral APAs are permitted, the competent 
+authorities  of  other  interested  jurisdictions  should  be  informed  about  the 
+procedure as early as possible to determine whether they are willing and able 
+to consider a bilateral arrangement under the mutual agreement procedure. 
+In  any  event,  jurisdictions  should  not  include  in  any  unilateral  APA  they 
+may conclude with a taxpayer a requirement that the taxpayer waive access 
+to the mutual agreement procedure if a transfer pricing dispute arises, and 
+if another jurisdiction raises a transfer pricing adjustment with respect to a 
+trans action or issue covered by the unilateral APA, the first jurisdiction is 
+encouraged  to  consider  the  appropriateness  of  a  corresponding  adjustment 
+and not to view the unilateral APA as an irreversible settlement.
+
+4.141.  Because of concerns over double taxation, most jurisdictions prefer 
+bilateral  or  multilateral  APAs  (i.e.  an  arrangement  in  which  two  or  more 
+jurisdictions concur), and indeed some jurisdictions will not grant a unilateral 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 215
+
+APA (i.e. an arrangement between the taxpayer and one tax administration) 
+to  taxpayers  in  their  jurisdiction.  The  bilateral  (or  multilateral)  approach 
+is  far  more  likely  to  ensure  that  the  arrangements  will  reduce  the  risk  of 
+double  taxation,  will  be  equitable  to  all  tax  administrations  and  taxpayers 
+involved,  and  will  provide  greater  certainty  to  the  taxpayers  concerned.  It 
+is also the case in some jurisdictions that domestic provisions do not permit 
+the  tax  administrations  to  enter  into  binding  agreements  directly  with  the 
+taxpayers, so that APAs can be concluded with the competent authority of a 
+treaty partner only under the mutual agreement procedure. For purposes of 
+the discussion in this section, an APA is not intended to include a unilateral 
+arrangement except where specific reference to a unilateral APA is made.
+4.142.  Tax  administrations  may  find  APAs  particularly  useful  in  profit 
+allocation or income attribution issues arising in the context of global securities 
+and  commodity  trading  operations,  and  also  in  handling  multilateral  

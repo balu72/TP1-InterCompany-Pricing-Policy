@@ -1,0 +1,80 @@
+ passage of time.
+
+1.13.  Both  tax  administrations  and  taxpayers  often  have  difficulty  in 
+obtaining adequate information to apply the arm’s length principle. Because 
+the arm’s length principle usually requires taxpayers and tax administrations 
+to evaluate uncontrolled transactions and the business activities of independent 
+enterprises,  and  to  compare  these  with  the  transactions  and  activities  of 
+associated  enterprises,  it  can  demand  a  substantial  amount  of  data.  The 
+information  that  is  accessible  may  be  incomplete  and  difficult  to  interpret; 
+other  information,  if  it  exists,  may  be  difficult  to  obtain  for  reasons  of  its 
+geographical  location  or  that  of  the  parties  from  whom  it  may  have  to  be 
+acquired.  In  addition,  it  may  not  be  possible  to  obtain  information  from 
+independent  enterprises  because  of  confidentiality  concerns.  In  other  cases 
+information  about  an  independent  enterprise  which  could  be  relevant  may 
+simply not exist, or there may be no comparable independent enterprises, e.g. if 
+that industry has reached a high level of vertical integration. It is important not 
+to lose sight of the objective to find a reasonable estimate of an arm’s length 
+outcome based on reliable information. It should also be recalled at this point 
+that  transfer  pricing  is  not  an  exact  science  but  does  require  the  exercise  of 
+judgment on the part of both the tax administration and taxpayer.
+
+B.2.  Maintaining the arm’s length principle as the international 
+
+consensus
+
+1.14.  While recognising the foregoing considerations, the view of OECD 
+member  countries  continues  to  be  that  the  arm’s  length  principle  should 
+govern  the  evaluation  of  transfer  prices  among  associated  enterprises. 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+34 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+The  arm’s  length  principle  is  sound  in  theory  since  it  provides  the  closest 
+approximation of the workings of the open market in cases where property 
+(such  as  goods,  other  types  of  tangible  assets,  or  intangible  assets)  is 
+transferred or services are rendered between associated enterprises. While 
+it may not always be straightforward to apply in practice, it does generally 
+produce  appropriate  levels  of  income  between  members  of  MNE  groups, 
+acceptable  to  tax  administrations.  This  reflects  the  economic  realities  of 
+the controlled taxpayer’s particular facts and circumstances and adopts as a 
+benchmark the normal operation of the market.
+
+1.15.  A  move  away  from  the  arm’s  length  principle  would  abandon  the 
+sound  theoretical  basis  described  above  and  threaten  the  international 
+consensus,  thereby  substantially  increasing  the  risk  of  double  taxation. 
+Experience under the arm’s length principle has become sufficiently broad and 
+sophisticated to establish a substantial body of common understanding among 
+the business community and tax administrations. This shared understanding is 
+of great practical value in achieving the objectives of securing the appropriate 
+tax base in each jurisdiction and avoiding double taxation. This experience 
+should be drawn on to elaborate the arm’s length principle further, to refine 
+its operation, and to improve its administration by providing clearer guidance 
+to taxpayers and more timely examinations. In sum, OECD member countries 
+continue to support strongly the arm’s length principle. In fact, no legitimate 
+or  realistic  alternative  to  the  arm’s  length  principle  has  emerged.  Global 
+formulary  apportionment,  sometimes  mentioned  as  a  possible  alternative, 
+would not be acceptable in theory, implementation, or practice. (See Section C, 
+immediately below, for a discussion of global formulary apportionment.)
+
+C. A non-arm’s-length approach: global formulary apportionment
+
+C.1.  Background and description of approach
+
+1.16.  Global formulary apportionment has sometimes been suggested as 
+an  alternative  to  the  arm’s  length  principle  as  a  means  of  determining  the 
+proper level of profits across national taxing jurisdictions. The approach has 
+not been applied as between jurisdictions although it has been attempted by 
+some local taxing jurisdictions.
+
+1.17.  Global  formulary  apportionment  would  allocate  the  global  profits 
+of an MNE group on a consolidated basis among the associated enterprises 
+in  different  jurisdictions  on  the  basis  of  a  predetermined  and  mechanistic 
+formula.  There  would  be  three  essential  components  to  applying  global 
+formulary  apportionment:  determining  the  unit  to  be  taxed,  i.e.  which  of 
+the subsidiaries and branches of an MNE group should comprise the global 
+taxable  entity;  accurately  determining  the  global  profits;  and  establishing 
+the formula to be used to allocate the global profits of the unit. The formula 
+
+OECD TRANSFER PR

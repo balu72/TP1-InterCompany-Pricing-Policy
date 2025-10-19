@@ -1,0 +1,76 @@
+ure to timely submit required information are usually 
+civil  (or  administrative)  monetary  penalties.  These  documentation-related  penalties  are 
+based  on  a  fixed  amount  that  may  be  assessed  for  each  document  missing  or  for  each 
+fiscal year under review, or calculated as a percentage of the related tax understatement 
+ultimately  determined,  a  percentage  of  the  related  adjustment  to  the  income,  or  as  a 
+percentage of the amount of the cross-border transactions not documented.
+
+42.  Care should be taken not to impose a documentation-related penalty on a taxpayer for 
+failing to submit data to which the MNE group did not have access. however, a decision 
+not  to  impose  documentation-related  penalties  does  not  mean  that  adjustments  cannot 
+be made to income where prices are not consistent with the arm’s length principle. The 
+fact  that  positions  are  fully  documented  does  not  necessarily  mean  that  the  taxpayer’s 
+positions are correct. Moreover, an assertion by a local entity that other group members are 
+responsible for transfer pricing compliance is not a sufficient reason for that entity to fail 
+to provide required documentation, nor should such an assertion prevent the imposition of 
+documentation-related penalties for failure to comply with documentation rules where the 
+necessary information is not forthcoming.
+
+43.  Another  way  for  countries  to  encourage  taxpayers  to  fulfil  transfer  pricing 
+documentation  requirements  is  by  designing  compliance  incentives  such  as  penalty 
+protection  or  a  shift  in  the  burden  of  proof.  where  the  documentation  meets  the 
+requirements and is timely submitted, the taxpayer could be exempted from tax penalties 
+or subject to a lower penalty rate if a transfer pricing adjustment is made and sustained, 
+notwithstanding the provision of documentation. In some jurisdictions where the taxpayer 
+bears the burden of proof regarding transfer pricing matters, a shift of the burden of proof 
+to  the  tax  administration’s  side  where  adequate  documentation  is  provided  on  a  timely 
+basis offers another measure that could be used to create an incentive for transfer pricing 
+documentation compliance.
+
+D.8. Confidentiality
+
+44.  Tax administrations should take all reasonable steps to ensure that there is no public 
+disclosure  of  confidential  information  (trade  secrets,  scientific  secrets,  etc.)  and  other 
+commercially  sensitive  information  contained  in  the  documentation  package  (master 
+file, local file and Country-by-Country Report). Tax administrations should also assure 
+taxpayers  that  the  information  presented  in  transfer  pricing  documentation  will  remain 
+confidential. In cases where disclosure is required in public court proceedings or judicial 
+decisions, every effort should be made to ensure that confidentiality is maintained and that 
+information is disclosed only to the extent needed.
+
+45.  The OECD Guide (2012) “Keeping It Safe” on the protection of confidentiality of 
+information exchanged for tax purposes provides guidance on the rules and practices that 
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+20 –  ChAPTER v OF ThE TRANSFER PRICING GUIDELINES ON DOCUMENTATION
+
+must be in place to ensure the confidentiality of tax information exchanged under exchange 
+of information instruments.
+
+D.9. Other issues
+
+46.  The requirement to use the most reliable information will usually, but not always, 
+require  the  use  of  local  comparables  over  the  use  of  regional  comparables  where  such 
+local comparables are reasonably available. The use of regional comparables in transfer 
+pricing documentation prepared for countries in the same geographic region in situations 
+where appropriate local comparables are available will not, in some cases, comport with 
+the obligation to rely on the most reliable information. while the simplification benefits 
+of  limiting  the  number  of  comparable  searches  a  company  is  required  to  undertake  are 
+obvious, and materiality and compliance costs are relevant factors to consider, a desire for 
+simplifying compliance processes should not go so far as to undermine compliance with 
+the requirement to use the most reliable available information. See paragraphs 1.57-1.58 on 
+market differences and multi-country analyses for further detail of when local comparables 
+are to be preferred.
+
+47. 
+It is not recommended, particularly at the stage of transfer pricing risk assessment, to 
+require that the transfer pricing documentation should be certified by an outside auditor or 
+other third party. Similarly, mandatory use of consulting firms to prepare transfer pricing 
+documentation is not recommended.
+
+E. Implementation
+
+48. 
+It  is  essential  that  the  guidance  in  this  chapter,  and  in  particular  the  Country-
+by-Country  Report,  be  implemented  effectively  and  consistently.  Theref

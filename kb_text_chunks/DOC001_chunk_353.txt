@@ -1,0 +1,90 @@
+tion about developments that lead to ex post 
+outcomes which may call into question those assumptions, even when those 
+outcomes arise in years subsequent to those under audit, in order to be in a 
+position to consider the appropriateness of the ex ante pricing.
+
+13. 
+Tax administrations should apply audit practices to ensure that HTVI 
+transactions  are  identified  and  acted  upon  as  early  as  possible.  However, 
+it  should  be  kept  in  mind  that  in  some  cases  it  may  be  difficult  for  tax 
+administrations to perform a risk assessment at the time of the transaction, 
+or  even  shortly  thereafter,  to  evaluate  the  reliability  of  the  information  on 
+which pricing has been based, or to consider whether the transfer is priced at 
+arm’s length. Such analysis may only be possible some years after the trans-
+action. Under the HTVI approach, the tax administration may, in particular 
+circumstances, use ex post outcomes to consider the reasonableness of the 
+projections and probability weightings taken into account in the valuation at 
+the time of the transaction.
+
+This guidance for tax administrations on the application of the HTVI 
+14. 
+approach should not be used to delay or bypass normal audit procedures. In 
+fact, it remains important to identify transfers of HTVI as early as possible and 
+to act on presumptive evidence promptly as a matter of good administrative 
+practice,  and  in  order  to  avoid  running  into  difficulties  with  administrative 
+or statutory time limits for audits and reassessment. Nothing in this guidance 
+changes those time limits, which are a matter of sovereignty of jurisdictions.
+
+15. 
+To enhance tax certainty for taxpayers and reduce the risk of double 
+taxation, it is desirable that the HTVI approach be applied consistently. However, 
+some jurisdictions may encounter difficulties in applying the HTVI approach 
+due,  for  example,  to  short  audit  cycles  or  a  short  statute  of  limitations.  This 
+guidance does not require jurisdictions to adopt legislation aimed at overcoming 
+such difficulties, but it does not prevent jurisdictions from considering targeted 
+changes to procedures or legislation (such as the introduction of a requirement to 
+notify promptly the transfer or licence of an intangible falling within the HTVI 
+definition, or amendment of the normal statute of limitations).
+
+In  applying  the  HTVI  approach  contained  in  Section  D.4  of 
+16. 
+Chapter VI, tax administrations may make appropriate adjustments, including 
+adjustments  that  reflect  an  alternative  pricing  structure  that  differs  from 
+that adopted by the taxpayer but reflects one which would have been made 
+by  independent  enterprises  in  comparable  circumstances  to  take  account 
+of  the  valuation  uncertainty  in  the  pricing  of  the  transaction  (for  example, 
+milestone  payments,  running  royalties  with  or  without  adjustable  elements, 
+price  adjustment  clauses,  or  a  combination  of  these  characteristics).  See 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER VI: HARD-TO-VALUE INTANGIBLES – 637
+
+paragraph 6.185 and 6.192. Since hard to value intangibles are intangibles for 
+which no reliable comparables exist, tax administrations cannot be expected to 
+substantiate adjustments to the pricing structure by referring to uncontrolled 
+transactions involving comparable intangibles.
+
+17. 
+Some  of  the  practical  ways  in  which  the  approach  to  HTVI  can 
+be  applied  are  illustrated  in  the  examples  in  the  following  section.  The 
+application of the approach to HTVI should be underpinned by the following 
+principles:
+
+•  Where the HTVI approach applies, tax administrations can consider 
+ex post outcomes as presumptive evidence about the reasonableness 
+of the assumptions of the ex ante pricing arrangements.
+
+•  The ex post outcomes inform the determination of the valuation that 
+would  have  been  made  at  the  time  of  the  transaction;  however,  it 
+would be incorrect to base the valuation on the actual income or cash 
+flows without taking into account whether the associated enterprises 
+could or should reasonably have known and considered, at the time 
+of the transfer of the HTVI, the information related to the probability 
+of achieving such income or cash flows.
+
+•  Where a revised valuation shows that the intangible was transferred 
+at  an  undervalue  or  overvalue  compared  to  the  arm’s  length  price, 
+the  revised  price  of  the  transferred  intangible  may  be  assessed  to 
+tax  taking  into  account  price  adjustment  clauses  and/or  contingent 
+payments,  irrespective  of  the  payment  profiles  asserted  by  the 
+taxpayer, consistently with paragraph 16.
+
+•  Tax  administrations  should  apply  audit  practices  to  ensure  that 
+presumptive  evidence  based  on  ex  post  outcomes  is  identified  and 
+acted upon as early as possible.
+
+2. Examples1
+
+18. 
+The  following  examples  are  aimed 

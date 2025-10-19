@@ -1,0 +1,75 @@
+ar contractual arrangement, whether written, oral or 
+implied. Such licensed rights may be limited as to field of use, term of use, 
+geography or in other ways. Such limited rights in intangibles are themselves 
+intangibles within the meaning of Section A.1.
+
+A.4.6. Goodwill and ongoing concern value
+
+6.27.  Depending on the context, the term goodwill can be used to refer to 
+a number of different concepts. In some accounting and business valuation 
+contexts, goodwill reflects the difference between the aggregate value of an 
+operating  business  and  the  sum  of  the  values  of  all  separately  identifiable 
+tangible and intangible assets. Alternatively, goodwill is sometimes described 
+as a representation of the future economic benefits associated with business 
+assets that are not individually identified and separately recognised. In still 
+other contexts goodwill is referred to as the expectation of future trade from 
+existing customers. The term ongoing concern value is sometimes referred 
+to  as  the  value  of  the  assembled  assets  of  an  operating  business  over  and 
+above the sum of the separate values of the individual assets. It is generally 
+recognised that goodwill and ongoing concern value cannot be segregated or 
+transferred separately from other business assets. See paragraphs 9.68-9.70 
+for a discussion of the related notion of a transfer of all of the elements of an 
+ongoing concern in connection with a business restructuring.
+
+It is not necessary for purposes of this chapter to establish a precise 
+6.28. 
+definition of goodwill or ongoing concern value for transfer pricing purposes 
+or to define when goodwill or ongoing concern value may or may not constitute 
+an  intangible.  It  is  important  to  recognise,  however,  that  an  important  and 
+monetarily  significant  part  of  the  compensation  paid  between  independent 
+enterprises  when  some  or  all  of  the  assets  of  an  operating  business  are 
+transferred  may  represent  compensation  for  something  referred  to  in  one  or 
+another of the alternative descriptions of goodwill or ongoing concern value. 
+When  similar  transactions  occur  between  associated  enterprises,  such  value 
+should  be  taken  into  account  in  determining  an  arm’s  length  price  for  the 
+transaction.  When  the  reputational  value  sometimes  referred  to  by  the  term 
+goodwill is transferred to or shared with an associated enterprise in connection 
+with a transfer or licence of a trademark or other intangible that reputational 
+value should be taken into account in determining appropriate compensation. If 
+features of a business such as a reputation for producing high quality products 
+or providing high quality service allow that business to charge higher prices 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+254 – CHAPTER VI: INTANGIBLES
+
+for goods or services than an entity lacking such reputation, and such features 
+might  be  characterised  as  goodwill  or  ongoing  concern  value  under  one  or 
+another definition of such terms, such features should be taken into account in 
+establishing arm’s length prices for sales of goods or the provision of services 
+between  associated  enterprises  whether  or  not  they  are  characterised  as 
+goodwill. In other words, labelling a contribution of value from one party to 
+another as goodwill or ongoing concern value does not render such contribution 
+non-compensable. See paragraph 6.2.
+6.29.  The requirement that goodwill and ongoing concern value be taken 
+into  account  in  pricing  transactions  in  no  way  implies  that  the  residual 
+measures  of  goodwill  derived  for  some  specific  accounting  or  business 
+valuation  purposes  are  necessarily  appropriate  measures  of  the  price  that 
+would  be  paid  for  the  transferred  business  or  licence  rights,  together  with 
+their associated goodwill and ongoing concern value, by independent parties. 
+Accounting  and  business  valuation  measures  of  goodwill  and  ongoing 
+concern value do not, as a general rule, correspond to the arm’s length price of 
+transferred goodwill or ongoing concern value in a transfer pricing analysis. 
+Depending on the facts and circumstances, however, accounting valuations 
+and the information supporting such valuations can provide a useful starting 
+point in conducting a transfer pricing analysis. The absence of a single precise 
+definition of goodwill makes it essential for taxpayers and tax administrations 
+to  describe  specifically  relevant  intangibles  in  connection  with  a  transfer 
+pricing  analysis,  and  to  consider  whether  independent  enterprises  would 
+provide compensation for such intangibles in comparable circumstances.
+
+A.4.7. Group synergies
+6.30. 
+In  some  circumstances  group  synergies  contribute  to  the  level  of 
+income  earned  by  an  MNE  group.  Such  group  synergies  can  take  many 
+different  forms  including  streamlined  management,  e

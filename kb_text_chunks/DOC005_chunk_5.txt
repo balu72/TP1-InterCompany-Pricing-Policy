@@ -1,0 +1,99 @@
+line-height: 17px !important;
+        background: #4f4f4f !important;
+        color: #fff !important;
+        display: block;
+    }
+
+        .homeActive a:hover {
+            background: #4f4f4f !important;
+            color: #fff !important;
+        }
+ 
+
+ 
+    $(document).ready(function () {
+
+        $('#homeli').removeAttr('class').attr('class', 'home-btn-menu');
+        var currentURL = window.location.href;
+        var linkFound = false;
+        if (currentURL.toLowerCase().indexOf('/about-us/') >= 0) {
+            linkFound = true;
+            $('#ctl00_ctl25_TopNavigation_lnkAboutUs').removeAttr('class');
+            $('#ctl00_ctl25_TopNavigation_lnkAboutUs').attr('class', 'menuActive');
+        }
+        else if (currentURL.toLowerCase().indexOf('/pages/downloads/') >= 0) {
+            linkFound = true;
+            $('#ctl00_ctl25_TopNavigation_lnksformsDownload').removeAttr('class');
+            $('#ctl00_ctl25_TopNavigation_lnksformsDownload').attr('class', 'menuActive');
+        }
+        else if (currentURL.toLowerCase().indexOf('/tax-services.aspx') >= 0) {
+            linkFound = true;
+            $('#ctl00_ctl25_TopNavigation_LINKTAXSERVICES').removeAttr('class');
+            $('#ctl00_ctl25_TopNavigation_LINKTAXSERVICES').attr('class', 'menuActive');
+        }
+        else if (currentURL.toLowerCase().indexOf('/tax-helpline.aspx') >= 0) {
+            linkFound = true;
+            $('#ctl00_ctl25_TopNavigation_LINKHELPLINES').removeAttr('class');
+            $('#ctl00_ctl25_TopNavigation_LINKHELPLINES').attr('class', 'menuActive');
+        }
+        else if (currentURL.toLowerCase().indexOf('/feedback-home.aspx') >= 0 ||
+            currentURL.toLowerCase().indexOf('/feedback.aspx') >= 0) {
+            linkFound = true;
+            $('#ctl00_ctl25_TopNavigation_lnkFeedback').removeAttr('class');
+            $('#ctl00_ctl25_TopNavigation_lnkFeedback').attr('class', 'menuActive');
+        }
+        else if (currentURL.toLowerCase().indexOf('/i-am/') >= 0) {
+            linkFound = true;
+            $('#ctl00_ctl25_TopNavigation_lnkIam').removeAttr('class');
+            $('#ctl00_ctl25_TopNavigation_lnkIam').attr('class', 'menuActive');
+        }
+        else if (
+            currentURL.toLowerCase().indexOf('/acts/') >= 0 ||
+            currentURL.toLowerCase().indexOf('/rules/') >= 0 ||
+            currentURL.toLowerCase().indexOf('/communications/') >= 0 ||
+            currentURL.toLowerCase().indexOf('/international-taxation/') >= 0 ||
+            currentURL.toLowerCase().indexOf('/utilities/') >= 0 ||
+            currentURL.toLowerCase().indexOf('/tutorials.aspx') >= 0 ||
+            currentURL.toLowerCase().indexOf('/faqs.aspx') >= 0 ||
+            currentURL.toLowerCase().indexOf('/deadline.aspx') >= 0 ||
+            currentURL.toLowerCase().indexOf('/charts-and-tables.aspx') >= 0 ||
+            currentURL.toLowerCase().indexOf('/income-tax-dictionary.aspx') >= 0 ||
+            currentURL.toLowerCase().indexOf('/budget-and-bills/') >= 0) {
+            linkFound = true;
+            $('#ctl00_ctl25_TopNavigation_lnkineed').removeAttr('class');
+            $('#ctl00_ctl25_TopNavigation_lnkineed').attr('class', 'menuActive');
+        }
+        else if (currentURL.toLowerCase().indexOf('/pan.aspx') >= 0) {
+            linkFound = true;
+            $('#ctl00_ctl25_TopNavigation_lnkPan').removeAttr('class');
+            $('#ctl00_ctl25_TopNavigation_lnkPan').attr('class', 'menuActive');
+        }
+        else if (currentURL.toLowerCase().indexOf('/downloads/income-tax-return.aspx') >= 0 || currentURL.toLowerCase().indexOf('/downloads/wealth-tax-return.aspx') >= 0) {
+            linkFound = true;
+            $('#ctl00_ctl25_TopNavigation_lnkReturns').removeAttr('class');
+            $('#ctl00_ctl25_TopNavigation_lnkReturns').attr('class', 'menuActive');
+        }
+        else if (currentURL.toLowerCase().indexOf('/downloads/challans.aspx') >= 0) {
+            linkFound = true;
+            $('#ctl00_ctl25_TopNavigation_lnkChallens').removeAttr('class');
+            $('#ctl00_ctl25_TopNavigation_lnkChallens').attr('class', 'menuActive');
+        }
+        else if (currentURL.toLowerCase().indexOf('/publicity-campaign.aspx') >= 0) {
+            linkFound = true;
+            $('#ctl00_ctl25_TopNavigation_HyperLink15').removeAttr('class');
+            $('#ctl00_ctl25_TopNavigation_HyperLink15').attr('class', 'menuActive');
+              }
+        else if (currentURL.toLowerCase().indexOf('pages/default.aspx') >= 0) {
+            linkFound = true;
+            $('#homeli').removeAttr('class').attr('class', 'homeActive');
+            $('#ctl00_ctl25_TopNavigation_lnkHome').removeAttr('class');
+            $('#ctl00_ctl25_TopNavigation_lnkHome').attr('class', 'homeActive');
+        }
+
+        
+
+        //else {
+        //    linkFound = true;
+        //    $('#homeli').removeAttr('class').attr('class', 'homeActive');
+        //    $('#ctl00_ctl25_TopNavigation_lnkHome').removeAttr('class');
+        //    $

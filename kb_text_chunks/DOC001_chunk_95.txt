@@ -1,0 +1,83 @@
+ive at a single figure (e.g. price or margin) that is the most reliable to 
+establish whether the conditions of a transaction are arm’s length. However, 
+because  transfer  pricing  is  not  an  exact  science,  there  will  also  be  many 
+occasions when the application of the most appropriate method or methods 
+produces  a  range  of  figures  all  of  which  are  relatively  equally  reliable.  In 
+these cases, differences in the figures that comprise the range may be caused 
+by the fact that in general the application of the arm’s length principle only 
+produces an approximation of conditions that would have been established 
+between independent enterprises. It is also possible that the different points in 
+a range represent the fact that independent enterprises engaged in comparable 
+transactions under comparable circumstances may not establish exactly the 
+same price for the transaction.
+
+3.56. 
+In some cases, not all comparable transactions examined will have 
+a relatively equal degree of comparability. Where it is possible to determine 
+that  some  uncontrolled  transactions  have  a  lesser  degree  of  comparability 
+than others, they should be eliminated.
+
+3.57. 
+It  may  also  be  the  case  that,  while  every  effort  has  been  made  to 
+exclude points that have a lesser degree of comparability, what is arrived at is a 
+range of figures for which it is considered, given the process used for selecting 
+comparables  and  limitations  in  information  available  on  comparables,  that 
+some comparability defects remain that cannot be identified and/or quantified, 
+and are therefore not adjusted. In such cases, if the range includes a sizeable 
+number of observations, statistical tools that take account of central tendency 
+to  narrow  the  range  (e.g.  the  interquartile  range  or  other  percentiles)  might 
+help to enhance the reliability of the analysis.
+
+3.58.  A  range  of  figures  may  also  result  when  more  than  one  method  is 
+applied to evaluate a controlled transaction. For example, two methods that 
+attain  similar  degrees  of  comparability  may  be  used  to  evaluate  the  arm’s 
+length  character  of  a  controlled  transaction.  Each  method  may  produce 
+an  outcome  or  a  range  of  outcomes  that  differs  from  the  other  because 
+of  differences  in  the  nature  of  the  methods  and  the  data,  relevant  to  the 
+application  of  a  particular  method,  used.  Nevertheless,  each  separate  range 
+potentially could be used to define an acceptable range of arm’s length figures. 
+Data  from  these  ranges  could  be  useful  for  purposes  of  more  accurately 
+defining  the  arm’s  length  range,  for  example  when  the  ranges  overlap,  or 
+for reconsidering the accuracy of the methods used when the ranges do not 
+overlap.  No  general  rule  may  be  stated  with  respect  to  the  use  of  ranges 
+derived from the application of multiple methods because the conclusions to 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+166 – CHAPTER III: COMPARABILITy ANALySIS
+
+be drawn from their use will depend on the relative reliability of the methods 
+employed to determine the ranges and the quality of the information used in 
+applying the different methods.
+
+3.59.  Where the application of the most appropriate method (or, in relevant 
+circumstances,  of  more  than  one  method,  see  paragraph  2.12),  produces  a 
+range  of  figures,  a  substantial  deviation  among  points  in  that  range  may 
+indicate  that  the  data  used  in  establishing  some  of  the  points  may  not  be 
+as reliable as the data used to establish the other points in the range or that 
+the deviation may result from features of the comparable data that require 
+adjustments. In such cases, further analysis of those points may be necessary 
+to evaluate their suitability for inclusion in any arm’s length range.
+
+A.7.2. Selecting the most appropriate point in the range
+
+If the relevant condition of the controlled  transaction  (e.g.  price or 
+
+3.60. 
+margin) is within the arm’s length range, no adjustment should be made.
+
+3.61. 
+If  the  relevant  condition  of  the  controlled  transaction  (e.g.  price  or 
+margin) falls outside the arm’s length range asserted by the tax administration, 
+the  taxpayer  should  have  the  opportunity  to  present  arguments  that  the 
+conditions of the controlled transaction satisfy the arm’s length principle, and 
+that the result falls within the arm’s length range (i.e. that the arm’s length 
+range  is  different  from  the  one  asserted  by  the  tax  administration).  If  the 
+taxpayer is unable to establish this fact, the tax administration must determine 
+the point within the arm’s length range to which it will adjust the condition of 
+the controlled transaction.
+
+3.62. 
+In  determining  this  point,  where  the  range  comprises  results  of 
+relatively equal and high reliability, it could be argued that any point in the 
+range satisfies the arm’s

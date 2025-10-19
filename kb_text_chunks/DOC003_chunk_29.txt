@@ -1,0 +1,111 @@
+n  should  be  able  to  document  that  it  is  compliant  with  the  ISO/IEC 
+27000-series standards or that it has an equivalent information security framework and 
+that taxpayer information obtained under an exchange agreement is protected under that 
+framework.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+54 – ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE
+
+2.1.1 Background Checks and Contracts
+
+Primary Check-list Areas
+
+•  Screenings and background investigations for employees and contractors
+•  Hiring process and contracts
+•  Responsible Points of Contact
+
+What procedures govern your tax administration’s background investigations for employees and contractors 
+who may have access to, use, or are responsible for protecting data received through exchange of information? 
+Is this information publicly available? If so, please provide the reference. If not, please provide a summary of the 
+procedures.
+
+2.1.2 Training and Awareness
+
+Primary Check-list Areas
+
+•  Initial training and periodic security awareness training based on roles, security risks, and 
+
+applicable laws
+
+What training does your tax administration provide to employees and contractors regarding confidential 
+information including data received from partners through the Exchange of Information? Does your tax 
+administration maintain a public version of the requirements? If so, please provide the reference. If not, please 
+provide a summary of the requirement. [/End
+
+2.1.3 Departure Policies
+
+Primary Check-list Areas
+
+•  Departure policies to terminate access to confidential information
+
+What procedures does your tax administration maintain for terminating access to confidential information for 
+departing employees and consultants? Are the procedures publicly available? If so, please provide the reference. 
+If not, please provide a summary of the procedures.
+
+2.2.1 Physical Security: Access to Premises
+
+Primary Check-list Areas
+
+•  Security measures to restrict entry to premises: security guards, policies, entry access 
+
+procedures
+
+What procedures does your tax administration maintain to grant employees, consultants, and visitors access to 
+premises where confidential information, paper or electronic, is stored? Are the procedures publicly available? If 
+so, please provide the reference. If not, please provide a summary of the procedures.
+
+2.2.2 Physical Security: Physical Document Storage
+
+Primary Check-list Areas
+
+•  Secure physical storage for confidential documents: policies and procedures
+
+What procedures does your tax administration maintain for receiving, processing, archiving, retrieving and 
+disposing of hard copies of confidential data received from taxpayers or exchange of information partners? Does 
+your tax administration maintain procedures employees must follow when leaving their workspace at the end of 
+the day? Are these procedures publicly available? If yes, please provide the reference. If not, please provide a 
+summary.
+
+Does your tax administration have a data classification policy? If so, please describe how your document storage 
+procedures differ for data at all classification levels. Are these procedures publicly available? If yes, please 
+provide the reference. If not, please provide a summary. [/End
+
+2.3 Planning
+
+Primary Check-list Areas
+
+•  Planning documentation to develop, update, and implement security information systems
+
+What procedures does your tax administration maintain to develop, document, update, and implement security 
+for information systems used to receive, process, archive and retrieve confidential information? Are these 
+procedures publicly available? If yes, please provide the reference. If not, please provide a summary.
+
+What procedures does your tax administration maintain regarding periodic Information Security Plan updates to 
+address changes to the information systems environment, and how are problems and risks identified during the 
+implementation of Information Security Plans resolved? Are these procedures publicly available? If yes, please 
+provide the reference. If not, please provide a summary.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ANNEx Iv TO ChAPTER v. COUNTRY-BY-COUNTRY REPORTING IMPLEMENTATION PACKAGE – 55
+
+2.4 Configuration Management
+
+Primary Check-list Areas
+
+•  Configuration management and security controls
+
+What policies does your tax administration maintain to regulate system configuration and updates? Are the 
+policies publicly available? If yes, please provide the reference. If not, please provide a summary. [/End question]
+
+2.5 Access Control
+
+Primary Check-list Areas
+
+•  Access Control Policies and procedures: authorized personnel and international exchange 
+
+of information
+
+What policies does your tax administration maintain to limit system access to authorized users and safeguard 
+data during transmission when received and stored? Please describe how your tax administr

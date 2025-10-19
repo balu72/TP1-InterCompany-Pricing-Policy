@@ -1,0 +1,83 @@
+ of Chapter VI of the Guidelines applies.
+
+31. 
+One way to implement the adjustment is to re-assess the price paid in 
+year 0. However, the significant revision of the lump-sum payment highlights 
+the risks posed by the high uncertainty in valuing the intangible and gives 
+rise  to  consideration,  in  light  of  this  significant  uncertainty,  of  whether 
+adjustments consistent with an alternative payment structure might be more 
+consistent with what unrelated parties would have done (see paragraph 16 of 
+this guidance and paragraph 6.183 of Chapter VI of the Guidelines).
+
+32. 
+Evidence of pricing arrangements for the transfer of intangibles in 
+comparable circumstances to address high valuation uncertainty may point 
+to appropriate alternatives to making the adjustment in year 0. For example, 
+assume  that  in  the  pharmaceutical  sector  it  is  common  to  transfer  patent 
+rights to independent parties through a combination of an initial lump sum 
+payment  and  additional  contingent  payment  arrangements  based  on  the 
+successful  completion  of  development  phases  or  regulatory  approvals  in  a 
+particular market. In this case, assume that the first market approvals were 
+obtained  in  year  3.  The  tax  administration  may,  therefore,  determine  that 
+it is consistent with arm’s length practices in comparable circumstances to 
+recover  the  underpayment  through  a  further  payment  in  year  3.  Note  that 
+this paragraph is not intended to, and does not, imply that modification of the 
+payment form can only occur when there is a common practice in the relevant 
+business sector regarding the form of payment for the transfer of a particular 
+type of intangible.
+
+The  principles  illustrated  by  this  example  apply  irrespective  of 
+33. 
+whether the tax administration in fact carries out an audit for years 0-2 and 
+then  a  second  audit  for  years  3-5,  or  whether  it  audits  only  for  years  3-5. 
+In both scenarios, a revision to the original valuation is justified based on 
+ex post evidence emerging in year 7, and, subject to any treaty or domestic 
+law  limitations,  the  undervaluation  may  be  recovered  based  on  the  HTVI 
+approach contained in Section D.4 of Chapter VI (see paragraph 6.192).
+
+3. Dispute prevention and resolution in relation to the HTVI approach
+
+34. 
+The  purpose  of  this  guidance  is  to  improve  consistency  in  the 
+application of the HTVI approach by jurisdictions, thus reducing the risk of 
+economic double taxation. In addition to this guidance, there may be other 
+tools at the disposal of taxpayers to avoid instances of double taxation and 
+enhance tax certainty in HTVI transactions.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+642 – ANNEX II TO CHAPTER VI: HARD-TO-VALUE INTANGIBLES
+
+35. 
+In  particular,  Chapter  IV  of  these  Guidelines  discusses  in  detail 
+advance  pricing  arrangements  (APAs),  which  if  concluded  bilaterally  or 
+multilaterally  between  treaty  partner  competent  authorities  provide  an 
+increased level of certainty in the jurisdictions involved, lessen the likelihood 
+of  double  taxation,  and  may  proactively  prevent  transfer  pricing  disputes. 
+Recognising the role of APAs in preventing double taxation and providing 
+certainty  to  taxpayers,  paragraph  6.193  of  these  Guidelines  prevents  the 
+application of the HTVI approach when the transfer of the HTVI is covered 
+by a bilateral or multilateral APA in effect for the period in questions between 
+the jurisdictions of the transferee and the transferor.
+
+In  this  regard,  the  Final  BEPS  Report  for  Action  14  “Making 
+36. 
+Dispute  Resolution  Mechanisms  More  Effective”  (BEPS  Report  on  Action 
+14)  recommends  as  a  best  practice  the  implementation  of  bilateral  APAs, 
+as  soon  as  a  jurisdiction  has  the  capacity  to  do  so  (Best  Practice  no.  4). 
+Furthermore,  one  of  the  elements  of  the  BEPS  Report  on  Action  14  is  that 
+jurisdictions with bilateral APA programmes provide for the rollback of APAs 
+in appropriate cases, subject to the applicable time limits where the relevant 
+facts and circumstances in the earlier tax years are the same and subject to the 
+verification of these facts and circumstances on audit.
+
+37. 
+In  the  event  that  the  application  of  the  approach  to  HTVI  leads  to 
+double  taxation,  the  guidance  in  paragraph  6.195  states  that  it  would  be 
+important  to  permit  resolution  of  such  cases  through  access  to  the  mutual 
+agreement procedure under the applicable treaty. Accordingly, this guidance 
+should be read in conjunction with Article 25 and its Commentary and the 
+commitment  made  in  the  Final  BEPS  Report  on  Action  14.  That  Report 
+describes the minimum standard on dispute resolution to which the members 
+of  the  Inclusive  Framework  on  BEPS  have  committed,  which  consists  of 
+specific  measures  to  remove  obstacles  to  an  effective  and  

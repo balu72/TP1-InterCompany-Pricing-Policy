@@ -1,0 +1,83 @@
+entify and evaluate the risks 
+involved and to consider methods of monitoring and managing these risks. 
+That credit assessment will include understanding the business itself as well 
+as the purpose of the loan, how it is to be structured and the source of its 
+repayment which may include analysis of the borrower’s cash flow forecasts 
+and the strength of the borrower’s balance sheet.
+
+10.55.  When an enterprise is making a loan to an associated enterprise, it 
+will not necessarily follow all of the same processes as an independent lender. 
+For example, it may not need to go through the same process of information 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+414 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+gathering  about  the  borrower’s  business,  as  the  required  information  may 
+already be readily available within the MNE group. However, in considering 
+whether the loan has been made on conditions which would have been made 
+between independent enterprises, the same commercial considerations such 
+as creditworthiness, credit risk and economic circumstances are relevant.
+
+In  the  case  of  a  loan  from  the  parent  entity  of  an  MNE  group  to  a 
+10.56. 
+subsidiary, the parent already has control and ownership of the subsidiary, which 
+would make the granting of security less relevant to its risk analysis as a lender. 
+Therefore, in evaluating the pricing of a loan between associated enterprises it 
+is important to consider that the absence of contractual rights over the assets 
+of the borrowing entity does not necessarily reflect the economic reality of the 
+risk inherent in the loan. If the assets of the business are not already pledged as 
+security elsewhere, it will be appropriate to consider under Chapter I analysis 
+whether those assets are available to act as collateral for the otherwise unsecured 
+loan and the consequential impact upon the pricing of the loan.
+
+10.57.  Credit risk for the lender is the potential that the borrower will fail 
+to  meet  its  payment  obligations  in  accordance  with  the  terms  of  the  loan. 
+In  deciding  whether  a  prospective  loan  is  a  good  commercial  opportunity, 
+a  lender  will  also  consider  the  potential  impact  of  changes  which  could 
+happen in economic conditions affecting the credit risk it bears, not only in 
+relation to the conditions of the borrower but in relation to potential changes 
+in economic conditions, such as a rise in interest rates, or the exposure of the 
+borrower to movements in exchange rates.
+
+10.58.  Borrowers  seek  to  optimise  their  weighted  average  cost  of  capital 
+and  to  have  the  right  funding  available  to  meet  both  short-term  needs  and 
+long-term objectives. When considering the options realistically available to 
+it, an independent business seeking funding operating in its own commercial 
+interests  will  seek  the  most  cost  effective  solution,  with  regard  to  the 
+business strategy it has adopted. For example in respect of collateral, in some 
+circumstances, assuming that the business has suitable collateral to offer, this 
+would usually be secured funding, ahead of unsecured funding, recognising 
+that  a  business’s  collateral  assets  and  its  funding  requirements  may  differ 
+over time, e.g. because collateral is finite, the decision to pledge collateral 
+on a particular borrowing precludes the borrower from pledging that same 
+collateral on a subsequent borrowing. Therefore, an MNE pledging collateral 
+would take into account its options realistically available regarding its overall 
+financing (e.g. possible subsequent loan transactions).
+
+10.59.  Borrowers  will  also  consider  the  potential  impact  of  changes  in 
+economic conditions such as interest rates and exchange rates, as well as the 
+risk of not being able to make timely payments of interest and principal on 
+the loan if the borrower’s business encounters unexpected difficulties, and the 
+risk of not being able to raise more capital (either debt or equity) if necessary.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 415
+
+10.60.  Macroeconomic circumstances may lead to changes in the financing 
+costs in the market. In such a context, a transfer pricing analysis with regard 
+to the possibilities of the borrower or the lender to renegotiate the terms of 
+the  loan  to  benefit  from  better  conditions  will  be  informed  by  the  options 
+realistically available to both the borrower and the lender.
+
+10.61.  The  economic  conditions  of  loans  should  also  be  viewed  in  the 
+context of regulations that may affect the position of the parties. For example, 
+insolvency law in the jurisdiction of the borrower may provide that liabilities 
+towards  associated  enterprises  are  subordinated  to  liabilities  towards 
+unrelated parties.
+
+C.1.1.2. Use of credit ratings
+
+10.62.  The creditworthiness of the borrower is one of the main factors that 
+independent  investors  take  

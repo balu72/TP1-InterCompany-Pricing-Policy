@@ -1,0 +1,73 @@
+ exist legally as an independent Group in Y0, Group E is not required to 
+file a CbC report for Y1. Some other jurisdictions may consider that the sub-group of entities (which 
+upon sale become an independent Group E) already existed from an economic point of view before the 
+sale,  as  part  of  Group  S  and  should,  therefore,  be  required  to  file  the  CbC  report  for  Y1  if  the  total 
+consolidated revenues for the sub-group of entities in Y0 is equal to or greater than 750 million Euro. 
+Where Group E complies with the approach adopted by the jurisdiction of its UPE on this specific aspect, 
+the Constituent Entities of Group E should not be exposed to local filing in any other jurisdiction. 
+
+1.3 In a case where Group S is not an Excluded MNE in Y1 based on its total consolidated group revenue 
+for Y0, should Group S include only a pro rata share of the sub-group’s financial data in its CbC report 
+for Y1?  
+
+The determination as to the period for which the financial data of the sub-group should be included in 
+the CbC reports of Group  S (e.g. pro rata share  or full year) should be governed by the accounting 
+principles/standards applicable to Group S (as determined in accordance with the guidance to identify 
+the accounting principles/standards for determining the existence and membership of a group). Thus, 
+if  the  accounting  principles/standards  applicable  to  Group  S  require  its  Consolidated  Financial 
+Statements  to  incorporate  a  pro  rata  share  of  the  financial  data  of  the  sub-group  (i.e.  Group  E 
+subsequently), Group S’s CbC report should also include a pro rata share of the financial data of the 
+sub-group (Group E). 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+ 
+ 
+  | 47 
+
+Fact Pattern #2 
+
+In Y1, Group B acquires 100% of Group E. Both Group B and Group E qualify as an Excluded MNE Group for 
+purposes of Y1 as the total consolidated group revenue of each during the preceding Fiscal Year (Y0) is less than 
+750 million Euros.   
+
+1.4 If the combined total consolidated group revenues of Group B and Group E during Y0 are equal to or 
+greater than 750 million Euros, does this change the position of Group B as an Excluded MNE Group for 
+purposes of its CbC report filing obligation for Y1? 
+
+No,  Group  B  will  continue  to  be  an  Excluded  MNE  Group  for  Y1  purposes.  For  the  year  in  which  a 
+merger/acquisition/demerger  occurs,  i.e.  Y1,  the  determination  of  whether  the  Group  is  or  not  an 
+Excluded MNE Group shall be based on the Group's total consolidated group revenue during the Fiscal 
+Year immediately preceding (i.e. Y0) the Reporting Fiscal Year as reflected in its Consolidated Financial 
+Statements for such preceding Fiscal Year. There is no need to adjust the consolidated group revenue 
+for the preceding Fiscal Year due to a merger/acquisition/demerger occurring during the following year. 
+
+Fact Pattern #3 
+
+On 30 June of Y1, Group B acquires 100% of Group E. Neither Group B nor Group E qualify as an Excluded 
+MNE Group for purposes of Y1, as the total consolidated group revenue of each during the preceding Fiscal 
+Year (Y0) is equal to or greater than 750 million Euros.   
+
+1.5 Should Group E file a CbC report for the period from 1 January Y1 to 30 June Y1? 
+
+The determination as to whether Group E should file a CbC report for the period from 1 January Y1 to 
+30 June Y1 will depend on whether Group E is required to prepare Consolidated Financial Statements. 
+If Group E is obligated to prepare Consolidated Financial Statements for the period from 1 January Y1 
+to  30  June  Y1  (or  if  the  deemed  listing  provision  applies)  under  the  financial  reporting  rules  in  the 
+jurisdiction of the UPE's residence, Group E should also prepare and file a CbC report for the short 
+fiscal period before the acquisition.*  
+
+However, where the UPE of Group E is not obligated to prepare the Consolidated Financial Statements 
+for the period from 1 January Y1 to 30 June Y1 under financial reporting rules in the jurisdiction where 
+the UPE is a tax resident, Group E is not obligated to prepare and file a CbC report for the short fiscal 
+period  either.  In  these  circumstances,  Group  B  should  in  Table  3  of  its  CbC  Report  a)  indicate  that 
+Group B acquired Group E; and, b) include the following statement: "Group E did not file a CbC report 
+with  any  jurisdictions  for  the  short  accounting  period  before  the  acquisition."  Inclusive  Framework 
+members are encouraged to require taxpayers to provide the above information in Table 3 as soon as 
+possible, taking into account the specific domestic circumstances.  
+
+*In case where the UPE of Group E does not  exist after the acquisition, the entity or person (e.g. a 
+lawyer  or  agent)  responsible  under  the  applicable  rules  (e.g.  accounting,  regulatory,  or  any  other 
+relevant legal provisions) to file the Consolidate

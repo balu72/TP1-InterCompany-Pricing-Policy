@@ -1,0 +1,78 @@
+etermined by the actual 
+conduct of the parties in the context of the contractual terms, rather than by 
+aspects of written contractual terms which are not in practice applied. The 
+principle can be further illustrated by Example 7 in the Annex to Chapter VI, 
+where there is an inconsistency between the contractual assumption of risk 
+and the conduct of the parties as evidenced by the bearing of costs relating to 
+the downside outcome of that risk.
+
+1.90.  Under step 4(ii) it should be determined whether the party assuming 
+the  risk  under  the  contract,  taking  into  account  whether  the  contractual 
+terms  have  been  applied  in  the  conduct  of  the  parties  under  step  4(i), 
+controls the risk and has the financial capacity to assume the risk. If all the 
+circumstances set out in Example 1 remain the same except for the fact that 
+the contract between Company A and Company B allocates development risk 
+to Company B, and if there is no evidence from the conduct of the parties 
+under step 4(i) to suggest that the contractual allocation of risk is not being 
+followed, then Company B contractually assumes development risk but the 
+facts remain that Company B has no capability to evaluate the development 
+risk and does not make decisions about Company A’s activities. Company B 
+has no decision-making function which allows it to control the development 
+risk by taking decisions that affect the outcomes of that risk. Based on the 
+information  provided  in  Example  1,  the  development  risk  is  controlled  by 
+Company A. The determination that the party assuming a risk is not the party 
+controlling that risk means that further consideration is required under step 5.
+
+1.91. 
+If  the  circumstances  of  Example  2  remain  the  same  except  for  the 
+fact that, while the contract specifies that Company A assumes supply chain 
+risks, Company B is not reimbursed by Company A when there was a failure 
+to secure key components on time, the analysis under step 4(i) would show 
+that contractual assumption of risk has not been followed in practice in regard 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 63
+
+to that supply chain risk, such that Company B in fact assumes the downside 
+consequences of that risk. Based on the information provided in Example 2, 
+Company B does not have any control over the supply chain risk, whereas 
+Company  A  does  exercise  control.  Therefore,  the  party  assuming  risk  as 
+analysed under step 4(i), does not under step 4(ii) exercise control over that 
+risk, and further consideration is required under step 5.
+
+1.92. 
+In  the  circumstances  of  Example  3,  analysis  under  step  4(i)  shows 
+that  the  assumption  of  utilisation  risk  by  Company  A  is  consistent  with  its 
+contractual arrangements with Company C, but under step 4(ii) it is determined 
+that  Company  A  does  not  control  risks  that  it  assumes  associated  with  the 
+investment in and exploitation of the asset. Company A has no decision-making 
+function which allows it to control its risks by taking decisions that affect the 
+outcomes of the risks. Under step 4(ii) the party assuming risk does not control 
+that risk, and further consideration is required under step 5.
+
+In  some  cases,  the  analysis  under  step  3  may  indicate  that  there 
+1.93. 
+is  more  than  one  MNE  that  is  capable  of  exercising  control  over  a  risk. 
+However,  control  requires  both  capability  and  functional  performance  in 
+order  to  exercise  control  over  a  risk.  Therefore,  if  more  than  one  party  is 
+capable of exercising control, but the entity contractually assuming risk (as 
+analysed  under  step  4(i))  is  the  only  party  that  actually  exercises  control 
+through capability and functional performance, then the party contractually 
+assuming the risk also controls the risk.
+
+1.94.  Furthermore,  in  some  cases,  there  may  be  more  than  one  party  to 
+the transaction exercising control over a specific risk. Where the associated 
+enterprise  assuming  risk  (as  analysed  under  step  4(i))  controls  that  risk  in 
+accordance  with  the  requirements  set  out  in  paragraphs  1.65-1.66,  all  that 
+remains under step 4(ii) is to consider whether the enterprise has the financial 
+capacity to assume the risk. If so, the fact that other associated enterprises 
+also exercise control over the same risk does not affect the assumption of that 
+risk by the first-mentioned enterprise, and step 5 need not be considered.
+
+1.95.  Where two or more parties to the transaction assume a specific risk 
+(as analysed under step 4(i)), and in addition they together control the specific 
+risk  and  each  has  the  financial  capacity  to  assume  their  share  of  the  risk, 
+then that assumption of risk should be respected. Examples may include the 
+contractual assumption of development risk under a transaction in which the 
+enterprises agree jointly to be

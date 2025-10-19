@@ -1,0 +1,91 @@
+yer with difficulties 
+that it does not encounter in producing its own information. These difficulties 
+should  be  taken  into  account  in  developing  rules  and/or  procedures  on 
+documentation.
+
+A.4. Comparable uncontrolled transactions
+
+A.4.1. In general
+
+3.24.  A comparable uncontrolled transaction is a transaction between two 
+independent  parties  that  is  comparable  to  the  controlled  transaction  under 
+examination. It can be either a comparable transaction between one party to 
+the controlled transaction and an independent party (“internal comparable”) 
+or between two independent enterprises, neither of which is a party to the 
+controlled transaction (“external comparable”).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER III: COMPARABILITy ANALySIS – 157
+
+3.25.  Comparisons  of  a  taxpayer’s  controlled  transactions  with  other 
+controlled  transactions  carried  out  by  the  same  or  another  MNE  group  are 
+irrelevant to the application of the arm’s length principle and therefore should 
+not be used by a tax administration as the basis for a transfer pricing adjustment 
+or by a taxpayer to support its transfer pricing policy.
+
+3.26.  The presence of minority shareholders may be one factor leading to 
+the  outcomes  of  a  taxpayer’s  controlled  transactions  being  closer  to  arm’s 
+length, but it is not determinative in and of itself. The influence of minority 
+shareholders depends on a number of factors, including whether the minority 
+shareholder  has  a  participation  in  the  capital  of  the  parent  company  or  in 
+the capital of a subsidiary, and whether it has and actually exercises some 
+influence on the pricing of intra-group transactions.
+
+A.4.2. Internal comparables
+
+3.27. 
+Step 4 of the typical process described in paragraph 3.4 is a review of 
+existing internal comparables, if any. Internal comparables may have a more 
+direct and closer relationship to the transaction under review than external 
+comparables.  The  financial  analysis  may  be  easier  and  more  reliable  as  it 
+will presumably rely on identical accounting standards and practices for the 
+internal  comparable  and  for  the  controlled  transaction.  In  addition,  access 
+to information on internal comparables may be both more complete and less 
+costly.
+
+3.28.  On the other hand, internal comparables are not always more reliable 
+and  it  is  not  the  case  that  any  transaction  between  a  taxpayer  and  an 
+independent  party  can  be  regarded  as  a  reliable  comparable  for  controlled 
+transactions  carried  on  by  the  same  taxpayer.  Internal  comparables  where 
+they  exist  must  satisfy  the  five  comparability  factors  in  the  same  way  as 
+external comparables, see paragraphs 1.33-1.138. Guidance on comparability 
+adjustments  also  applies  to  internal  comparables,  see  paragraphs  3.47-3.54. 
+Assume for instance that a taxpayer manufactures a particular product, sells 
+a significant volume thereof to its foreign associated retailer and a marginal 
+volume  of  the  same  product  to  an  independent  party.  In  such  a  case,  the 
+difference in volumes is likely to materially affect the comparability of the two 
+transactions. If it is not possible to make a reasonably accurate adjustment to 
+eliminate the effects of such difference, the transaction between the taxpayer 
+and its independent customer is unlikely to be a reliable comparable.
+
+A.4.3. External comparables and sources of information
+
+3.29.  There are various sources of information that can be used to identify 
+potential external comparables. This sub-section discusses particular issues 
+that  arise  with  respect  to  commercial  databases,  foreign  comparables  and 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+158 – CHAPTER III: COMPARABILITy ANALySIS
+
+information undisclosed to taxpayers. Additionally, whenever reliable internal 
+comparables  exist,  it  may  be  unnecessary  to  search  for  external  ones,  see 
+paragraphs 3.27-3.28.
+
+A.4.3.1. Databases
+
+3.30.  A  common  source  of  information  is  commercial  databases,  which 
+have  been  developed  by  editors  who  compile  accounts  filed  by  companies 
+with  the  relevant  administrative  bodies  and  present  them  in  an  electronic 
+format suitable for searches and statistical analysis. They can be a practical 
+and sometimes cost-effective way of identifying external comparables and 
+may provide the most reliable source of information, depending on the facts 
+and circumstances of the case.
+
+3.31.  A  number  of  limitations  to  commercial  databases  are  frequently 
+identified.  Because  these  commercial  databases  rely  on  publicly  available 
+information, they are not available in all jurisdictions, since not all jurisdictions 
+have  the  same  amount  of  publicly  available  information  about  their 
+companies. Moreover, where they are available, they do not include the same 
+type of information for all the companies 

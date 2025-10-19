@@ -1,0 +1,89 @@
+o  that  of  its  other  options  realistically  available,  and  a  price 
+that would yield Company S a positive return to its investments and risks, 
+considering the manner in which the transaction itself would be taxed.
+
+The  facts  of  this  example  and  the  foregoing  analysis  are  obviously 
+111. 
+greatly oversimplified by comparison to the analysis that would be required 
+in  an  actual  transaction.  The  analysis  nevertheless  reflects  the  importance 
+of  considering  all  of  the  relevant  facts  and  circumstances  in  performing  a 
+discounted cash flow analysis, evaluating the perspectives of each of the parties 
+in  such  an  analysis,  and  taking  into  consideration  the  options  realistically 
+available to each of the parties in performing the transfer pricing analysis.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER VI: HARD-TO-VALUE INTANGIBLES – 633
+
+Annex II to Chapter VI 
+
+Guidance for tax administrations on the application of 
+the approach to hard-to-value intangibles
+
+1. Introduction
+
+1. 
+Action  8  of  the  BEPS  Action  Plan  mandated  the  development  of 
+transfer  pricing  rules  or  special  measures  for  transfers  of  hard-to-value 
+intangibles aimed at preventing base erosion and profit shifting by moving 
+intangibles among group members.
+
+2. 
+The  outcome  of  this  work  is  found  in  Section  D.4  of  the  Revised 
+Chapter  VI  of  the  Transfer  Pricing  Guidelines,  contained  in  the  2015  Final 
+Report  for  Actions  8-10,  “Aligning  Transfer  Pricing  Outcomes  with  Value 
+Creation”  (BEPS  TP  Report)  and  now  formally  adopted  as  part  of  the 
+Guidelines. Section D.4 addresses the treatment of hard-to-value intangibles 
+(HTVI)  for  transfer  pricing  purposes.  That  Section  contains  an  “approach 
+consistent with the arm’s length principle that tax administrations can adopt to 
+ensure that tax administrations can determine in which situations the pricing 
+arrangements  as  set  by  the  taxpayers  are  at  arm’s  length  and  are  based  on 
+an appropriate weighting of the foreseeable developments or events that are 
+relevant for the valuation of certain hard-to-value intangibles, and in which 
+situations this is not the case” (paragraph 6.188). The HTVI approach protects 
+tax  administrations  from  the  negative  effects  of  information  asymmetry 
+by  ensuring  that  tax  administrations  can  consider  ex  post  outcomes  as 
+presumptive  evidence  about  the  appropriateness  of  the  ex-ante  pricing 
+arrangements. Under the approach, the taxpayer has the possibility to rebut 
+such presumptive evidence by demonstrating the reliability of the information 
+supporting  the  pricing  methodology  adopted  at  the  time  the  controlled 
+transaction  took  place.  There  are  a  number  of  additional  exemptions  that, 
+where the conditions governing those exemptions are met, render the approach 
+inapplicable.  Importantly,  where  the  approach  applies,  a  tax  administration 
+is entitled to use, in evaluating the ex ante pricing arrangements, the ex post 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+634 – ANNEX II TO CHAPTER VI: HARD-TO-VALUE INTANGIBLES
+
+evidence about financial outcomes to inform the determination of the arm’s 
+length pricing arrangements that would have been made between independent 
+enterprises  at  the  time  of  the  transaction  (see  paragraph  6.192).  However, 
+the  ex  post  evidence  should  not  be  used  without  considering  whether  the 
+information on which the ex post results are based could or should reasonably 
+have been considered by the associated enterprises at the time the transaction 
+was entered into (see paragraph 6.188).
+
+3. 
+The  BEPS  TP  Report  mandates  the  development  of  guidance  for 
+tax  administrations  on  the  implementation  of  the  approach  to  HTVI.  This 
+guidance is aimed at reaching a common understanding and practice among 
+tax administrations on how to apply adjustments resulting from the application 
+of  the  approach  to  HTVI.  This  guidance  should  improve  consistency  and 
+reduce the risk of economic double taxation.
+
+4. 
+The  BEPS  TP  Report  also  states  that  the  practical  application  of 
+the exemptions listed in paragraph 6.193 of the BEPS TP Report, including 
+the  measurement  of  materiality  and  time  periods  contained  in  the  current 
+exemptions, will be reviewed by 2020 in the light of further experience.
+
+Tackling information asymmetry between the extensive information 
+5. 
+available to the taxpayer and the absence of information available to the tax 
+administration,  other  than  what  the  taxpayer  may  present,  is  at  the  heart  of 
+the reason for HTVI guidance in Section D.4 of Chapter VI of the Guidelines. 
+When a HTVI is transferred, each of the parties involved in the transaction are 
+likely to prepare a valuation at the time of the transaction using assumptions 
+based  on  its  specialised  knowledge, 

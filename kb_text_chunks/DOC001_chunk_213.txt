@@ -1,0 +1,76 @@
+or the application of the arm’s length principle 
+to the restructuring itself and to the post-restructuring transactions.
+
+9.20.  The  framework  and  detailed  guidance  for  analysing  risk  laid  out 
+in Section D.1.2.1 of Chapter I is applicable for purposes of undertaking an 
+analysis of risks in the context of business restructurings, and in particular 
+for determining which party assumes a specific risk by reference to control 
+and  financial  capacity.  It  is  crucial  to  apply  this  framework  to  determine 
+which party assumes specific risks before the restructuring and which party 
+assumes  specific  risks  following  the  restructuring.  For  example,  where  a 
+restructuring purports to transfer inventory risk, it is relevant to examine not 
+only the contractual terms, but also the conduct of the parties under Step 3 
+in  the  framework  (e.g.  where  any  inventory  write-downs  are  taken  before 
+and  after  the  restructuring,  whether  there  is  any  indemnification  for  those 
+inventory write-downs, which party or parties perform risk control functions 
+and  have  the  financial  capacity  to  assume  the  risks).  The  results  of  this 
+analysis may establish that before the restructuring one party assumed the 
+inventory risk and that same party continues to do so after the restructuring 
+notwithstanding  a  change  in  contractual  terms.  In  that  situation,  the  risk 
+would continue to be allocated to that same party. References in this Chapter 
+to  “transfer  of  risk”,  “relocation  of  risk,  “shifting  of  risk”  or  “laying  off 
+of  risk”  should  be  read  in  the  context  of  the  guidance  in  Section  D.1  of 
+Chapter  I.  In  particular,  the  transferee  of  the  risk  is  considered  to  assume 
+the risk when the conditions set out in the framework for analysing risk in 
+controlled transactions (Section D.1.2.1 of Chapter I) are met.
+
+9.21.  A  second  example  relates  to  the  purported  transfer  of  credit  risk 
+as  part  of  a  business  restructuring.  The  analysis  under  Section  D.1.2.1  of 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 365
+
+Chapter I would take into account the contractual terms before and after the 
+restructuring, but would also examine how the parties operate in relation to 
+the risk before and after the restructuring. The analysis would then examine 
+whether  the  party  that  contractually  assumes  the  risk  controls  the  risk  in 
+practice  through  relevant  capability  and  decision-making  as  defined  in 
+paragraph 1.65 and has the financial capacity to assume such risk as defined in 
+paragraph 1.64. It is important to note that a party that before the restructuring 
+did not assume a risk under the analysis of Section D.1.2.1 of Chapter I cannot 
+transfer it to another party, and a party that after the restructuring does not 
+assume a risk under the analysis of Section D.1.2.1 of Chapter I should not be 
+allocated the profit potential associated with that risk.
+
+• 
+
+•  For  example,  suppose  that  before  a  business  restructuring,  a  full-
+fledged  distributor  contractually  assumes  bad  debt  risks,  which  is 
+reflected  in  the  balance  sheet  at  year  end.  However,  the  analysis 
+described  above  establishes  that  before  the  business  restructuring, 
+decisions about the extension of credit terms to customers and debt 
+recovery  were  taken  by  an  associated  enterprise  and  not  by  the 
+distributor,  and  the  associated  enterprise  reimbursed  the  costs  of 
+irrecoverable debts. It is also determined that the associated enterprise 
+is the only entity that controlled the risk and had the financial capacity 
+to assume the bad debt risk, leading to the conclusion that, before the 
+business restructuring, the risk was not assumed by the distributor. In 
+such a case there is no bad debt risk for the distributor to transfer as 
+part of the business restructuring.
+In  other  circumstances  it  may  be  found  that  before  the  business 
+restructuring  the  distributor  controlled  the  bad  debt  risk  and  had 
+the  financial  capacity  to  assume  the  risk  it  contractually  assumed, 
+but mitigated its risk through indemnification arrangements or debt 
+factoring arrangements with an associated enterprise in exchange for 
+appropriate compensation. Following the business restructuring, the 
+bad debt risk is contractually assumed by that associated enterprise 
+which,  as  determined  under  the  analysis  described  above,  now 
+controls the risk and has the financial capacity to assume the risk. 
+The risk has, therefore been transferred but the impact on the profits 
+of  the  distributor  going  forward  compared  with  the  past  resulting 
+from the transfer of this risk alone may be limited, because before the 
+restructuring steps had been taken and costs incurred to mitigate the 
+risk outcomes of the distributor.
+9.22. 
+In  any  analysis  of  risks  in  contro

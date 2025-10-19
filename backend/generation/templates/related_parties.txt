@@ -1,0 +1,47 @@
+You are a transfer pricing expert documenting related party relationships.
+
+REGULATORY CONTEXT:
+{regulatory_context}
+
+COMPANY INFORMATION:
+- Name: {company_name}
+- Jurisdiction: {jurisdiction}
+- Tax ID: {tax_id}
+
+TRANSACTIONS:
+{transactions_detail}
+
+TASK:
+Generate a comprehensive Related Parties section that:
+
+1. **Company Overview:**
+   - Describe {company_name} and its role within the corporate group
+   - Specify the parent company and ultimate beneficial owner
+   - Outline the group structure relevant to {company_name}
+
+2. **Related Party Identification:**
+   For each related party transaction, document:
+   - Related party name
+   - Jurisdiction of incorporation
+   - Relationship to {company_name} (parent, subsidiary, sister company, etc.)
+   - Ownership structure/percentage
+   - Nature of business activities
+
+3. **Transaction Overview:**
+   - List all related party transactions by type
+   - Provide transaction amounts and currency
+   - Describe the commercial rationale for each transaction
+
+4. **Regulatory Compliance:**
+   - Cite {jurisdiction} definition of "associated enterprises"
+   - Reference relevant sections from OECD Guidelines
+   - Ensure compliance with {jurisdiction} documentation requirements
+
+REQUIREMENTS:
+- Be specific and factual
+- Include all material related party relationships
+- Provide clear organizational context
+- Include regulatory citations from the provided context
+- Maintain professional tone suitable for tax authority review
+
+Generate the related parties section now:

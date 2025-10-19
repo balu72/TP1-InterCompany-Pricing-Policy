@@ -1,0 +1,74 @@
+s, or are willing to pay the same under more beneficial conditions. 
+Independent enterprises will generally take into account any economically 
+relevant differences between the options realistically available to them (such 
+as  differences  in  the  level  of  risk)  when  valuing  those  options.  Therefore, 
+identifying  the  economically  relevant  characteristics  of  the  transaction 
+is  essential  in  accurately  delineating  the  controlled  transaction  and  in 
+revealing the range of characteristics taken into account by the parties to the 
+transaction in reaching the conclusion that there is no clearly more attractive 
+opportunity realistically available to meet their commercial objectives than 
+the transaction adopted. In making such an assessment, it may be necessary 
+or useful to assess the transaction in the context of a broader arrangement of 
+transactions, since assessment of the options realistically available to third 
+parties is not necessarily limited to the single transaction, but may take into 
+account a broader arrangement of economically related transactions.
+
+1.39.  The  second  phase  in  which  economically  relevant  characteristics 
+or comparability factors are used in a transfer pricing analysis relates to the 
+process set out in Chapter III of making comparisons between the controlled 
+transactions  and  uncontrolled  transactions  in  order  to  determine  an  arm’s 
+length  price  for  the  controlled  transaction.  To  make  such  comparisons, 
+taxpayers and tax administrations need first to have identified the economically 
+relevant characteristics of the controlled transaction. As set out in Chapter III, 
+differences in economically relevant characteristics between the controlled and 
+uncontrolled  arrangements  need  to  be  taken  into  account  when  establishing 
+whether there is comparability between the situations being compared and what 
+adjustments may be necessary to achieve comparability.
+
+1.40.  All  methods  that  apply  the  arm’s  length  principle  can  be  tied  to 
+the  concept  that  independent  enterprises  consider  the  options  realistically 
+available to them and in comparing one option to another they consider any 
+differences between the options that would significantly affect their value. 
+For  instance,  before  purchasing  a  product  at  a  given  price,  independent 
+enterprises normally would be expected to consider whether they could buy 
+an  equivalent  product  on  otherwise  comparable  terms  and  conditions  but 
+at a lower price from another party. Therefore, as discussed in Chapter II, 
+Part  II,  the  comparable  uncontrolled  price  method  compares  a  controlled 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+42 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+transaction to similar uncontrolled transactions to provide a direct estimate 
+of the price the parties would have agreed to had they resorted directly to 
+a  market  alternative  to  the  controlled  transaction.  However,  the  method 
+becomes a less reliable substitute for arm’s length transactions if not all the 
+characteristics of these uncontrolled transactions that significantly affect the 
+price  charged  between  independent  enterprises  are  comparable.  Similarly, 
+the  resale  price  and  cost  plus  methods  compare  the  gross  profit  margin 
+earned in the controlled transaction to gross profit margins earned in similar 
+uncontrolled transactions. The comparison provides an estimate of the gross 
+profit margin one of the parties could have earned had it performed the same 
+functions for independent enterprises and therefore provides an estimate of 
+the  payment  that  party  would  have  demanded,  and  the  other  party  would 
+have  been  willing  to  pay,  at  arm’s  length  for  performing  those  functions. 
+Other methods, as discussed in Chapter II, Part III, are based on comparisons 
+of  net  profit  indicators  (such  as  profit  margins)  between  independent  and 
+associated  enterprises  as  a  means  to  estimate  the  profits  that  one  or  each 
+of  the  associated  enterprises  could  have  earned  had  they  dealt  solely  with 
+independent  enterprises,  and  therefore  the  payment  those  enterprises 
+would  have  demanded  at  arm’s  length  to  compensate  them  for  using  their 
+resources in the controlled transaction. Where there are differences between 
+the situations being compared that could materially affect the comparison, 
+comparability  adjustments  must  be  made,  where  possible,  to  improve  the 
+reliability of the comparison. Therefore, in no event can unadjusted industry 
+average returns themselves establish arm’s length prices.
+
+1.41. 
+For a discussion of the relevance of these factors for the application 
+of  particular  pricing  methods,  see  the  consideration  of  those  methods  in 
+Chapter II.
+
+D.1.1. The contractual terms of the transaction
+
+1.42.  A  transaction  is  the  consequence  or  expression  of  the  comme

@@ -1,0 +1,83 @@
+ Before  broadening  the  search  to 
+include a larger number of potentially comparable uncontrolled transactions 
+based  on  similar  functions  being  undertaken,  thought  should  be  given  to 
+whether  such  transactions  are  likely  to  offer  reliable  comparables  for  the 
+controlled transaction.
+
+D.1.4. Economic circumstances
+
+1.130.  Arm’s  length  prices  may  vary  across  different  markets  even  for 
+transactions  involving  the  same  property  or  services;  therefore,  to  achieve 
+comparability  requires  that  the  markets  in  which  the  independent  and 
+associated  enterprises  operate  do  not  have  differences  that  have  a  material 
+effect on price or that appropriate adjustments can be made. As a first step, 
+it  is  essential  to  identify  the  relevant  market  or  markets  taking  account  of 
+available substitute goods or services. Economic circumstances that may be 
+relevant to determining market comparability include the geographic location; 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+72 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+the  size  of  the  markets;  the  extent  of  competition  in  the  markets  and  the 
+relative competitive positions of the buyers and sellers; the availability (risk 
+thereof)  of  substitute  goods  and  services;  the  levels  of  supply  and  demand 
+in  the  market  as  a  whole  and  in  particular  regions,  if  relevant;  consumer 
+purchasing  power;  the  nature  and  extent  of  government  regulation  of  the 
+market; costs of production, including the costs of land, labour, and capital; 
+transport  costs;  the  level  of  the  market  (e.g.  retail  or  wholesale);  the  date 
+and  time  of  transactions;  and  so  forth.  The  facts  and  circumstances  of  the 
+particular case will determine whether differences in economic circumstances 
+have a material effect on price and whether reasonably accurate adjustments 
+can  be  made  to  eliminate  the  effects  of  such  differences.  More  detailed 
+guidance on the importance in a comparability analysis of the features of local 
+markets, especially local market features that give rise to location savings, is 
+provided in Section D.6 of this chapter.
+
+1.131.  The existence of a cycle (e.g. economic, business, or product cycle) is 
+one of the economic circumstances that should be identified. See paragraph 3.77 
+in relation to the use of multiple year data where there are cycles.
+
+1.132.  The geographic market is another economic circumstance that should 
+be identified. The identification of the relevant market is a factual question. 
+For a number of industries, large regional markets encompassing more than 
+one jurisdiction may prove to be reasonably homogeneous, while for others, 
+differences among domestic markets (or even within domestic markets) are 
+very significant.
+
+1.133. 
+In  cases  where  similar  controlled  transactions  are  carried  out  by  an 
+MNE group in several jurisdictions and where the economic circumstances in 
+these jurisdictions are in effect reasonably homogeneous, it may be appropriate 
+for this MNE group to rely on a comparability analysis that covers multiple 
+jurisdictions  to  support  its  transfer  pricing  policy  towards  this  group  of 
+jurisdictions.  But  there  are  also  numerous  situations  where  an  MNE  group 
+offers significantly different ranges of products or services in each jurisdiction, 
+and/or performs significantly different functions in each of these jurisdictions 
+(using significantly different assets and assuming significantly different risks), 
+and/or where its business strategies and/or economic circumstances are found 
+to be significantly different. In these latter situations, the recourse to a multiple-
+jurisdictional approach may reduce reliability.
+
+D.1.5. Business strategies
+
+1.134.  Business  strategies  must  also  be  examined  in  delineating  the 
+transaction and in determining comparability for transfer pricing purposes. 
+Business strategies would take into account many aspects of an enterprise, 
+such as innovation and new product development, degree of diversification, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 73
+
+risk aversion, assessment of political changes, input of existing and planned 
+labour  laws,  duration  of  arrangements,  and  other  factors  bearing  upon  the 
+daily conduct of business. Such business strategies may need to be taken into 
+account when determining the comparability of controlled and uncontrolled 
+transactions and enterprises.
+1.135.  Business strategies also could include market penetration schemes. A 
+taxpayer seeking to penetrate a market or to increase its market share might 
+temporarily charge a price for its product that is lower than the price charged 
+for  otherwise  comparable  products  in  the  same  market.  Furthermore,  a 
+taxpayer seeking to enter a new market or expand (or defend) its market share 
+might temporarily inc

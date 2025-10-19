@@ -1,0 +1,87 @@
+length principle. Such compensation is referred to in this chapter as a “buy-
+out payment”.
+
+8.47.  The  guidance  in  Chapters  I-III  and  Chapter  VI  is  fully  applicable 
+to determining the arm’s length amount of any buy-in, buy-out or balancing 
+payments  required.  There  may  be  instances  where  no  such  payments  are 
+required under the arm’s length principle. For example, a CCA for the sharing 
+of administrative services would generally only produce benefits to participants 
+on a current basis, rather than any valuable on-going results.
+
+8.48.  Buy-in and buy-out payments should be treated for tax purposes in 
+the same manner as would apply under the general rules of the tax system(s) 
+(including  conventions  for  the  avoidance  of  double  taxation)  applicable  to 
+the  respective  participants  as  if  the  payment  were  made  outside  a  CCA  as 
+consideration for the acquisition or disposal of the interest in the results of 
+the prior CCA activity.
+
+8.49.  When a CCA terminates, the arm’s length principle requires that each 
+participant retains an interest in the results, if any, of the CCA activity consistent 
+with their proportionate share of contributions to the CCA throughout its term 
+(adjusted by any balancing payments actually made, including those made as a 
+result of the termination), or is appropriately compensated for any transfer of that 
+interest to other participants.
+
+E. Recommendations for structuring and documenting CCAs
+
+8.50.  Generally, a CCA between controlled parties should meet the following 
+conditions:
+
+a)  The  participants  would  include  only  enterprises  expected  to 
+derive mutual and proportionate benefits from the CCA activity 
+itself (and not just from performing part or all of that activity). 
+See paragraph 8.14.
+
+b)  The  arrangement  would  specify  the  nature  and  extent  of  each 
+participant’s interest in the results of the CCA activity, as well its 
+expected respective share of benefits.
+
+c)  No  payment  other  than  the  CCA  contributions,  appropriate 
+balancing  payments  and  buy-in  payments  would  be  made  for 
+the particular interest or rights in intangibles, tangible assets or 
+services obtained through the CCA.
+
+d)  The  value  of  participants’  contributions  would  be  determined 
+in  accordance  with  these  Guidelines  and,  where  necessary, 
+balancing payments should be made to ensure the proportionate 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+354 – CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS
+
+shares  of  contributions  align  with  the  proportionate  shares  of 
+expected benefits from the arrangement.
+
+e)  The arrangement may specify provision for balancing payments 
+and/or  changes  in  the  allocation  of  contributions  prospectively 
+after a reasonable period of time to reflect material changes in 
+proportionate shares of expected benefits among the participants.
+
+f)  Adjustments  would  be  made  as  necessary  (including  the 
+possibility  of  buy-in  and  buy-out  payments)  upon  the  entrance 
+or withdrawal of a participant and upon termination of the CCA.
+
+8.51.  The  transfer  pricing  documentation  standard  set  out  in  Chapter  V 
+requires reporting under the master file of important service arrangements 
+and  important  agreements  related  to  intangibles,  including  CCAs.  The 
+local  file  requires  transactional  information  including  a  description  of  the 
+transactions,  the  amounts  of  payments  and  receipts,  identification  of  the 
+associated enterprises involved, copies of material intercompany agreements, 
+and  pricing  information  including  a  description  of  reasons  for  concluding 
+that  the  transactions  were  priced  on  an  arm’s  length  basis.  It  would  be 
+expected  that  in  order  to  comply  with  these  documentation  requirements, 
+the participants in a CCA will prepare or obtain materials about the nature 
+of the subject activity, the terms of the arrangement, and its consistency with 
+the  arm’s  length  principle.  Implicit  in  this  is  that  each  participant  should 
+have  full  access  to  the  details  of  the  activities  to  be  conducted  under  the 
+CCA, the identity and location of the other parties involved in the CCA, the 
+projections on which the contributions are to be made and expected benefits 
+determined, and budgeted and actual expenditures for the CCA activity, at 
+a level of detail commensurate with the complexity and importance of the 
+CCA to the taxpayer. All this information could be relevant and useful to tax 
+administrations in the context of a CCA and, if not included in the master 
+file  or  local  file,  tax payers  should  be  prepared  to  provide  it  upon  request. 
+The information relevant to any particular CCA will depend on the facts and 
+circumstances. It should be emphasised that the information described in this 
+list is neither a minimum compliance standard nor an exhaustive list of the 
+information that a tax admi

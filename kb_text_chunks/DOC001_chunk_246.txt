@@ -1,0 +1,79 @@
+ctices  of  group  management  will  assist  in  informing  the 
+form and terms and conditions of the debt the MNE would have entered into 
+with an independent lender, including the pricing (i.e. interest rate paid), and 
+all economically relevant characteristics such as the type of loan, its term, 
+currency, security, covenants, business strategies, and so forth. Secondly, the 
+MNE may receive support from the group to meet its financial obligations 
+in the event of the borrower getting into financial difficulty. Paragraph 1.178 
+of  Chapter  I  of  these  Guidelines  is  relevant  to  analyse  the  effect  of  group 
+membership on the terms and conditions of a borrowing when the borrowing 
+MNE  obtains  an  incidental  benefit  arising  solely  by  virtue  of  group 
+affiliation, i.e. passive association.
+
+10.77. 
+In the context of intra-group loans, this incidental benefit that the MNE 
+is  assumed  to  receive  solely  by  virtue  of  group  affiliation,  is  referred  to  as 
+implicit support. The effect of potential group support on the credit rating of an 
+entity and any effect on that entity’s ability to borrow or the interest rate paid on 
+those borrowings would not require any payment or comparability adjustment. 
+See Example 1 in paragraphs 1.184-1.186 of Chapter I and Section D.3.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 419
+
+10.78.  Implicit support from the group may affect the credit rating of the 
+borrower or the rating of any debt which it issues. The relative status of an 
+entity within the group may help determine what impact that potential group 
+support has on the credit rating of a debt issuer. Entities of an MNE group 
+will be more or less likely to receive group support according to the relative 
+importance  of  the  entity  to  the  MNE  group  as  a  whole  and  the  linkages 
+between the entity and the rest of the MNE group, either in its current form 
+or in terms of future strategy. An MNE group member with stronger links, 
+that  is  integral  to  the  group’s  identity  or  important  to  its  future  strategy, 
+typically operating in the group’s core business, would ordinarily be more 
+likely to be supported by other MNE group members and consequently have 
+a credit rating more closely linked to that of the MNE group. Conversely, it 
+may be reasonable to assume that an entity would be likely to receive support 
+from the rest of the MNE group in more limited circumstances where it does 
+not  show  those  same  indicators  or  the  linkages  are  weaker.  In  the  case  of 
+an entity where there is evidence that no support would be provided by the 
+MNE group, it may be appropriate on the prevailing facts and circumstances 
+to consider the entity on the basis of its own stand-alone credit rating only.
+
+10.79.  Another key consideration would be the likely consequences for other 
+parts of the MNE group of supporting or not supporting the borrower. The 
+criteria used to determine the status of an entity in this regard may include 
+such  considerations  as  legal  obligations  (e.g.  regulatory  requirements), 
+strategic importance, operational integration and significance, shared name, 
+potential reputational impacts, negative effects on the overall MNE group, 
+general statement of policy or intent, and any history of support and common 
+behaviour  of  the  MNE  group  with  respect  to  third  parties.  The  relative 
+relevance of those factors may vary from one industry to another.
+
+10.80.  The  impact  of  an  assessment  of  implicit  support  is  a  matter  of 
+judgement. The kind of information on which the MNE group would base 
+a decision of whether or not to provide support to a borrower in particular 
+circumstances may not be available to a tax administration, as is frequently 
+the case in transfer pricing examinations, and the existence of information 
+asymmetry  may  affect  the  ability  of  tax  administrations  to  establish  the 
+likelihood of support (see Section B.2 in Chapter IV). Furthermore, changing 
+facts  and  circumstances  affecting  the  willingness  or  ability  of  the  MNE 
+group  to  provide  support  may  mean  that  there  is  no  decision  by  the  MNE 
+group itself until the eventuality for such support arises. This contrasts, for 
+example, where the MNE receives a formal guarantee from another group 
+member. The past behaviour of an MNE group as regards providing support 
+may  be  a  useful  indicator  of  likely  future  behaviour  but  an  appropriate 
+analysis should be undertaken to identify whether different conditions apply.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+420 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+C.1.1.4. Use of MNE group credit rating
+
+It  is  also  important  to  note  that  although  there  are  established 
+10.81. 
+approaches to estimate a credit rating for a particular group member or debt 
+issuance,  the  considerations  detailed  above  mean  that  a  pricing  approach 
+based  

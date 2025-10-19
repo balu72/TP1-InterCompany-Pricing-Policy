@@ -1,0 +1,78 @@
+xisting arrangements, once it is found that such 
+compensation or indemnification would have taken place between independent 
+parties in comparable circumstances.
+
+In the context of business restructurings, profit potential should not be 
+9.41. 
+interpreted as simply the profits/losses that would occur if the pre-restructuring 
+arrangement were to continue indefinitely. On the one hand, if an entity has no 
+discernible rights or other assets at the time of the restructuring, then it has no 
+compensable profit potential. On the other hand, an entity with considerable 
+rights or other assets at the time of the restructuring may have considerable 
+profit potential, which must ultimately be appropriately remunerated in order 
+to justify the sacrifice of such profit potential.
+
+9.42. 
+In order to determine whether at arm’s length the restructuring itself 
+would give rise to a form of compensation, it is essential to understand the 
+restructuring,  including  the  changes  that  have  taken  place,  how  they  have 
+affected  the  functional  analysis  of  the  parties,  what  the  business  reasons 
+for  and  the  anticipated  benefits  from  the  restructuring  were,  and  what 
+options would have been realistically available to the parties, as discussed in 
+Section B.
+
+D.2. Reallocation of risks and profit potential
+
+9.43.  General guidance on the transfer pricing aspects of risks is found in 
+Section D.1.2.1 of Chapter I, and the reallocation of risk following a business 
+restructuring should be analysed under the framework set out in that Section in 
+order to determine whether the party allocated risk following the restructuring 
+controls the risk and has the financial capacity to assume the risk.
+
+9.44.  Take  the  example  of  a  conversion  of  a  full-fledged  manufacturer 
+into a contract manufacturer. In such a case, while a cost plus reward might 
+be  an  arm’s  length  remuneration  for  undertaking  the  post-restructuring 
+contract  manufacturing  operations,  a  different  question  is  whether  there 
+should  be  indemnification  at  arm’s  length  for  the  change  in  the  existing 
+arrangements which results in the surrender of the riskier profit potential by 
+the manufacturer, taking into account its rights, other assets and economically 
+relevant characteristics. Indemnification is discussed in Section F.
+
+9.45.  As  another  example,  assume  a  full-fledged  distributor  is  operating 
+under  a  long  term  contractual  arrangement  for  a  given  type  of  transaction. 
+Assume  that,  based  on  its  rights  under  the  long  term  contract  with  respect 
+to these transactions, it has the option realistically available to it to accept or 
+refuse being converted into a limited risk distributor operating for a foreign 
+associated  enterprise,  and  that  an  arm’s  length  remuneration  for  such  a  low 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 373
+
+risk  distribution  activity  is  estimated  to  be  a  stable  profit  of  +2%  per  year 
+while  the  excess  profit  potential  associated  with  the  risks  would  now  be 
+attributed  to  the  foreign  associated  enterprise.  Assume  for  the  purpose  of 
+this  example  that  the  restructuring  leads  to  the  renegotiation  of  the  existing 
+contractual  arrangements,  but  it  does  not  entail  the  transfer  of  assets  other 
+than  its  rights  under  the  long  term  contract.  From  the  perspective  of  the 
+distributor, the question arises as to whether the new arrangement (taking into 
+account both the remuneration for the post-restructuring transactions and any 
+compensation  for  the  restructuring  itself)  is  expected  to  make  it  as  well  off 
+as its realistic – albeit riskier – alternatives. If not, this would imply that the 
+post-restructuring arrangement is not priced at arm’s length and that additional 
+compensation would be needed to appropriately remunerate the distributor for 
+the restructuring, or that an assessment of the commercial rationality of the 
+transaction based on Section D.2 may be necessary. Furthermore, for transfer 
+pricing  purposes,  it  is  important  to  determine  whether  risks  contractually 
+transferred as part of the business restructuring, are assumed by the foreign 
+associated  enterprise  in  accordance  with  the  guidance  in  Section  D.1  of 
+Chapter I.
+
+9.46.  At arm’s length, the response is likely to depend on the rights and 
+other assets of the parties, on the profit potential of the distributor and of its 
+associated enterprise in relation to both business models (full-fledged and low 
+risk distributor) as well as the expected duration of the new arrangement. In 
+particular, in evaluating profit potential, it is necessary to evaluate whether 
+historic  profits  (determined  in  accordance  with  the  arm’s  length  principle) 
+are an indicator of future profit potential, or whether there have been changes 
+in the business environ

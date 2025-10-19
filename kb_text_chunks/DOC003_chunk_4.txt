@@ -1,0 +1,71 @@
+an effort to balance tax administration 
+information needs, concerns about inappropriate use of the information, and the compliance 
+costs and burdens imposed on business. Some countries would strike that balance in a different 
+way by requiring reporting in the Country-by-Country Report of additional transactional data 
+(beyond that available in the master file and local file for transactions of entities operating in 
+their jurisdictions) regarding related party interest payments, royalty payments and especially 
+related party service fees. Countries expressing this view are primarily those from emerging 
+markets (Argentina, Brazil, People’s Republic of China, Colombia, India, Mexico, South Africa, 
+and Turkey) who state they need such information to perform risk assessment and who find it 
+challenging to obtain information on the global operations of an MNE group headquartered 
+elsewhere. Other countries expressed support for the way in which the balance has been struck 
+in this document. Taking all these views into account, it is mandated that countries participating 
+in the BEPS project will carefully review the implementation of these new standards and will 
+reassess no later than the end of 2020 whether modifications to the content of these reports 
+should be made to require reporting of additional or different data.
+
+Consistent  and  effective  implementation  of  the  transfer  pricing  documentation 
+standards  and  in  particular  of  the  Country-by-Country  Report  is  essential.  Therefore, 
+countries participating in the OECD/G20 BEPS Project agreed on the core elements of the 
+implementation of transfer pricing documentation and Country-by-Country Reporting. This 
+agreement calls for the master file and the local file to be delivered by MNEs directly to 
+local tax administrations. Country-by-Country Reports should be filed in the jurisdiction 
+of  tax  residence  of  the  ultimate  parent  entity  and  shared  between  jurisdictions  through 
+automatic  exchange  of  information,  pursuant  to  government-to-government  mechanisms 
+such as the multilateral Convention on Mutual Administrative Assistance in Tax Matters, 
+bilateral  tax  treaties  or  tax  information  exchange  agreements  (TIEAs).  In  limited 
+circumstances, secondary mechanisms, including local filing can be used as a backup.
+
+These  new  Country-by-Country  Reporting  requirements  are  to  be  implemented  for 
+fiscal years beginning on or after 1 January 2016 and apply, subject to the 2020 review, to 
+MNEs with annual consolidated group revenue equal to or exceeding EUR 750 million. It 
+is acknowledged that some jurisdictions may need time to follow their particular domestic 
+legislative process in order to make necessary adjustments to the law.
+
+In order to facilitate the implementation of the new reporting standards, an implementation 
+package has been developed consisting of model legislation which could be used by countries 
+to  require  MNE  groups  to  file  the  Country-by-Country  Report  and  competent  authority 
+agreements that are to be used to facilitate implementation of the exchange of those reports 
+among tax administrations. As a next step, it is intended that an xML Schema and a related 
+User  Guide  will  be  developed  with  a  view  to  accommodating  the  electronic  exchange  of 
+Country-by-Country Reports.
+
+It is recognised that the need for more effective dispute resolution may increase as a 
+result of the enhanced risk assessment capability following the adoption and implementation 
+of  a  Country-by-Country  Reporting  requirement.  This  need  has  been  addressed  when 
+designing  government-to-government  mechanisms  to  be  used  to  facilitate  the  automatic 
+exchange of Country-by-Country Reports.
+
+Jurisdictions endeavour to introduce, as necessary, domestic legislation in a timely manner. 
+They are also encouraged to expand the coverage of their international agreements for exchange 
+of information. Mechanisms will be developed to monitor jurisdictions’ compliance with their 
+commitments and to monitor the effectiveness of the filing and dissemination mechanisms. The 
+outcomes of this monitoring will be taken into consideration in the 2020 review.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ ChAPTER v OF ThE TRANSFER PRICING GUIDELINES ON DOCUMENTATION – 11
+
+Chapter V of the Transfer Pricing Guidelines on Documentation
+
+The text of Chapter V of the Transfer Pricing Guidelines is deleted in its entirety and 
+replaced with the following language and annexes.
+
+A. Introduction
+
+1. 
+This  chapter  provides  guidance  for  tax  administrations  to  take  into  account  in 
+developing  rules  and/or  procedures  on  documentation  to  be  obtained  from  taxpayers  in 
+connection with a transfer pricing enquiry or risk assessment. It also provides guidance to 
+assist taxpayers in identifying documentation that would be most helpful in showing that 
+their trans

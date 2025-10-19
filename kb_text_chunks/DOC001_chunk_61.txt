@@ -1,0 +1,85 @@
+differences between the controlled and 
+uncontrolled transactions that have an effect on the size of the mark up must 
+be analysed to determine what adjustments should be made to the uncontrolled 
+transactions’ respective mark up.
+
+2.51.  For this purpose, it is particularly important to consider differences 
+in the level and types of expenses – operating expenses and non-operating 
+expenses  including  financing  expenditures  –  associated  with  functions 
+performed and risks assumed by the parties or transactions being compared. 
+Consideration of these differences may indicate the following:
+
+a)  If expenses reflect a functional difference (taking into account 
+assets  used  and  risks  assumed)  which  has  not  been  taken  into 
+account in applying the method, an adjustment to the cost plus 
+mark up may be required.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 109
+
+b)  If the expenses reflect additional functions that are distinct from 
+the  activities  tested  by  the  method,  separate  compensation  for 
+those functions may need to be determined. Such functions may 
+for  example  amount  to  the  provision  of  services  for  which  an 
+appropriate reward may be determined. Similarly, expenses that 
+are  the  result  of  capital  structures  reflecting  non-arm’s  length 
+arrangements may require separate adjustment.
+
+c)  If  differences  in  the  expenses  of  the  parties  being  compared 
+merely  reflect  efficiencies  or  inefficiencies  of  the  enterprises, 
+as  would  normally  be  the  case  for  supervisory,  general,  and 
+administrative expenses, then no adjustment to the gross margin 
+may be appropriate.
+
+In any of the above circumstances it may be appropriate to supplement 
+the  cost  plus  and  resale  price  methods  by  considering  the  results  obtained 
+from applying other methods (see paragraph 2.12).
+
+2.52.  Another important aspect of comparability is accounting consistency. 
+Where  the  accounting  practices  differ  in  the  controlled  transaction  and  the 
+uncontrolled transaction, appropriate adjustments should be made to the data 
+used  to  ensure  that  the  same  type  of  costs  are  used  in  each  case  to  ensure 
+consistency. The gross profit mark ups must be measured consistently between 
+the  associated  enterprise  and  the  independent  enterprise.  In  addition,  there 
+may be differences across enterprises in the treatment of costs that affect gross 
+profit mark ups that would need to be accounted for in order to achieve reliable 
+comparability. In some cases it may be necessary to take into account certain 
+operating expenses in order to achieve consistency and comparability; in these 
+circumstances the cost plus method starts to approach a net rather than gross 
+profit  analysis.  To  the  extent  that  the  analysis  takes  into  account  operating 
+expenses, its reliability may be adversely affected for the reasons set forth in 
+paragraphs 2.70-2.73. Thus, the safeguards described in paragraphs 2.74-2.81 
+may be relevant in assessing the reliability of such analyses.
+
+2.53.  While precise accounting standards and terms may vary, in general 
+the costs and expenses of an enterprise are understood to be divisible into 
+three broad categories. First, there are the direct costs of producing a product 
+or service, such as the cost of raw materials. Second, there are indirect costs 
+of  production,  which  although  closely  related  to  the  production  process 
+may  be  common  to  several  products  or  services  (e.g.  the  costs  of  a  repair 
+department  that  services  equipment  used  to  produce  different  products). 
+Finally, there are the operating expenses of the enterprise as a whole, such as 
+supervisory, general, and administrative expenses.
+
+2.54.  The  distinction  between  gross  and  net  profit  analyses  may  be 
+understood in the following terms. In general, the cost plus method will use 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+110 – CHAPTER II: TRANSFER PRICING METHODS
+
+mark  ups  computed  after  direct  and  indirect  costs  of  production,  while  a 
+net profit method will use profits computed after operating expenses of the 
+enterprise  as  well.  It  must  be  recognised  that  because  of  the  variations  in 
+practice among jurisdictions, it is difficult to draw any precise lines between 
+the  three  categories  described  above.  Thus,  for  example,  an  application  of 
+the  cost  plus  method  may  in  a  particular  case  include  the  consideration  of 
+some expenses that might be considered operating expenses, as discussed in 
+paragraph 2.52. Nevertheless, the problems in delineating with mathematical 
+precision the boundaries of the three categories described above do not alter 
+the basic practical distinction between the gross and net profit approaches.
+
+In principle historical costs should be attributed to individual units 
+2.55. 
+of production, although admittedly the

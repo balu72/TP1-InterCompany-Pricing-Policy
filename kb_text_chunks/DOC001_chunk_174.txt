@@ -1,0 +1,76 @@
+ such techniques can be volatile. Small changes in one or 
+another of the assumptions underlying the valuation model or in one or more 
+of  the  valuation  parameters  can  lead  to  large  differences  in  the  intangible 
+value the model produces. A small percentage change in the discount rate, a 
+small percentage change in the growth rates assumed in producing financial 
+projections, or a small change in the assumptions regarding the useful life 
+of the intangible can each have a profound effect on the ultimate valuation. 
+Moreover,  this  volatility  is  often  compounded  when  changes  are  made 
+simultaneously to two or more valuation assumptions or parameters.
+
+6.159.  The  reliability  of  the  intangible  value  produced  using  a  valuation 
+model is particularly sensitive to the reliability of the underlying assumptions 
+and estimates on which it is based and on the due diligence and judgment 
+exercised in confirming assumptions and in estimating valuation parameters.
+
+6.160.  Because  of  the  importance  of  the  underlying  assumptions  and 
+valuation  parameters,  taxpayers  and  tax  administrations  making  use  of 
+valuation  techniques  in  determining  arm’s  length  prices  for  transferred 
+intangibles should explicitly set out each of the relevant assumptions made in 
+
+as  those  determined  for  accounting  or  tax  purposes,  may  not  properly  reflect 
+the  timing  of  cash  flows  which  can  create  a  difference  in  outcome  between 
+an income and a cash flow based approach. However, in light of a number of 
+considerations, the use of income projections rather than cash flow projections 
+may, in some cases, yield a more reliable result in a transfer pricing context as 
+a  practical  matter.  Care  must  be  taken,  however,  to  assure  that  either  income 
+or  cash  flow  measures  are  applied  in  a  consistent  manner  and  in  appropriate 
+circumstances. References to cash flow in this document should therefore be read 
+broadly to include both cash flow and income measures, appropriately applied.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+296 – CHAPTER VI: INTANGIBLES
+
+creating the valuation model, should describe the basis for selecting valuation 
+parameters,  and  should  be  prepared  to  defend  the  reasonableness  of  such 
+assumptions  and  valuation  parameters.  Moreover,  it  is  a  good  practice  for 
+taxpayers relying on valuation techniques to present as part of their transfer 
+pricing documentation some sensitivity analysis reflecting the consequential 
+change in estimated intangible value produced by the model when alternative 
+assumptions and parameters are adopted.
+
+6.161. 
+It  may  be  relevant  in  assessing  the  reliability  of  a  valuation  model 
+to  consider  the  purposes  for  which  the  valuation  was  undertaken  and  to 
+examine  the  assumptions  and  valuation  parameters  in  different  valuations 
+undertaken by the taxpayer for non-tax purposes. It would be reasonable for 
+a tax administration to request an explanation for any inconsistencies in the 
+assumptions  made  in  a  valuation  of  an  intangible  undertaken  for  transfer 
+pricing purposes and valuations undertaken for other purposes. For example, 
+such requests would be appropriate if high discount rates are used in a transfer 
+pricing  analysis  when  the  company  routinely  uses  lower  discount  rates  in 
+evaluating  possible  mergers  and  acquisitions.  Such  requests  would  also  be 
+appropriate if it is asserted that particular intangibles have short useful lives 
+but the projections used in other business planning contexts demonstrate that 
+related intangibles produce cash flows in years beyond the “useful life” that 
+has been claimed for transfer pricing purposes. Valuations used by an MNE 
+group  in  making  operational  business  decisions  may  be  more  reliable  than 
+those prepared exclusively for purposes of a transfer pricing analysis.
+
+6.162.  The  following  sections  identify  some  of  the  specific  concerns  that 
+should  be  taken  into  account  in  evaluating  certain  important  assumptions 
+underlying  calculations  in  a  valuation  model  based  on  discounted  cash 
+flows.  These  concerns  are  important  in  evaluating  the  reliability  of  the 
+particular application of a valuation technique. Notwithstanding the various 
+concerns expressed above and outlined in detail in the following paragraphs, 
+depending on the circumstances, application of such a valuation technique, 
+either  as  part  of  one  of  the  five  OECD  transfer  pricing  methods  or  as  a 
+useful  tool,  may  prove  to  be  more  reliable  than  application  of  any  other 
+transfer pricing method, particularly where reliable comparable uncontrolled 
+transactions do not exist.
+
+D.2.6.4.1. Accuracy of financial projections
+
+6.163.  The reliability of a valuation of a transferred intangible using discounted 
+cash  flow  valuation  techniques  is  dependent  on  the 

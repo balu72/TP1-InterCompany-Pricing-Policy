@@ -1,0 +1,86 @@
+actions satisfy the arm’s length principle and hence in resolving transfer pricing 
+issues and facilitating tax examinations.
+
+2.  when  Chapter  v  of  these  Guidelines  was  adopted  in  1995,  tax  administrations 
+and taxpayers had less experience in creating and using transfer pricing documentation. 
+The previous language in Chapter v of the Guidelines put an emphasis on the need for 
+reasonableness in the documentation process from the perspective of both taxpayers and 
+tax  administrations,  as  well  as  on  the  desire  for  a  greater  level  of  cooperation  between 
+tax administrations and taxpayers in addressing documentation issues in order to avoid 
+excessive  documentation  compliance  burdens  while  at  the  same  time  providing  for 
+adequate information to apply the arm’s length principle reliably. The previous language 
+of Chapter v did not provide for a list of documents to be included in a transfer pricing 
+documentation package nor did it provide clear guidance with respect to the link between 
+the process for documenting transfer pricing, the administration of penalties and the burden 
+of proof.
+
+3. 
+Since  then,  many  countries  have  adopted  transfer  pricing  documentation  rules 
+and  the  proliferation  of  these  requirements,  combined  with  a  dramatic  increase  in  the 
+volume  and  complexity  of  international  intra-group  trade  and  the  heightened  scrutiny 
+of transfer pricing issues by tax administrations, has resulted in a significant increase in 
+compliance costs for taxpayers. Nevertheless tax administrations often find transfer pricing 
+documentation to be less than fully informative and not adequate for their tax enforcement 
+and risk assessment needs.
+
+4. 
+The following discussion identifies three objectives of transfer pricing documentation 
+rules.  The  discussion  also  provides  guidance  for  the  development  of  such  rules  so  that 
+transfer pricing compliance is more straightforward and more consistent among countries, 
+while  at  the  same  time  providing  tax  administrations  with  more  focused  and  useful 
+information  for  transfer  pricing  risk  assessments  and  audits.  An  important  overarching 
+consideration  in  developing  such  rules  is  to  balance  the  usefulness  of  the  data  to  tax 
+administrations for transfer pricing risk assessment and other purposes with any increased 
+compliance burdens placed on taxpayers. In this respect it is noted that clear and widely 
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+12 –  ChAPTER v OF ThE TRANSFER PRICING GUIDELINES ON DOCUMENTATION
+
+adopted documentation rules can reduce compliance costs which could otherwise arise in 
+a transfer pricing dispute.
+
+B. Objectives of transfer pricing documentation requirements
+
+5. 
+
+Three objectives of transfer pricing documentation are:
+
+1. 
+
+to  ensure  that  taxpayers  give  appropriate  consideration  to  transfer  pricing 
+requirements in establishing prices and other conditions for transactions between 
+associated enterprises and in reporting the income derived from such transactions 
+in their tax returns;
+
+2.  to  provide  tax  administrations  with  the  information  necessary  to  conduct  an 
+
+informed transfer pricing risk assessment; and
+
+3. 
+
+to  provide  tax  administrations  with  useful  information  to  employ  in  conducting 
+an appropriately thorough audit of the transfer pricing practices of entities subject 
+to  tax  in  their  jurisdiction,  although  it  may  be  necessary  to  supplement  the 
+documentation with additional information as the audit progresses.
+
+6. 
+Each  of  these  objectives  should  be  considered  in  designing  appropriate  domestic 
+transfer pricing documentation requirements. It is important that taxpayers be required to 
+carefully evaluate, at or before the time of filing a tax return, their own compliance with 
+the applicable transfer pricing rules. It is also important that tax administrations be able to 
+access the information they need to conduct a transfer pricing risk assessment to make an 
+informed decision about whether to perform an audit. In addition, it is important that tax 
+administrations be able to access or demand, on a timely basis, all additional information 
+necessary to conduct a comprehensive audit once the decision to conduct such an audit is 
+made.
+
+B.1. Taxpayer’s assessment of its compliance with the arm’s length principle
+
+7. 
+By  requiring  taxpayers  to  articulate  convincing,  consistent  and  cogent  transfer 
+pricing  positions,  transfer  pricing  documentation  can  help  to  ensure  that  a  culture  of 
+compliance is created. well-prepared documentation will give tax administrations some 
+assurance  that  the  taxpayer  has  analysed  the  positions  it  reports  on  tax  returns,  has 
+considered  the  available  comparable  data,  and  has  reached  consistent  transfer  pricing 
+positions. Moreover, contemporaneous documentation

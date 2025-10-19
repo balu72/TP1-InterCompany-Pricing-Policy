@@ -1,0 +1,200 @@
+('#ctl00_ctl25_TopNavigation_lnkHome').attr('class', 'homeActive');
+        //}
+
+
+        //if (linkFound == true) {
+        //    $('#homeli').removeAttr('class').attr('class', 'homeInactive');
+        //     $('#ctl00_ctl25_TopNavigation_lnkHome').removeAttr('class');
+        //    $('#ctl00_ctl25_TopNavigation_lnkHome').attr('class', 'homeInactive');
+        // }
+        // else {
+        //     $('#homeli').removeAttr('class').attr('class', 'homeActive');
+        //     $('#ctl00_ctl25_TopNavigation_lnkHome').removeAttr('class');
+        //     $('#ctl00_ctl25_TopNavigation_lnkHome').attr('class', 'homeActive');
+        // }
+
+    });
+
+ 
+
+ 
+     Toggle navigation         
+    Click to ASK  
+   
+     
+       
+         
+               Home    
+           
+              About Us  
+             
+               
+                 
+                    
+                  
+                  History of Direct Taxation 
+                  
+                     
+                  
+                    
+                  Who We Are
+                     
+                    
+                   Departmental Directory [AHB 2025]
+                    
+                    
+                   Designations and Payscales
+                      
+                    
+                   Right to Information
+                     
+                    
+                   Organizations and Functions
+                    
+                 
+               
+             
+           
+
+            
+                   
+              
+         Taxpayers' Charter
+            
+             
+               
+                 
+                    
+                  Taxpayers' Charter
+                     
+
+                       
+                  Taxpayers' Charter Reports
+                     
+                 
+                 
+               
+             
+           
+          
+          
+          
+           
+              
+          Tax Laws & Rules
+            
+             
+               
+                 
+                    
+                  Acts
+                  
+                     
+                          
+                      Income-tax Act
+                        
+                                                  
+                             Section wise content
+                        
+                        
+                          
+                       Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act
+                        
+                          
+                       Prohibition of Benami Property Transactions Act, 1988
+                         
+                          
+                      All Acts
+                         
+                     
+                   
+                    
+                  Rules
+                    
+                     
+                          
+                      Income-tax Rules
+                         
+                          
+                      Black Money(Undisclosed Foreign Income and Assets) and Imposition of Tax Rules, 2015
+                         
+                          
+                      Other Direct Tax Rules
+                          
+                     
+                   
+                 
+                 
+                       
+                  Circulars & Notifications
+                         
+                  
+                     
+                         
+                   Circulars
+                     
+                    
+                   Notifications
+                     
+                     
+                   
+
+                    
+                  Budget and Bills
+                  
+                     
+                                                   
+                      Income-tax Bill, 2025
+                           !New  
+                          
+                            
+                      Finance Acts
+                          
+                          
+                      Finance Bills
+                          
+                         
+                         
+                             
+                      View All
+                          
+                     
+                   
+
+                        
+                  Forms/Downloads
+                          
+                  
+                     
+                         
+                   Income-tax Returns
+                           
+                     
+                    
+                   Income-tax Forms
+                      
+                     
+                             
+                      View All
+                          
+                     
+                   
+                 
+                 
+               
+             
+           
+          
+           
+            
+          
+            
+          Tax Information and Services        
+          
+           
+             
+                
+                 
+                 
+                   
+                     

@@ -1,0 +1,74 @@
+cal year ending 
+on 31 December 2016. The date by which the CbC report is to be exchanged would be similarly extended. 
+This transitional relief would not frustrate the policy intention of the Action 13 minimum standard. 
+
+3.2 When the preceding fiscal year of an Ultimate Parent Entity was shorter than 12 
+months, how should it be determined whether the Group is or is not an Excluded MNE 
+Group?  
+
+For purposes of applying the 750 million Euro threshold in Article 1.3 of the Model Legislation when the 
+preceding fiscal year of an UPE is shorter than 12 months, the jurisdiction of the UPE may choose to adopt 
+one of a number of different approaches, including the following:  
+
+1.  Use the actual total consolidated group revenue obtained by the Group for the short accounting 
+
+period; 
+
+2.  Adjust  the  total  consolidated  group  revenue  for  the  short  accounting  period  to  reflect  the 
+
+consolidated group revenue that would correspond to a 12 month accounting period; or 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+  | 25 
+
+3.  Calculate the pro rata share of the 750 million Euro threshold that would correspond to the short 
+
+accounting period. 
+
+This flexibility given to jurisdictions may lead to cases where divergent views are reached on whether the 
+Group meets the 750 million Euro threshold in Article 1.3 of the Model Legislation. This may happen when 
+the jurisdiction where the UPE is a resident for tax purposes adopts the approach described in option 1, 
+while one  or more jurisdictions where the Constituents Entities  are resident  for  tax purposes adopt the 
+approaches described in options 2 or 3. In those cases, when the jurisdiction where the UPE or SPE is 
+resident for tax purposes applies option 1, the jurisdiction of UPE or SPE’s residence is encouraged (but 
+not  required)  to  allow  the  UPE  or  SPE  to  file  a  CbC  report  on  a  voluntary  basis  (as  there  is  no  legal 
+obligation to do so) and exchange it under exchange of information mechanisms in order to avoid one or 
+more Constituent Entities being subject to local filing in those jurisdictions that apply options 2 or 3 and 
+where Constituent Entities of the MNE Group are resident for tax purposes. 
+
+3.3 Can a reporting fiscal year be for a period of other than 12 months?  
+
+Paragraph 51 of the BEPS Action 13 report recommends that all MNE Groups be required to file a CbC 
+report  each  year.  Paragraph  50  recommends  that  this  should  first  be  required  for  MNE  fiscal  years 
+beginning on or after 1 January 2016 and confirms that an “MNE fiscal year” refers to the MNE Group’s 
+consolidated financial reporting period for financial statement purposes. The model legislation in the CbC 
+reporting implementation package defines “Fiscal Year” as “an annual accounting period with respect to 
+which the UPE of the MNE Group prepares its financial statements”.   
+
+These references to a fiscal year and an annual accounting period have led to some jurisdictions and MNE 
+Groups forming a view that a CbC report cannot be required where an MNE Group prepares consolidated 
+financial statements for a period other than 12 months. This view is not intended and is inconsistent with 
+existing guidance, which specifically contemplates that a CbC report can be required for a fiscal year of 
+less than 12 months.1 
+
+In the majority of cases, the UPE of an MNE Group will prepare consolidated financial statements for a 
+period of 12 months. However, there may be cases where consolidated financial statements are prepared 
+for a period that is shorter than 12 months or longer than 12 months, for example the first accounting period 
+of a newly incorporated entity or upon a change in the financial reporting date of the entity. In these cases, 
+subject to the exemption described in paragraph 52 of the BEPS Action 13 report, a CbC report should be 
+prepared by the MNE Group for the period covered by the consolidated financial statements prepared by 
+the UPE. 
+
+3.4 Where a CbC report is prepared by a Reporting MNE with a reporting fiscal year 
+which is longer or shorter than 12 months, what information should be included in Table 
+1 and Table 2? 
+
+The BEPS Action 13 report at page 32 includes general instructions on the period covered by an MNE 
+group’s annual CbC report. These provide that, in general, the CbC report template should cover the fiscal 
+year of the Reporting MNE. For Constituent Entities, at the discretion of the Reporting MNE, the template 
+should  reflect  on  a  consistent  basis  either  (i)  information  for  the  fiscal  year  of  the  relevant  Constituent 
+Entities ending on the same date as the fiscal year of the Reporting MNE or ending within the 12-month 
+period preceding such date, or (ii) information for all the relevant Constituent Entities reported for the fiscal 
+year  of  the  Reporting  MNE.  Where  the  Reporting  MNE  chooses  to  apply  approach  (i),  some  

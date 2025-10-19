@@ -1,0 +1,77 @@
+n-making required in relation to its continued 
+contributions to the CCA to key operational developments that may impact 
+the specific risks it assumes under the CCA. A development CCA in which 
+benefits are uncertain and distant is likely to give rise to greater risks than 
+does a services CCA in which benefits are current.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+344 – CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS
+
+8.17.  As described in the previous paragraphs, it is not necessary for the 
+CCA  participants  to  perform  all  of  the  CCA  activities  through  their  own 
+personnel. In some cases, the participants in a CCA may decide to outsource 
+certain functions related to the subject activity to a separate entity that is not 
+a participant under the standard of paragraph 8.14 above. In such situations, 
+the  participants  to  the  CCA  should  individually  meet  the  requirements  on 
+exercising control over the specific risks they assume under the CCA. Such 
+requirements  include  exercising  control  over  the  outsourced  functions  by 
+at  least  one  of  the  participants  to  the  CCA.  In  circumstances  in  which  the 
+objective of the CCA is to develop an intangible, at least one of the participants 
+to  the  CCA  should  also  exercise  control  over  the  important  development, 
+enhancement,  maintenance,  protection  and  exploitation  functions  that  are 
+outsourced.  When  the  contribution  of  a  participant  to  the  CCA  consists  of 
+activities  other  than  controlling  the  outsourced  functions,  the  guidance  in 
+paragraph 8.15 is relevant for assessing whether this party has the functional 
+capability to exercise control over the specific risks it assumes under the CCA, 
+in particular if these risks are closely linked to the outsourced functions.
+
+8.18. 
+In  cases  where  CCA  activities  are  outsourced,  an  arm’s  length 
+charge  would  be  appropriate  to  compensate  the  entity  for  services  or  other 
+contributions being rendered to the CCA participants. Where the entity is an 
+associated enterprise of one or more of the CCA participants, the arm’s length 
+charge  would  be  determined  under  the  general  principles  of  Chapters  I-III, 
+including inter alia consideration of functions performed, assets used, and risks 
+assumed, as well as the special considerations affecting an arm’s length charge 
+for services and/or in relation to any intangibles, as described in Chapter VII 
+and Chapter VI (including the guidance on hard-to-value intangibles).
+
+C.3. Expected benefits from the CCA
+
+8.19.  The relative shares of expected benefits might be estimated based on 
+the anticipated additional income generated or costs saved or other benefits 
+received by each participant as a result of the arrangement. An approach that 
+is frequently used in practice, most typically for services CCAs, would be 
+to  reflect  the  participants’  proportionate  shares  of  expected  benefits  using 
+a relevant allocation key. The possibilities for allocation keys include sales 
+(turnover), profits, units used, produced, or sold; number of employees, and 
+so forth.
+
+8.20.  To  the  extent  that  a  material  part  or  all  of  the  benefits  of  a  CCA 
+activity are expected to be realised in the future and not solely in the year 
+the costs are incurred, most typically for development CCAs, the allocation 
+of  contributions  will  take  account  of  projections  about  the  participants’ 
+shares of those benefits. The use of projections may raise problems for tax 
+administrations in verifying the assumptions based on which projections have 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS – 345
+
+been made and in dealing with cases where the projections vary markedly 
+from the actual results. These problems may be exacerbated where the CCA 
+activity ends several years before the expected benefits actually materialise. 
+It may be appropriate, particularly where benefits are expected to be realised 
+in the future, for a CCA to provide for possible adjustments of proportionate 
+shares of contributions over the term of the CCA on a prospective basis to 
+reflect  changes  in  relevant  circumstances  resulting  in  changes  in  relative 
+shares  of  benefits.  In  situations  where  the  actual  shares  of  benefits  differ 
+markedly from projections, tax administrations might be prompted to enquire 
+whether  the  projections  made  would  have  been  considered  acceptable  by 
+independent  enterprises  in  comparable  circumstances,  taking  into  account 
+all  the  developments  that  were  reasonably  foreseeable  by  the  participants, 
+without  using  hindsight.  When  the  expected  benefits  of  a  CCA  consist  of 
+a right in an intangible that is hard to value at the start of the development 
+project  or  if  pre-existing  intangibles  that  are  hard  to  value  are  part  of 
+the  contributions  to  the  CCA  project,  the  guidance 

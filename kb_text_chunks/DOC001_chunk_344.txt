@@ -1,0 +1,93 @@
+e of such research, and 
+to pay for Company A’s services based on the cost plus margins earned by 
+CROs like those with which Company A regularly transacts.
+
+61. 
+The  transfer  pricing  analysis  of  these  facts  begins  by  recognising 
+that, following the transfer, Company S is the legal owner of the Product M 
+intangibles under relevant contracts and registrations. However, Company A 
+continues  to  perform  and  control  functions  and  to  manage  risks  related  to 
+the  intangibles  owned  by  Company  S,  including  the  important  functions 
+described  in  paragraph  6.56,  and  is  entitled  to  compensation  for  those 
+contributions.  Under  these  circumstances,  Company  A’s  transactions  with 
+CRO’s  are  not  comparable  to  the  arrangements  between  Company  S  and 
+Company A related to Product M and may not be used as a benchmark for 
+the arm’s length compensation required to be provided to Company A for its 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+620 – ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES
+
+ongoing R&D activity with respect to the Product M intangibles. Company S 
+does not perform or control the same functions or control the same risks in 
+its transactions with Company A, as does Company A in its transactions with 
+the CROs.
+
+62.  While Company S is the legal owner of the intangibles, it should not 
+be entitled to all of the returns derived from the exploitation of the intangibles. 
+Because  Company  S  lacks  the  capability  to  control  research  related  risks, 
+Company A should be treated as bearing a substantial portion of the relevant 
+risk and Company A should also be compensated for its functions, including 
+the important functions described in paragraph 6.56. Company A should be 
+entitled to larger returns than the CROs under these circumstances.
+
+63. 
+A  thorough  examination  of  the  transaction  in  this  example  may 
+show that it should accurately be delineated as the provision of financing by 
+Company S equating to the costs of the acquired intangibles and the ongoing 
+development. As a result, Company S is entitled to only a financing return. 
+The level of the financing return depends on the exercising of control over the 
+financing risk in accordance with the guidance in Section D.1 of Chapter I 
+and the principles outlined in paragraphs 6.63 and 6.64. Company A would 
+be entitled to retain the remaining income or losses.
+
+Example 18
+
+Primarni  is  organised  in  and  conducts  business  in  Country  A. 
+64. 
+Company S is an associated enterprise of Primarni. Company S is organised 
+in and does business in Country B. Primarni develops a patented invention 
+and manufacturing know-how related to Product X. It obtains valid patents 
+in all countries relevant to this example. Primarni and Company S enter into 
+a written licence agreement pursuant to which Primarni grants Company S 
+the right to use the Product X patents and know-how to manufacture and sell 
+Product X in Country B, while Primarni retains the patent and know-how 
+rights to Product X throughout Asia, Africa, and in Country A.
+
+65. 
+Assume Company S uses the patents and know-how to manufacture 
+Product X in Country B. It sells Product X to both independent and associated 
+customers  in  Country  B.  Additionally,  it  sells  Product  X  to  associated 
+distribution entities based throughout Asia and Africa. The distribution entities 
+resell the units of Product X to customers throughout Asia and Africa. Primarni 
+does not exercise its retained patent rights for Asia and Africa to prevent the 
+sale of Product X by Company S to the distribution entities operating in Asia 
+and Africa.
+
+66. 
+Under these circumstances, the conduct of the parties suggests that 
+the  transaction  between  Primarni  and  Company  S  is  actually  a  licence  of 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES – 621
+
+the Product X patents and know-how for Country B, plus Asia and Africa. 
+In  a  transfer  pricing  analysis  of  the  transactions  between  Company  S  and 
+Primarni, Company S’s licence should be treated as extending to Asia and 
+Africa, and should not be limited to Country B, based on the conduct of the 
+parties. The royalty rate should be recalculated to take into account the total 
+projected sales by Company S in all territories including those to the Asian 
+and African entities.
+
+Example 19
+
+Company  P,  a  resident  of  Country  A  conducts  a  retailing  business, 
+67. 
+operating several department stores in Country A. Over the years, Company P 
+has  developed  special  know-how  and  a  unique  marketing  concept  for  the 
+operation of its department stores. It is assumed that the know-how and unique 
+marketing concept constitute intangibles within the meaning of Section A of 
+Chapter  VI.  After  years  of  successfully  conducting  business  in  Country  A, 
+Company P establishes a new subsidiary, Company S, in Country B. Company S 
+opens  and

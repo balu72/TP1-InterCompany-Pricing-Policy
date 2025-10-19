@@ -1,0 +1,101 @@
+ten  a  division  of  a 
+large insurance broker). Typically this management would include ensuring 
+compliance with local law, issuing policy documents, collecting premiums, 
+paying  claims,  preparing  reports  and  providing  local  directors.  If  the 
+captive  insurance  is  managed  from  within  the  MNE  group  it  is  necessary 
+to determine which entity manages it (if such management is not exercised 
+by  employees  of  the  captive  insurance)  and  to  appropriately  reward  that 
+management.
+
+10.199.  A frequent concern when considering the transfer pricing of captive 
+insurance transactions is whether the transaction concerned is genuinely one 
+of insurance, i.e. whether a risk exists and, if so, whether it is allocated to 
+the captive insurance in light of the facts and circumstances. The following 
+are indicators, all or substantially all of which would be found if the captive 
+insurance was found to undertake a genuine insurance business:
+
+• 
+
+• 
+
+there is diversification and pooling of risk in the captive insurance;
+
+the economic capital position of the entities within the MNE group 
+has improved as a result of diversification and there is therefore a real 
+economic impact for the MNE group as a whole;
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+444 – CHAPTER X: FINANCIAL TRANSACTIONS
+
+• 
+
+• 
+
+• 
+
+both  the  captive  insurance  and  any  reinsurer  are  regulated  entities 
+with broadly similar regulatory regimes and regulators that require 
+evidence of risk assumption and appropriate capital levels;
+
+the insured risk would otherwise be insurable outside the MNE group;
+
+the  captive  insurance  has  the  requisite  skills,  including  investment 
+skills, and experience at its disposal (see paragraph 10.213);
+
+• 
+
+the captive insurance has a real possibility of suffering losses.
+
+10.200. In order to consider the transfer pricing implications of a transaction 
+with a captive insurance, it is first necessary to identify the commercial or 
+financial relations between the associated enterprises and the conditions and 
+economically  relevant  circumstances  attaching  to  those  relations  in  order 
+that the actual transaction is accurately delineated. The initial question will 
+therefore be whether the transaction under consideration is one of insurance, 
+as  defined  above.  This  analysis  requires  consideration  of  whether  the  risk 
+has been assumed by the insurer and whether risk diversification has been 
+achieved.
+
+E.2.1. Assumption of risk and risk diversification
+
+10.201.  Insurance requires the assumption of insurance risk by the insurer. 
+In the event of a claim, the insured does not suffer the financial impact of a 
+potential economic loss to the extent that insurance risk has been assumed by 
+the insurer, because the loss is offset by the insurance payment.
+
+10.202.  From  the  captive  insurance’s  perspective,  the  fact  that  the  captive 
+insurance  is  exposed  to  the  downside  outcome  of  the  insured  risk  and  to  the 
+possibility of significant loss could be an indicator that the insurance risk has 
+been  assumed  by  the  captive  insurance.  In  addition,  the  assumption  of  the 
+insurance risk can only take place if the captive insurance has a realistic prospect 
+of  being  able  to  satisfy  claims  in  the  event  of  the  risk  materialising,  i.e.  the 
+captive insurance needs to have access to funding to bear the consequences of 
+the playing out of the insured risk. Determining whether the captive insurance 
+has the financial capacity to assume the risk requires consideration of the capital 
+readily available to the captive and its options realistically available. In particular, 
+when the captive insurance invests the premiums into the insured entities within 
+the MNE group, the relation between the captive insurance’s capacity to satisfy 
+the claims and the financial positions of those other MNEs would be central to 
+Chapter I analysis.
+
+10.203.  Insurance  also  requires  risk  diversification.  Risk  diversification  is 
+the pooling of a portfolio of risks by which the insurer achieves an efficient 
+use of capital. Large commercial insurers rely on having sufficiently large 
+numbers of policies with similar probabilities of loss to allow statistical laws 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER X: FINANCIAL TRANSACTIONS – 445
+
+of averages to apply and permit accuracy of modelling of the likelihood of 
+claims.  The  insurer  also  maintains  a  portfolio  of  risks  for  which  it  has  a 
+capital reserve based on regulatory needs and rating agency requirements.
+
+10.204. Risk diversification is at the core of insurance business. Combining 
+non-correlated risk and varied geographical exposures lead to an efficient use 
+of capital, allowing the insurer to have a lower level of capital than that the 
+insured parties would have been required to maintain to face the consequences 
+of risk materialisation.
+
+10.205.  A captive insurance may a

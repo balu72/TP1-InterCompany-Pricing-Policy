@@ -1,0 +1,82 @@
+ on data extracted from the balance sheets of the parties to the 
+transaction. It will often be the case that not all the assets of the taxpayers 
+relate to the transaction at hand and that accordingly some analytical work 
+is  needed  for  the  taxpayer  to  draw  up  a  “transactional”  balance  sheet  that 
+will  be  used  for  the  application  of  the  transactional  profit  split  method. 
+In  addition,  certain  assets,  such  as  self-developed  intangibles,  may  not  be 
+reflected  on  the  balance  sheet  at  all,  and  accordingly  must  be  separately 
+evaluated. In this regard, valuation techniques, such as those based on the 
+discounted value of projected future income streams or cash flows derived 
+from  the  exploitation  of  the  intangible  may  be  useful.  See  Section  D.2.6.3 
+of Chapter VI of these guidelines. See also paragraph 2.104 for a discussion 
+of valuation of assets in the context of the transactional net margin method 
+where  the  net  profit  is  weighted  to  assets,  which  is  also  relevant  to  the 
+valuation of assets in the context of a transactional profit split where an asset-
+based profit splitting factor is used.
+
+2.176.  Similarly, where cost-based profit splitting factors are used that are 
+based on data extracted from the taxpayers’ profit and loss accounts, it may 
+be necessary to draw up transactional accounts that identify those expenses 
+that are related to the controlled transaction at hand and those that should be 
+excluded  from  the  determination  of  the  profit  splitting  factor.  The  type  of 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 145
+
+expenditure that is taken into account (e.g. salaries, depreciation, etc.) as well 
+as the criteria used to determine whether a given expense is related to the 
+transaction at hand or is rather related to other transactions of the taxpayer 
+(e.g. to other lines of products not subject to this profit split determination) 
+should be applied consistently to all the parties to the transaction.
+
+2.177. 
+Internal  data  may  also  be  helpful  where  the  profit  splitting  factor 
+is  based  on  a  cost  accounting  system,  e.g.  employee  costs  related  to  some 
+aspects of the transaction, or time spent by a certain group of employees on 
+certain tasks, etc.
+
+2.178.  Internal  data  are  essential  to  assess  the  values  of  the  respective 
+contributions of the parties to the controlled transaction. The determination 
+of  such  values  should  rely  on  a  functional  analysis  that  takes  into  account 
+all  the  economically  significant  functions,  assets  and  risks  contributed  by 
+the  parties  to  the  controlled  transaction.  In  those  cases  where  the  profit 
+is  split  on  the  basis  of  an  evaluation  of  the  relative  importance  of  the 
+functions, assets and risks to the value added to the controlled transaction, 
+such  evaluation  should  be  supported  by  reliable  objective  data  in  order  to 
+limit arbitrariness. Particular attention should be given to the identification 
+of  the  relevant  contributions  of  unique  and  valuable  intangibles  and  the 
+assumption of economically significant risks and the importance, relevance 
+and measurement of the factors which gave rise to these.
+
+C.5.3. Examples of profit splitting factors
+
+C.5.3.1. Asset-based profit splitting factors
+
+2.179.  Asset-based  or  capital-based  profit  splitting  factors  can  be  used 
+where  there  is  a  strong  correlation  between  tangible  assets  or  intangibles, 
+or  capital  employed  and  creation  of  value  in  the  context  of  the  controlled 
+transaction. In order for a profit splitting factor to be meaningful, it should be 
+applied consistently to all the parties to the transaction. See paragraph 2.104 
+for a discussion of comparability issues in relation to asset valuation in the 
+context  of  the  transactional  net  margin  method,  which  is  also  valid  in  the 
+context of the transactional profit split method. Example 15 in Annex II to 
+this chapter illustrates the principles of this section.
+
+2.180.  Where  one  or  more  of  the  parties  to  a  transaction  for  which  the 
+transactional profit split method is found to be the most appropriate makes 
+a  contribution  in  the  form  of  intangibles,  difficult  issues  can  arise  in 
+relation both to their identification and to their valuation. Guidance on the 
+identification  and  valuation  of  intangibles  is  found  at  Chapter  VI  of  these 
+Guidelines. See also the examples in Annex I to Chapter VI “Examples to 
+illustrate the guidance on intangibles.”
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+146 – CHAPTER II: TRANSFER PRICING METHODS
+
+C.5.3.2. Cost-based profit splitting factors
+
+2.181.  A  profit  splitting  factor  based  on  expenses  may  be  appropriate 
+where it is possible to identify a strong correlation between relative expenses 
+incurred  and  relative  value  co

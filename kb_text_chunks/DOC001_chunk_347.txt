@@ -1,0 +1,79 @@
+s and on the development of new technologies on behalf 
+of Company S. The agreement provides that Company T will be compensated 
+for its research services by payments equal to its cost plus a mark-up, and that 
+all rights to intangibles developed or enhanced under the research agreement 
+will belong to Company S. As a result, Company S will fund all future research 
+and will assume the financial risk that some or all of the future research will 
+not  lead  to  the  development  of  commercially  viable  products.  Company  S 
+has  a  large  research  staff,  including  management  personnel  responsible  for 
+technologies of the type acquired from Company T. Following the transactions 
+in question, the Company S research and management personnel assume full 
+management  responsibility  for  the  direction  and  control  of  the  work  of  the 
+Company T research staff. Company S approves new projects, develops and 
+plans budgets and in other respects controls the ongoing research work carried 
+on  at  Company  T.  All  company  T  research  personnel  will  continue  to  be 
+employees of Company T and will be devoted exclusively to providing services 
+under the research agreement with Company S.
+
+85. 
+In conducting a transfer pricing analysis of the arm’s length price to 
+be paid by Company S for intangibles transferred by Company T, and of the 
+price to be paid for ongoing R&D services to be provided by Company T, it is 
+important to identify the specific intangibles transferred to Company S and 
+those retained by Company T. The definitions and valuations of intangibles 
+contained in the purchase price allocation are not determinative for transfer 
+pricing  purposes.  The  100  paid  by  Birincil  for  the  shares  of  Company  T 
+represents  an  arm’s  length  price  for  shares  of  the  company  and  provides 
+useful information regarding the value of the business of Company T. The full 
+value of that business should be reflected either in the value of the tangible 
+and intangible assets transferred to Company S or in the value of the tangible 
+and  intangible  assets  and  workforce  retained  by  Company  T.  Depending 
+on  the  facts,  a  substantial  portion  of  the  value  described  in  the  purchase 
+price  allocation  as  goodwill  of  Company  T  may  have  been  transferred  to 
+Company  S  together  with  the  other  Company  T  intangibles.  Depending  on 
+the facts, some portion of the value described in the purchase price allocation 
+as goodwill may also have been retained by Company T. Under arm’s length 
+transfer pricing principles, Company T should be entitled to compensation for 
+such value, either as part of the price paid by Company S for the transferred 
+rights  to  technology  intangibles,  or  through  the  compensation  Company  T 
+is  paid  in  years  following  the  transaction  for  the  R&D  services  of  its 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+626 – ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES
+
+workforce. It should generally be assumed that value does not disappear, nor 
+is it destroyed, as part of an internal business restructuring. If the transfer of 
+intangibles to Company S had been separated in time from the acquisition, a 
+separate inquiry would be required regarding any intervening appreciation or 
+depreciation in the value of the transferred intangibles.
+
+Example 24
+
+86. 
+Zhu is a company engaged in software development consulting. In 
+the past Zhu has developed software supporting ATM transactions for client 
+Bank A. In the process of doing so, Zhu created and retained an interest in 
+proprietary  copyrighted  software  code  that  is  potentially  suitable  for  use 
+by  other  similarly  situated  banking  clients,  albeit  with  some  revision  and 
+customisation.
+
+Assume  that  Company  S,  an  associated  enterprise  of  Zhu,  enters 
+87. 
+into  a  separate  agreement  to  develop  software  supporting  ATM  operations 
+for  another  bank,  Bank  B.  Zhu  agrees  to  support  its  associated  enterprise 
+by providing employees who worked on the Bank A engagement to work on 
+Company S’s Bank B engagement. Those employees have access to software 
+designs  and  know-how  developed  in  the  Bank  A  engagement,  including 
+proprietary software code. That code and the services of the Zhu employees 
+are utilised by Company S in executing its Bank B engagement. Ultimately, 
+Bank  B  is  provided  by  Company  S  with  a  software  system  for  managing 
+its  ATM  network,  including  the  necessary  licence  to  utilise  the  software 
+developed in the project. Portions of the proprietary code developed by Zhu in 
+its Bank A engagement are embedded in the software provided by Company S 
+to  Bank  B.  The  code  developed  in  the  Bank  A  engagement  and  embedded 
+in the Bank B software would be sufficiently extensive to justify a claim of 
+copyright infringement if copied on an unauthorised basis by a third party.
+
+88. 
+A transfer pricing analysis 

@@ -1,0 +1,89 @@
+al  in  the  context 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER V: DOCUMENTATION – 233
+
+of  the  jurisdiction’s  tax  system.  Such  information  would  include  relevant 
+financial information regarding those specific transactions, a comparability 
+analysis, and the selection and application of the most appropriate transfer 
+pricing method. Where a requirement of the local file can be fully satisfied 
+by a specific cross-reference to information contained in the master file, such 
+a cross-reference should suffice.
+5.23.  Annex  II  to  Chapter  V  of  these  Guidelines  sets  out  the  items  of 
+information to be included in the local file.
+
+C.3. Country-by-Country Report
+
+5.24.  The Country-by-Country Report requires aggregate tax jurisdiction-
+wide  information  relating  to  the  global  allocation  of  the  income,  the  taxes 
+paid, and certain indicators of the location of economic activity among tax 
+jurisdictions  in  which  the  MNE  group  operates.  The  report  also  requires 
+a  listing  of  all  the  Constituent  Entities  for  which  financial  information  is 
+reported, including the tax jurisdiction of incorporation, where different from 
+the tax jurisdiction of residence, as well as the nature of the main business 
+activities carried out by that Constituent Entity.
+
+5.25.  The Country-by-Country Report will be helpful for high-level transfer 
+pricing risk assessment purposes. It may also be used by tax administrations 
+in evaluating other BEPS related risks and where appropriate for economic 
+and statistical analysis. However, the information in the Country-by-Country 
+Report  should  not  be  used  as  a  substitute  for  a  detailed  transfer  pricing 
+analysis  of  individual  transactions  and  prices  based  on  a  full  functional 
+analysis and a full comparability analysis. The information in the Country-
+by-Country  Report  on  its  own  does  not  constitute  conclusive  evidence 
+that  transfer  prices  are  or  are  not  appropriate.  It  should  not  be  used  by  tax 
+administrations  to  propose  transfer  pricing  adjustments  based  on  a  global 
+formulary apportionment of income.
+
+5.26.  Annex III to Chapter V of these Guidelines contains a model template 
+for the Country-by-Country Report together with its accompanying instructions.
+
+D. Compliance issues
+
+D.1. Contemporaneous documentation
+
+5.27.  Each  taxpayer  should  endeavour  to  determine  transfer  prices  for 
+tax  purposes  in  accordance  with  the  arm’s  length  principle,  based  upon 
+information  reasonably  available  at  the  time  of  the  transaction.  Thus,  a 
+taxpayer ordinarily should give consideration to whether its transfer pricing 
+is appropriate for tax purposes before the pricing is established and should 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+234 – CHAPTER V: DOCUMENTATION
+
+confirm the arm’s length nature of its financial results at the time of filing 
+its tax return.
+5.28.  Taxpayers  should  not  be  expected  to  incur  disproportionately  high 
+costs and burdens in producing documentation. Therefore, tax administrations 
+should  balance  requests  for  documentation  against  the  expected  cost  and 
+administrative  burden  to  the  taxpayer  of  creating  it.  Where  a  taxpayer 
+reasonably demonstrates, having regard to the principles of these Guidelines, 
+that either no comparable data exists or that the cost of locating the comparable 
+data  would  be  disproportionately  high  relative  to  the  amounts  at  issue,  the 
+taxpayer should not be required to incur costs in searching for such data.
+
+D.2. Time frame
+
+5.29. 
+Practices regarding the timing of the preparation of the documentation 
+differ  among  jurisdictions.  Some  jurisdictions  require  information  to  be 
+finalised by the time the tax return is filed. Others require documentation to 
+be in place by the time the audit commences. There is also a variety in practice 
+regarding  the  amount  of  time  given  to  taxpayers  to  respond  to  specific  tax 
+administration requests for documentation and other audit related information 
+requests. These differences in the time requirements for providing information 
+can add to taxpayers’ difficulties in setting priorities and in providing the right 
+information to the tax administrations at the right time.
+
+5.30.  The best practice is to require that the local file be finalised no later 
+than the due date for the filing of the tax return for the fiscal year in question. 
+The  master  file  should  be  reviewed  and,  if  necessary,  updated  by  the  tax 
+return due date for the ultimate parent of the MNE group. In jurisdictions 
+pursuing policies of auditing transactions as they occur under co-operative 
+compliance programmes, it may be necessary for certain information to be 
+provided in advance of the filing of the tax return.
+
+5.31.  With regard to the Country-by-Country Report, it is recognised that 
+in  some  instances  final  statutory  financ

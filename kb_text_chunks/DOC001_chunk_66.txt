@@ -1,0 +1,71 @@
+  greater  product  and 
+function similarity. Depending on the facts and circumstances of the case and 
+in particular on the effect of the functional differences on the cost structure 
+and on the revenue of the potential comparables, net profit indicators can be 
+less sensitive than gross margins to differences in the extent and complexity 
+of functions and to differences in the level of risks (assuming the contractual 
+allocation  of  risks  is  arm’s  length  in  accordance  with  Section  D.1.2.1  of 
+Chapter  I).  On  the  other  hand,  depending  on  the  facts  and  circumstances 
+of the case and in particular on the proportion of fixed and variable costs, 
+the  transactional  net  margin  method  may  be  more  sensitive  than  the  cost 
+plus  or  resale  price  methods  to  differences  in  capacity  utilisation,  because 
+differences  in  the  levels  of  absorption  of  indirect  fixed  costs  (e.g.  fixed 
+manufacturing costs or fixed distribution costs) would affect the net profit 
+indicator but may not affect the gross margin or gross mark-up on costs if not 
+reflected in price differences. See Annex I to Chapter II “Sensitivity of gross 
+and net profit indicators”.
+
+2.77.  Net profit indicators may be directly affected by such forces operating 
+in  the  industry  as  follows:  threat  of  new  entrants,  competitive  position, 
+management efficiency and individual strategies, threat of substitute products, 
+varying  cost  structures  (as  reflected,  for  example,  in  the  age  of  plant  and 
+equipment),  differences  in  the  cost  of  capital  (e.g.  self-financing  versus 
+borrowing), and the degree of business experience (e.g. whether the business 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+118 – CHAPTER II: TRANSFER PRICING METHODS
+
+is  in  a  start-up  phase  or  is  mature).  Each  of  these  factors  in  turn  can  be 
+influenced by numerous other elements. For example, the level of the threat of 
+new entrants will be determined by such elements as product differentiation, 
+capital  requirements,  and  government  subsidies  and  regulations.  Some  of 
+these elements also may impact the application of the traditional transaction 
+methods.
+2.78.  Assume, for example, that a taxpayer sells top quality audio players 
+to  an  associated  enterprise,  and  the  only  profit  information  available  on 
+comparable  business  activities  is  on  generic  medium  quality  audio  player 
+sales. Assume that the top quality audio player market is growing in its sales, 
+has  a  high  entry  barrier,  has  a  small  number  of  competitors,  and  is  with 
+wide possibilities for product differentiation. All of the differences are likely 
+to  have  material  effect  on  the  profitability  of  the  examined  activities  and 
+compared activities, and in such a case would require adjustment. As with 
+other  methods,  the  reliability  of  the  necessary  adjustments  will  affect  the 
+reliability of the analysis. It should be noted that even if two enterprises are 
+in exactly the same industry, the profitability may differ depending on their 
+market shares, competitive positions, etc.
+It might be argued that the potential inaccuracies resulting from the 
+2.79. 
+above types of factors can be reflected in the size of the arm’s length range. 
+The use of a range may to some extent mitigate the level of inaccuracy, but 
+may  not  account  for  situations  where  a  taxpayer’s  profits  are  increased  or 
+reduced by a factor unique to that taxpayer. In such a case, the range may 
+not include points representing the profits of independent enterprises that are 
+affected in a similar manner by a unique factor. The use of a range, therefore, 
+may not always solve the difficulties discussed above. See discussion of arm’s 
+length ranges in paragraphs 3.55-3.66.
+2.80.  The transactional net margin method may afford a practical solution 
+to otherwise insoluble transfer pricing problems if it is used sensibly and with 
+appropriate  adjustments  to  account  for  differences  of  the  type  referred  to 
+above. The transactional net margin method should not be used unless the net 
+profit indicators are determined from uncontrolled transactions of the same 
+taxpayer in comparable circumstances or, where the comparable uncontrolled 
+transactions  are  those  of  an  independent  enterprise,  the  differences 
+between  the  associated  enterprises  and  the  independent  enterprises  that 
+have a material effect on the net profit indicator being used are adequately 
+taken  into  account.  Many  jurisdictions  are  concerned  that  the  safeguards 
+established  for  the  traditional  transaction  methods  may  be  overlooked  in 
+applying  the  transactional  net  margin  method.  Thus  where  differences  in 
+the characteristics of the enterprises being compared have a material effect 
+on the net profit indicators being used, it would not be appropriate to apply 
+the  transactional  net  margin  method  witho

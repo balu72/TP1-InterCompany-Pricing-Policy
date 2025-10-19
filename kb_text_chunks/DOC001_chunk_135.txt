@@ -1,0 +1,80 @@
+ve the objectives described in Section B, jurisdictions 
+should  adopt  a  standardised  approach  to  transfer  pricing  documentation. 
+This  section  describes  a  three-tiered  structure  consisting  of  (i)  a  master  file 
+containing standardised information relevant for all MNE group members; (ii) a 
+local  file  referring  specifically  to  material  transactions  of  the  local  taxpayer; 
+and (iii) a Country-by-Country Report containing certain information relating 
+to the global allocation of the MNE group’s income and taxes paid together with 
+certain indicators of the location of economic activity within the MNE group.
+
+5.17. 
+This  approach  to  transfer  pricing  documentation  will  provide  tax 
+administrations with relevant and reliable information to perform an efficient 
+and  robust  transfer  pricing  risk  assessment  analysis.  It  will  also  provide  a 
+platform on which the information necessary for an audit can be developed 
+and  provide  taxpayers  with  a  means  and  an  incentive  to  meaningfully 
+consider  and  describe  their  compliance  with  the  arm’s  length  principle  in 
+material transactions.
+
+C.1. Master file
+
+The master file should provide an overview of the MNE group business, 
+5.18. 
+including the nature of its global business operations, its overall transfer pricing 
+policies,  and  its  global  allocation  of  income  and  economic  activity  in  order 
+to assist tax administrations in evaluating the presence of significant transfer 
+pricing  risk.  In  general,  the  master  file  is  intended  to  provide  a  high-level 
+overview in order to place the MNE group’s transfer pricing practices in their 
+global economic, legal, financial and tax context. It is not intended to require 
+exhaustive listings of minutiae (e.g. a listing of every patent owned by members 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+232 – CHAPTER V: DOCUMENTATION
+
+of  the  MNE  group)  as  this  would  be  both  unnecessarily  burdensome  and 
+inconsistent with the objectives of the master file. In producing the master file, 
+including lists of important agreements, intangibles and transactions, taxpayers 
+should use prudent business judgment in determining the appropriate level of 
+detail for the information supplied, keeping in mind the objective of the master 
+file to provide tax administrations a high-level overview of the MNE group’s 
+global operations and policies. When the requirements of the master file can 
+be  fully  satisfied  by  specific  cross-references  to  other  existing  documents, 
+such cross-references, together with copies of the relevant documents, should 
+be deemed to satisfy the relevant requirement. For purposes of producing the 
+master file, information is considered important if its omission would affect the 
+reliability of the transfer pricing outcomes.
+
+5.19.  The  information  required  in  the  master  file  provides  a  “blueprint” 
+of  the  MNE  group  and  contains  relevant  information  that  can  be  broken 
+down into five categories: a) the MNE group’s organisational structure; b) a 
+description of the MNE group’s business or businesses; c) the MNE group’s 
+intangibles; d) the MNE group’s intercompany financial activities; and e) the 
+MNE group’s financial and tax positions.
+
+5.20.  Taxpayers should present the information in the master file for the 
+MNE group as a whole. However, organisation of the information presented 
+by line of business is permitted where well justified by the facts, e.g. where 
+the  structure  of  the  MNE  group  is  such  that  some  significant  business 
+lines operate largely independently or are recently acquired. Where line of 
+business presentation is used, care should be taken to assure that centralised 
+group  functions  and  transactions  between  business  lines  are  properly 
+described  in  the  master  file.  Even  where  line  of  business  presentation  is 
+selected,  the  entire  master  file  consisting  of  all  business  lines  should  be 
+available to each jurisdiction in order to assure that an appropriate overview 
+of the MNE group’s global business is provided.
+
+5.21.  Annex I to Chapter V of these Guidelines sets out the information to 
+be included in the master file.
+
+C.2. Local file
+5.22. 
+In contrast to the master file, which provides a high-level overview as 
+described in paragraph 5.18, the local file provides more detailed information 
+relating to specific intercompany transactions. The information required in 
+the local file supplements the master file and helps to meet the objective of 
+assuring  that  the  taxpayer  has  complied  with  the  arm’s  length  principle  in 
+its  material  transfer  pricing  positions  affecting  a  specific  jurisdiction.  The 
+local  file  focuses  on  information  relevant  to  the  transfer  pricing  analysis 
+related to transactions taking place between a local affiliate and associated 
+enterprises  in  different  jurisdictions  and  which  are  materi

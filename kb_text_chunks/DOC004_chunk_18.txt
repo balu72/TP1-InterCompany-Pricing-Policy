@@ -1,0 +1,85 @@
+intention  of  the  Action  13 
+minimum standard. 
+
+In addition, to provide clarity as soon as possible to MNE Groups, jurisdictions will work towards bringing 
+their QCAA into effect as soon as possible so as to minimise this transitional issue. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+38 |   
+
+Non-compliance with the confidentiality, appropriate use and consistency 
+conditions and Systemic Failure (February 2018) 
+
+3.1 When it is found that a jurisdiction does not in practice meet the conditions of 
+confidentiality, appropriate use or consistency, are other jurisdictions allowed to 
+suspend exchanges of the CbC report? If yes, would such a suspension be treated as a 
+Systemic Failure?  
+
+As specified in Paragraph 56 of the Action 13 Report, confidentiality, consistency and appropriate use are 
+necessary  conditions  underpinning  the  obtaining  and  use  of  CbC  reports.  The  consequences  of  non-
+compliance with these conditions will depend on the terms of the QCAA between the jurisdictions. Under 
+Section 5, Paragraph 1 of the Multilateral CAA and the Model Bilateral CAAs contained in the Action 13 
+Report, all information exchanged is subject to the confidentiality rules and other safeguards provided in 
+the relevant Convention  or TIEA, including provisions limiting the use  of information exchanged. Under 
+Section 5, Paragraph 2 of these agreements, the use of information is further limited to assessing high-
+level  transfer  pricing,  base  erosion  and  profit  shifting  risks  and,  where  appropriate,  for  economic  and 
+statistical analysis. 
+
+Without  prejudice  to  other  rights  of  suspension  which  may  exist,  under  Section  8,  Paragraph  5  of  the 
+Multilateral  CAA  and  Section  8,  Paragraph  2  of  the  Model  Bilateral  CAAs,  a  Competent  Authority  may 
+temporarily suspend the exchange of information by giving notice in writing if it is determined that there is 
+or  there  has  been  significant  non-compliance  by  the  other  Competent  Authority.  Significant  non-
+compliance is defined in these agreements to include non-compliance with Paragraphs 1 and 2 of Section 
+5 as well as the corresponding provisions of the relevant International Agreement (which correspond to 
+the conditions for confidentiality and appropriate use) as well as failure by the other Competent Authority 
+to provide timely or adequate information as required under the agreement (which is linked to compliance 
+with the consistency condition). As set out in the OECD "Guidance on the Appropriate Use of Information 
+Contained  in  CbC  Reports"4,  this  determination  may,  for  example,  be  based  on  the  outcomes  of  a 
+jurisdiction's peer review evaluation of appropriate use.  
+
+Once a Competent Authority has determined there is or has been significant non-compliance by the other 
+Competent Authority, it is encouraged to take into account factors including the frequency and severity of 
+non-compliance and whether other remedies are available, in deciding whether to temporarily suspend the 
+exchange of information (for example, if inappropriate adjustments have been conceded in MAP or other 
+Competent Authority proceedings, as required under Section 5, Paragraph 2). 
+
+Under the Multilateral CAA and the Model Bilateral CAAs, before any such suspension of exchange, the 
+first Competent Authority must consult with the other Competent Authority. 
+
+Systemic  Failure,  as  defined  in  Paragraph  13  of  Article  1  of  the  Model  Legislation,  arises  where  a 
+jurisdiction suspends automatic exchange of information for reasons that are other than in accordance with 
+the terms of the relevant QCAA or otherwise persistently fails to exchange CbC Reports in its possession. 
+Because a temporary suspension of exchange of information under Section 8 is in accordance with the 
+terms of the relevant QCAA, this does not constitute Systemic Failure. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+  | 39 
+
+Local filing (November 2019; updated December 2019)  
+
+4.1 Can a jurisdiction apply local filing where the Ultimate Parent Entity of an MNE is not 
+required to file a CbC report in circumstances where a CbC report would be required in 
+the local jurisdiction?  
+
+The  BEPS  Action  13  report  is  clear  that  local  filing  is  accepted  where  one  of  the  following  conditions 
+applies:  
+
+• 
+• 
+
+• 
+
+the UPE of the MNE is not obligated to file a CbC report in its jurisdiction of tax residence 
+
+the jurisdiction in which the UPE is resident for tax purposes has a current international agreement 
+to  which  the  local  jurisdiction  is  a  party  but  does  not  have  a  qualifying  competent  authority 
+agreement in effect to which the local jurisdiction is a party by the deadline for filing a CbC report 
+for the reporting fiscal year 
+
+there  has  been  a  systemic  failure  of  the  jurisdictio

@@ -1,0 +1,89 @@
+ length principle. Where comparability defects remain 
+as  discussed  in  paragraph  3.57,  it  may  be  appropriate  to  use  measures  of 
+central tendency to determine this point (for instance the median, the mean or 
+weighted averages, etc., depending on the specific characteristics of the data 
+set), in order to minimise the risk of error due to unknown or unquantifiable 
+remaining comparability defects.
+
+A.7.3. Extreme results: comparability considerations
+
+3.63.  Extreme  results  might  consist  of  losses  or  unusually  high  profits. 
+Extreme results can affect the financial indicators that are looked at in the 
+chosen method (e.g. the gross margin when applying a resale price, or a net 
+profit indicator when applying a transactional net margin method). They can 
+also affect other items, e.g. exceptional items which are below the line but 
+nonetheless  may  reflect  exceptional  circumstances.  Where  one  or  more  of 
+the potential comparables have extreme results, further examination would be 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER III: COMPARABILITy ANALySIS – 167
+
+needed to understand the reasons for such extreme results. The reason might 
+be a defect in comparability, or exceptional conditions met by an otherwise 
+comparable third party. An extreme result may be excluded on the basis that 
+a  previously  overlooked  significant  comparability  defect  has  been  brought 
+to  light,  not  on  the  sole  basis  that  the  results  arising  from  the  proposed 
+“comparable” merely appear to be very different from the results observed in 
+other proposed “comparables”.
+
+3.64.  An independent enterprise would not continue loss-generating activities 
+unless it had reasonable expectations of future profits. See paragraphs 1.149-
+1.151. Simple or low risk functions in particular are not expected to generate 
+losses for a long period of time. This does not mean however that loss-making 
+transactions  can  never  be  comparable.  In  general,  all  relevant  information 
+should be used and there should not be any overriding rule on the inclusion or 
+exclusion of loss-making comparables. Indeed, it is the facts and circumstances 
+surrounding  the  company  in  question  that  should  determine  its  status  as  a 
+comparable, not its financial result.
+
+3.65.  Generally speaking, a loss-making uncontrolled transaction should 
+trigger further investigation in order to establish whether or not it can be a 
+comparable. Circumstances in which loss-making transactions/ enterprises 
+should be excluded from the list of comparables include cases where losses 
+do not reflect normal business conditions, and where the losses incurred by 
+third parties reflect a level of risks that is not comparable to the one assumed 
+by the taxpayer in its controlled transactions. Loss-making comparables that 
+satisfy the comparability analysis should not however be rejected on the sole 
+basis that they suffer losses.
+
+3.66.  A similar investigation should be undertaken for potential comparables 
+returning abnormally large profits relative to other potential comparables.
+
+B. Timing issues in comparability
+
+3.67.  There are timing issues in comparability with respect to the time of 
+origin, collection and production of information on comparability factors and 
+comparable uncontrolled transactions that are used in a comparability analysis. 
+See  paragraphs  5.27  and  5.36  of  Chapter  V  for  indications  with  respect  to 
+timing issues in the context of transfer pricing documentation requirements.
+
+B.1.  Timing of origin
+
+3.68. 
+In  principle,  information  relating  to  the  conditions  of  comparable 
+uncontrolled transactions undertaken or carried out during the same period of 
+time as the controlled transaction (“contemporaneous uncontrolled transactions”) 
+is expected to be the most reliable information to use in a comparability analysis, 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+168 – CHAPTER III: COMPARABILITy ANALySIS
+
+because  it  reflects  how  independent  parties  have  behaved  in  an  economic 
+environment  that  is  the  same  as  the  economic  environment  of  the  taxpayer’s 
+controlled  transaction.  Availability  of  information  on  contemporaneous 
+uncontrolled transactions may however be limited in practice, depending on the 
+timing of collection.
+
+B.2.  Timing of collection
+
+3.69. 
+In some cases, taxpayers establish transfer pricing documentation to 
+demonstrate that they have made reasonable efforts to comply with the arm’s 
+length principle at the time their intra-group transactions were undertaken, 
+i.e. on an ex ante basis (hereinafter “the arm’s length price-setting” approach), 
+based on information that was reasonably available to them at that point. Such 
+information includes not only information on comparable transactions from 
+previous  years,  but  also  information  on  economic  and  market  changes  that 
+may have occurred between those previous years and the year of 

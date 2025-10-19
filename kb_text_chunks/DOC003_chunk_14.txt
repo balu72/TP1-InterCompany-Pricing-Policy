@@ -1,0 +1,105 @@
+ntry  Reports  or  (c)  it  has  been 
+established that there is a failure to exchange the information in practice with a jurisdiction 
+after agreeing with that jurisdiction to do so, a secondary mechanism would be accepted 
+as appropriate, through local filing or through filing of the Country-by-Country Reports 
+by a designated member of the MNE group acting in place of the ultimate parent entity and 
+automatic exchange of these reports by its country of tax residence.
+
+E.2.4.2. Implementation Package
+
+61.  Countries participating in the OECD/G20 BEPS Project have therefore developed an 
+implementation package for government-to-government exchange of Country-by-Country 
+Reports contained in Annex Iv to Chapter v of these Guidelines.
+
+More specifically:
+
+•  Model legislation requiring the ultimate parent entity of an MNE group to file the 
+Country-by-Country  Report  in  its  jurisdiction  of  residence  has  been  developed. 
+Jurisdictions will be able to adapt this model legislation to their own legal systems, 
+where  changes  to  current  legislation  are  required.  Key  elements  of  secondary 
+mechanisms have also been developed.
+
+• 
+
+Implementing arrangements for the automatic exchange of the Country-by-Country 
+Reports  under  international  agreements  have  been  developed,  incorporating  the 
+conditions  set  out  in  Section  E.2.3.  Such  implementing  arrangements  include 
+competent  authority  agreements  (“CAAs”)  based  on  existing  international 
+agreements (the Multilateral Convention on Mutual Administrative Assistance in 
+Tax Matters, bilateral tax treaties and TIEAs) and inspired by the existing models 
+developed by the OECD working with G20 countries for the automatic exchange of 
+financial account information.
+
+62.  Participating jurisdictions endeavour to introduce as necessary domestic legislation 
+in a timely manner. They are also encouraged to expand the coverage of their international 
+agreements  for  exchange  of  information.  The  implementation  of  the  package  will  be 
+monitored  on  an  ongoing  basis.  The  outcomes  of  this  monitoring  will  be  taken  into 
+consideration in the 2020 review.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+24 –  ChAPTER v OF ThE TRANSFER PRICING GUIDELINES ON DOCUMENTATION
+
+Note
+
+1. 
+
+Access to a mutual agreement procedure (MAP) will be available when the government-to-
+government  exchange  of  the  Country-by-Country  Reports  is  based  on  bilateral  treaties.  In 
+cases where the international agreements on which the government-to-government exchanges 
+of the Country-by-Country Reports are based do not contain provisions providing access to 
+MAP, countries commit to introducing in the competent authority agreement to be developed 
+a mechanism for competent authority procedures to discuss with the aim of resolving cases of 
+undesirable economic outcomes, including if such cases arise for individual businesses.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ANNEx I TO ChAPTER v. TRANSFER PRICING DOCUMENTATION – MASTER FILE – 25
+
+Annex I to Chapter V 
+
+Transfer pricing documentation – Master file
+
+The following information should be included in the master file:
+
+Organisational structure
+
+•  Chart  illustrating  the  MNE’s  legal  and  ownership  structure  and  geographical 
+
+location of operating entities.
+
+Description of MNE’s business(es)
+
+•  General written description of the MNE’s business including:
+
+- 
+
+Important drivers of business profit;
+
+-  A  description  of  the  supply  chain  for  the  group’s  five  largest  products  and/
+or  service  offerings  by  turnover  plus  any  other  products  and/or  services 
+amounting to more than 5 percent of group turnover. The required description 
+could take the form of a chart or a diagram;
+
+-  A  list  and  brief  description  of  important  service  arrangements  between 
+members  of  the  MNE  group,  other  than  research  and  development  (R&D) 
+services, including a description of the capabilities of the principal locations 
+providing  important  services  and  transfer  pricing  policies  for  allocating 
+services costs and determining prices to be paid for intra-group services;
+
+-  A  description  of  the  main  geographic  markets  for  the  group’s  products  and 
+
+services that are referred to in the second bullet point above;
+
+-  A  brief  written  functional  analysis  describing  the  principal  contributions 
+to  value  creation  by  individual  entities  within  the  group,  i.e.  key  functions 
+performed, important risks assumed, and important assets used;
+
+-  A description of important business restructuring transactions, acquisitions and 
+
+divestitures occurring during the fiscal year.
+
+MNE’s intangibles (as defined in Chapter VI of these Guidelines)
+
+•  A  general  description  of  the  MNE’s  overall  strategy  for  the  development, 
+ownership  and  exploitation  of  intangibles,  including 

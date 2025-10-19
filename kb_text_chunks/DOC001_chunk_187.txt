@@ -1,0 +1,83 @@
+l, financial advice, accounting, auditing, legal, 
+factoring, computer services; financial services such as supervision of cash 
+flows and solvency, capital increases, loan contracts, management of interest 
+and exchange rate risks, and refinancing; assistance in the fields of production, 
+buying,  distribution  and  marketing;  and  services  in  staff  matters  such  as 
+recruitment  and  training.  Group  service  centres  also  often  carry  out  order 
+management, customer service and call centres, research and development or 
+administer and protect intangible property for all or part of the MNE group. 
+These  types  of  activities  ordinarily  will  be  considered  intra-group  services 
+because they are the type of activities that independent enterprises would have 
+been willing to pay for or to perform for themselves.
+
+B.1.6. Form of the remuneration
+
+7.15. 
+In considering whether a charge for the provision of services would be 
+made between independent enterprises, it would also be relevant to consider 
+the  form  that  an  arm’s  length  consideration  would  take  had  the  transaction 
+occurred  between  independent  enterprises  dealing  at  arm’s  length.  For 
+example, in respect of financial services such as loans, foreign exchange and 
+hedging, all of the remuneration may be built into the spread and it would not 
+be appropriate to expect a further service fee to be charged if such were the 
+case. Similarly, in some buying or procurement services a commission element 
+may be incorporated in the price of the product or services procured, and a 
+separate service fee may not be appropriate.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VII: INTRA-GROUP SERVICES – 319
+
+7.16.  Another issue arises with respect to services provided “on call”. The 
+question is whether the availability of such services is itself a separate service 
+for  which  an  arm’s  length  charge  (in  addition  to  any  charge  for  services 
+actually rendered) should be determined. A parent company or one or more 
+group service centres may be on hand to provide services such as financial, 
+managerial, technical, legal or tax advice and assistance to members of the 
+group  at  any  time.  In  that  case,  a  service  may  be  rendered  to  associated 
+enterprises by having staff, equipment, etc., available. An intra-group service 
+would exist to the extent that it would be reasonable to expect an independent 
+enterprise  in  comparable  circumstances  to  incur  “standby”  charges  to 
+ensure  the  availability  of  the  services  when  the  need  for  them  arises.  It  is 
+not unknown, for example, for an independent enterprise to pay an annual 
+“retainer” fee to a firm of lawyers to ensure entitlement to legal advice and 
+representation if litigation is brought. Another example is a service contract 
+for priority computer network repair in the event of a breakdown.
+
+7.17. 
+These services may be available on call and they may vary in amount 
+and importance from year to year. It is unlikely that an independent enterprise 
+would  incur  stand-by  charges  where  the  potential  need  for  the  service  was 
+remote, where the advantage of having services on-call was negligible, or where 
+the on-call services could be obtained promptly and readily from other sources 
+without  the  need  for  stand-by  arrangements.  Thus,  the  benefit  conferred  on 
+a group company by the on-call arrangements should be considered, perhaps 
+by looking at the extent to which the services have been used over a period of 
+several years rather than solely for the year in which a charge is to be made, 
+before determining that an intra-group service is being provided.
+
+7.18.  The  fact  that  a  payment  was  made  to  an  associated  enterprise  for 
+purported services can be useful in determining whether services were in fact 
+provided, but the mere description of a payment as, for example, “management 
+fees” should not be expected to be treated as prima facie evidence that such 
+services have been rendered. At the same time, the absence of payments or 
+contractual agreements does not automatically lead to the conclusion that no 
+intra-group services have been rendered.
+
+B.2. Determining an arm’s length charge
+
+B.2.1. In general
+
+7.19.  Once it is determined that an intra-group service has been rendered, 
+it  is  necessary,  as  for  other  types  of  intra-group  transfers,  to  determine 
+whether  the  amount  of  the  charge,  if  any,  is  in  accordance  with  the  arm’s 
+length principle. This means that the charge for intra-group services should 
+be  that  which  would  have  been  made  and  accepted  between  independent 
+enterprises  in  comparable  circumstances.  Consequently,  such  transactions 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+320 – CHAPTER VII: INTRA-GROUP SERVICES
+
+should  not  be  treated  differently  for  tax  purposes  from  comparable  trans-
+actions between independent enterprises, simply because th

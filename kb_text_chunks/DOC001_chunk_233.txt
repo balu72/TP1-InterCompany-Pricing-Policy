@@ -1,0 +1,82 @@
+ship as supplier to the foreign associated enterprise 
+that carries on an activity previously carried on by the taxpayer, the taxpayer 
+and  the  foreign  associated  enterprise  have  the  opportunity  to  obtain 
+economic  and  commercial  benefits  through  that  relationship  (e.g.  the  sale 
+price of goods) which may explain for instance why compensation through 
+an  up-front  capital  payment  for  transfer  of  the  business  was  foregone,  or 
+why  the  future  transfer  price  for  the  products  might  be  different  from  the 
+prices  that  would  have  been  agreed  absent  a  restructuring  operation.  In 
+practice,  however,  it  might  be  difficult  to  structure  and  monitor  such  an 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 397
+
+arrangement. While taxpayers are free to choose the form of compensation 
+payments, whether up-front or over time, tax administrations when reviewing 
+such  arrangements  would  want  to  know  how  the  compensation  for  the 
+post-restructuring  activity  was  possibly  affected  to  take  account  of  the 
+foregone  compensation,  if  any,  for  the  restructuring  itself.  Specifically,  in 
+such a case, the tax administration would want to look at the entirety of the 
+arrangements, while being provided with a separate evaluation of the arm’s 
+length  compensation  for  the  restructuring  and  for  the  post-restructuring 
+transactions.
+
+D. Comparing the pre- and post-restructuring situations
+
+9.117.  A relevant question is the role if any of comparisons that can be made 
+of the profits actually earned by a party to a controlled transaction prior to 
+and after the restructuring. In particular, it can be asked whether it would be 
+appropriate to determine a restructured entity’s post-restructuring profits by 
+reference  to  its  pre-restructuring  profits,  adjusted  to  reflect  the  transfer  or 
+relinquishment of particular functions, assets and risks.5
+
+9.118.  One important issue with such before-and-after comparisons is that a 
+comparison of the profits from the post-restructuring controlled transactions 
+with  the  profits  made  in  controlled  transactions  prior  to  the  restructuring 
+would  not  suffice  given  Article  9  of  the  OECD  Model  Tax  Convention 
+provides  for  a  comparison  to  be  made  with  uncontrolled  transactions. 
+Comparisons  of  a  taxpayer’s  controlled  transactions  with  other  controlled 
+transactions are irrelevant to the application of the arm’s length principle and 
+therefore should not be used by a tax administration as the basis for a transfer 
+pricing adjustment or by a taxpayer to support its transfer pricing policy.
+
+9.119.  Another issue with before-and-after comparisons is the likely difficulty 
+of  valuing  the  basket  of  functions,  assets  and  risks  that  were  lost  by  the 
+restructured entity, keeping in mind that it is not always the case that these 
+functions, assets and risks are transferred to another party.
+
+9.120.  That being said, in business restructurings, before-and-after comparisons 
+could play a role in understanding the restructuring itself and could be part of 
+a before-and-after comparability (including functional) analysis to understand 
+the  changes  that  accounted  for  the  changes  in  the  allocation  of  profit/loss 
+amongst the parties. In effect, information on the arrangements that existed 
+prior  to  the  restructuring  and  on  the  conditions  of  the  restructuring  itself 
+could be essential to understand the context in which the post-restructuring 
+arrangements were put in place and to assess whether such arrangements are 
+
+5. 
+
+This is a different question from the one of profit potential that is discussed in 
+Part I of this chapter.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+398 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+arm’s length. It can also shed light on the options realistically available to the 
+restructured entity.6
+
+9.121.  The analysis of the business before and after the restructuring may 
+reveal  that  while  some  functions,  assets  and  risks  were  transferred,  other 
+functions  may  still  be  carried  out  by  the  “stripped”  entity.  Typically,  as 
+part  of  the  restructuring  the  entity  may  have  been  purportedly  stripped  of 
+intangibles or risk, but after the restructuring it continues to carry out some 
+or all of the functions it previously performed. Following the restructuring, 
+however,  the  “stripped”  entity  performs  those  functions  under  contract 
+to  a  foreign  associated  enterprise.  The  accurate  delineation  of  the  actual 
+transaction  between  the  foreign  associated  enterprise  and  the  “stripped” 
+entity will determine the actual commercial or financial relations between 
+them, including whether the contractual terms are consistent with the conduct 
+of the parties and other facts of the case. Arm’s length compensation for each 
+party should be consistent w

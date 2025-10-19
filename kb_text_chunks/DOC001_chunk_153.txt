@@ -1,0 +1,78 @@
+protection  or  exploitation  of 
+intangibles to either independent enterprises or associated enterprises.
+
+6.52.  Where  associated  enterprises  other  than  the  legal  owner  perform 
+relevant  functions  that  are  anticipated  to  contribute  to  the  value  of  the 
+intangibles,  they  should  be  compensated  on  an  arm’s  length  basis  for  the 
+functions  they  perform  under  the  principles  set  out  in  Chapters  I-III.  The 
+determination  of  arm’s  length  compensation  for  functional  contributions 
+should consider the availability of comparable uncontrolled transactions, the 
+importance of the functions performed to the creation of intangible value, and 
+the realistically available options of the parties. The specific considerations 
+described in paragraphs 6.53 to 6.58 should also be taken into account.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 263
+
+6.53. 
+In  outsourcing  transactions  between  independent  enterprises,  it 
+is  usually  the  case  that  an  entity  performing  functions  on  behalf  of  the 
+legal owner of the intangible that relate to the development, enhancement, 
+maintenance, protection, and exploitation of the intangible will operate under 
+the  control  of  such  legal  owner  (as  discussed  in  paragraph  1.65).  Because 
+of  the  nature  of  the  relationships  between  associated  enterprises  that  are 
+members  of  an  MNE  group,  however,  it  may  be  the  case  that  outsourced 
+functions  performed  by  associated  enterprises  will  be  controlled  by  an 
+entity other than the legal owner of the intangibles. In such cases, the legal 
+owner of the intangible should also compensate the entity performing control 
+functions related to the development, enhancement, maintenance, protection, 
+and exploitation of intangibles on an arm’s length basis. In assessing what 
+member of the MNE group in fact controls the performance of the relevant 
+functions, principles apply analogous to those for determining control over 
+risk  in  Section  D.1.2.1  of  Chapter  I.  Assessing  the  capacity  of  a  particular 
+entity to exert control and the actual performance of such control functions 
+will be an important part of the analysis.
+
+6.54. 
+If the legal owner neither controls nor performs the functions related 
+to  the  development,  enhancement,  maintenance,  protection  or  exploitation 
+of  the  intangible,  the  legal  owner  would  not  be  entitled  to  any  ongoing 
+benefit  attributable  to  the  outsourced  functions.  Depending  on  the  facts, 
+the arm’s length compensation required to be provided by the legal owner 
+to  other  associated  enterprises  performing  or  controlling  functions  related 
+to  the  development,  enhancement,  maintenance,  protection,  or  exploitation 
+of  intangibles  may  comprise  any  share  of  the  total  return  derived  from 
+exploitation  of  the  intangibles.  A  legal  owner  not  performing  any  relevant 
+function relating to the development, enhancement, maintenance, protection 
+or exploitation of the intangible will therefore not be entitled to any portion 
+of  such  returns  related  to  the  performance  or  control  of  functions  relating 
+to  the  development,  enhancement,  maintenance,  protection  or  exploitation 
+of  the  intangible.  It  is  entitled  to  an  arm’s  length  compensation  for  any 
+functions it actually performs, any assets it actually uses and risks it actually 
+assumes.  See  Sections  B.2.2  to  B.2.3.  In  determining  the  functions  it 
+actually performs, assets it actually uses and the risks it actually assumes the 
+guidance in Section D.1.2 of Chapter I is especially relevant.
+
+6.55.  The  relative  value  of  contributions  to  development,  enhancement, 
+maintenance,  protection,  and  exploitation  of  intangibles  varies  depending 
+on the particular facts of the case. The MNE group member(s) making the 
+more significant contributions in a particular case should receive relatively 
+greater  remuneration.  For  example,  a  company  that  merely  funds  research 
+and development should have a lower anticipated return than if it both funds 
+and  controls  research  and  development.  Other  things  being  equal,  a  still 
+higher anticipated return should be provided if the entity funds, controls, and 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+264 – CHAPTER VI: INTANGIBLES
+
+physically performs the research and development. See also the discussion of 
+funding in Section B.2.2.
+6.56. 
+In  considering  the  arm’s  length  compensation  for  functional 
+contributions  of  various  members  of  the  MNE  group,  certain  important 
+functions  will  have  special  significance.  The  nature  of  these  important 
+functions in any specific case will depend on the facts and circumstances. For 
+self-developed intangibles, or for self-developed or acquired intangibles that 
+serve as a platform for further development activities, these more import

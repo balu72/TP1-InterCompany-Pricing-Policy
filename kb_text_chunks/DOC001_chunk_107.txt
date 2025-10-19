@@ -1,0 +1,94 @@
+ion 
+of  the  other  associated  enterprise,  double  taxation  may  result  because 
+corresponding adjustment relief may not be available if no primary adjustment 
+is made. The mutual agreement procedure is available to resolve difficulties 
+presented  by  compensating  adjustments,  and  competent  authorities  are 
+encouraged to use their best efforts to resolve any double taxation which may 
+arise from different jurisdictional approaches to such year-end adjustments.
+
+C.3.  Concerns with the procedures
+
+4.40.  While corresponding adjustment and mutual agreement procedures 
+have  proved  to  be  able  to  resolve  most  transfer  pricing  conflicts,  serious 
+concerns have been expressed by taxpayers. For example, because transfer 
+pricing  issues  are  so  complex,  taxpayers  have  expressed  concerns  that 
+there  may  not  be  sufficient  safeguards  in  the  procedures  against  double 
+taxation.  These  concerns  are  mainly  addressed  with  the  introduction  in 
+the 2008 update of the OECD Model Tax Convention of a new paragraph 5 
+to  Article  25  which  introduces  a  mechanism  that  allows  taxpayers  to 
+request  arbitration  of  unresolved  issues  that  have  prevented  competent 
+authorities  from  reaching  a  mutual  agreement  within  two  years.  There  is 
+also  in  the  Commentary  on  Article  25  a  favourable  discussion  of  the  use 
+of supplementary dispute resolution mechanisms in addition to arbitration, 
+including mediation and the referral of factual disputes to third party experts.
+
+4.41.  Taxpayers have also expressed fears that their cases may be settled 
+not on their individual merits but by reference to a balance of the results in 
+other cases. An established good practice is that, in the resolution of mutual 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+186 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+agreement  cases,  a  competent  authority  should  engage  in  discussions  with 
+other  competent  authorities  in  a  principled,  fair,  and  objective  manner, 
+with each case being decided on its own merits and not by reference to any 
+balance of results in other cases. To the extent applicable, these Guidelines 
+and proposals detailed in the Report on BEPS Action 14 (bearing in mind 
+the  difference  between  the  minimum  standard  and  best  practices)  are  an 
+appropriate  basis  for  the  development  of  a  principled  approach.  Similarly, 
+there may be a fear of retaliation or offsetting adjustments by the jurisdiction 
+from  which  the  corresponding  adjustment  has  been  requested.  It  is  not 
+the  intention  of  tax  administrations  to  take  retaliatory  action;  the  fears  of 
+taxpayers  may  be  a  result  of  inadequate  communication  of  this  fact.  Tax 
+administrations should take steps to assure taxpayers that they need not fear 
+retaliatory action and that, consistent with the arm’s length principle, each 
+case  is  resolved  on  its  own  merits.  Taxpayers  should  not  be  deterred  from 
+initiating mutual agreement procedures where Article 25 is applicable.
+
+4.42.  Concerns that have been expressed regarding the mutual agreement 
+procedure,  as  it  affects  corresponding  adjustments,  include  the  following, 
+which are discussed separately in the sections below:
+
+1.  Taxpayers may be denied access to the mutual agreement procedure 
+
+in transfer pricing cases;
+
+2.  Time limits under domestic law for the amendments of tax assessments 
+may make corresponding adjustments unavailable if the relevant tax 
+treaty does not override those limits;
+
+3.  Mutual agreement procedure cases may take a long time;
+
+4.  Taxpayer participation may be limited;
+5.  Published guidance may not be readily available to instruct taxpayers 
+
+on how the mutual agreement procedure may be used; and
+
+6.  There may be no procedures to suspend the collection of tax deficiencies 
+or the accrual of interest pending resolution of the mutual agreement 
+procedure case.
+
+C.4.  Guidance, approaches and actions taken to address concerns 
+
+with the mutual agreement procedure
+
+C.4.1.  Denial of access to the mutual agreement procedure in transfer 
+
+pricing cases
+
+4.43.  A fundamental concern with respect to the mutual agreement procedure 
+as it relates to corresponding adjustments is the failure to grant access to the 
+mutual  agreement  procedure  for  transfer  pricing  cases.  The  undertaking  to 
+resolve  by  mutual  agreement  cases  of  taxation  not  in  accordance  with  the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 187
+
+Convention is an integral part of the obligations assumed by a Contracting State 
+in entering into a tax treaty and must be performed in good faith. The failure 
+to grant mutual agreement procedure access with respect to a treaty partner’s 
+transfer pricing adjustments, may frustrate a primary objective of tax treaties. 
+The work on Action 14 of the BEPS Action Plan directly addressed concerns 
+relate

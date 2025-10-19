@@ -1,0 +1,84 @@
+tivity. Although in principle the smallness of a participant’s share 
+of expected benefits is no bar to eligibility, if a participant that is performing 
+all  of  the  subject  activity  is  expected  to  have  only  a  small  fraction  of  the 
+overall  expected  benefits,  it  may  be  questioned  whether  the  reality  of  the 
+arrangements for that party is to pool resources and share risks or whether 
+the appearance of sharing in mutual benefits has been constructed to obtain 
+more favourable tax results. The existence of significant balancing payments 
+arising from a material difference between the parties’ proportionate shares 
+of contributions and benefits may also give rise to questions about whether 
+mutual  benefits  exist  or  whether  the  arrangements  should  be  accurately 
+delineated, taking into account all the economically relevant characteristics, 
+as a funding transaction.
+
+8.40.  As indicated in paragraph 8.33, the guidance in Chapter VI on hard-
+to-value  intangibles  may  equally  apply  in  situations  involving  CCAs.  This 
+will be the case if the objective of the CCA is to develop a new intangible that 
+is hard to value at the start of the development project, but also in valuing 
+contributions  involving  pre-existing  intangibles.  Where  the  arrangements 
+viewed in their totality lack commercial rationality in accordance with the 
+criteria in Section D.2 of Chapter I, the CCA may be disregarded.
+
+C.7. The tax treatment of contributions and balancing payments
+
+8.41.  Contributions, including any balancing payments, by a participant to 
+a CCA should be treated for tax purposes in the same manner as would apply 
+under the general rules of the tax system(s) applicable to that participant if 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+352 – CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS
+
+the contributions were made outside a CCA, to carry on the activity that is 
+the subject of the CCA. The character of the contribution will depend on the 
+nature of the activity being undertaken by the CCA, and will determine how 
+it is recognised for tax purposes.
+
+8.42. 
+In services CCAs, a participant’s contribution to the CCA will often 
+give  rise  to  benefits  in  the  form  of  cost  savings  (in  which  case  there  may 
+not be any income generated directly by the CCA activity). In development 
+CCAs,  the  expected  benefits  to  participants  may  not  accrue  until  some 
+time after contributions are made, and therefore there will be no immediate 
+recognition of income to the participants on their contributions at the time 
+they are made.
+
+8.43.  Any  balancing  payment  should  be  treated  as  an  addition  to  the 
+contribution  of  the  payor  and  as  a  reduction  in  the  contribution  of  the 
+recipient.  As  with  contributions  generally,  the  character  and  tax  treatment 
+of any balancing payments will be determined in accordance with domestic 
+laws, including applicable tax treaties.
+
+D. CCA entry, withdrawal or termination
+
+8.44.  Changes  in  the  membership  of  a  CCA  will  generally  trigger  a 
+reassessment  of  the  proportionate  shares  of  participants’  contributions  and 
+expected benefits. An entity that becomes a participant in an already active 
+CCA might obtain an interest in any results of prior CCA activity, such as 
+completed or work-in-progress intangibles or tangible assets. In such cases, 
+the previous participants effectively transfer part of their respective interests 
+in the results of the prior CCA activity to the new entrant. Under the arm’s 
+length principle, any such transfer of intangibles or tangible assets must be 
+compensated based on an arm’s length value for the transferred interest. Such 
+compensation is referred to in this chapter as a “buy-in payment”.
+
+8.45.  The amount of a buy-in payment should be determined based upon 
+the value (i.e. the arm’s length price) of the interest in the intangibles and/or 
+tangible assets the new entrant obtains, taking into account the new entrant’s 
+proportionate  share  of  the  overall  expected  benefits  to  be  received  under 
+the CCA. There may also be cases where a new participant brings existing 
+intangibles or tangible assets to the CCA, and that balancing payments may 
+be appropriate from the other participants in recognition of this contribution. 
+Any  balancing  payments  to  the  new  entrant  could  be  netted  against  any 
+buy-in payments required, although appropriate records must be kept of the 
+full amounts of the separate payments for tax administration purposes.
+
+8.46.  Similar  issues  could  arise  when  a  participant  leaves  a  CCA.  In 
+particular, a participant that leaves a CCA may dispose of its interest in the 
+results, if any, of past CCA activity (including work in progress) to the other 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS – 353
+
+participants. Any such transfer should be compensated according to the arm’s 

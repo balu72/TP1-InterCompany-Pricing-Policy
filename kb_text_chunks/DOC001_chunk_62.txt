@@ -1,0 +1,75 @@
+ cost plus method may over-emphasise 
+historical  costs.  Some  costs,  for  example  costs  of  materials,  labour,  and 
+transport will vary over a period and in such a case it may be appropriate to 
+average the costs over the period. Averaging also may be appropriate across 
+product groups or over a particular line of production. Further, averaging may 
+be appropriate with respect to the costs of fixed assets where the production 
+or  processing  of  different  products  is  carried  on  simultaneously  and  the 
+volume of activity fluctuates. Costs such as replacement costs and marginal 
+costs also may need to be considered where these can be measured and they 
+result in a more accurate estimate of the appropriate profit.
+
+2.56.  The costs that may be considered in applying the cost plus method are 
+limited to those of the supplier of goods or services. This limitation may raise 
+a problem of how to allocate some costs between suppliers and purchasers. 
+There is a possibility that some costs will be borne by the purchaser in order 
+to diminish the supplier’s cost base on which the mark up will be calculated. 
+In  practice,  this  may  be  achieved  by  not  allocating  to  the  supplier  an 
+appropriate share of overheads and other costs borne by the purchaser (often 
+the parent company) for the benefit of the supplier (often a subsidiary). The 
+allocation should be undertaken based on an analysis of functions performed 
+(taking into account assets used and risks assumed) by the respective parties 
+as provided in Chapter I. A related problem is how overhead costs should be 
+apportioned, whether by reference to turnover, number or cost of employees, 
+or  some  other  criterion.  The  issue  of  cost  allocation  is  also  discussed  in 
+Chapter VIII on cost contribution arrangements.
+
+In  some  cases,  there  may  be  a  basis  for  using  only  variable  or 
+2.57. 
+incremental  (e.g.  marginal)  costs,  because  the  transactions  represent  a 
+disposal of marginal production. Such a claim could be justified if the goods 
+could not be sold at a higher price in the relevant foreign market (see also the 
+discussion of market penetration in Chapter I). Factors that could be taken 
+into account in evaluating such a claim include information on whether the 
+taxpayer has any other sales of the same or similar products in that particular 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 111
+
+foreign market, the percentage of the taxpayers’ production (in both volume 
+and value terms) that the claimed “marginal production” represents, the term 
+of the arrangement, and details of the marketing analysis that was undertaken 
+by the taxpayer or MNE group which led to the conclusion that the goods 
+could not be sold at a higher price in that foreign market.
+
+2.58.  No general rule can be set out that deals with all cases. The various 
+methods for determining costs should be consistent as between the controlled 
+and uncontrolled transactions and consistent over time in relation to particular 
+enterprises. For example, in determining the appropriate cost plus mark up, 
+it may be necessary to take into account whether products can be supplied by 
+various sources at widely differing costs. Associated enterprises may choose 
+to calculate their cost plus basis on a standardised basis. An independent party 
+probably would not accept to pay a higher price resulting from the inefficiency 
+of the other party. On the other hand, if the other party is more efficient than 
+can be expected under normal circumstances, this other party should benefit 
+from that advantage. The associated enterprise may agree in advance which 
+costs would be acceptable as a basis for the cost plus method.
+
+D.2.  Examples of the application of the cost plus method
+2.59.  A is a domestic manufacturer of timing mechanisms for mass-market 
+clocks. A sells this product to its foreign subsidiary B. A earns a 5% gross 
+profit mark up with respect to its manufacturing operation. X, y, and Z are 
+independent domestic manufacturers of timing mechanisms for mass-market 
+watches. X, y, and Z sell to independent foreign purchasers. X, y, and Z earn 
+gross  profit  mark  ups  with  respect  to  their  manufacturing  operations  that 
+range from 3% to 5%. A accounts for supervisory, general, and administrative 
+costs  as  operating  expenses,  and  thus  these  costs  are  not  reflected  in  cost 
+of  goods  sold.  The  gross  profit  mark  ups  of  X,  y,  and  Z,  however,  reflect 
+supervisory, general, and administrative costs as part of costs of goods sold. 
+Therefore,  the  gross  profit  mark  ups  of  X,  y,  and  Z  must  be  adjusted  to 
+provide accounting consistency.
+2.60.  Company C in Country D is a 100% subsidiary of company E, located 
+in Country F. In comparison with Country F, wages are very low in Country D. 
+At  the  expense  and  risk  of  company  E,  television  sets  are  assembled  by 
+company  C.  Al

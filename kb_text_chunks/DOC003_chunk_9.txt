@@ -1,0 +1,70 @@
+ax  purposes  in 
+accordance with the arm’s length principle, based upon information reasonably available 
+at  the  time  of  the  transaction.  Thus,  a  taxpayer  ordinarily  should  give  consideration  to 
+whether its transfer pricing is appropriate for tax purposes before the pricing is established 
+and should confirm the arm’s length nature of its financial results at the time of filing its 
+tax return.
+
+28.  Taxpayers should not be expected to incur disproportionately high costs and burdens 
+in producing documentation. Therefore, tax administrations should balance requests for 
+documentation  against  the  expected  cost  and  administrative  burden  to  the  taxpayer  of 
+creating  it.  where  a  taxpayer  reasonably  demonstrates,  having  regard  to  the  principles 
+of these Guidelines, that either no comparable data exists or that the cost of locating the 
+comparable  data  would  be  disproportionately  high  relative  to  the  amounts  at  issue,  the 
+taxpayer should not be required to incur costs in searching for such data.
+
+D.2. Time frame
+
+29.  Practices regarding the timing of the preparation of the documentation differ among 
+countries. Some countries require information to be finalised by the time the tax return is 
+filed. Others require documentation to be in place by the time the audit commences. There 
+is also a variety in practice regarding the amount of time given to taxpayers to respond to 
+specific tax administration requests for documentation and other audit related information 
+requests. These differences in the time requirements for providing information can add to 
+taxpayers’ difficulties in setting priorities and in providing the right information to the tax 
+administrations at the right time.
+
+TRANSFER PRICING DOCUMENTATION AND COUNTRY-BY-COUNTRY REPORTING © OECD 2015
+
+ ChAPTER v OF ThE TRANSFER PRICING GUIDELINES ON DOCUMENTATION – 17
+
+30.  The best practice is to require that the local file be finalised no later than the due 
+date for the filing of the tax return for the fiscal year in question. The master file should 
+be reviewed and, if necessary, updated by the tax return due date for the ultimate parent of 
+the MNE group. In countries pursuing policies of auditing transactions as they occur under 
+co-operative compliance programmes, it may be necessary for certain information to be 
+provided in advance of the filing of the tax return.
+
+31.  with regard to the Country-by-Country Report, it is recognised that in some instances 
+final statutory financial statements and other financial information that may be relevant 
+for the country-by-country data described in Annex III may not be finalised until after 
+the  due  date  for  tax  returns  in  some  countries  for  a  given  fiscal  year.  Under  the  given 
+circumstances,  the  date  for  completion  of  the  Country-by-Country  Report  described  in 
+Annex III to Chapter v of these Guidelines may be extended to one year following the last 
+day of the fiscal year of the ultimate parent of the MNE group.
+
+D.3. Materiality
+
+32.  Not  all  transactions  that  occur  between  associated  enterprises  are  sufficiently 
+material to require full documentation in the local file. Tax administrations have an interest 
+in seeing the most important information while at the same time they also have an interest 
+in seeing that MNEs are not so overwhelmed with compliance demands that they fail to 
+consider and document the most important items. Thus, individual country transfer pricing 
+documentation requirements based on Annex II to Chapter v of these Guidelines should 
+include  specific  materiality  thresholds  that  take  into  account  the  size  and  the  nature  of 
+the local economy, the importance of the MNE group in that economy, and the size and 
+nature of local operating entities, in addition to the overall size and nature of the MNE 
+group. Measures of materiality may be considered in relative terms (e.g. transactions not 
+exceeding a percentage of revenue or a percentage of cost measure) or in absolute amount 
+terms (e.g. transactions not exceeding a certain fixed amount). Individual countries should 
+establish their own materiality standards for local file purposes, based on local conditions. 
+The materiality standards should be objective standards that are commonly understood and 
+accepted in commercial practice. See paragraph 18 for the materiality standards applicable 
+in completing the master file.
+
+33.  A  number  of  countries  have  introduced  in  their  transfer  pricing  documentation 
+rules simplification measures which exempt small and medium-sized enterprises (SMEs) 
+from  transfer  pricing  documentation  requirements  or  limit  the  information  required  to 
+be provided by such enterprises. In order not to impose on taxpayers costs and burdens 
+disproportionate to the circumstances, it is recommended to not require SMEs to produce 
+the  amount  of  documentation  that  might  be  expected  from  large

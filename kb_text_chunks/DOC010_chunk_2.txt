@@ -1,0 +1,114 @@
+
+
+ 
+ 
+ 
+regulations” or “the Regulations”]1. The TP documentation related 
+provisions  are  specifically  covered  under  section  92D  read  along 
+with  Rule  10D.
+
+1.1.4  Objective  of  transfer  pricing  documentation  (referred  to  as  “the 
+Documentation”)  –  The  intent  of  transfer  pricing  regulations  is  to 
+prevent  taxpayer  from  entering  into  transaction  with  associated 
+enterprises  which  is  not  at  arm’s  length.  Therefore,  the  main 
+objective  of  the  regulations  is  that  the  taxpayer  is  required  to 
+maintain  appropriate  documentation  at  the  time  of  entering  into 
+intercompany transactions to show that the transactions undertaken 
+are at arm’s length. Also, upon request, producing such documents 
+in  a  timely  manner  to  the  Transfer  Pricing  Officer  (“TPO”)  helps 
+the  taxpayer  to  discharge  the  burden  of  proof  cast  upon  him  by 
+the  law.
+
+1.1.5  According  to  the  OECD,  following  are  the  main  objectives 
+of  transfer  pricing  documentation:
+
+•  To  ensure  that  taxpayers  give  appropriate  consideration 
+to  transfer  pricing  requirements  in  establishing  prices 
+and other conditions for transactions between associated 
+enterprises  and  in  reporting  the  income  derived  from 
+such  transactions  in  their  tax  returns;
+
+•  To  provide  tax  administrations  with  the  information 
+necessary  to  conduct  an  informed  transfer  pricing  risk 
+assessment;  and
+
+•  To  provide  tax  administrations  with  useful  information 
+to employ in conducting an appropriately thorough audit 
+of  the  transfer  pricing  practices  of  entities  subject  to  tax 
+in  their  jurisdiction,  although  it  may  be  necessary  to 
+supplement the documentation with additional information 
+as  the  audit  progresses.
+
+1.2 
+
+Importance  of  TP  Documentation
+
+1.2.1  Over  the  period,  since  the  time  Indian  transfer  pricing 
+regulations  came  into  existence,  the  documentation  has  been  the 
+
+  All  references  to  Sections  are  Sections  contained  in  the  Income-tax  Act,  1961 
+1 
+unless  otherwise  indicated.  Similarly,  all  references  to  Rules  are  to  Rules  contained  in 
+the  Income-tax  Rules,  1962  unless  otherwise  indicated.
+
+I-98
+
+Transfer Pricing – A Compendium 
+ 
+ 
+Transfer Pricing Documentation and its Critical Importance in Practice
+
+most  crucial  aspect  in  evaluating  the  arm’s  length  nature  of  the 
+transaction.  The  Indian  tax  authorities  have  given  due  importance 
+to  the  documentation  prepared  and  maintained  by  the  taxpayer 
+before  concluding  the  arm’s  length  nature  of  the  inter-company 
+transaction.  The  Delhi  High  Court  in  case  of  Maruti  Suzuki  India 
+Limited2 held that during transfer pricing proceedings, the revenue 
+authority can reject the ALP computed by the taxpayer and determine 
+it  only  when  the  revenue  authority  finds  that  the  taxpayer  has 
+not  discharged  its  responsibility  of  computing  ALP  in  consonance 
+with the relevant provisions of the Act. Therefore, maintaining TP 
+documentation  is  important  from  various  perspective  such  as:
+
+a. 
+Demonstrate  at  ALP:  The  ultimate  endeavour  of  the 
+taxpayer  is  to  demonstrate  that  the  intercompany  transactions  are 
+undertaken  in  accordance  with  the  arm’s  length  principle.  Hence, 
+in  order  to  demonstrate  intercompany  transactions  to  be  at  ALP, 
+the  taxpayer  need  to  document  analysis  undertaken,  assumptions 
+made and detailed and methodological search process to substantiate 
+comparable  data.
+
+b. 
+Discharge  burden  of  Proof:  Prima  facie,  it  provides  an 
+assurance  to  the  tax  authorities  that  the  taxpayer  has  maintained 
+required documentation as mandated and duly undertaken required 
+analysis  to  come  to  conclusion  that  the  intercompany  transaction 
+is  at  arm’s  length.
+
+c. 
+Syncing  various  TP  documentation  -  Another  important 
+aspect is to align the information shared through various compliance 
+requirements.  The  taxpayer  needs  to  ensure  that  the  information 
+presented  in  Documentation  is  in  sync  with  Form  3CEB  as  well 
+as  with  master  file  and  CbC  report.  Further,  wherever  possible  a 
+reference  of  specific  clauses  of  master  file  or  CbC  report  can  be 
+given  in  the  Documentation  against  relevant  information. 
+
+d. 
+Different  regulations  pertaining  to  inter-company  trans-
+actions:  The  transfer  pricing  regulations  in  India  co-exist  with  the 
+provisions under the Excise and Customs Regulations, the Companies 
+Act,  2013  and  the  SEBI  Guidelines.  One  of  the  intents  of  these 
+regulations is to ensure transactions between related parties are at 
+arm’s length. Hence, the importance of preparation and maintenance 
+of  appropriate  documentation  to  demonstrate  arm’s  length  nature 
+of  such  transactions  is  manifold.
+
+2 
+
+  W.P.(C)  6876/2008.
+
+I-99
+
+1.3  What  are  t

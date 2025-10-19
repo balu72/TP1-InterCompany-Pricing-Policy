@@ -1,0 +1,291 @@
+ 
+and valuable intangible
+
+Operating profit before overhead 
+expenses
+
+Overhead expenses
+
+Operating profit
+
+A
+
+100
+
+60
+
+40
+
+2
+
+30
+
+8
+
+3
+
+5
+
+B
+
+300
+
+170
+
+130
+
+4
+
+40
+
+86
+
+6
+
+80
+
+Combined Operating Profit before overhead expenses
+
+Profit already allocated (initial returns for manufacturing transactions)
+
+Residual profit before overhead expenses to be split in proportion to  
+A’s and B’s expenditure in relation to the unique and valuable intangible
+
+Residual profit allocated to A:
+
+Residual profit allocated to B:
+
+71 × 30/70
+
+71 × 40/70
+
+Total profits allocated to A:
+
+Total profits allocated to B:
+
+Total
+
+6 (initial return) + 30.43 (residual)  
+– 3 (overhead expenses)
+
+17 (initial return) + 40.57 (residual)  
+– 6 (overhead expenses)
+
+A + B combined
+
+400
+
+230
+
+170
+
+6
+
+70
+
+94
+
+9
+
+85
+
+94
+
+23
+
+71
+
+30.43
+
+40.57
+
+33.43
+
+51.57
+
+85
+
+75. 
+As shown in the above example, excluding some specific items from 
+the determination of the relevant profits to be split implies that each party 
+remains responsible for its own expenses in relation to it. As a consequence, 
+the decision whether or not to exclude some specific items must be consistent 
+with the accurate delineation of the transaction.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+484 – ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD
+
+Scenario 2
+
+As another example, in some cases it may be appropriate to back out 
+76. 
+a  category  of  expenses  to  the  extent  that  the  profit  splitting  factor(s)  used 
+in  the  residual  profit  split  analysis  relies  on  those  expenses.  For  example, 
+in  cases  where  relative  expenditure  contributing  to  the  development  of  a 
+unique and valuable intangible is determined to be the most appropriate profit 
+splitting factor, residual profits can be based on operating profits before that 
+expenditure. After determining the split of residual profits, each associated 
+enterprise  then  subtracts  its  own  expenditure.  This  can  be  illustrated  as 
+follows. Assume the facts are the same as in Scenario 1 to this example in 
+paragraph 74 above and assume the overhead expenses are not excluded from 
+the determination of the residual profit to be split.
+
+Step one: determining the basic return for the manufacturing activities 
+(Cost of Goods Sold + 10% in this example)
+
+Same as in Scenario 1, Step 1 above.
+
+Step two: determining the residual profit to be split
+
+a) If it is determined as the operating profit after expenditure in 
+relation to the unique and valuable intangible:
+
+Same as in Scenario 1, Step 2, case a.
+
+b) If it is determined as the operating profit before expenditure in 
+relation to the unique and valuable intangible:
+
+Sales
+
+Cost Of Goods Sold
+
+Gross Profit
+
+Overhead expenses
+
+Other operating expenses
+
+Operating profit before expenditure 
+in relation to the unique and valuable 
+intangible
+
+Expenditure in relation to the unique 
+and valuable intangible
+
+Operating Profit
+
+A
+
+100
+
+60
+
+40
+
+3
+
+2
+
+35
+
+30
+
+5
+
+B
+
+300
+
+170
+
+130
+
+6
+
+4
+
+120
+
+40
+
+80
+
+A + B combined
+
+400
+
+230
+
+170
+
+9
+
+6
+
+155
+
+70
+
+85
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX II TO CHAPTER II: EXAMPLES ON THE PROFIT SPLIT METHOD – 485
+
+Relevant Operating Profit before Expenditure in relation to the unique 
+and valuable intangible
+
+Profit already allocated (initial returns for manufacturing transactions)
+
+Residual profit before Expenditure in relation to the unique and 
+valuable intangible to be split in proportion to A’s and B’s expenditure 
+in relation to the unique and valuable intangible
+
+Residual profit allocated to A:
+
+132 × 30/70
+
+Residual profit allocated to B:
+
+132 × 40/70
+
+Total profits allocated to A:
+
+Total profits allocated to B:
+
+Total
+
+6 (initial return) + 56.57 (residual) 
+– 30 (expenditure in relation to the 
+unique and valuable intangible)
+
+17 (initial return) + 75.43 (residual) 
+– 40 (expenditure in relation to the 
+unique and valuable intangible)
+
+155
+
+23
+
+132
+
+56.57
+
+75.43
+
+32.57
+
+52.43
+
+85
+
+i.e. A and B are allocated the same profits as in the case where the relevant 
+profit  to  be  split  is  determined  as  the  operating  profit  after  expenditure  in 
+relation to the unique and valuable intangible, see case a) above.
+
+This example illustrates the fact that, when the profit splitting factor 
+77. 
+used  to  split  the  residual  profit  relies  on  a  category  of  expenses  incurred 
+during  the  period,  it  is  irrelevant  whether  the  residual  profit  to  be  split  is 
+determined before the expenses are deducted by each party, or whether the 
+residual profit to be split is determined after the expenses are deducted. The 
+outcome  can  however  be  different  in  the  case  where  the  splitting  factor  is 
+based on the accumulated expenditure of the prior as well as current years.
+
+Example 15
+
+78. 
+Company  A,  resident  in  Country  A,  and  Company  B,  resident  in 
+Country B, are members of an MNE group. Both companies undertake the 
+design and manufacturing of products and their activities in thi

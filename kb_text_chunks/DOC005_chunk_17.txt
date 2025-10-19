@@ -1,0 +1,214 @@
+                  
+                     
+                 
+                 
+                     © This is the official website of Central Board of Direct Taxes (CBDT), Department of Revenue, Ministry of Finance, Government of India. 
+
+                 
+                 
+                     
+                         India Code  
+                         INDIA  
+                         STQC  
+                     
+                     
+                                                      
+                             Follow Us On:                            
+                         
+                         
+                     
+                         
+                     
+                     
+                         
+                     
+                     
+                         
+                     
+                     
+                         
+                     
+                 
+
+                     
+
+                 
+
+             
+         
+
+     
+     
+         
+              Visitor counter :    0 1 5 8 0 5 3 5 5 5 
+         
+     
+ 
+
+
+
+ 
+ 
+     
+         
+            
+            
+
+             
+                 Download 
+             
+         
+
+         
+             
+                
+             
+
+             
+                
+             
+             
+
+                
+             
+
+             
+               
+             
+
+            
+         
+
+         
+         
+         
+     
+     
+     
+
+         
+             
+                
+             
+             
+                
+             
+             
+             
+                
+             
+         
+     
+
+    
+     
+         X 
+         
+         
+     
+    
+ 
+
+
+ 
+    iframe.mibew-chat-frame { width:653px !important; z-index:9999 !important;  }
+    div.mibew-chat-frame-toggle-on { right:658px;   left: auto !important; z-index: 9999 !important;    }
+   
+    @media only screen and (max-width : 768px) {
+       
+ 
+        iframe.mibew-chat-frame { width:92% !important;  z-index:9999 !important; height: 443px !important;  }
+    div.mibew-chat-frame-toggle-on { height: 443px !important; right:auto;   left: 0px !important; width: 8% !important;   background-position: right center;    }
+
+    }
+
+ 
+ 
+    $(window).resize(function () {
+        windowInnerWidthBanners = $(window).innerWidth();
+        $('.owl-stage-outer').css({
+            "max-width": windowInnerWidthBanners - 35 + "px",
+        });
+    });
+
+    $(document).ready(function () {
+        windowInnerWidthBanners = $(window).innerWidth();
+        $('.owl-stage-outer').css({
+            "max-width": windowInnerWidthBanners - 35 + "px",
+        });
+    });
+ 
+
+ 
+    function FileShowType(fileL) {
+        $("#" + fileL).show();
+    };
+    $(".fileopenclose").click(function () {
+        $(".FileOpenBx").hide();
+    });
+    $("a.common_model_popup_close").click(function () {
+        $("#CommonModelPopup").hide();
+        //$("div.common_model_popup_content").html('');
+    });
+ 
+
+
+
+
+
+
+ 
+
+
+                 
+             
+             
+	
+                
+                     //<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0xC7C81F18AF11465B142AC2B992DB3E649995690C3666F1A9799C9E6EEAEC20CF7FE677E98533D12E6B7617BD7427C6AD762ED4A63B4D1BFB0554815B5A3697AA,19 Oct 2025 04:47:38 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+         
+                
+            
+ 
+        
+
+ 
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000; IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{5d5a1cf6-fa5e-49b7-aa9b-bf6d76dfeca1}",itemId: 243,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: true,forceCheckout: true,rootFolderUrl: "\u002fPages",itemPermissions:{High:16,Low:200769}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyO

@@ -1,0 +1,136 @@
+nistration may be entitled to request.
+
+8.52.  The following information would be relevant and useful concerning 
+the initial terms of the CCA:
+
+a)  a list of participants
+
+b)  a  list  of  any  other  associated  enterprises  that  will  be  involved 
+with the CCA activity or that are expected to exploit or use the 
+results of the subject activity
+
+c) 
+
+the  scope  of  the  activities  and  specific  projects  covered  by  the 
+CCA, and how the CCA activities are managed and controlled
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VIII: COST CONTRIBUTION ARRANGEMENTS – 355
+
+d)  the duration of the arrangement
+
+e) 
+
+f) 
+
+g) 
+
+h) 
+
+the  manner  in  which  participants’  proportionate  shares  of 
+expected benefits are measured, and any projections used in this 
+determination
+
+the manner in which any future benefits (such as intangibles) are 
+expected to be exploited
+
+the  form  and  value  of  each  participant’s  initial  contributions, 
+and  a  detailed  description  of  how  the  value  of  initial  and 
+ongoing contributions is determined (including any budgeted vs 
+actual  adjustments)  and  how  accounting  principles  are  applied 
+consistently to all participants in determining expenditures and 
+the value of contributions
+
+the  anticipated  allocation  of  responsibilities  and  tasks,  and  the 
+mechanisms for managing and controlling those responsibilities and 
+tasks, in particular, those relating to the development, enhancement, 
+maintenance, protection or exploitation of intangibles or tangible 
+assets used in the CCA activity
+
+i) 
+
+the procedures for and consequences of a participant entering or 
+withdrawing from the CCA and the termination of the CCA
+
+j)  any provisions for balancing payments or for adjusting the terms 
+of the arrangement to reflect changes in economic circumstances.
+
+8.53.  Over the duration of the CCA term, the following information could 
+be useful:
+
+a)  any  change  to  the  arrangement  (e.g.  in  terms,  participants, 
+
+subject activity), and the consequences of such change
+
+b)  a comparison between projections used to determine the share of 
+expected benefits from the CCA activity with the actual share of 
+benefits (however, regard should be had to paragraph 3.74)
+
+c) 
+
+the annual expenditure incurred in conducting the CCA activity, 
+the  form  and  value  of  each  participant’s  contributions  made 
+during  the  CCA’s  term,  and  a  detailed  description  of  how  the 
+value of contributions is determined.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 357
+
+Chapter IX 
+
+Transfer pricing aspects of business restructurings
+
+Introduction
+
+A. Scope
+
+A.1. Business restructurings that are within the scope of this chapter
+
+9.1. 
+There  is  no  legal  or  universally  accepted  definition  of  business 
+restructuring. In the context of this chapter, business restructuring refers to the 
+cross-border reorganisation of the commercial or financial relations between 
+associated enterprises, including the termination or substantial renegotiation 
+of existing arrangements. Relationships with third parties (e.g. suppliers, sub-
+contractors, customers) may be a reason for the restructuring or be affected 
+by it.
+
+9.2. 
+Business  restructurings  may  often  involve  the  centralisation  of 
+intangibles,  risks,  or  functions  with  the  profit  potential  attached  to  them. 
+They may typically consist of:
+
+•  Conversion  of  full-fledged  distributors  (that  is,  enterprises  with 
+a  relatively  higher  level  of  functions  and  risks)  into  limited-risk 
+distributors,  marketers,  sales  agents,  or  commissionnaires  (that  is, 
+enterprises with a relatively lower level of functions and risks) for a 
+foreign associated enterprise that may operate as a principal,
+
+•  Conversion  of  full-fledged  manufacturers  (that  is,  enterprises 
+with  a  relatively  higher  level  of  functions  and  risks)  into  contract 
+manufacturers  or  toll  manufacturers  (that  is,  enterprises  with  a 
+relatively lower level of functions and risks) for a foreign associated 
+enterprise that may operate as a principal,
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ 
+358 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+•  Transfers  of  intangibles  or  rights  in  intangibles  to  a  central  entity 
+
+(e.g. a so-called “IP company”) within the group,
+
+•  The concentration of functions in a regional or central entity, with 
+a corresponding reduction in scope or scale of functions carried out 
+locally;  examples  may  include  procurement,  sales  support,  supply 
+chain logistics.
+
+9.3. 
+There  are  also  business  restructurings  whereby  more  intangibles 
+or  risks  are  allocated  to  operational  entities  (e.g.  to  manufacturers  or 
+distributors). Business restructurings can also consist of the rationalisation, 
+specialisation or de-specialisation of operations (manufacturing sites and/or 
+processes, research and development activities, sales, ser

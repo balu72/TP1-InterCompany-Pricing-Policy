@@ -1,0 +1,115 @@
+  operates  new  department  stores  in  Country  B,  obtaining  profit 
+margins substantially higher than those of otherwise comparable retailers in 
+Country B.
+
+68. 
+A  detailed  functional  analysis  reveals  that  Company  S  uses  in  its 
+operations in Country B, the same know-how and unique marketing concept 
+as the ones used by Company P in its operations in Country A. Under these 
+circumstances, the conduct of the parties reveals that a transaction has taken 
+place consisting in the transfer from Company P to Company S of the right 
+to  use  the  know-how  and  unique  marketing  concept.  Under  comparable 
+circumstances, independent parties would have concluded a license agreement 
+granting Company S the right to use in Country B, the know-how and unique 
+marketing  concept  developed  by  Company  P.  Accordingly,  one  possible 
+remedy  available  to  the  tax  administration  is  a  transfer  pricing  adjustment 
+imputing a royalty payment from Company S to Company P for the use of 
+these intangibles.
+
+Example 20
+
+Ilcha  is  organised  in  Country  A.  The  Ilcha  group  of  companies 
+69. 
+has  for  many  years  manufactured  and  sold  Product  Q  in  countries  B  and 
+C through a wholly owned subsidiary, Company S1, which is organised in 
+Country  B.  Ilcha  owns  patents  related  to  the  design  of  Product  Q  and  has 
+developed a unique trademark and other marketing intangibles. The patents 
+and trademarks are registered by Ilcha in Countries B and C.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+622 – ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES
+
+70. 
+For sound business reasons, Ilcha determines that the group’s business 
+in Countries B and C would be enhanced if those businesses were operated 
+through  separate  subsidiaries  in  each  country.  Ilcha  therefore  organises  in 
+Country  C  a  wholly  owned  subsidiary,  Company  S2.  With  regard  to  the 
+business in Country C:
+
+•  Company  S1  transfers  to  Company  S2  the  tangible  manufacturing 
+and marketing assets previously used by Company S1 in Country C.
+
+• 
+
+Ilcha  and  Company  S1  agree  to  terminate  the  agreement  granting 
+Company S1 the following rights with relation to Product Q: the right 
+to manufacture and distribute Product Q in Country C; the right to 
+use the patents and trademark in carrying out its manufacturing and 
+distribution activities in Country C; and, the right to use customer 
+relationships, customer lists, goodwill and other items in Country C 
+(hereinafter, “the Rights”).
+
+• 
+
+Ilcha enters into new, long-term licence agreements with Company S2 
+granting it the Rights in Country C.
+
+The newly formed subsidiary thereafter conducts the Product Q business 
+in  Country  C,  while  Company  S1  continues  to  conduct  the  Product  Q 
+business in Country B.
+
+71. 
+Assume that over the years of its operation, Company S1 developed 
+substantial business value in Country C and an independent enterprise would 
+be willing to pay for that business value in an acquisition. Further assume 
+that,  for  accounting  and  business  valuation  purposes,  a  portion  of  such 
+business value would be treated as goodwill in a purchase price allocation 
+conducted with regard to a sale of Company S1’s Country C business to an 
+independent party.
+
+72. 
+Under the facts and circumstances of the case, there is value being 
+transferred  to  Company  S2  through  the  combination  of  (i)  the  transfer  of 
+part of Company S1’s tangible business assets to Company S2 in Country C, 
+and (ii) the surrendering by Company S1 of the Rights and the subsequent 
+granting  of  the  Rights  by  Ilcha  to  Company  S2.  There  are  three  separate 
+transactions:
+
+• 
+
+• 
+
+the  transfer  of  part  of  Company  S1’s  tangible  business  assets  to 
+Company S2 in Country C;
+
+the surrendering by Company S1 of its rights under the licence back 
+to Ilcha; and
+
+• 
+
+the subsequent granting of a licence by Ilcha to Company S2.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX I TO CHAPTER VI: EXAMPLES ON INTANGIBLES – 623
+
+For  transfer  pricing  purposes,  the  prices  paid  by  Ilcha  and  by 
+Company S2 in connection with these transactions should reflect the value of 
+the business which would include amounts that may be treated as the value of 
+goodwill for accounting purposes.
+
+Example 21
+
+73. 
+Första  is  a  consumer  goods  company  organised  and  operating  in 
+Country  A.  Prior  to  year  1,  Första  produces  Product  y  in  Country  A  and 
+sells it through affiliated distribution companies in many countries around 
+the world. Product y is well recognised and attracts a premium compared to 
+its competitors, to which Första is entitled as the legal owner and developer of 
+the trademark and related goodwill giving rise to that premium.
+
+74. 
+In year 2, Första organises Company S, a wholly owned subsidiary, 
+in Country B. Company S acts as a super distributor and invoicing centre. 
+Första continues to ship Product y directly

@@ -1,0 +1,134 @@
+ged between the associated enterprises. This adjustment would 
+be made before the tax return is filed.
+
+Contribution analysis
+
+An  analysis  used  in  the  profit  split  method  under  which  the  relevant 
+profits  from  controlled  transactions  are  divided  between  the  associated 
+enterprises based upon the relative value of the contributions made by each 
+of the associated enterprises participating in those transactions, supplemented 
+where  possible  by  external  market  data  that  indicate  how  independent 
+enterprises would have divided profits in similar circumstances.
+
+Controlled transactions
+
+Transactions between two enterprises that are associated enterprises with 
+
+respect to each other.
+
+Corresponding adjustment
+
+An  adjustment  to  the  tax  liability  of  the  associated  enterprise  in  a 
+second tax jurisdiction made by the tax administration of that jurisdiction, 
+corresponding to a primary adjustment made by the tax administration in a 
+first tax jurisdiction, so that the allocation of profits by the two jurisdictions 
+is consistent.
+
+Cost contribution arrangement (CCA)
+
+A  CCA  is  a  contractual  arrangement  among  business  enterprises 
+to  share  the  contributions  and  risks  involved  in  the  joint  development, 
+production or the obtaining of intangibles, tangible assets or services with the 
+understanding that such intangibles, tangible assets or services are expected 
+to create benefits for the individual businesses of each of the participants.
+
+Cost plus mark-up
+
+A mark-up that is measured by reference to margins computed after the 
+direct and indirect costs incurred by a supplier of property or services in a 
+transaction.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+22 – GLOSSARy
+
+Cost plus method
+
+A  transfer  pricing  method  using  the  costs  incurred  by  the  supplier  of 
+property (or services) in a controlled transaction. An appropriate cost plus 
+mark-up is added to this cost, to make an appropriate profit in light of the 
+functions performed (taking into account assets used and risks assumed) and 
+the market conditions. What is arrived at after adding the cost plus mark up 
+to the above costs may be regarded as an arm’s length price of the original 
+controlled transaction.
+
+Direct-charge method
+
+A  method  of  charging  directly  for  specific  intra-group  services  on  a 
+
+clearly identified basis.
+
+Direct costs
+
+Costs that are incurred specifically for producing a product or rendering 
+
+service, such as the cost of raw materials.
+
+Functional analysis
+
+The analysis aimed at identifying the economically significant activities 
+and responsibilities undertaken, assets used or contributed, and risks assumed 
+by the parties to the transactions.
+
+Global formulary apportionment
+
+An  approach  to  allocate  the  global  profits  of  an  MNE  group  on  a 
+consolidated basis among the associated enterprises in different jurisdictions 
+on the basis of a predetermined formula.
+
+Gross profits
+
+The gross profits from a business transaction are the amount computed 
+by  deducting  from  the  gross  receipts  of  the  transaction  the  allocable 
+purchases or production costs of sales, with due adjustment for increases or 
+decreases in inventory or stock-in-trade, but without taking account of other 
+expenses.
+
+Independent enterprises
+
+Two enterprises are independent enterprises with respect to each other if 
+
+they are not associated enterprises with respect to each other.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+GLOSSARy – 23
+
+Indirect-charge method
+
+A method of charging for intra-group services based upon cost allocation 
+
+and apportionment methods.
+
+Indirect costs
+
+Costs of producing a product or service which, although closely related 
+to the production process, may be common to several products or services 
+(for example, the costs of a repair department that services equipment used 
+to produce different products).
+
+Intra-group service
+
+An activity (e.g. administrative, technical, financial, commercial, etc.) for 
+which an independent enterprise would have been willing to pay or perform 
+for itself.
+
+Intentional set-off
+
+A  benefit  provided  by  one  associated  enterprise  to  another  associated 
+enterprise within the group that is deliberately balanced to some degree by 
+different benefits received from that enterprise in return.
+
+Marketing intangible
+
+An  intangible  (within  the  meaning  of  paragraph  6.6)  that  relates  to 
+marketing  activities,  aids  in  the  commercial  exploitation  of  a  product  or 
+service and/or has an important promotional value for the product concerned. 
+Depending on the context, marketing intangibles may include, for example, 
+trademarks,  trade  names,  customer  lists,  customer  relationships,  and 
+proprietary market and customer data that is used or aids in marketing and 
+selling goods or services to customers.
+
+Multinational enterprise group (MNE group)
+
+A group of associated companies with business establishmen

@@ -1,0 +1,103 @@
+ jurisdictions in which an MNE group operates, for use in a high level transfer 
+pricing risk assessment, assessment of other BEPS-related risks, and economic and statistical analysis, if 
+appropriate. However, this information can only be used effectively for these purposes if the data contained 
+in CbC reports prepared by MNEs is robust and accurate.  
+
+of 
+
+common 
+
+the  most 
+
+Tax administrations have encountered a number of concerns with the data in CbC reports filed to date, 
+at 
+and 
+https://www.oecd.org/tax/beps/common-errors-mnes-cbc-reports.pdf.  MNEs  within  the  scope  of  CbC 
+reporting should review these descriptions and ensure that these errors are not repeated in CbC reports 
+they  are  preparing.  Where  a  tax  administration  identifies  that  a  CbC  report  filed  with  it  contains  errors 
+(including but not limited to those described on the OECD website) it should require these errors to be 
+corrected by the Reporting MNE. 
+
+the  OECD  website 
+
+described 
+
+these 
+
+are 
+
+on 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+34 |   
+
+Note 
+
+1 Question 3.1 in section IV of this guidance permits jurisdictions to allow the Reporting Entity of an 
+MNE Group with a short accounting period beginning on or after 1 January 2016 and ending before 
+31 December 2016 to file the required CbC report by the same deadline as those with a fiscal year 
+ending on 31 December 2016. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+  | 35 
+
+5 Issues relating to the sharing 
+
+mechanism for the CbC report (EOI, 
+surrogate filing and local filing) 
+
+Transitional filing options for MNEs (“parent surrogate filing”) (June 2016; 
+updated July 20171) 
+
+1.1 Can MNE Groups with an Ultimate Parent Entity resident in a jurisdiction whose CbC 
+reporting legal framework is in effect for Reporting Periods later than 1 January 2016 
+voluntarily file the CbC report for fiscal periods commencing on or from 1 January 2016 
+in that jurisdiction? What is the impact of such filing on local filing obligations in other 
+jurisdictions?  
+
+All OECD and G20 countries, as well as others, have committed to implementing the minimum standard 
+of  CbC  reporting  agreed  in  the  Action  13  Report.  The  Action 13  Report  recommended  that  countries 
+implement a legal requirement for CbC reporting with respect to MNEs’ fiscal periods commencing on or 
+from 1 January 2016. At the same time, the Action 13 Report recognises that “some jurisdictions may need 
+time to follow their particular domestic legislative process in order to make necessary adjustments to the 
+law.” Where jurisdictions are implementing CbC reporting but will not be able to implement with respect to 
+the fiscal period commencing from 1 January 2016, this therefore gives rise to a transition issue. Where 
+other jurisdictions introduce a local filing obligation (which is an option but not a requirement under the 
+Action  13  minimum  standard)  and  do  not  otherwise  provide  any  transition  relief  to  address  this 
+issue - which some countries have done recognising the differences in legislative processes as noted in 
+the Report - there is a need to issue guidance as to the local filing obligations that may arise during such 
+a period.  
+
+In  such  situations,  jurisdictions  that  will  not  be  able  to  implement  with  respect  to  fiscal  periods  from 
+1 January 2016 may be able to accommodate voluntary filing for UPEs resident in their jurisdiction. This 
+would allow the UPE of an MNE Group resident in those jurisdictions to voluntarily file their CbC report for 
+the  fiscal  periods  commencing  on  or  from  1  January  2016  in  their  jurisdiction  of  tax  residence.  This  is 
+referred to as “parent surrogate filing” because it is a form of surrogate filing, the framework for which is 
+set out in the Action 13 Report. As such, parent surrogate filing does not alter the timelines or the minimum 
+standard, and thus ensures the integrity of the agreement reached in the Action 13 Report. 
+
+Where surrogate filing (including parent surrogate filing) is available, it will mean that there are no local 
+filing obligations for the particular MNE in any jurisdiction which otherwise would require local filing in which 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+36 |   
+
+the  MNE  has  a  Constituent  Entity  (herein  referred  to  as  the  Local  Jurisdiction).  This  is  subject  to  the 
+following conditions:  
+
+1. 
+
+the  UPE  has  made  available  a  CbC  report  conforming  to  the  requirements  of  the  Action  13 
+Report to the tax authority of its jurisdiction of tax residence, by the filing deadline (i.e. 12 months 
+after the last day of the Reporting Fiscal Year of the MNE Group); and 
+
+2.  by the first filing deadline of the CbC report, the jurisdiction of tax residence of the UPE must 
+have its

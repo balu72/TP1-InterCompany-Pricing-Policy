@@ -1,0 +1,89 @@
+in the 
+stateless entity category, the field in table 2 for "tax jurisdiction of organisation or incorporation if different 
+from  tax  jurisdiction  of  residence"  should  indicate  the  jurisdiction  under  whose  laws  the  partnership  is 
+formed/ organised.  
+
+It  may  be  advisable  for  the  MNE  to  provide  an  explanation  in  the  notes  section  of  the  report  on  the 
+partnership structure and on the stateless entities. For instance, a note in the Additional Information section 
+may indicate that a partnership’s “stateless income” is includable and taxable in the partner jurisdiction.  
+
+Where a partnership is the UPE, for the purpose of determining where it is required to file the CbC report 
+in  its capacity  as the UPE, the jurisdiction under whose laws the partnership  is  formed /  organised will 
+govern if there is no jurisdiction of tax residence.  
+
+A permanent establishment of a partnership would be included in the CbC report in the same manner as 
+any other permanent establishment.  
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+18 |   
+
+Accounting principles/standards for determining the existence of and 
+membership of a group (April 2017)  
+
+3.1 To determine the existence of a “Group” and the membership of the Group under 
+Article 1.1 of the model legislation in the Action 13 report: 
+
+a)  If the equity interests of the relevant enterprise* are traded on a public securities 
+
+exchange, should the applicable accounting standards be the accounting standards 
+that currently apply to that enterprise for consolidated financial statement purposes? 
+
+b)  If the equity interests of the relevant enterprise* are not traded on a public securities 
+
+exchange, can the applicable accounting standards be chosen provided that the choice 
+is either (i) local GAAP in the jurisdiction of the enterprise assumed to be listed or (ii) 
+International Financial Reporting Standards (IFRS), and provided the method chosen is 
+used consistently? 
+
+*Relevant enterprise would be the Ultimate Parent Entity under Article 1.6 of the model 
+legislation in the Action 13 report. 
+
+The Action 13 report does not specify that any particular accounting standard's consolidation rules be used. 
+It is expected that:  
+
+a) 
+
+b) 
+
+If the equity interests of the relevant enterprise, which would be an UPE under Article 1.6 of the model 
+legislation, are traded on a public securities exchange, jurisdictions will require the Group to use the 
+consolidation rules in the accounting standards already used by the Group.  
+
+If the equity interests of the relevant enterprise, which would be an UPE under Article 1.6 of the model 
+legislation,  are  not  traded  on  a  public  securities  exchange,  jurisdictions  may  allow  the  Group  to 
+choose  to  use  either  local  GAAP  of  the  jurisdiction  of  the  UPE  (which  includes  US  GAAP  if  it  is 
+permitted under the local rules and regulations of the jurisdiction of the UPE) or IFRS as its governing 
+accounting standard, as long as the Group applies this choice consistently across years and for other 
+aspects of the CbC report requiring reference to an accounting standard. However, if the jurisdiction 
+of residence of the enterprise that would be the UPE mandates the use of a particular accounting 
+standard (or standards) for enterprises the equity of which is traded on a public securities exchange, 
+this  mandatory  standard  (or  one  of  these  mandatory  standards)  must  be  used.  Exceptionally,  if  a 
+jurisdiction's consolidation rules generally require investment entities to be consolidated with investee 
+companies,  the  jurisdiction  may  mandate  the  use  of  IFRS  consolidation  rules  for  the  purpose  of 
+determining the membership of a Group. Any such deviation from the accounting standards generally 
+followed for the CbC report of a particular MNE Group should be noted in Table 3 of the CbC report 
+for the MNE Group.  
+
+This guidance relates to what a jurisdiction may require from a Group which is a Group that is required to 
+file a CbC report in the jurisdiction by reason of its UPE or SPE being resident in the jurisdiction.  
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+  | 19 
+
+Treatment of major shareholdings (April 2017; updated September 2018) 
+
+4.1 Where there are minority interests held by unrelated parties in a Constituent Entity, 
+should the previous year's consolidated group revenue include 100 percent of the 
+Constituent Entity's revenue for the purpose of applying the 750 million Euro threshold 
+(or near equivalent amount in local currency as of January 2015) to identify an Excluded 
+MNE Group, or should the revenue be pro-rated? Further, should the entity's financial 
+data that is included in the CbC report represent the full 100 percent or should it be pro-
+rated?  
+
+Under the condition that accounting rules in the jurisdiction of the UPE

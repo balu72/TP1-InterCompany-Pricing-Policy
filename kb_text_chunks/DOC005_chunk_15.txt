@@ -1,0 +1,164 @@
+eToggle("slow");
+        if ($('#' + icon).hasClass("exdown"))
+            $('#' + icon).removeClass("exdown").addClass("exup");
+        else
+            $('#' + icon).removeClass("exup").addClass("exdown");
+    }
+
+    function LoadCalenderEvents(groupName, categoryName) {        
+        //LoadAllCalenderEvents(groupName, categoryName);
+    }
+
+    $(document).ready(function () {
+        //Tab Selection
+        $("ul.DIT_Pages_Tab_Main li.select").removeClass('select');
+        var currentURL = $(location).attr('pathname').split("/").pop().toLowerCase();  // index.aspx  
+        var clickedLink = $("ul.DIT_Pages_Tab_Main li a");
+        var isDefault = 0;
+        $.each(clickedLink, function (key, value) {
+            var linkURL = value.href.toLowerCase();
+            if (linkURL.indexOf(currentURL) >= 0) {
+                $(this).parent().addClass('select');
+                isDefault = 1;
+            }
+        });
+
+        //Highlight first or linked link
+        var linkUrl = GetParameterByName('k');
+        if (linkUrl !== 'undefined' && linkUrl !== '') {
+            var linkedTab = $(".DIT_Page_Tab_Left_Menu li a[title*='" + linkUrl + "']");
+            if (linkedTab !== 'undefined' && linkedTab.length > 0)
+                linkedTab.addClass('select').click();
+            else
+                HighlightFirst();
+        }
+        else {
+            HighlightFirst();
+        }
+
+        function HighlightFirst() {
+            var a = $(".DIT_Page_Tab_Left_Menu li a.select").length;
+            if (a <= 0) {
+                $("li.LeftMenuItems a:first").addClass('select').click();
+                //currentLi.click();
+            }
+        }
+
+        $("li.LeftMenuItems a").on("click", function () {
+            $("li.LeftMenuItems a.select").removeClass('select');
+            $(this).addClass('select');
+            var baseURL = window.location.toString().split('?')[0];
+            var currentTitle = $(this).attr('title');
+            var currentClick = $(this).attr('onclick');
+            if (currentClick.indexOf("OpenFormByType") < 0) {
+                if (currentTitle !== 'undefined' && currentTitle !== '') {
+                    var fullURL = baseURL + "?k=" + currentTitle;
+                    window.history.pushState({ path: fullURL }, '', fullURL);
+                    if (currentTitle == "Tax Calendar")
+                    {
+                        
+                    }
+                }
+            }
+        });        
+    });
+
+    function SetFormHierarchicalData(divId, menuGroup, menuTitle) {
+        LoadFacelessSchemeContents(menuGroup, menuTitle);        
+    }
+ 
+			 
+		 
+	 
+ 
+				 
+				 
+					 
+						
+					 
+					 
+						
+					 
+				 
+				 
+					 
+						
+					 
+					 
+						
+					 
+					 
+						
+					 
+				 
+				 
+					
+				 
+			 
+			 
+                
+
+			 
+	 
+		 
+			 
+				
+
+
+ 
+    $(function () {
+        var pname = window.location.pathname;
+        if (pname != null) {
+            var linkItem = null;
+            if ($("#boxTaxInfo").find("a[href*='" + pname + "']").length > 0) {
+                if (!($("#lnkRightBoxTaxInfo").hasClass('selectedsbx'))) $("#lnkRightBoxTaxInfo").addClass('selectedsbx');
+            }
+            else if ($("#boxTaxLaws").find("a[href*='" + pname + "']").length > 0) {
+                if (!($("#lnkRightBoxTaxLaws").hasClass('selectedsbx'))) $("#lnkRightBoxTaxLaws").addClass('selectedsbx');
+            }
+            else if ($("#boxIntTaxation").find("a[href*='" + pname + "']").length > 0) {
+                if (!($("#lnkRightBoxIntTaxation").hasClass('selectedsbx'))) $("#lnkRightBoxIntTaxation").addClass('selectedsbx');
+            }
+            else if ($("#boxDeptInfo").find("a[href*='" + pname + "']").length > 0) {
+                if (!($("#lnkRightBoxDeptInfo").hasClass('selectedsbx'))) $("#lnkRightBoxDeptInfo").addClass('selectedsbx');
+            }
+        }
+
+        $('#dynamic_select').bind('change', function () {
+            var relativeURL = $(this).val();
+            if (relativeURL.indexOf(".htm") > -1) {
+                OpenWindowByRelativeURL('L', relativeURL, true);
+            }
+            else if (relativeURL == '') {
+                return false;
+            }
+            else {
+                OpenWindowByRelativeURL('L', relativeURL, false);
+            }
+        });
+    });
+ 
+ 
+                     
+ 
+ 
+
+                 
+ ​​ 
+       ​​​​​​​ 
+             
+                   Quick Access    
+                        Budget, 2025     
+                        Section wise content     
+                       Exempt Institutions     
+                       Faceless Scheme      
+                       Income Tax Act      
+                       Income Tax Rules      
+                       Income Tax Forms      
+                       Circulars      
+                       Notifications      
+                       Tenders      
+                       Press Release       
+             
+                 ​   Tax Information and Services     
+         

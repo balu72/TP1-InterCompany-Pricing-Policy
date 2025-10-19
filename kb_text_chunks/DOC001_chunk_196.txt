@@ -1,0 +1,79 @@
+ group.  The  taxpayer 
+will select one or more allocation keys to apply for this purpose based on the 
+following principles. The appropriate allocation key or keys will depend on 
+the nature of the services. The same allocation key or keys must be used on 
+a consistent basis for all allocations of costs relating to the same category of 
+services. In accordance with the guidance in paragraph 7.24, the allocation 
+key  or  keys  selected  with  respect  to  costs  for  each  relevant  category  of 
+services should reasonably reflect the level of benefit expected to be received 
+by each recipient of the particular service. As a general rule, the allocation 
+key  or  keys  should  reflect  the  underlying  need  for  the  particular  services. 
+By way of examples, the allocation key for services related to people might 
+employ  each  company’s  share  of  total  group  headcount,  IT  services  might 
+employ the share of total users, fleet management services might employ the 
+share of total vehicles, accounting support services might employ the share 
+of total relevant transactions or the share of total assets. In many cases, the 
+share of total turnover may be a relevant key.
+
+7.60.  The examples of allocation keys provided in the previous paragraph 
+are  not  intended  to  be  an  exhaustive  list.  Depending  on  the  facts  and 
+circumstances more sophisticated allocation keys might be used. However, 
+a balance should be struck between theoretical sophistication and practical 
+administration,  bearing  in  mind  that  the  costs  involved  are  not  generating 
+high value for the group. In this context, there may be no need to use multiple 
+allocation  keys  if  the  taxpayer  can  explain  the  reasons  for  concluding  that 
+a single key provides a reasonable reflection of the respective benefits. For 
+reasons  of  consistency,  the  same  allocation  key  or  keys  should  be  applied 
+in determining the allocation to all recipients within the group of the same 
+type  of  low  value-adding  intra-group  services,  and  it  is  expected  that 
+the  same  reasonable  key  will  be  used  from  year  to  year  unless  there  is  a 
+justified  reason  to  change.  Tax  administrations  and  taxpayers  should  also 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+334 – CHAPTER VII: INTRA-GROUP SERVICES
+
+bear  in  mind  that  changing  the  reasonable  allocation  key  can  give  rise  to 
+considerable  complexities.  It  is  expected  that  the  taxpayer  will  describe  in 
+its documentation (see paragraph 7.64 below) the reasons for concluding that 
+the allocation key produces outcomes which reasonably reflects the benefits 
+likely to be derived by each service recipient.
+
+D.2.4. Profit mark-up
+
+7.61. 
+In determining the arm’s length charge for low value-adding intra-
+group services, the MNE provider of services shall apply a profit mark-up 
+to  all  costs  in  the  pool  with  the  exception  of  any  pass-through  costs  as 
+determined  under  paragraphs  2.99  and  7.34.  The  same  mark-up  shall  be 
+utilised  for  all  low  value-adding  services  irrespective  of  the  categories  of 
+services. The mark-up shall be equal to 5% of the relevant cost as determined 
+in Section D.2.2. The mark-up under the simplified approach does not need 
+to be justified by a benchmarking study. The same mark-up may be applied 
+to low value-adding intra-group services performed by one group member 
+solely on behalf of one other group member, the costs of which are separately 
+identified under the guidance in paragraph 7.57. It should be noted that the 
+low value-adding intra-group services mark-up should not, without further 
+justification  and  analysis,  be  used  as  benchmark  for  the  determination  of 
+the  arm’s  length  price  for  services  not  within  the  definition  of  low  value-
+adding intra-group services, nor for similar services not within the elective, 
+simplified scheme.
+
+D.2.5. Charge for low value-adding services
+
+7.62.  Subject to the provisions of paragraph 7.55, the charge for services 
+to any member of the electing MNE group shall be the sum of (i) the costs 
+incurred by another group member in providing services specifically to the 
+member under the second step as detailed in paragraph 7.57, plus the selected 
+profit  mark-up,  and  (ii)  the  share  of  pooled  costs  allocated  to  the  member 
+under the third step as detailed in paragraph 7.59 using the selected allocation 
+key,  plus  the  selected  profit  mark-up.  The  charge  is  payable  to  the  group 
+member that incurred the costs in the pool, and where there is more than one 
+group member incurring those costs, in proportion to each member’s share 
+of the pooled costs.
+
+D.2.6. Threshold for the application of the simplified approach
+
+7.63.  Tax administrations adopting the simplified approach to low-value-
+adding intra-group services set out in this section may include an appropriate 
+threshold to enable them to review the sim

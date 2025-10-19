@@ -1,0 +1,92 @@
+ricing target would be established by 
+a tax authority, subject to a taxpayer’s right to demonstrate that its transfer 
+price  is  consistent  with  the  arm’s  length  principle.  Under  such  a  system, 
+it  would  be  essential  that  the  taxpayer  does  not  bear  a  higher  burden  to 
+demonstrate its price is consistent with the arm’s length principle than it would 
+if no such system were in place. In any such system, it would be essential to 
+permit resolution of cases of double taxation arising from application of the 
+mandatory presumption through the mutual agreement process.
+
+E.3.  Benefits of safe harbours
+4.105.  The basic benefits of safe harbours are as follows:
+
+1.  Simplifying compliance and reducing compliance costs for eligible 
+taxpayers in determining and documenting appropriate conditions for 
+qualifying controlled transactions;
+
+2.  Providing  certainty  to  eligible  taxpayers  that  the  price  charged  or 
+paid on qualifying controlled transactions will be accepted by the tax 
+administrations that have adopted the safe harbour with a limited audit 
+or without an audit beyond ensuring the taxpayer has met the eligibility 
+conditions of, and complied with, the safe harbour provisions;
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+206 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+3.  Permitting tax administrations to redirect their administrative resources 
+from  the  examination  of  lower  risk  transactions  to  examinations  of 
+more complex or higher risk transactions and taxpayers.
+
+E.3.1. Compliance relief
+
+4.106.  Application of the arm’s length principle may require collection and 
+analysis of data that may be difficult or costly to obtain and/or evaluate. In 
+certain cases, such compliance burdens may be disproportionate to the size of 
+the taxpayer, its functions performed, and the transfer pricing risks inherent 
+in its controlled transactions.
+
+4.107.  Properly  designed  safe  harbours  may  significantly  ease  compliance 
+burdens  by  eliminating  data  collection  and  associated  documentation 
+requirements  in  exchange  for  the  taxpayer  pricing  qualifying  transactions 
+within the parameters set by the safe harbour. Especially in areas where transfer 
+pricing risks are small, and the burden of compliance and documentation is 
+disproportionate  to  the  transfer  pricing  exposure,  such  a  trade-off  may  be 
+mutually  advantageous  to  taxpayers  and  tax  administrations.  Under  a  safe 
+harbour,  taxpayers  would  be  able  to  establish  transfer  prices  which  will  not 
+be  challenged  by  tax  administrations  providing  the  safe  harbour  without 
+being obligated to search for comparable transactions or expend resources to 
+demonstrate transfer pricing compliance to such tax administrations.
+
+E.3.2. Certainty
+4.108.  Another advantage provided by a safe harbour is the certainty that the 
+taxpayer’s transfer prices will be accepted by the tax administration providing 
+the  safe  harbour,  provided  they  have  met  the  eligibility  conditions  of,  and 
+complied  with,  the  safe  harbour  provisions.  The  tax  administration  would 
+accept,  with  limited  or  no  scrutiny,  transfer  prices  within  the  safe  harbour 
+parameters.  Taxpayers  could  be  provided  with  relevant  parameters  which 
+would provide a transfer price deemed appropriate by the tax administration 
+for the qualifying transaction.
+
+E.3.3. Administrative simplicity
+
+4.109.  A safe harbour would result in a degree of administrative simplicity 
+for  the  tax  administration.  Although  the  eligibility  of  particular  taxpayers 
+or  transactions  for  the  safe  harbour  would  need  to  be  carefully  evaluated, 
+depending on the specific safe harbour provision, such evaluations would not 
+necessarily have to be performed by auditors with transfer pricing expertise. 
+Once eligibility for the safe harbour has been established, qualifying taxpayers 
+would  require  minimal  examination  with  respect  to  the  transfer  prices  of 
+controlled transactions qualifying for the safe harbour. This would enable tax 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IV: ADMINISTRATIVE APPROACHES – 207
+
+administrations to secure tax revenues in low risk situations with a limited 
+commitment of administrative resources and to concentrate their efforts on 
+the examination of more complex or higher risk transactions and taxpayers. A 
+safe harbour may also increase the level of compliance among small taxpayers 
+that may otherwise believe their transfer pricing practices will escape scrutiny.
+
+E.4.  Concerns over safe harbours
+
+4.110.  The availability of safe harbours for a given category of taxpayers or 
+transactions may have adverse consequences. These concerns stem from the 
+fact that:
+
+1.  The implementation of a safe harbour in a given jurisdiction may lead 
+to taxable income being reported that is not in accordance with the 
+arm’s length principle;
+
+2.  Safe harbours may increa

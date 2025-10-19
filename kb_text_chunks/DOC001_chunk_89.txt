@@ -1,0 +1,88 @@
+ny  B,  an  associated 
+enterprise  in  another  country.  Assume  that  A  is  found  to  manufacture  P1 
+products  using  valuable,  unique  intangibles  that  belong  to  B  and  following 
+technical specifications set by B. Assume that in this P1 transaction, A only 
+performs simple functions and does not make any valuable, unique contribution 
+in relation to the transaction. The tested party for this P1 transaction would 
+most often be A. Assume now that A is also manufacturing P2 products for 
+which it owns and uses valuable unique intangibles such as valuable patents 
+and trademarks, and for which B acts as a distributor. Assume that in this P2 
+transaction, B only performs simple functions and does not make any valuable, 
+unique contribution in relation to the transaction. The tested party for the P2 
+transaction would most often be B.
+
+A.3.4. Information on the controlled transaction
+
+3.20. 
+In  order  to  select  and  apply  the  most  appropriate  transfer  pricing 
+method  to  the  circumstances  of  the  case,  information  is  needed  on  the 
+comparability factors in relation to the controlled transaction under review and 
+in particular on the functions, assets and risks of all the parties to the controlled 
+transaction, including the foreign associated enterprise(s). Specifically, while 
+one-sided  methods  (e.g.  cost  plus,  resale  price  or  transactional  net  margin 
+method which are discussed in detail in Chapter II) only require examining 
+a  financial  indicator  or  profit  level  indicator  for  one  of  the  parties  to  the 
+transaction  (the  “tested  party”  as  discussed  in  paragraphs  3.18-3.19),  some 
+information on the comparability factors of the controlled transaction and in 
+particular on the functional analysis of the non-tested party is also needed in 
+order  to  appropriately  characterise  the  controlled  transaction  and  select  the 
+most appropriate transfer pricing method.
+
+in 
+
+the  most  appropriate 
+
+transfer  pricing  method 
+
+3.21.  Where 
+the 
+circumstances of the case, determined following the guidance in paragraphs 2.1-
+2.12, is a transactional profit split, financial information on all the parties to 
+the transaction, domestic and foreign, is needed. Given the two-sided nature 
+of  this  method,  the  application  of  a  transactional  profit  split  necessitates 
+particularly detailed information on the foreign associated enterprise party to 
+the transaction. This includes information on the five comparability factors 
+in  order  to  appropriately  characterise  the  relationship  between  the  parties 
+and demonstrate the appropriateness of the transactional profit split method, 
+as  well  as  financial  information  (the  determination  of  the  relevant  profits 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+156 – CHAPTER III: COMPARABILITy ANALySIS
+
+to be split and the splitting of the profits both rely on financial information 
+pertaining  to  all  the  parties  to  the  transaction,  including  the  foreign 
+associated  enterprise).  Accordingly,  where  the  most  appropriate  transfer 
+pricing  method  in  the  circumstances  of  the  case  is  a  transactional  profit 
+split, it would be reasonable to expect that taxpayers be ready to provide tax 
+administrations  with  the  necessary  information  on  the  foreign  associated 
+enterprise party to the transaction, including the financial data necessary to 
+calculate the profit split. See Chapter V.
+
+in 
+
+the  most  appropriate 
+
+transfer  pricing  method 
+
+3.22.  Where 
+the 
+circumstances of the case, determined following the guidance in paragraphs 2.1-
+2.12, is a one-sided method, financial information on the tested party is needed 
+in  addition  to  the  information  referred  to  in  paragraph  3.20  –  irrespective 
+of  whether  the  tested  party  is  a  domestic  or  foreign  entity.  So  if  the  most 
+appropriate  method  is  a  cost  plus,  resale  price  or  transactional  net  margin 
+method and the tested party is the foreign entity, sufficient information is needed 
+to be able to reliably apply the selected method to the foreign tested party and 
+to enable a review by the tax administration of the jurisdiction of the non-tested 
+party of the application of the method to the foreign tested party. On the other 
+hand,  once  a  particular  one-sided  method  is  chosen  as  the  most  appropriate 
+method  and  the  tested  party  is  the  domestic  taxpayer,  the  tax  administration 
+generally has no reason to further ask for financial data of the foreign associated 
+enterprise outside of that requested as part of the country-by-country or master 
+file reporting requirements (see Chapter V).
+
+3.23.  As  explained  above,  transfer  pricing  analysis  necessitates  some 
+information to be available about foreign associated enterprises, the nature 
+and extent of which depends especially on the transfer pricing method used. 
+However gathering such information may present a taxpa

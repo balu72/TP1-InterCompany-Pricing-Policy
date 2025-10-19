@@ -1,0 +1,198 @@
+                  CHALLANS 
+                     
+                     
+                 
+             
+
+           
+
+         
+
+     
+     
+ 
+
+ 
+
+    $(".navbar-toggle-cross-btn").click(function () {
+
+        $(".nav-itd").slideToggle();
+        $(".navbar-toggle-cross-btn").toggleClass("close");
+
+    })
+
+ 
+
+     
+ 
+
+ 
+ 
+
+ 
+   
+    $(document).ready(function () {
+        if (window.location.href.toLocaleLowerCase().indexOf('/tps/') >= 1) {
+            //show
+            $(".wetelltagline").show();
+        }
+        else {
+            //Hide
+            $(".wetelltagline").hide();
+        }
+    });
+
+ 
+
+                     
+                   
+                     
+                     
+                     
+     
+         
+             
+                 Income Tax Department  >  International Taxation > Transfer Pricing as contained in Chapter X of Income-tax Act, 1961 
+             
+         
+         
+             Income Tax Department    >    International Taxation    >    Transfer Pricing 
+         
+        
+     
+ 
+
+                     
+                    
+                     
+                         
+                         
+	
+	 
+
+ 
+
+
+                     
+                         
+                             
+                             
+                                 
+                                    
+	 
+		
+		 
+			 Page Content ​​​​​​​​​​​​​​​​ 
+		 
+         
+             
+                 
+					 
+	 
+
+	 
+ 
+				 
+             
+         
+		 
+             
+                 
+					 
+	 
+		 
+			 
+				
+
+ 
+    function OpenFaqWindow(linkValue) {
+        var id = ""; var path = "";
+        if (linkValue == '1') { id = '<a href="https://incometaxindia.gov.in/Pages/faqs.aspx?k=FAQs%20on%20filing%20the%20return%20of%20income" class="dt-megamenu-links"> FAQs on filing the return of income </a>'; path = '/Pages/faqs.aspx?k=' + id; }
+        if (linkValue == '2') { id = '<a href="https://incometaxindia.gov.in/Pages/faqs.aspx?k=FAQs%20on%20Computation%20of%20tax" class="dt-megamenu-links">FAQs on Computation of tax</a>'; path = '/Pages/faqs.aspx?k=' + id; }
+        if (linkValue == '3') { id = 'FAQs on Tax Audit'; path = '/Pages/faqs.aspx?k=' + id; }
+        if (linkValue == '4') { id = 'FAQs on Tax Deducted at Source(TDS)'; path = '/Pages/faqs.aspx?k=' + id; }
+        if (linkValue == '5') { id = 'FAQs on Provisions useful for non residents'; path = '/Pages/faqs.aspx?k=' + id; }
+
+        OpenWindowByRelativeURL('L', path, false);
+    }
+
+   
+
+ 
+
+ 
+ 
+     
+         
+             
+                 
+                     
+                         
+                         
+                            Tax e-Services
+                         
+                         
+                            Click to view services related to PAN, TAN and more
+                         
+                     
+                     
+                         
+                             
+                                 
+                                     
+                                    TAN 
+                             
+                             
+                                 
+                                     
+                                     
+                                         File Return Online 
+                                 
+                                     
+
+                                         
+                                             
+                                            File Income Tax Return 
+                                     
+                                     
+
+                                         
+                                             
+                                            File TDS Return 
+                                     
+                                     
+
+                                         
+                                             
+                                            File AIR Return 
+                                     
+
+
+                                     
+
+                                         
+                                             
+                                            WEALTH TAX RETURNS 
+                                     
+
+                                 
+                             
+                             
+                                 
+                                     
+                                     
+                                         Tax Payment 
+
+                                 
+                                     
+                                         
+                                             
+                                            Introduction 
+                                     
+                                     
+                                         
+                                             
+                                            Challan Status 
+                                     
+                                     
+       

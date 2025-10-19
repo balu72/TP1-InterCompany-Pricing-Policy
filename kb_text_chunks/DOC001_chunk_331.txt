@@ -1,0 +1,99 @@
+isdiction,  any  term  not  otherwise  defined  in 
+this Agreement will, unless the context otherwise requires or the Competent 
+Authorities  agree  to  a  common  meaning  (as  permitted  by  domestic  law), 
+have  the  meaning  that  it  has  at  that  time  under  the  law  of  the  Jurisdiction 
+applying this Agreement, any meaning under the applicable tax laws of that 
+Jurisdiction prevailing over a meaning given to the term under other laws of 
+that Jurisdiction.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+596 – ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE
+
+SECTION 2
+Exchange of Information with Respect to MNE Groups
+
+Pursuant to the provisions of Article [5A] of the TIEA, each Competent 
+Authority  will  annually  exchange  on  an  automatic  basis  the  CbC  Report 
+received  from  each  Reporting  Entity  that  is  resident  for  tax  purposes  in 
+its  Jurisdiction  with  the  other  Competent  Authority,  provided  that,  on 
+the  basis  of  the  information  provided  in  the  CbC  Report,  one  or  more 
+Constituent Entities of the MNE Group of the Reporting Entity are resident 
+for tax purposes in the Jurisdiction of the other Competent Authority or, are 
+subject to tax with respect to the business carried out through a permanent 
+establishment situated in the Jurisdiction of the other Competent Authority.
+
+SECTION 3
+Time and Manner of Exchange of Information
+
+For  the  purposes  of  the  exchange  of  information  in  Section  2,  the 
+
+1. 
+currency of the amounts contained in the CbC Report will be specified.
+
+With  respect  to  Section  2,  a  CbC  Report  is  first  to  be  exchanged 
+2. 
+with  respect  to  fiscal  years  of  MNE  Groups  commencing  on  or  after  […]. 
+Such CbC Report is to be exchanged as soon as possible and no later than 
+18 months after the last day of the fiscal year of the Reporting Entity of the 
+MNE Group to which the CbC Report relates. CbC Reports with respect to 
+subsequent fiscal years are to be exchanged as soon as possible and no later 
+than  15  months  after  the  last  day  of  the  fiscal  year  of  the  MNE  Group  to 
+which the CbC Report relates.
+
+The  Competent  Authorities  will  automatically  exchange  the  CbC 
+
+3. 
+Reports through a common schema in Extensible Markup Language.
+
+4. 
+The  Competent  Authorities  will  work  towards  and  agree  on  one 
+or  more  methods  for  electronic  data  transmission  including  encryption 
+standards.
+
+SECTION 4
+Collaboration on Compliance and Enforcement
+
+A Competent Authority will notify the other Competent Authority when 
+the first-mentioned Competent Authority has reason to believe, with respect 
+to  a  Reporting  Entity  that  is  resident  for  tax  purposes  in  the  Jurisdiction 
+of  the  other  Competent  Authority,  that  an  error  may  have  led  to  incorrect 
+or  incomplete  information  reporting  or  that  there  is  non-compliance  of  a 
+Reporting Entity with the respect to its obligation to file a CbC Report. The 
+notified  Competent  Authority  will  take  all  appropriate  measures  available 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+ANNEX IV TO CHAPTER V: COUNTRy-By-COUNTRy REPORTING IMPLEMENTATION PACKAGE – 597
+
+under its domestic law to address the errors or non-compliance described in 
+the notice.
+
+SECTION 5
+Confidentiality, Data Safeguards and Appropriate Use
+
+All information exchanged is subject to the confidentiality rules and 
+1. 
+other safeguards provided for in the TIEA, including the provisions limiting 
+the use of the information exchanged.
+
+In addition to the restrictions in paragraph 1, the use of the information 
+2. 
+will  be  further  limited  to  the  permissible  uses  described  in  this  paragraph. 
+In particular, information received by means of the CbC Report will be used 
+for  assessing  high-level  transfer  pricing,  base  erosion  and  profit  shifting 
+related  risks,  and,  where  appropriate,  for  economic  and  statistical  analysis. 
+The information will not be used as a substitute for a detailed transfer pricing 
+analysis  of  individual  transactions  and  prices  based  on  a  full  functional 
+analysis and a full comparability analysis. It is acknowledged that information 
+in  the  CbC  Report  on  its  own  does  not  constitute  conclusive  evidence  that 
+transfer prices are or are not appropriate and, consequently, transfer pricing 
+adjustments will not be based on the CbC Report. Inappropriate adjustments 
+in  contravention  of  this  paragraph  made  by  local  tax  administrations  will 
+be  conceded  in  any  competent  authority  proceedings.  Notwithstanding  the 
+above,  there  is  no  prohibition  on  using  the  CbC  Report  data  as  a  basis  for 
+making  further  enquiries  into  the  MNE’s  transfer  pricing  arrangements  or 
+into other tax matters in the course of a tax audit and, as a result, appropriate 
+adjustments to the taxable income of a Constituent Entity may be made.
+
+To  the  exten

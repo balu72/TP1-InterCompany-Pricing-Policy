@@ -1,0 +1,75 @@
+local 
+filing  is  required  in  cases  where  the  UPE  of  an  MNE  group  does  file  a  CbC  report  which  is 
+exchanged with the jurisdiction within the envisaged timeframe. Given paragraph 60 of the BEPS 
+Action 13 report specifically only accepts local filing in certain circumstances where a CbC report 
+is not exchanged, this should never be the case. 
+
+Both of these risks are reduced where a jurisdiction requires local filing no earlier than 12 months after the 
+end of the reporting fiscal  year, even though the deadline for filing by a resident UPE may be required 
+earlier. Under the BEPS Action 13 minimum standard, the deadline for local filing may also be extended 
+to later than 12 months after the end of the reporting fiscal year (e.g. to 15 months which would correspond 
+with the time when competent authorities typically receive CbC reports under exchange of information).5 
+
+In  light  of  these  considerations,  jurisdictions  with  local  filing  requirements  (or  introducing  such 
+requirements) are encouraged to apply a filing deadline for these CbC reports no earlier than 12 months 
+after the end of the reporting fiscal year. 
+
+4.4 Is the automatic exchange of CbC reports filed under local filing rules intended under 
+the BEPS Action 13 minimum standard? (December 2019) 
+
+Paragraph 60 of the BEPS Action 13 report sets out the framework underpinning the minimum standard. 
+Under this framework, jurisdictions commit to require the filing of a CbC report by resident UPE of MNE 
+groups, and to  automatically exchange this  information with  other jurisdictions in which the MNE group 
+operates, subject to conditions. As such, the automatic exchange of a CbC report filed by the UPE of an 
+MNE group is at the heart of the minimum standard.6 
+
+Paragraph 60 also provides that local filing of a CbC report by a resident Constituent Entity that is not the 
+UPE of an MNE group may be accepted in certain specific circumstances. The minimum standard does 
+not anticipate the automatic exchange of CbC reports filed in accordance with local filing rules, and the 
+automatic exchange of these CbC reports could result in the exchange and cross-exchange of multiple 
+CbC reports on the same MNE group. This could potentially overwhelm and confuse tax administrations, 
+with no additional benefit from the perspective of an MNE group’s tax risk assessment. Such automatic 
+exchanges are also inconsistent with the scope of a jurisdiction’s commitment to automatically exchange 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+CbC reports, as defined in paragraph 60 (e.g. where there is currently no international agreement for the 
+exchange of CbC reports in effect between the residence tax jurisdiction of the UPE of an MNE group and 
+another jurisdiction).  
+
+As  such,  this  guidance  makes  clear  that,  under  the  BEPS  Action  13  minimum  standard,  the  automatic 
+exchange of CbC reports filed under local filing rules is not intended.7  
+
+  | 41 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+42 |   
+
+Lodging a unilateral declaration for the purposes of exchanging CbC reports 
+(November 2019)  
+
+5.1 Should jurisdictions consider lodging a unilateral declaration to bring forward the 
+effective date of the multilateral convention on mutual administrative assistance in tax 
+matters, for the purposes of exchanging CbC reports?  
+
+Under the BEPS Action 13 minimum standard, jurisdictions that are members of the Inclusive Framework 
+are committed to requiring the filing of a CbC report by all MNEs above the consolidated revenue threshold, 
+and  exchanging  these  CbC  reports  under  existing  international  agreements  with  other  members  of  the 
+Inclusive Framework where an MNE has Constituent Entities, subject to conditions. In order to improve 
+transparency and promote greater co-operation and exchange of tax information, including CbC reports, a 
+number  of  jurisdictions  have  recently  ratified  the  multilateral  convention  on  mutual  administrative 
+assistance  in  tax  matters  (the  Convention),  are  in  the  process  of  ratifying  the  Convention,  or  are 
+considering ratifying (or signing and ratifying) the Convention.  
+
+Under paragraph 5 of Article 28, the Convention shall enter into force on the first day of the month following 
+the expiration of a period of three months after the date of deposit of the instrument of ratification with one 
+of the Depositories. Under paragraph 6 of Article 28, the Convention shall have effect for administrative 
+assistance related to taxable periods beginning on or after 1 January of the year following the one in which 
+the Convention enters into force. However, any two jurisdictions may agree that the Convention shall have 
+effect for administrative assistance related to earlier periods. 
+
+The provisions of Article 28 mean that there can be a period of over th

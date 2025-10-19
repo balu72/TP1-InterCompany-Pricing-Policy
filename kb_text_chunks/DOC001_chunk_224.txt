@@ -1,0 +1,83 @@
+of  such  ongoing  concern  should  reflect,  among  other  things,  the  value  of 
+the facility and the impact (e.g. time and expense savings) of the assembled 
+workforce on the arm’s length price. For a discussion on the transfer pricing 
+treatment of assembled workforce, see Section D.7 of Chapter I.
+
+9.69. 
+The determination of the arm’s length compensation for a transfer of an 
+ongoing concern does not necessarily amount to the sum of the separate valuations 
+of each separate element that comprises the aggregate transfer. In particular, if the 
+transfer of an ongoing concern comprises multiple contemporaneous transfers of 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+382 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+interrelated assets, risks, or functions, valuation of those transfers on an aggregate 
+basis may be necessary to achieve the most reliable measure of the arm’s length 
+price for the ongoing concern. Valuation techniques that are used, in acquisition 
+deals, between independent parties may prove useful to valuing the transfer of 
+an ongoing concern between associated enterprises. The guidance on the use of 
+valuation techniques for trans actions involving the transfer of intangibles or rights 
+in intangibles contained in Section D.2.6.3 of Chapter VI should be considered.
+
+9.70.  An example is the case where a manufacturing activity that used to 
+be performed by M1, one entity of the MNE group, is re-located to another 
+entity, M2 (e.g. to benefit from location savings). Assume M1 transfers to M2 
+its machinery and equipment, inventories, patents, manufacturing processes 
+and  know-how,  and  key  contracts  with  suppliers  and  clients.  Assume  that 
+several employees of M1 are relocated to M2 in order to assist M2 in the start 
+of the manufacturing activity so relocated. Assume such a transfer would be 
+regarded as a transfer of an ongoing concern, should it take place between 
+independent parties. In order to determine the arm’s length remuneration, if 
+any, of such a transfer between associated enterprises, it should be compared 
+with  a  transfer  of  an  ongoing  concern  between  independent  parties  rather 
+than with a transfer of isolated assets.
+
+E.3.2. Loss-making activities
+
+9.71.  Not every case where a restructured entity experiences a reduction of 
+its functions, assets and risks involves an actual loss of expected future profits. 
+In some restructuring situations, the circumstances may be such that, rather 
+than losing a “profit-making opportunity”, the restructured entity is actually 
+being  saved  from  the  likelihood  of  a  “loss-making  opportunity”.  An  entity 
+may  agree  to  a  restructuring  as  a  better  option  than  going  out  of  business 
+altogether.  If  the  restructured  entity  is  forecasting  future  losses  absent  the 
+restructuring  (e.g.  it  operates  a  manufacturing  plant  that  is  uneconomic 
+due  to  increasing  competition  from  low-cost  imports),  then  there  may  be 
+in  fact  no  loss  of  any  profit-making  opportunity  from  restructuring  rather 
+than continuing to operate its existing business. In such circumstances, the 
+restructuring might deliver a benefit to the restructured entity from reducing 
+or eliminating future losses if such losses exceed the restructuring costs.
+
+9.72.  The  question  may  arise  of  whether  the  transferee  should  in  fact 
+be  compensated  by  the  transferor  for  taking  over  a  loss-making  activity. 
+The  response  depends  on  whether  an  independent  party  in  comparable 
+circumstances  would  have  been  willing  to  pay  for  getting  rid  of  the  loss-
+making activity, or whether it would have considered other options such as 
+closing  down  the  activity;  and  on  whether  a  third  party  would  have  been 
+willing to acquire the loss-making activity (e.g. because of possible synergies 
+with  its  own  activities)  and  if  so  under  what  conditions,  e.g.  subject  to 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 383
+
+compensation. There can be circumstances where an independent party would 
+be willing to pay, e.g. if the financial costs and social risks of closing down the 
+activity would be such that the transferor finds it more advantageous to pay a 
+transferee who will attempt to reconvert the activity and will be responsible 
+for any redundancy plan that may be needed.
+
+9.73.  The  situation  might  however  be  different  where  the  loss-making 
+activity  provided  other  benefits  such  as  synergies  with  other  activities 
+performed by the same taxpayer. There can also be circumstances where a 
+loss-making activity is maintained because it produces some benefits to the 
+group as a whole. In such a case, the question arises whether at arm’s length 
+the entity that maintains the loss-making activity should be compensated by 
+those who benefit from it being maintained. See Section D.3 of Chapter I.
+
+E.4. Outsourcing
+
+9.74. 
+In o

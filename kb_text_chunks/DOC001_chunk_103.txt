@@ -1,0 +1,81 @@
+ discretionary adjustment).
+
+Some  civil  penalties  are  directed  towards  procedural  compliance, 
+4.21. 
+such as timely filing of returns and information reporting. The amount of such 
+penalties is often small and based on a fixed amount that may be assessed for 
+each day in which, e.g. the failure to file continues. The more significant civil 
+penalties are those directed at the understatement of tax liability.
+
+4.22.  Although  some  jurisdictions  may  refer  to  a  “penalty”,  the  same  or 
+similar  imposition  by  another  jurisdiction  may  be  classified  as  “interest”. 
+Penalty regimes in some jurisdictions may therefore include an “additional 
+tax”, or “interest”, for understatements which result in late payments of tax 
+beyond the due date. This is often designed to ensure the revenue recovers at 
+least the real time value of money (taxes) lost.
+
+4.23.  Civil monetary penalties for tax understatement are frequently triggered 
+by one or more of the following: an understatement of tax liability exceeding 
+a  threshold  amount,  negligence  of  the  taxpayer,  or  wilful  intent  to  evade 
+tax (and also fraud, although fraud can trigger much more serious criminal 
+penalties). Many OECD member countries impose civil monetary penalties 
+for negligence or wilful intent, while only a few countries penalise “no-fault” 
+understatements of tax liability.
+
+4.24. 
+It  is  difficult  to  evaluate  in  the  abstract  whether  the  amount  of  a  civil 
+monetary penalty is excessive. Among OECD member countries, civil monetary 
+penalties  for  tax  understatement  are  frequently  calculated  as  a  percentage  of 
+the  tax  understatement,  where  the  percentage  most  often  ranges  from  10%  to 
+200%. In most OECD member countries, the rate of the penalty increases as the 
+conditions for imposing the penalty increase. For instance, the higher rate penalties 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+180 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+often can be imposed only by showing a high degree of taxpayer culpability, such 
+as a wilful intent to evade. “No-fault” penalties, where used, tend to be at lower 
+rates than those triggered by taxpayer culpability (see paragraph 4.28).
+
+4.25. 
+Improved compliance in the transfer pricing area is of some concern to 
+OECD member countries and the appropriate use of penalties may play a role 
+in addressing this concern. However, owing to the nature of transfer pricing 
+problems, care should be taken to ensure that the administration of a penalty 
+system as applied in such cases is fair and not unduly onerous for taxpayers.
+
+4.26.  Because cross-border transfer pricing issues implicate the tax base 
+of two jurisdictions, an overly harsh penalty system in one jurisdiction may 
+give taxpayers an incentive to overstate taxable income in that jurisdiction 
+contrary to Article 9. If this happens, the penalty system fails in its primary 
+objective to promote compliance and instead leads to non-compliance of a 
+different sort – non-compliance with the arm’s length principle and under-
+reporting  in  the  other  jurisdiction.  Each  OECD  member  country  should 
+ensure  that  its  transfer  pricing  compliance  practices  are  not  enforced  in  a 
+manner inconsistent with the objectives of the OECD Model Tax Convention, 
+avoiding the distortions noted above.
+
+4.27. 
+It is generally regarded by OECD member countries that the fairness 
+of  the  penalty  system  should  be  considered  by  reference  to  whether  the 
+penalties  are  proportionate  to  the  offence.  This  would  mean,  for  example, 
+that the severity of a penalty would be balanced against the conditions under 
+which it would be imposed, and that the harsher the penalty the more limited 
+the conditions in which it would apply.
+
+4.28.  Since penalties are only one of many administrative and procedural 
+aspects  of  a  tax  system,  it  is  difficult  to  conclude  whether  a  particular 
+penalty is fair or not without considering the other aspects of the tax system. 
+Nonetheless, OECD member countries agree that the following conclusions 
+can be drawn regardless of the other aspects of the tax system in place in a 
+particular jurisdiction. First, imposition of a sizable “no-fault” penalty based 
+on  the  mere  existence  of  an  understatement  of  a  certain  amount  would  be 
+unduly harsh when it is attributable to good faith error rather than negligence 
+or an actual intent to avoid tax. Second, it would be unfair to impose sizable 
+penalties on taxpayers that made a reasonable effort in good faith to set the 
+terms of their transactions with associated enterprises in a manner consistent 
+with  the  arm’s  length  principle.  In  particular,  it  would  be  inappropriate  to 
+impose a transfer pricing penalty on a taxpayer for failing to consider data to 
+which it did not have access, or for failure to apply a transfer pricing method 
+that  would  have  required  data  that  was  not  available 

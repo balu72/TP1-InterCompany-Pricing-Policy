@@ -1,0 +1,78 @@
+yer has provided the 
+required information and documentation consistent with such guidance.
+•  Element 2.6 of the Action 14 minimum standard states that jurisdictions 
+should  clarify  in  their  mutual  agreement  procedure  programme 
+guidance that audit settlements between tax authorities and taxpayers 
+do not preclude access to the mutual agreement procedure.
+
+•  Certain  of  the  non-binding  Action  14  best  practices  additionally 
+recommend that jurisdictions’ mutual agreement procedure programme 
+guidance  should  include:  an  explanation  of  the  relationship  between 
+the mutual agreement procedure and domestic law administrative and 
+judicial  remedies  (best  practice  8);  guidance  on  the  consideration  of 
+interest and penalties in the mutual agreement procedure (best practice 
+10);  and  guidance  on  multilateral  mutual  agreement  procedures  and 
+advance  pricing  arrangements  (best  practice  11).  Best  practice  9 
+recommends that this guidance provide that taxpayers will be allowed 
+access  to  the  mutual  agreement  procedure  so  that  the  competent 
+authorities  can  resolve  through  consultation  the  double  taxation  that 
+can arise in the case of bona fide taxpayer initiated foreign adjustments.
+4.64.  There is no need for the competent authorities to agree to rules or 
+guidelines governing the procedure, since the rules or guidelines would be 
+limited  in  effect  to  the  competent  authority’s  relationship  with  taxpayers 
+seeking  its  assistance.  However,  competent  authorities  should  routinely 
+communicate such unilateral rules or guidelines to the competent authorities 
+of  their  treaty  partners  and  ensure  that  their  country  mutual  agreement 
+procedure profiles (see paragraph 4.62 above) are kept up-to-date.
+
+4. 
+5. 
+
+See www.oecd.org/tax/beps/beps-about.htm#membership.
+See www.oecd.org/tax/beps/country-map-profiles.htm.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+194 – CHAPTER IV: ADMINISTRATIVE APPROACHES
+
+C.4.6.  Problems concerning collection of tax deficiencies and accrual 
+
+of interest
+
+4.65.  The  process  of  obtaining  relief  from  double  taxation  through  a 
+corresponding adjustment can be complicated by issues relating to the collection 
+of  tax  deficiencies  and  the  assessment  of  interest  on  those  deficiencies  or 
+overpayment. A first problem is that the assessed deficiency may be collected 
+before  the  corresponding  adjustment  proceeding  is  completed,  because  of  a 
+lack of domestic procedures allowing the collection to be suspended. This may 
+cause the MNE group to pay the same tax twice until the issues can be resolved. 
+This problem arises not only in the context of the mutual agreement procedure 
+but also for internal appeals. The work on Action 14 of the BEPS Action Plan 
+recognised  that  the  collection  of  tax  by  both  Contracting  States  pending  the 
+resolution  of  a  case  through  the  mutual  agreement  procedure  may  have  a 
+significant impact on a taxpayer’s business (for example, as a result of cash flow 
+problems). Such collection of tax may also make it more difficult for a competent 
+authority to engage in good faith mutual agreement procedure discussions when 
+it considers that it may likely have to refund taxes already collected. The Report 
+on BEPS Action 14 accordingly includes as best practice 6 a recommendation 
+that jurisdictions should take appropriate measures to provide for a suspension of 
+collection procedures during the period in which a mutual agreement procedure 
+case  is  pending;  such  a  suspension  of  collections  should  be  available,  at  a 
+minimum, under the same conditions as apply to a person pursuing a domestic 
+administrative  or  judicial  remedy.  In  this  regard,  it  should  be  noted  that  the 
+country mutual agreement procedure profiles prepared pursuant to element 2.2 of 
+the Action 14 minimum standard (see paragraph 4.62) include information on the 
+availability of procedures for the suspension of collections in specific jurisdictions.
+
+4.66.  Whether or not collection of the deficiency is suspended or partially 
+suspended, other complications may arise. Because of the lengthy time period 
+for  processing  many  transfer  pricing  cases,  the  interest  due  on  a  deficiency 
+or, if a corresponding adjustment is allowed, on the overpayment of tax in the 
+other jurisdiction can equal or exceed the amount of the tax itself. Jurisdictions 
+should take into account in their mutual agreement procedures that inconsistent 
+interest rules across the two jurisdictions may result in additional cost for the 
+MNE group, or in other cases provide a benefit to the MNE group (e.g. where 
+the  interest  paid  in  the  jurisdiction  making  the  corresponding  adjustment 
+exceeds  the  interest  imposed  in  the  jurisdictions  making  the  primary 
+adjustment) that would not have been available if the controlled transactions 
+had been undertaken on an arm’s le

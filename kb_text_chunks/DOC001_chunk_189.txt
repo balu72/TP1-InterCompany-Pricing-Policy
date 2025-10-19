@@ -1,0 +1,87 @@
+ 
+principle, the allocation method chosen must lead to a result that is consistent 
+with what comparable independent enterprises would have been prepared to 
+accept.
+
+7.25.  The  allocation  should  be  based  on  an  appropriate  measure  of  the 
+usage of the service that is also easy to verify, for example turnover, staff 
+employed, or an activity based key such as  orders  processed.  Whether the 
+allocation method is appropriate may depend on the nature and usage of the 
+service. For example, the usage or provision of payroll services may be more 
+related  to  the  number  of  staff  than  to  turnover,  while  the  allocation  of  the 
+stand-by costs of priority computer back-up could be allocated in proportion 
+to relative expenditure on computer equipment by the group members.
+
+7.26.  When  an  indirect-charge  method  is  used,  the  relationship  between 
+the charge and the services provided may be obscured and it may become 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+322 – CHAPTER VII: INTRA-GROUP SERVICES
+
+difficult  to  evaluate  the  benefit  provided.  Indeed,  it  may  mean  that  the 
+enterprise being charged for a service itself has not related the charge to the 
+service. Consequently, there is an increased risk of double taxation because it 
+may be more difficult to determine a deduction for costs incurred on behalf 
+of  group  members  if  compensation  cannot  be  readily  identified,  or  for  the 
+recipient of the service to establish a deduction for any amount paid if it is 
+unable to demonstrate that services have been provided.
+
+B.2.2.3. Form of the compensation
+
+7.27.  The compensation for services rendered to an associated enterprise 
+may  be  included  in  the  price  for  other  transfers.  For  instance,  the  price 
+for  licensing  a  patent  or  know-how  may  include  a  payment  for  technical 
+assistance services or centralised services performed for the licensee or for 
+managerial advice on the marketing of the goods produced under the licence. 
+In such cases, the tax administration and the taxpayers would have to check 
+that  there  is  no  additional  service  fee  charged  and  that  there  is  no  double 
+deduction.
+
+7.28. 
+In identifying arrangements for charging any retainer for the provision 
+of  “on  call”  services  (as  discussed  in  paragraphs  7.16  and  7.17),  it  may  be 
+necessary to examine the terms for the actual use of the services since these 
+may include provisions that no charge is made for actual use until the level of 
+usage exceeds a predetermined level.
+
+B.2.3. Calculating the arm’s length compensation
+
+7.29. 
+In  trying  to  determine  the  arm’s  length  price  in  relation  to  intra-
+group services, the matter should be considered both from the perspective of 
+the service provider and from the perspective of the recipient of the service. 
+In  this  respect,  relevant  considerations  include  the  value  of  the  service  to 
+the recipient and how much a comparable independent enterprise would be 
+prepared to pay for that service in comparable circumstances, as well as the 
+costs to the service provider.
+
+7.30.  For  example,  from  the  perspective  of  an  independent  enterprise 
+seeking  a  service,  the  service  providers  in  that  market  may  or  may  not  be 
+willing or able to supply the service at a price that the independent enterprise 
+is  prepared  to  pay.  If  the  service  providers  can  supply  the  wanted  service 
+within a range of prices that the independent enterprise would be prepared to 
+pay, then a deal will be struck. From the point of view of the service provider, 
+a  price  below  which  it  would  not  supply  the  service  and  the  cost  to  it  are 
+relevant considerations to address, but they are not necessarily determinative 
+of the outcome in every case.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VII: INTRA-GROUP SERVICES – 323
+
+B.2.3.1. Methods
+
+7.31.  The  method  to  be  used  to  determine  arm’s  length  transfer  pricing 
+for  intra-group  services  should  be  determined  according  to  the  guidelines 
+in  Chapters  I,  II,  and  III.  Often,  the  application  of  these  guidelines  will 
+lead  to  use  of  the  CUP  or  a  cost-based  method  (cost  plus  method  or  cost-
+based  TNMM)  for  pricing  intra-group  services.  A  CUP  method  is  likely 
+to  be  the  most  appropriate  method  where  there  is  a  comparable  service 
+provided  between  independent  enterprises  in  the  recipient’s  market,  or  by 
+the associated enterprise providing the services to an independent enterprise 
+in  comparable  circumstances.  For  example,  this  might  be  the  case  where 
+accounting, auditing, legal, or computer services are being provided subject 
+to  the  controlled  and  uncontrolled  transactions  being  comparable.  A  cost 
+based method would likely be the most appropriate method in the absence 
+of a CUP where the nature of the activities involved, assets used, and risk

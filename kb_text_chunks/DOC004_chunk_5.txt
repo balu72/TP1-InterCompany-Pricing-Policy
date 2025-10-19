@@ -1,0 +1,142 @@
+may occur, for example, where goods previously 
+sold  by  Constituent  Entities  in  the  jurisdiction  have  been 
+returned, or where the negative value of items presented as 
+net amounts exceeds other positive revenues.  
+
+Where  the  sum  of  profits  and  losses  of  all  Constituent 
+Entities in a jurisdiction is an overall net loss, Profit (Loss) 
+before Income Tax should be a negative amount.  
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+Income Tax Paid (on Cash 
+Basis) 
+
+tax, 
+
+income 
+
+Where Constituent Entities in a jurisdiction make an 
+overall  net  payment  of 
+including 
+withholding taxes paid by other entities with respect 
+to payments to Constituent Entities in the jurisdiction 
+(i.e. where payments of income tax exceed refunds 
+of income tax in the same fiscal year), Income Tax 
+Paid (on Cash Basis) should be a positive amount.  
+
+Income  Tax  Accrued  – 
+Current Year 
+
+Where,  under  the  applicable  accounting  standard, 
+Constituent Entities in a jurisdiction have an accrued 
+current  tax  expense  on  profits  (i.e.  an  income 
+statement  debit  for  financial  reporting  purposes), 
+Income  Tax  Accrued  –  Current  Year  should  be  a 
+positive amount.  
+
+  | 11 
+
+Where Constituent Entities in a jurisdiction receive an overall 
+net refund of income tax (i.e. where refunds of income tax 
+exceed  payments  of  income  tax  in  the  same  fiscal  year), 
+Income  Tax  Paid  (on  Cash  Basis)  should  be  a  negative 
+amount.  An  exception  to  this  may  be  permitted  where  the 
+refund is treated as revenue in the source of data used to 
+complete Table 1.  
+
+Where,  under 
+the  applicable  accounting  standard, 
+Constituent Entities in a jurisdiction have an accrued current 
+tax  credit  on  profits  (i.e.  an  income  statement  credit  for 
+financial reporting purposes), Income Tax Accrued – Current 
+Year should  be  a negative amount. Whether this arises in 
+practice will depend upon the treatment of current tax in the 
+source  of  data  used.  Examples  of  when  this  could  arise 
+include where Constituent Entities in a jurisdiction have net 
+current year tax losses and these tax losses are realised in 
+the current year: 
+
+• 
+
+• 
+• 
+
+• 
+
+by payment to the Constituent Entity by the relevant tax 
+administration;  
+by offset against a non-income tax liability1; 
+by  surrender  to  an  entity  outside  the  MNE  group  in 
+return for consideration 2; 
+by carry-back to an earlier tax year for offset against 
+taxable profits in that year. 3 
+
+Typically, tax losses that are carried forward and set against 
+taxable  profits  in  later  tax  years  will  be  dealt  with  through 
+deferred tax and not current tax. As described in the BEPS 
+Action 13 report, deferred tax is not included in the Income 
+Tax Accrued – Current Year column in Table 1.  
+
+Stated Capital 
+
+Accumulated Earnings 
+
+Typically, Stated Capital should be a positive amount. 
+
+Typically, Stated Capital should not be a negative amount.  
+
+Where  the  sum  of  the  accumulated  earnings  of  all 
+Constituent Entities in a jurisdiction is positive (i.e. net 
+accumulated  profits),  Accumulated  Earnings  should 
+be a positive amount.  
+
+the  sum  of 
+
+the  accumulated  earnings  of  all 
+Where 
+Constituent  Entities  in  a  jurisdiction  is  negative  (i.e.  net 
+accumulated  losses),  Accumulated  Earnings  should  be  a 
+negative amount.  
+
+Number of Employees 
+
+Number of Employees should be a positive amount. 
+
+Negative  amounts  should  not  be  used  for  Number  of 
+Employees.  
+
+Tangible Assets other than 
+Cash and Cash Equivalents 
+
+Tangible  Assets  other 
+Equivalents should be a positive amount.  
+
+than  Cash  and  Cash 
+
+Negative amounts should not be used for Tangible Assets 
+other than Cash and Cash Equivalents.  
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+ 
+12 |   
+
+Treatment of dividends for purposes of “profit (loss) before income tax”, 
+“income tax accrued (current year)” and “income tax paid (on cash basis)” in 
+Table 1 (September 2018; November 2019; May 2024 (NEW)) 
+
+7.1 Does the profit (loss) before income tax in Table 1 include payments received from 
+other Constituent Entities that are treated as dividends in the payer’s tax jurisdiction?4 
+(NEW) 
+
+While the BEPS Action 13 report is clear that dividends from other Constituent Entities are excluded from 
+Revenue in completing Table 1 of a CbC report, it does not provide specific instructions as to whether or 
+not dividends from other Constituent Entities are excluded from Profit (Loss) before Income Tax. In the 
+absence of specific guidance on this topic, different approaches have been adopted by jurisdictions and 
+by  MNEs.  This  lack  of  consistency  presents  a  challenge  to  tax  administrations  in  using  CbC  reporting 
+information  for  the  high-level  assessment  of  transfer  pricing  and  other  BEPS-related  risks,  and  for 

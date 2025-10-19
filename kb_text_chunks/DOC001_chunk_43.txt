@@ -1,0 +1,77 @@
+of  its  MNE  group  may  suggest  to  the 
+taxpayers or tax administrations that the transfer pricing should be examined. 
+The  loss  enterprise  may  not  be  receiving  adequate  compensation  from  the 
+MNE group of which it is a part in relation to the benefits derived from its 
+activities. For example, an MNE group may need to produce a full range of 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+78 – CHAPTER I: THE ARM’S LENGTH PRINCIPLE
+
+products and/or services in order to remain competitive and realise an overall 
+profit, but some of the individual product lines may regularly lose revenue. 
+One  member  of  the  MNE  group  might  realise  consistent  losses  because  it 
+produces  all  the  loss-making  products  while  other  members  produce  the 
+profit-making  products.  An  independent  enterprise  would  perform  such  a 
+service only if it were compensated by an adequate service charge. Therefore, 
+one  way  to  approach  this  type  of  transfer  pricing  problem  would  be  to 
+deem the loss enterprise to receive the same type of service charge that an 
+independent enterprise would receive under the arm’s length principle.
+
+1.151.  A factor to consider in analysing losses is that business strategies may 
+differ from MNE group to MNE group due to a variety of historic, economic, 
+and cultural reasons. Recurring losses for a reasonable period may be justified 
+in  some  cases  by  a  business  strategy  to  set  especially  low  prices  to  achieve 
+market  penetration.  For  example,  a  producer  may  lower  the  prices  of  its 
+goods, even to the extent of temporarily incurring losses, in order to enter new 
+markets, to increase its share of an existing market, to introduce new products 
+or  services,  or  to  discourage  potential  competitors.  However,  especially  low 
+prices should be expected for a limited period only, with the specific object 
+of  improving  profits  in  the  longer  term.  If  the  pricing  strategy  continues 
+beyond a reasonable period, a transfer pricing adjustment may be appropriate, 
+particularly where comparable data over several years show that the losses have 
+been incurred for a period longer than that affecting comparable independent 
+enterprises.  Further,  tax  administrations  should  not  accept  especially  low 
+prices (e.g. pricing at marginal cost in a situation of underemployed production 
+capacities)  as  arm’s  length  prices  unless  independent  enterprises  could  be 
+expected to have determined prices in a comparable manner.
+
+D.4.  The effect of government policies
+
+1.152.  There  are  some  circumstances  in  which  a  taxpayer  will  consider 
+that  an  arm’s  length  price  must  be  adjusted  to  account  for  government 
+interventions such as price controls (even price cuts), interest rate controls, 
+controls over payments for services or management fees, controls over the 
+payment of royalties, subsidies to particular sectors, exchange control, anti-
+dumping duties, or exchange rate policy. As a general rule, these government 
+interventions should be treated as conditions of the market in the particular 
+jurisdiction,  and  in  the  ordinary  course  they  should  be  taken  into  account 
+in  evaluating  the  taxpayer’s  transfer  price  in  that  market.  The  question 
+then  presented  is  whether  in  light  of  these  conditions  the  transactions 
+undertaken by the controlled parties are consistent with transactions between 
+independent enterprises.
+
+1.153.  One issue that arises is determining the stage at which a price control 
+affects the price of a product or service. Often the direct impact will be on the 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER I: THE ARM’S LENGTH PRINCIPLE – 79
+
+final price to the consumer, but there may nonetheless be an impact on prices 
+paid at prior stages in the supply of goods to the market. MNEs in practice 
+may  make  no  adjustment  in  their  transfer  prices  to  take  account  of  such 
+controls, leaving the final seller to suffer any limitation on profit that may 
+occur, or they may charge prices that share the burden in some way between 
+the final seller and the intermediate supplier. It should be considered whether 
+or not an independent supplier would share in the costs of the price controls 
+and whether an independent enterprise would seek alternative product lines 
+and business opportunities. In this regard, it is unlikely that an independent 
+enterprise  would  be  prepared  to  produce,  distribute,  or  otherwise  provide 
+products  or  services  on  terms  that  allowed  it  no  profit.  Nevertheless,  it  is 
+quite obvious that a jurisdiction with price controls must take into account 
+that  those  price  controls  will  affect  the  profits  that  can  be  realised  by 
+enterprises selling goods subject to those controls.
+
+1.154.  A special problem arises when a jurisdiction prevents or “blocks” the 
+payment of an amount which is owed by one associated enterpri

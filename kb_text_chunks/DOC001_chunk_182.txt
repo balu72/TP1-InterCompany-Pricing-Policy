@@ -1,0 +1,76 @@
+collect customer 
+data,  have  its  own  effective  logistical  systems,  and  in  other  respects  have 
+similar  intangibles  to  the  tested  party.  Where  that  is  the  case,  the  level  of 
+comparability may be sufficiently high that it is possible to rely on prices paid 
+or margins earned by the potential comparables as an appropriate measure 
+of  arm’s  length  compensation  for  both  the  functions  performed  and  the 
+intangibles owned by the tested party.
+
+6.201.  Where the tested party and the potential comparable have comparable 
+intangibles, the intangibles will not constitute unique and valuable intangibles 
+within  the  meaning  of  paragraph  6.17,  and  therefore  no  comparability 
+adjustments  will  be  required  with  regard  to  the  intangibles.  The  potential 
+comparable  will,  in  these  circumstances,  provide  the  best  evidence  of  the 
+profit  contribution  of  the  tested  party’s  intangibles.  If,  however,  either  the 
+tested party or the potential comparable has and uses in its business unique 
+and  valuable  intangibles,  it  may  be  necessary  either  to  make  appropriate 
+comparability adjustments or to revert to a different transfer pricing method. 
+The principles contained in Sections D.2.1 to D.2.4 apply in evaluating the 
+comparability of intangibles in such situations.
+
+6.202.  It is appropriate for both taxpayers and tax administrations to exercise 
+restraint in rejecting potential comparables based on the use of intangibles by 
+either the parties to potentially comparable transactions or by the tested party. 
+Potential  comparables  should  generally  not  be  rejected  on  the  basis  of  the 
+asserted existence of unspecified intangibles or on the basis of the asserted 
+significance of goodwill. If identified transactions or companies are otherwise 
+comparable,  they  may  provide  the  best  available  indication  of  arm’s  length 
+pricing notwithstanding the existence and use by either the tested party or the 
+parties  to  the  potentially  comparable  transactions  of  relatively  insignificant 
+intangibles. Potentially comparable transactions should be disregarded on the 
+basis of the existence and use of non-comparable intangibles only where the 
+intangibles in question can be clearly and distinctly identified and where the 
+intangibles are manifestly unique and valuable intangibles.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER VI: INTANGIBLES – 309
+
+D.5.2.  Determining arm’s length prices for transactions involving the 
+
+use of intangibles in connection with the sale of goods or the 
+performance of services
+
+6.203.  The  principles  of  Chapters  I-III  apply  in  determining  arm’s  length 
+prices  for  transactions  involving  the  use  of  intangibles  in  connection  with 
+sales of goods or the performance of services. Two general categories of cases 
+can arise. In the first category of cases, the comparability analysis, including 
+the  functional  analysis,  will  reveal  the  existence  of  sufficiently  reliable 
+comparables to permit the determination of arm’s length conditions for the 
+transaction  using  a  transfer  pricing  method  based  on  comparables.  In  the 
+second category of cases, the comparability analysis, including the functional 
+analysis, will fail to identify reliable comparable uncontrolled transactions, 
+often as a direct result of the use by one or both parties to the transaction of 
+unique  and  valuable  intangibles.  Transfer  pricing  approaches  to  these  two 
+categories of cases are described below.
+
+D.5.2.1. Situations where reliable comparables exist
+
+6.204.  It will often be the case that, notwithstanding the use of intangibles 
+by one or both parties to a controlled sale of goods or provision of services, 
+reliable comparables can be identified. Depending on the specific facts, any 
+of  the  five  OECD  transfer  pricing  methods  described  in  Chapter  II  might 
+constitute the most appropriate transfer pricing method where the transaction 
+involves the use of intangibles in connection with a controlled sale of goods 
+or provision of services and reliable comparables are present.
+6.205.  Where the tested party does not use unique and valuable intangibles, 
+and where reliable comparables can be identified, it will often be possible to 
+determine arm’s length prices on the basis of one-sided methods including 
+the  CUP,  resale  price,  cost  plus  and  TNMM  methods.  The  guidance  in 
+Chapters I-III will generally be sufficient to guide the determination of arm’s 
+length prices in such situations, without the need for a detailed analysis of the 
+nature of the intangibles used by the other party to the transaction.
+6.206.  The  principles  described  in  Sections  D.2.1  to  D.2.4  of  this  chapter 
+should  be  applied  in  determining  whether  the  use  of  intangibles  by  the 
+tested  party  will  preclude  reliance  on  identified  comparable  uncontrolled 
+transactions or require com

@@ -1,0 +1,84 @@
+s of the parties, as measured by their functions, assets 
+used and risks assumed.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER II: TRANSFER PRICING METHODS – 143
+
+C.5.1. Profit splitting factors
+
+2.169.  As noted above, arm’s length parties can be assumed to split profits 
+on the basis of their relative contributions to the creation of those profits. The 
+division of the relevant profits under the transactional profit split method is 
+generally achieved using one or more profit splitting factors. The functional 
+analysis and an analysis of the context in which the transactions take place 
+(e.g. the industry and environment) are essential to the process of determining 
+the  relevant  factors  to  use  in  splitting  profits,  including  determining  the 
+weighting  of  applicable  profit  splitting  factors,  in  cases  where  more  than 
+one factor is used. The determination of appropriate profit splitting factor(s) 
+should  reflect  the  key  contributions  to  value  in  relation  to  the  transaction. 
+Examples 15 and 16 in Annex II to Chapter II of these Guidelines illustrate 
+the principles of this section.
+
+2.170.  Depending on the facts and circumstances of the case, the factor can 
+be a figure (e.g. a 30%-70% split based on evidence of a similar split achieved 
+between  independent  parties  in  comparable  transactions),  or  a  variable 
+(e.g. relative value of participant’s marketing contributions or other possible 
+factors as discussed below) which could be calculated on the basis of a single 
+profit splitting factor or a weighting of multiple factors.
+
+2.171.  Profit splitting factors based on assets or capital (e.g. operating assets, 
+fixed  assets  (e.g.  production  assets,  retail  assets,  IT  assets),  intangibles),  or 
+costs (e.g. relative spending and/or investment in key areas such as research 
+and development, engineering, marketing) may be used where these capture 
+the  relative  contributions  of  the  parties  to  the  profits  being  split  and  they 
+can  be  measured  reliably.  Note  that  while  costs  may  be  a  poor  measure  of 
+the value of intangibles contributed (see paragraph 6.142), the relative costs 
+incurred  by  parties  may  provide  a  reasonable  proxy  for  the  relative  value 
+of  those  contributions  where  such  contributions  are  similar  in  nature  (see 
+paragraphs 8.27-8.28).
+
+2.172.  Other profit splitting factors that could be appropriate in the circumstances 
+of a given case include incremental sales, or employee compensation (relating 
+to  the  individuals  involved  in  the  key  functions  that  generate  value  to 
+the  transaction,  for  example  in  relation  to  the  global  trading  of  financial 
+instruments). In other situations it is possible that headcount or time spent by 
+a certain group of similarly skilled employees with similar responsibilities 
+could  be  used  if  there  is  a  strong  and  relatively  consistent  correlation 
+between  this  and  the  creation  of  value  represented  by  the  relevant  profits. 
+The guidance in this section should not be considered as an exhaustive list 
+of  potential  profit  splitting  factors.  Other  profit  splitting  factors  may  be 
+acceptable  provided  they  result  in  arm’s  length  outcomes  for  all  relevant 
+parties.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+144 – CHAPTER II: TRANSFER PRICING METHODS
+
+2.173. 
+In addition to the Local File, which should contain a detailed functional 
+analysis  of  the  taxpayer  and  its  relevant  associated  enterprises,  the  MNE 
+group’s  Master  File  might  be  a  useful  source  of  information  relevant  to  the 
+determination of appropriate profit splitting factors. As is set out in Annex I to 
+Chapter V, the Master File should include information on the important drivers 
+of  business  profit,  the  principal  contributions  to  value  creation  by  entities 
+within the group, and key group intangibles. However, it should be borne in 
+mind that the Master File is intended only to provide a high-level overview of 
+an MNE group, and not granular or detailed information as to all of the group’s 
+transactions.
+
+C.5.2.  Reliance on data from the taxpayer’s own operations  
+
+(internal data)
+
+2.174.  Where comparable uncontrolled transactions of sufficient reliability 
+are lacking to support the division of the relevant profits, consideration should 
+be given to internal data, which may provide a reliable means of establishing 
+or testing the arm’s length nature of the division of profits. The types of such 
+internal  data  that  are  relevant  will  depend  on  the  facts  and  circumstances 
+of  the  case  and  should  satisfy  the  conditions  outlined  in  this  section  and 
+in  particular  in  paragraphs  2.147-2.148  and  2.166.  They  will  frequently  be 
+extracted from the taxpayers’ cost accounting or financial accounting.
+
+2.175.  For instance, where an asset-based profit splitting factor is used, it 
+may be based

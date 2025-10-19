@@ -1,0 +1,81 @@
+parable  uncontrolled  transactions. 
+The transactional profit split method may also be appropriate for transfers 
+of  partially  developed  intangibles.  Example  5  in  Annex  II  to  Chapter  II 
+provides an illustration. See paragraphs 6.150 to 6.151. Where the intangibles 
+transferred  are  hard-to-value  intangibles,  the  provisions  of  Section  D.4  of 
+Chapter VI should be considered.
+
+C.2.2.2. Highly integrated business operations
+
+2.133.  Although most MNE groups are integrated to some extent, a particularly 
+high degree of integration in certain business operations is an indicator for 
+the  consideration  of  the  transactional  profit  split  method.  A  high  degree 
+of  integration  means  that  the  way  in  which  one  party  to  the  transaction 
+performs  functions,  uses  assets  and  assumes  risks  is  interlinked  with,  and 
+cannot  reliably  be  evaluated  in  isolation  from,  the  way  in  which  another 
+party to the transaction performs functions, uses assets and assumes risks. 
+In contrast, many instances of integration within an MNE result in situations 
+in which the contribution of at least one party to the transaction can in fact 
+be reliably evaluated by reference to comparable uncontrolled transactions. 
+For example, where complementary but discrete activities are undertaken by 
+the entities, it may be the case that it is possible to find reliable comparables 
+since the functions, assets and risks involved in each discrete stage may be 
+comparable to those in uncontrolled arrangements. This needs to be borne in 
+mind in considering which transfer pricing method is the most appropriate in 
+a particular case. Examples 6, 7 and 8 in Annex II to Chapter II illustrate the 
+principles of this section.
+
+2.134.  In some cases the parties may perform functions jointly, use assets 
+jointly and/or share assumption of risks to such an extent that it is impossible 
+to evaluate their respective contributions in isolation from those of others. 
+As  an  example,  the  transactional  profit  split  method  can  be  applied  to  the 
+global  trading  of  financial  instruments  by  associated  enterprises.  See  in 
+Part III, Section C of the Report on the Attribution of Profits to Permanent 
+Establishments.2
+
+2. 
+
+See Report on the Attribution of Profits to Permanent Establishments (OECD, 
+2010).
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+134 – CHAPTER II: TRANSFER PRICING METHODS
+
+2.135.  Another example may be where the integration between the parties 
+takes the form of a high degree of inter-dependency. For instance, profit split 
+approaches  may  be  used  by  independent  enterprises  engaged  in  long-term 
+arrangements where each party has made a significant contribution (e.g. of 
+an  asset)  whose  value  depends  on  the  counterparty  to  the  arrangement.  In 
+these  kinds  of  cases,  where  each  party  makes  such  a  contribution,  and  is 
+dependent  on  the  other  party  (or  where  the  value  of  the  contribution(s)  of 
+one party depends to a significant degree on the contribution(s) of the other 
+party), some form of flexible pricing that takes into account, and varies with, 
+the outcome of the risks assumed by each party arising from its dependence 
+on the other party may be observed.
+
+2.136.  Where  business  operations  are  highly  integrated,  the  extent  to 
+which the parties share the assumption of the same economically significant 
+risks  or  separately  assume  closely  related  economically  significant  risks 
+will  be  relevant  to  the  determination  of  the  most  appropriate  method  and, 
+if  a  transactional  profit  split  is  considered  the  most  appropriate  method, 
+how it should be applied; in particular whether a split of actual profits or of 
+anticipated profits should be used. See Section C.4.1.
+
+2.137.  Where a party contributes to the control of economically significant 
+risk, but that risk is assumed by the other party to the transaction, this may, in 
+some cases, demonstrate that it is appropriate for the first party to share in the 
+potential upside and downside associated with that risk, commensurate with 
+its contribution to control. See paragraph 1.105. However, the mere fact that 
+an entity performs control functions in relation to a risk will not necessarily 
+lead to the conclusion that the transactional profit split is the most appropriate 
+method in the case.
+
+2.138.  Where the contributions are highly inter-related or inter-dependent 
+upon each other, the evaluation of the respective contributions of the parties 
+may need to be done holistically. That is, a high degree of integration may 
+also  affect  whether  contributions  by  the  enterprises  are  considered  to  be 
+unique and valuable. For instance, a unique contribution by one party may 
+have  a  significantly  greater  value  when  considered  in  combination  with 
+the particular unique contribution of the other  party.  Paragraphs  6.93-6.94 
+discuss  this  i

@@ -1,0 +1,92 @@
+in Table 1. As a guide, rounding financial data to 
+the nearest EUR 1 000, USD 1 000 or JPY 1 000 000 is likely to be considered reasonable. In all cases, 
+amounts should be reported in full numbers, including all zeroes with no shortening. 
+
+The  use  of  rounded  amounts  and  the  impact  on  the  usefulness  of  CbC  reporting  information  will  be 
+monitored and this guidance may be revisited in light of the outcomes of this monitoring.  
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+  | 15 
+
+Notes
+
+1  For  example,  if  a  jurisdiction’s  law  allows  an  income  tax  loss  to  be  offset  against  a  liability  of  the 
+Constituent Entity or MNE group for another tax or duty. 
+
+2 For example, if a jurisdiction’s law allows a Constituent Entity to surrender income tax losses to a related 
+party  that  is  not  consolidated  by  the  UPE  of  the  MNE  group,  in  return  for  which  the  Constituent  Entity 
+receives a cash payment from the related party. 
+
+3 For example, if a jurisdiction’s law allows a Constituent Entity which incurred income tax losses in the 
+current year (20Y2) to carry these losses back and offset them against income tax profits in the previous 
+year (20Y1), generating a repayment of income tax to the Constituent Entity. 
+
+4 This replaces previous guidance issued in September 2018. 
+
+5  This  paragraph  does  not  apply  where  a  Constituent  Entity  includes  in  profit  before  tax  for  financial 
+reporting  purposes  an  amount  representing  all  or  part  of  the  profit  of  another  Constituent  Entity  that  is 
+transparent for tax purposes. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+ 
+ 
+16 |   
+
+3 Issues relating to the entities to be 
+
+reported in the CbC report 
+
+Application of CbC reporting to investment funds (June 2016) 
+
+1.1 How should the CbC reporting rules be applied to investment funds?  
+
+As stated in paragraph 55 of the Action 13 Report, there is no general exemption for investment funds. 
+Therefore, the governing principle to determine an MNE Group is to follow the accounting consolidation 
+rules.  For  example,  if  the  accounting  rules  instruct  investment  entities  to  not  consolidate  with  investee 
+companies (e.g., because the consolidated accounts for the investment entity should instead report fair 
+value of the investment through profit and loss), then the investee companies should not form part of a 
+Group or MNE Group (as defined in the model legislation) or be considered as Constituent Entities of an 
+MNE  Group.  This  principle  applies  even  where  the  investment  entity  has  a  controlling  interest  in  the 
+investee company.  
+
+On the other hand, if the accounting rules require an investment entity to consolidate with a subsidiary, 
+such as where that subsidiary provides services that relate to the investment entity’s investment activities, 
+then the subsidiary should be part of a Group and should be considered as a Constituent Entity of the MNE 
+Group (if one exists).  
+
+It is still possible for a company, which is owned by an investment fund, to control other entities such that, 
+in  combination  with  these  other  entities,  it  forms  an  MNE  Group.  In  this  case,  and  if  the  MNE  Group 
+exceeds the revenue threshold, it would need to comply with the requirement to file a CbC report. 
+
+GUIDANCE ON THE IMPLEMENTATION OF COUNTRY-BY-COUNTRY REPORTING: BEPS ACTION 13 © OECD 2024 
+
+  
+ 
+  | 17 
+
+Application of CbC reporting to partnerships (June 2016)  
+
+2.1 How should a partnership which is tax transparent and thus has no tax residency 
+anywhere be included in the CbC report? How should a reverse hybrid partnership, 
+which is tax transparent in its jurisdiction of organisation but considered by a partner’s 
+jurisdiction to be tax resident in its jurisdiction of organisation, be treated?  
+
+The governing principle to determine an MNE Group is to follow the accounting consolidation rules. If the 
+accounting consolidation rules apply to a partnership, then that partnership may be a Constituent Entity of 
+an MNE group subject to CbC reporting. 
+
+For the purpose of completing the CbC report, if a partnership is not tax resident in any jurisdiction then 
+the partnership’s items, to the extent not attributable to a permanent establishment, should be included in 
+the line in table 1 of the CbC report for stateless entities. Any partners that are also Constituent Entities 
+within the MNE Group should include their share of the partnership’s items in table 1 in their jurisdiction of 
+tax residence.  
+
+Table 2 of the CbC report should include a row for stateless entities and a sub-row for each stateless entity 
+including partnerships that do not have a tax residence - that is, the reporting for stateless entities should 
+parallel the reporting for Constituent Entities that have a tax residence. For a partnership included 

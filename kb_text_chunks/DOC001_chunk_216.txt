@@ -1,0 +1,84 @@
+nditions 
+made or imposed may be necessary.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER IX: BUSINESS RESTRUCTURINGS – 369
+
+9.31.  The  reference  to  the  notion  of  options  realistically  available  is  not 
+intended  to  create  a  requirement  for  taxpayers  to  document  all  possible 
+hypothetical options realistically available. Rather, the intention is to provide 
+an  indication  that,  if  there  is  a  realistically  available  option  that  is  clearly 
+more attractive, it should be considered in the analysis of the conditions of 
+the restructuring.
+
+B.4. Transfer pricing documentation for business restructurings
+
+9.32. 
+In the master file (see Annex I to Chapter V), taxpayers are asked to 
+describe any important business restructuring transactions occurring during 
+the year. In addition, in the local file, taxpayers are asked to indicate whether 
+the local entity has been involved in or affected by business restructurings 
+occurring during the year or immediately past year and to explain the aspects 
+of such transactions affecting the local entity (see Annex II to Chapter V).
+
+9.33.  As  part  of  their  transfer  pricing  documentation,  MNE  groups  are 
+recommended to document their decisions and intentions regarding business 
+restructurings,  especially  as  regards  their  decisions  to  assume  or  transfer 
+significant  risks,  before  the  relevant  transactions  occur,  and  to  document 
+the  evaluation  of  the  consequences  on  profit  potential  of  significant  risk 
+allocations resulting from the restructuring. In describing the assumption of 
+risk as part of a business restructuring, it is recommended that taxpayers use 
+the framework set out in Section D.1.2.1 of Chapter I.
+
+C.  Recognition of the accurately delineated transactions that comprise 
+
+the business restructuring
+
+9.34.  MNEs are free to organise their business operations as they see fit. 
+Tax administrations do not have the right to dictate to an MNE how to design 
+its structure or where to locate its business operations. In making commercial 
+decisions, tax considerations may be a factor. Tax administrations, however, 
+have the right to determine the tax consequences of the structure put in place 
+by an MNE, subject to the application of treaties and in particular of Article 9 
+of  the  OECD  Model  Tax  Convention.  This  means  that  tax  administrations 
+may  make,  where  appropriate,  adjustments  to  profits  in  accordance  with 
+Article 9 of the OECD Model Tax Convention and other types of adjustments 
+allowed  by  their  domestic  law  (e.g.  under  general  or  specific  anti-abuse 
+rules),  to  the  extent  that  such  adjustments  are  compatible  with  their  treaty 
+obligations.
+
+9.35.  Business  restructurings  often  lead  MNE  groups  to  implement 
+global  business  models  that  are  hardly  if  ever  found  between  independent 
+enterprises, taking advantage of the very fact that they are MNE groups and 
+that they can work in an integrated fashion. For instance, MNE groups may 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+370 – CHAPTER IX: BUSINESS RESTRUCTURINGS
+
+implement global supply chains or centralised functions that may not be found 
+between  independent  enterprises.  This  lack  of  comparables  does  not  mean 
+that the implementation of such global business models is not arm’s length. 
+Every  effort  should  be  made  to  determine  the  pricing  for  the  restructured 
+transactions as accurately delineated under the arm’s length principle. A tax 
+administration should not disregard part or all of the restructuring or substitute 
+other  transactions  for  it  unless  the  exceptional  circumstances  described 
+in  paragraph  1.142  are  met.  In  those  cases,  the  guidance  in  Section  D.2  of 
+Chapter I may be applicable. The structure that for transfer pricing purposes, 
+replaces that actually adopted by the taxpayers should comport as closely as 
+possible with the facts of the actual transaction undertaken whilst achieving 
+a commercially rational expected result that would have enabled the parties 
+to come to a price acceptable to both of them at the time the arrangement was 
+entered into. For example, where one element of a restructuring arrangement 
+involves  the  closing  down  of  a  factory,  the  structure  adopted  for  transfer 
+pricing purposes cannot ignore the reality that the factory no longer operates. 
+Similarly, where one element of a restructuring involves the actual relocation 
+of substantive business functions, the structure adopted for transfer pricing 
+purposes cannot ignore the fact that those functions were actually relocated.
+
+In assessing the commercial rationality of a restructuring under the 
+9.36. 
+guidance  for  non-recognition  under  Section  D.2  of  Chapter  I,  the  question 
+may  arise  whether  to  look  at  one  transaction  in  isolation  or  whether  to 
+examine  it  in  a  broader  context,  taking  account  of  other  tr

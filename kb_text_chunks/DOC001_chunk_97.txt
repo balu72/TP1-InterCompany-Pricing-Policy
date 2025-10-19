@@ -1,0 +1,88 @@
+the controlled 
+transaction. In effect, independent parties in comparable circumstances would 
+not base their pricing decision on historical data alone.
+
+3.70. 
+In other instances, taxpayers might test the actual outcome of their 
+controlled transactions to demonstrate that the conditions of these transactions 
+were  consistent  with  the  arm’s  length  principle,  i.e.  on  an  ex  post  basis 
+(hereinafter “the arm’s length outcome-testing” approach). Such test typically 
+takes place as part of the process for establishing the tax return at year-end.
+
+3.71.  Both  the  arm’s  length  price-setting  and  the  arm’s  length  outcome-
+testing  approaches,  as  well  as  combinations  of  these  two  approaches,  are 
+found  among  OECD  member  countries.  The  issue  of  double  taxation  may 
+arise  where  a  controlled  transaction  takes  place  between  two  associated 
+enterprises  where  different  approaches  have  been  applied  and  lead  to 
+different  outcomes,  for  instance  because  of  a  discrepancy  between  market 
+expectations  taken  into  account  in  the  arm’s  length  price-setting  approach 
+and actual outcomes observed in the arm’s length outcome-testing approach. 
+See  paragraphs  4.38  and  4.39.  Competent  authorities  are  encouraged  to 
+use  their  best  efforts  to  resolve  any  double  taxation  issues  that  may  arise 
+from different approaches adopted by jurisdictions to year-end adjustments 
+and  that  may  be  submitted  to  them  under  a  mutual  agreement  procedure 
+(Article 25 of the OECD Model Tax Convention).
+
+B.3.  Valuation highly uncertain at the outset and unpredictable 
+
+events
+
+3.72.  The  question  arises  whether  and  if  so  how  to  take  account  in  the 
+transfer  pricing  analysis  of  future  events  that  were  unpredictable  at  the 
+time of the testing of a controlled transaction, in particular where valuation 
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+CHAPTER III: COMPARABILITy ANALySIS – 169
+
+at  that  time  was  highly  uncertain.  The  question  should  be  resolved,  both 
+by  taxpayers  and  tax  administrations,  by  reference  to  what  independent 
+enterprises would have done in comparable circumstances to take account of 
+the valuation uncertainty in the pricing of the transaction.
+
+3.73.  The reasoning that is found in paragraphs 6.181-6.185, which provide 
+guidance on the arm’s length pricing of transactions involving intangibles for 
+which valuation is highly uncertain at the time of the transactions, applies by 
+analogy to other types of transactions with valuation uncertainties. The main 
+question is to determine whether the valuation was sufficiently uncertain at the 
+outset that the parties at arm’s length would have required a price adjustment 
+mechanism, or whether the change in value was so fundamental a development 
+that it would have led to a renegotiation of the transaction. Where this is the 
+case, the tax administration would be justified in determining the arm’s length 
+price for the transaction on the basis of the adjustment clause or re-negotiation 
+that  would  be  provided  at  arm’s  length  in  a  comparable  uncontrolled 
+transaction. In other circumstances, where there is no reason to consider that 
+the  valuation  was  sufficiently  uncertain  at  the  outset  that  the  parties  would 
+have required a price adjustment clause or would have renegotiated the terms 
+of the agreement, there is no reason for tax administrations to make such an 
+adjustment as it would represent an inappropriate use of hindsight. The mere 
+existence  of  uncertainty  should  not  require  an  ex  post  adjustment  without  a 
+consideration  of  what  independent  enterprises  would  have  done  or  agreed 
+between them.
+
+B.4.  Data from years following the year of the transaction
+
+3.74.  Data  from  years  following  the  year  of  the  transaction  may  also  be 
+relevant  to  the  analysis  of  transfer  prices,  but  care  must  be  taken  to  avoid 
+the  use  of  hindsight.  For  example,  data  from  later  years  may  be  useful  in 
+comparing  product  life  cycles  of  controlled  and  uncontrolled  transactions 
+for  the  purpose  of  determining  whether  the  uncontrolled  transaction  is  an 
+appropriate comparable to use in applying a particular method. The conduct 
+of  the  parties  in  years  following  the  transaction  will  also  be  relevant  in 
+accurately delineating the actual transaction.
+
+B.5.  Multiple year data
+
+3.75. 
+In  practice,  examining  multiple  year  data  is  often  useful  in  a 
+comparability analysis, but it is not a systematic requirement. Multiple year 
+data should be used where they add value to the transfer pricing analysis. It 
+would  not  be  appropriate  to  set  prescriptive  guidance  as  to  the  number  of 
+years to be covered by multiple year analyses.
+
+OECD TRANSFER PRICING GUIDELINES © OECD 2022
+
+170 – CHAPTER III: COMPARABILITy ANALySIS
+
+3.76. 
+In order to obtain a comp

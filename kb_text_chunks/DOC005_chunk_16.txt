@@ -1,0 +1,187 @@
+              Tax Services      
+                       Tax Calculators      
+                       Tax Calendar      
+                       Legal Maxim      
+                       Tax Charts & Tables      
+                       Tax FAQs      
+                       Tax Tutorials      
+                       Tax Information      
+                       Tax Exempted Institutions      
+                       Tax Offices      
+                      Tax Helpline      
+                       Tax Utilities      
+             
+                   Tax Laws & Rules     
+                       Acts      
+                       Rules      
+                      Finance Bills​​      
+                      Circulars & Notifications      
+             
+                   International Taxation     
+                       Advance Rulings      
+                       DTAAs      
+                       International Businesses: Sections to be remembered      
+                       Relevant provisions for non-resident      
+                       Treaty Comparison      
+                       Transfer Pricing as contained in Chapter X of Income-tax Act, 1961      
+                       TDS rates under DTAA      
+                       Tax rates as per Income-tax Act vis-à-vis tax treaties      
+                       Utility on DTAA      
+                       Withholding Tax     ​ ​ ​ 
+
+       
+
+ 
+    /* right menu collpase */
+    function rightcollapse(whowe, bgicon) {
+
+        if ($('#' + whowe).hasClass("active")) {
+            $('#' + whowe).removeClass("active");
+            $('#' + whowe).addClass("not-active");
+        }
+        else {
+            $('#' + whowe).removeClass("not-active");
+            $('#' + whowe).addClass("active");
+        }
+
+        if ($('#' + bgicon).hasClass("icon-open")) {
+            $('#' + bgicon).removeClass("icon-open");
+            $('#' + bgicon).addClass("icon-close");
+        }
+        else {
+            $('#' + bgicon).removeClass("icon-close");
+            $('#' + bgicon).addClass("icon-open");
+        }
+
+    }
+  
+			 
+		 
+	 
+ 
+			 
+			 // <![CDATA[ 
+
+if(typeof(MSOLayout_MakeInvisibleIfEmpty) == "function") {MSOLayout_MakeInvisibleIfEmpty();}// ]]>
+ 
+		 
+	 
+ 
+                                 
+                             
+                             
+                         
+                         
+                     
+                    
+
+ 
+ 
+     
+         
+             
+                 Disclaimer 
+                 Last Updated: 15/12/2022
+                 
+             
+             
+                 
+                     
+                         
+                             
+                                 
+                                     
+                                 
+
+
+                             
+                         
+                         
+                            
+                             Report Phishing 
+                         
+                         
+                            
+
+                               RTI 
+
+                          
+                       
+                         
+                            
+                             Children's Corner 
+                         
+
+                         
+                            
+                             Website Policies 
+                         
+
+                     
+                 
+
+                 
+                     
+                         
+                             
+                                 
+                                     
+                                 
+
+                             
+                         
+                         
+                            
+                             Sitemap 
+                         
+                         
+                            
+                             Shortcut Keys 
+                         
+                        
+
+                         
+                            
+                             Accessibility Statement 
+                         
+                         
+                            
+                             TDS - CPC 
+                         
+
+                     
+                 
+                 
+                     
+                         
+                             
+                                 
+                                     
+                                 
+
+                             
+                         
+                         
+                            
+                             Useful Links 
+                         
+                         
+                            
+                             Subscribe 
+
+                         
+
+
+                         
+                            
+                             e-Governance 
+
+                         
+
+
+
+                         
+                            
+                             Terms & Conditions 
+                         
+       
