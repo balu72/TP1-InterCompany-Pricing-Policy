@@ -81,7 +81,7 @@ def generate_policy():
         
         # Prepare data for workflow
         from generation.state import CompanyData, TransactionData
-        from generation.workflow import create_workflow
+        from generation.pricing_policy_workflow import create_workflow
         from flask import current_app
         
         company_data = CompanyData(
