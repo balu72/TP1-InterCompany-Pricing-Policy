@@ -16,7 +16,7 @@ class PolicyGenerationWorkflow:
         """Initialize workflow with config."""
         self.config = config
         self.rag_system = create_rag_system(config)
-        self.prompts_dir = Path(__file__).parent / 'prompts'
+        self.prompts_dir = Path(__file__).parent.parent / 'prompts'
         self.workflow = self._build_workflow()
     
     def _build_workflow(self) -> StateGraph:
