@@ -15,7 +15,7 @@ class Config:
     # Database
     SQLALCHEMY_DATABASE_URI = os.environ.get(
         'DATABASE_URL',
-        f'sqlite:///{BASE_DIR / "tp_policy.db"}'
+        f'sqlite:///{BASE_DIR / "data" / "tp_policy.db"}'
     )
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     SQLALCHEMY_ECHO = False
@@ -24,8 +24,8 @@ class Config:
     CORS_ORIGINS = os.environ.get('CORS_ORIGINS', 'http://localhost:3000').split(',')
     
     # RAG System
-    RAG_CHUNKS_DIR = BASE_DIR / 'kb_text_chunks'
-    RAG_CHROMA_DB = BASE_DIR / 'chroma_db'
+    RAG_CHUNKS_DIR = BASE_DIR / 'data' / 'kb_text_chunks'
+    RAG_CHROMA_DB = BASE_DIR / 'data' / 'chroma_db'
     
     # LLM Configuration
     OLLAMA_MODEL = os.environ.get('OLLAMA_MODEL', 'llama3.2:latest')

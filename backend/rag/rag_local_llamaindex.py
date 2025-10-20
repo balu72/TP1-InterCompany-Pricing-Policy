@@ -10,8 +10,8 @@ import chromadb
 # === CONFIGURATION ===
 # Get the project root directory (two levels up from this file)
 PROJECT_ROOT = Path(__file__).parent.parent.parent
-CHUNKS_DIR = PROJECT_ROOT / "kb_text_chunks"
-CHROMA_DIR = PROJECT_ROOT / "chroma_db"
+CHUNKS_DIR = PROJECT_ROOT / "data" / "kb_text_chunks"
+CHROMA_DIR = PROJECT_ROOT / "data" / "chroma_db"
 LLM_MODEL = "llama3.2:latest"            # or "mistral", "phi3", etc.
 EMBED_MODEL = "nomic-embed-text"
 TOP_K = 10  # Increased from 5 to retrieve more relevant chunks
@@ -83,7 +83,7 @@ def main():
                 
     except FileNotFoundError as e:
         print(f"Error: {e}")
-        print("Please ensure the kb_text_chunks directory exists in the project root.")
+        print("Please ensure the data/kb_text_chunks directory exists in the project root.")
     except Exception as e:
         print(f"Error initializing RAG system: {e}")
         import traceback

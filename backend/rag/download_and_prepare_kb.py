@@ -19,8 +19,8 @@ except Exception as e:
     sys.exit(1)
 
 BASE_DIR = Path(__file__).resolve().parent
-OUT_RAW = BASE_DIR / 'kb_raw'
-OUT_TEXT = BASE_DIR / 'kb_text_chunks'
+OUT_RAW = BASE_DIR / 'data' / 'kb_raw'
+OUT_TEXT = BASE_DIR / 'data' / 'kb_text_chunks'
 OUT_RAW.mkdir(exist_ok=True)
 OUT_TEXT.mkdir(exist_ok=True)
 
@@ -113,4 +113,4 @@ for doc in docs:
     if meta_rows:
         import pandas as pd
         pd.DataFrame(meta_rows).to_csv(OUT_TEXT / f"{doc['id']}_chunks_metadata.csv", index=False)
-print('Done. Raw PDFs in kb_raw/, text chunks in kb_text_chunks/.')
+print('Done. Raw PDFs in data/kb_raw/, text chunks in data/kb_text_chunks/.')
