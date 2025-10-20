@@ -2,8 +2,8 @@
 import os
 from pathlib import Path
 
-# Base directory
-BASE_DIR = Path(__file__).resolve().parent.parent
+# Base directory (backend/)
+BASE_DIR = Path(__file__).resolve().parent
 
 class Config:
     """Base configuration."""
