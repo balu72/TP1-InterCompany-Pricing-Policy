@@ -110,8 +110,52 @@ curl -X POST http://localhost:5000/api/policies/generate \
   }'
 ```
 
+## Project Structure
+
+```
+backend/
+├── data/                       # Data directory (gitignored)
+│   ├── chroma_db/             # Vector database for RAG
+│   ├── kb_raw/                # Raw regulatory documents (PDFs)
+│   ├── kb_text_chunks/        # Processed text chunks (481 chunks)
+│   └── tp_policy.db           # SQLite database
+├── rag/                        # RAG package
+│   ├── __init__.py
+│   ├── download_and_prepare_kb.py  # KB preparation script
+│   ├── docs_index.csv              # Document index
+│   └── rag_local_llamaindex.py     # RAG implementation
+├── generation/
+│   ├── workflows/              # LangGraph workflows
+│   │   ├── __init__.py
+│   │   └── pricing_policy_workflow.py
+│   ├── nodes/                  # Workflow node classes
+│   │   └── section_generator.py    # 7 dedicated node classes
+│   ├── prompts/                # Section-specific prompts
+│   ├── state.py                # Workflow state definitions
+│   └── rag_integration.py      # RAG system integration
+├── models/                     # SQLAlchemy models
+├── api/                        # API endpoints
+├── schemas/                    # Pydantic schemas
+├── utils/                      # Utilities (logger, etc.)
+├── config.py                   # Configuration
+├── app.py                      # Flask application
+└── requirements.txt            # Dependencies
+```
+
 ## Database
-SQLite database will be created automatically as `tp_policy.db` in the project root.
+SQLite database is located at `backend/data/tp_policy.db` and will be created automatically on first run.
+
+## RAG System
+The RAG system uses:
+- **Knowledge Base**: 481 text chunks from 9 regulatory documents in `backend/data/kb_text_chunks/`
+- **Vector Store**: ChromaDB persistent storage in `backend/data/chroma_db/`
+- **Raw Documents**: Original PDFs in `backend/data/kb_raw/`
+
+To prepare the knowledge base:
+```bash
+cd backend/rag
+python download_and_prepare_kb.py
+```
 
 ## Next Steps
 - [ ] Implement LangGraph workflow for policy generation
