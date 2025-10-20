@@ -31,12 +31,13 @@ class BaseSectionNode(ABC):
         """Format transactions for template."""
         formatted = []
         for i, txn in enumerate(transactions, 1):
+            amount_str = f"{txn.amount:,.2f}" if txn.amount else "Not specified"
             formatted.append(f"""
 Transaction {i}:
 - Type: {txn.transaction_type}
 - Description: {txn.description}
 - Related Party: {txn.related_party_name} ({txn.related_party_jurisdiction})
-- Amount: {txn.currency} {txn.amount:,.2f if txn.amount else 'Not specified'}
+- Amount: {txn.currency} {amount_str}
 - Functions: {', '.join(txn.functions or [])}
 - Assets: {', '.join(txn.assets or [])}
 - Risks: {', '.join(txn.risks or [])}
